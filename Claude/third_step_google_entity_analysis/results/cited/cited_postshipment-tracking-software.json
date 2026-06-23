@@ -1,0 +1,1171 @@
+{
+  "file": "cited_postshipment-tracking-software.txt",
+  "word_count": 1749,
+  "entity_count": 191,
+  "entities": [
+    {
+      "name": "Shipment Tracking Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.114129,
+      "mentions": 1
+    },
+    {
+      "name": "ensuring on-time and accurate deliveries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.092032,
+      "mentions": 1
+    },
+    {
+      "name": "With shipment tracking software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.04691,
+      "mentions": 1
+    },
+    {
+      "name": "Without visibility",
+      "type": "OTHER",
+      "salience": 0.036673,
+      "mentions": 1
+    },
+    {
+      "name": "With automated customer notifications and a user-friendly interface",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.030812,
+      "mentions": 1
+    },
+    {
+      "name": "Where's my parcel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029048,
+      "mentions": 1
+    },
+    {
+      "name": "ensuring timely updates and proactive management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.027669,
+      "mentions": 1
+    },
+    {
+      "name": "of 2024",
+      "type": "OTHER",
+      "salience": 0.021957,
+      "mentions": 1
+    },
+    {
+      "name": "and enhance customer experience.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021382,
+      "mentions": 1
+    },
+    {
+      "name": "and pricing options.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020604,
+      "mentions": 1
+    },
+    {
+      "name": "FarEye streamlines shipment tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019955,
+      "mentions": 1
+    },
+    {
+      "name": "and warehouses real-time transportation tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019212,
+      "mentions": 1
+    },
+    {
+      "name": "keeping businesses and customers informed without manual intervention",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018936,
+      "mentions": 1
+    },
+    {
+      "name": "enhancing operational efficiency and customer satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01702,
+      "mentions": 1
+    },
+    {
+      "name": "tracks packages",
+      "type": "OTHER",
+      "salience": 0.01677,
+      "mentions": 1
+    },
+    {
+      "name": "integrating seamlessly with multiple carriers.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01527,
+      "mentions": 1
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "salience": 0.01522,
+      "mentions": 1
+    },
+    {
+      "name": "The platform enables tracking of shipments across ocean and air freight",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013637,
+      "mentions": 1
+    },
+    {
+      "name": "FarEye",
+      "type": "OTHER",
+      "salience": 0.013401,
+      "mentions": 1
+    },
+    {
+      "name": "with the",
+      "type": "OTHER",
+      "salience": 0.013325,
+      "mentions": 1
+    },
+    {
+      "name": "satisfaction.",
+      "type": "OTHER",
+      "salience": 0.01243,
+      "mentions": 1
+    },
+    {
+      "name": "with a custom",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011474,
+      "mentions": 1
+    },
+    {
+      "name": "Discover the leading parcel tracking solutions of 2024 that empower businesses with real-time insights",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01105,
+      "mentions": 1
+    },
+    {
+      "name": "TrackingMore",
+      "type": "OTHER",
+      "salience": 0.010953,
+      "mentions": 1
+    },
+    {
+      "name": "TrackingMore",
+      "type": "OTHER",
+      "salience": 0.010891,
+      "mentions": 1
+    },
+    {
+      "name": "TrackingMore",
+      "type": "OTHER",
+      "salience": 0.010771,
+      "mentions": 1
+    },
+    {
+      "name": "The platform enhances branded tracking communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010245,
+      "mentions": 1
+    },
+    {
+      "name": "Shipup",
+      "type": "OTHER",
+      "salience": 0.010102,
+      "mentions": 1
+    },
+    {
+      "name": "resolve issues swiftly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009693,
+      "mentions": 1
+    },
+    {
+      "name": "Shipwell",
+      "type": "PERSON",
+      "salience": 0.009146,
+      "mentions": 1
+    },
+    {
+      "name": "With configurable tracking pages and alerts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009139,
+      "mentions": 1
+    },
+    {
+      "name": "With automated notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008989,
+      "mentions": 1
+    },
+    {
+      "name": "This list of the top 14 shipment tracking software tools for 2024 breaks down the key differences",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008564,
+      "mentions": 1
+    },
+    {
+      "name": "Watch",
+      "type": "OTHER",
+      "salience": 0.007597,
+      "mentions": 1
+    },
+    {
+      "name": "question by offering automated communication and alerts.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007437,
+      "mentions": 1
+    },
+    {
+      "name": "and customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00668,
+      "mentions": 1
+    },
+    {
+      "name": "June 23",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006651,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing ranges from",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006442,
+      "mentions": 1
+    },
+    {
+      "name": "With branded tracking pages and e-commerce platform integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00644,
+      "mentions": 1
+    },
+    {
+      "name": "and minimizing disruptions.",
+      "type": "OTHER",
+      "salience": 0.006166,
+      "mentions": 1
+    },
+    {
+      "name": "enabling quick resolutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006166,
+      "mentions": 1
+    },
+    {
+      "name": "minimize disruptions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005908,
+      "mentions": 1
+    },
+    {
+      "name": "manage returns",
+      "type": "OTHER",
+      "salience": 0.005673,
+      "mentions": 1
+    },
+    {
+      "name": "logistics teams can mitigate risks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00557,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing starts at",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005517,
+      "mentions": 1
+    },
+    {
+      "name": "e-commerce businesses",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00538,
+      "mentions": 1
+    },
+    {
+      "name": "It integrates with various platforms and carriers worldwide",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005305,
+      "mentions": 1
+    },
+    {
+      "name": "and feedback integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005298,
+      "mentions": 1
+    },
+    {
+      "name": "It reduces order inquiries and manages returns efficiently",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005006,
+      "mentions": 1
+    },
+    {
+      "name": "Integration",
+      "type": "OTHER",
+      "salience": 0.004991,
+      "mentions": 1
+    },
+    {
+      "name": "ParcelLab",
+      "type": "OTHER",
+      "salience": 0.004889,
+      "mentions": 1
+    },
+    {
+      "name": "It centralizes shipment tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004371,
+      "mentions": 1
+    },
+    {
+      "name": "and enterprise brands.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004224,
+      "mentions": 1
+    },
+    {
+      "name": "and route planning.",
+      "type": "OTHER",
+      "salience": 0.004224,
+      "mentions": 1
+    },
+    {
+      "name": "address delays",
+      "type": "OTHER",
+      "salience": 0.004186,
+      "mentions": 1
+    },
+    {
+      "name": "transparency",
+      "type": "OTHER",
+      "salience": 0.004041,
+      "mentions": 1
+    },
+    {
+      "name": "e-commerce brands",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003991,
+      "mentions": 1
+    },
+    {
+      "name": "retailers",
+      "type": "OTHER",
+      "salience": 0.003991,
+      "mentions": 1
+    },
+    {
+      "name": "branded tracking pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003927,
+      "mentions": 1
+    },
+    {
+      "name": "With FarEye",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003851,
+      "mentions": 1
+    },
+    {
+      "name": "Parcel Perform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003734,
+      "mentions": 1
+    },
+    {
+      "name": "logistics providers",
+      "type": "OTHER",
+      "salience": 0.003715,
+      "mentions": 1
+    },
+    {
+      "name": "Integration capabilities with your existing systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003613,
+      "mentions": 1
+    },
+    {
+      "name": "enhancing communication and satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003562,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.003527,
+      "mentions": 2
+    },
+    {
+      "name": "communication.",
+      "type": "OTHER",
+      "salience": 0.003414,
+      "mentions": 1
+    },
+    {
+      "name": "SendCloud",
+      "type": "OTHER",
+      "salience": 0.003268,
+      "mentions": 1
+    },
+    {
+      "name": "reducing",
+      "type": "OTHER",
+      "salience": 0.003196,
+      "mentions": 1
+    },
+    {
+      "name": "optimizing customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003046,
+      "mentions": 1
+    },
+    {
+      "name": "and brands.",
+      "type": "OTHER",
+      "salience": 0.002753,
+      "mentions": 1
+    },
+    {
+      "name": "offering real-time shipment updates and notifications.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002409,
+      "mentions": 1
+    },
+    {
+      "name": "Where Is My Order",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002311,
+      "mentions": 1
+    },
+    {
+      "name": "Beacon",
+      "type": "OTHER",
+      "salience": 0.002263,
+      "mentions": 1
+    },
+    {
+      "name": "Beacon offers retailers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002235,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip:",
+      "type": "OTHER",
+      "salience": 0.002111,
+      "mentions": 1
+    },
+    {
+      "name": "monitors statuses",
+      "type": "OTHER",
+      "salience": 0.002036,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.001988,
+      "mentions": 1
+    },
+    {
+      "name": "Transform your delivery experience today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001971,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment",
+      "type": "OTHER",
+      "salience": 0.001864,
+      "mentions": 1
+    },
+    {
+      "name": "WeSupply Labs",
+      "type": "OTHER",
+      "salience": 0.001839,
+      "mentions": 1
+    },
+    {
+      "name": "Convey",
+      "type": "OTHER",
+      "salience": 0.001793,
+      "mentions": 1
+    },
+    {
+      "name": "ClickPost:",
+      "type": "OTHER",
+      "salience": 0.001792,
+      "mentions": 1
+    },
+    {
+      "name": "ClickPost helps online businesses",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001778,
+      "mentions": 1
+    },
+    {
+      "name": "empowering",
+      "type": "OTHER",
+      "salience": 0.001776,
+      "mentions": 1
+    },
+    {
+      "name": "Detrack",
+      "type": "OTHER",
+      "salience": 0.001716,
+      "mentions": 1
+    },
+    {
+      "name": "calls.",
+      "type": "OTHER",
+      "salience": 0.001671,
+      "mentions": 1
+    },
+    {
+      "name": "potential delays",
+      "type": "OTHER",
+      "salience": 0.001671,
+      "mentions": 1
+    },
+    {
+      "name": "and product recommendations",
+      "type": "OTHER",
+      "salience": 0.001659,
+      "mentions": 1
+    },
+    {
+      "name": "FarEye's software offers intelligent parcel shipment information",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001564,
+      "mentions": 1
+    },
+    {
+      "name": "marketplaces",
+      "type": "OTHER",
+      "salience": 0.001466,
+      "mentions": 1
+    },
+    {
+      "name": "PitneyTrackTM Inbound",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001396,
+      "mentions": 1
+    },
+    {
+      "name": "formerly SendSuite",
+      "type": "OTHER",
+      "salience": 0.001396,
+      "mentions": 1
+    },
+    {
+      "name": "PitneyTrackTM Inbound",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00139,
+      "mentions": 1
+    },
+    {
+      "name": "formerly SendSuite",
+      "type": "OTHER",
+      "salience": 0.00139,
+      "mentions": 1
+    },
+    {
+      "name": "Komal Puri",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001362,
+      "mentions": 1
+    },
+    {
+      "name": "WISMO",
+      "type": "OTHER",
+      "salience": 0.001328,
+      "mentions": 1
+    },
+    {
+      "name": "promo codes",
+      "type": "OTHER",
+      "salience": 0.001318,
+      "mentions": 1
+    },
+    {
+      "name": "keeping customers engaged with personalized updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001318,
+      "mentions": 1
+    },
+    {
+      "name": "showcasing product recommendations",
+      "type": "OTHER",
+      "salience": 0.001304,
+      "mentions": 1
+    },
+    {
+      "name": "customers value transparency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001277,
+      "mentions": 1
+    },
+    {
+      "name": "emissions reporting",
+      "type": "OTHER",
+      "salience": 0.001269,
+      "mentions": 1
+    },
+    {
+      "name": "Its post-purchase software offers insights into shipment performance",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001266,
+      "mentions": 1
+    },
+    {
+      "name": "Pro",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00124,
+      "mentions": 1
+    },
+    {
+      "name": "route optimization",
+      "type": "OTHER",
+      "salience": 0.001184,
+      "mentions": 1
+    },
+    {
+      "name": "freight auditing",
+      "type": "OTHER",
+      "salience": 0.001184,
+      "mentions": 1
+    },
+    {
+      "name": "and reporting.",
+      "type": "OTHER",
+      "salience": 0.001184,
+      "mentions": 1
+    },
+    {
+      "name": "Assess whether issues stem from lack of visibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001178,
+      "mentions": 1
+    },
+    {
+      "name": "seamlessly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001176,
+      "mentions": 1
+    },
+    {
+      "name": "considering",
+      "type": "OTHER",
+      "salience": 0.001174,
+      "mentions": 1
+    },
+    {
+      "name": "Whenever",
+      "type": "PERSON",
+      "salience": 0.00117,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment",
+      "type": "OTHER",
+      "salience": 0.001161,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment",
+      "type": "OTHER",
+      "salience": 0.001156,
+      "mentions": 1
+    },
+    {
+      "name": "offering valuable insights and thought leadership.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001143,
+      "mentions": 1
+    },
+    {
+      "name": "SMBs",
+      "type": "OTHER",
+      "salience": 0.001081,
+      "mentions": 1
+    },
+    {
+      "name": "wholesalers",
+      "type": "OTHER",
+      "salience": 0.001021,
+      "mentions": 1
+    },
+    {
+      "name": "including retailers and 3PL couriers.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000982,
+      "mentions": 1
+    },
+    {
+      "name": "boosting brand touchpoints and conversion rates.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000953,
+      "mentions": 1
+    },
+    {
+      "name": "and driving revenue.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000915,
+      "mentions": 1
+    },
+    {
+      "name": "AVP Marketing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000902,
+      "mentions": 1
+    },
+    {
+      "name": "Accuracy and real-time tracking updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000865,
+      "mentions": 1
+    },
+    {
+      "name": "Detrack improves on-time order fulfillment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "When assessing shipment tracking software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000726,
+      "mentions": 1
+    },
+    {
+      "name": "and DHL",
+      "type": "OTHER",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "Test before committing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000672,
+      "mentions": 1
+    },
+    {
+      "name": "Related Content",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00067,
+      "mentions": 1
+    },
+    {
+      "name": "she",
+      "type": "ORGANIZATION",
+      "salience": 0.00066,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000593,
+      "mentions": 1
+    },
+    {
+      "name": "Who can benefit from shipment tracking software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000591,
+      "mentions": 1
+    },
+    {
+      "name": "Frequency of delivery notifications and alerts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "proof of delivery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000438,
+      "mentions": 1
+    },
+    {
+      "name": "Furthermore",
+      "type": "OTHER",
+      "salience": 0.000422,
+      "mentions": 1
+    },
+    {
+      "name": "consider these essential criteria:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "Quality and availability of customer support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000413,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 23, 2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$199",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$499",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$199",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "€399",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$11",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$74",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0.05",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$40",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$29",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "199",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "499",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "199",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "399",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "74",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 74,
+    "OTHER": 57,
+    "PERSON": 2,
+    "ORGANIZATION": 3,
+    "NUMBER": 40,
+    "DATE": 4,
+    "PRICE": 12
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.7033759999999997,
+    "OTHER": 0.28206500000000007,
+    "PERSON": 0.010315999999999999,
+    "ORGANIZATION": 0.002108,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

@@ -1,0 +1,877 @@
+{
+  "file": "non_cited_postwww.returnlogic.com.txt",
+  "word_count": 1340,
+  "entity_count": 142,
+  "entities": [
+    {
+      "name": "Returns Management",
+      "type": "OTHER",
+      "salience": 0.193168,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management Resources",
+      "type": "OTHER",
+      "salience": 0.068229,
+      "mentions": 1
+    },
+    {
+      "name": "Return Policy Template",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.062278,
+      "mentions": 1
+    },
+    {
+      "name": "The ReturnLogic Difference",
+      "type": "ORGANIZATION",
+      "salience": 0.041098,
+      "mentions": 1
+    },
+    {
+      "name": "TRUSTED BY LEADING BRANDS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025986,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.02524,
+      "mentions": 1
+    },
+    {
+      "name": "Simplified",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023889,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management",
+      "type": "OTHER",
+      "salience": 0.022939,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management Resources",
+      "type": "OTHER",
+      "salience": 0.01971,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019363,
+      "mentions": 1
+    },
+    {
+      "name": "Return Policy Template",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019155,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty Returns Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018529,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic merchants experienced",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018191,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management Resources",
+      "type": "OTHER",
+      "salience": 0.017442,
+      "mentions": 1
+    },
+    {
+      "name": "Return Policy Template",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016699,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Success Story",
+      "type": "OTHER",
+      "salience": 0.016311,
+      "mentions": 1
+    },
+    {
+      "name": "helps deliver exceptional pre and post-purchase shopper experiences",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015651,
+      "mentions": 1
+    },
+    {
+      "name": "Our Returns Platform simplifies returns complexity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015651,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced Analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014387,
+      "mentions": 1
+    },
+    {
+      "name": "Automation",
+      "type": "OTHER",
+      "salience": 0.014099,
+      "mentions": 4
+    },
+    {
+      "name": "Returns Management",
+      "type": "OTHER",
+      "salience": 0.013822,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management Resources",
+      "type": "OTHER",
+      "salience": 0.012858,
+      "mentions": 1
+    },
+    {
+      "name": "Return Policy Template",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012588,
+      "mentions": 1
+    },
+    {
+      "name": "cut",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01239,
+      "mentions": 1
+    },
+    {
+      "name": "Streamline returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01239,
+      "mentions": 1
+    },
+    {
+      "name": "warehouse",
+      "type": "OTHER",
+      "salience": 0.011294,
+      "mentions": 4
+    },
+    {
+      "name": "Exchange Incentives",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010923,
+      "mentions": 1
+    },
+    {
+      "name": "Incentivize",
+      "type": "PERSON",
+      "salience": 0.01071,
+      "mentions": 1
+    },
+    {
+      "name": "View Packages and Pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010455,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations",
+      "type": "OTHER",
+      "salience": 0.010143,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management",
+      "type": "OTHER",
+      "salience": 0.008463,
+      "mentions": 1
+    },
+    {
+      "name": "Gift and Third-party",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007122,
+      "mentions": 1
+    },
+    {
+      "name": "Direct",
+      "type": "OTHER",
+      "salience": 0.007122,
+      "mentions": 1
+    },
+    {
+      "name": "The ReturnLogic Difference",
+      "type": "ORGANIZATION",
+      "salience": 0.006714,
+      "mentions": 1
+    },
+    {
+      "name": "including Holiday specific policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006453,
+      "mentions": 1
+    },
+    {
+      "name": "Saved 80",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00604,
+      "mentions": 1
+    },
+    {
+      "name": "Impact of ReturnLogic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005863,
+      "mentions": 1
+    },
+    {
+      "name": "See All Resources",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005171,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic merchants experienced",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004869,
+      "mentions": 1
+    },
+    {
+      "name": "Cost of Returns Calculator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004727,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic merchants experienced",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004376,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.004319,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004313,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty Returns Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00428,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Success Story",
+      "type": "OTHER",
+      "salience": 0.004171,
+      "mentions": 1
+    },
+    {
+      "name": "The ReturnLogic Difference",
+      "type": "ORGANIZATION",
+      "salience": 0.004158,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003999,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty Returns Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003947,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Success Story",
+      "type": "OTHER",
+      "salience": 0.003781,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic merchants experienced",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003153,
+      "mentions": 1
+    },
+    {
+      "name": "TRUSTED BY LEADING BRANDS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002826,
+      "mentions": 1
+    },
+    {
+      "name": "Simplified",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002803,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002755,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty Returns Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00274,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.002692,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Success Story",
+      "type": "OTHER",
+      "salience": 0.00269,
+      "mentions": 1
+    },
+    {
+      "name": "helps deliver exceptional pre and post-purchase shopper experiences",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002616,
+      "mentions": 1
+    },
+    {
+      "name": "Our Returns Platform simplifies returns complexity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002616,
+      "mentions": 1
+    },
+    {
+      "name": "The ReturnLogic Difference",
+      "type": "ORGANIZATION",
+      "salience": 0.002572,
+      "mentions": 1
+    },
+    {
+      "name": "Exchange Incentives",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002565,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced Analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002562,
+      "mentions": 1
+    },
+    {
+      "name": "Incentivize",
+      "type": "PERSON",
+      "salience": 0.002555,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations",
+      "type": "OTHER",
+      "salience": 0.002527,
+      "mentions": 1
+    },
+    {
+      "name": "Exchange Incentives",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002359,
+      "mentions": 1
+    },
+    {
+      "name": "Incentivize",
+      "type": "PERSON",
+      "salience": 0.002344,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations",
+      "type": "OTHER",
+      "salience": 0.002301,
+      "mentions": 1
+    },
+    {
+      "name": "Streamline returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00171,
+      "mentions": 1
+    },
+    {
+      "name": "cut",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00171,
+      "mentions": 1
+    },
+    {
+      "name": "TRUSTED BY LEADING BRANDS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001695,
+      "mentions": 1
+    },
+    {
+      "name": "Simplified",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001688,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.001669,
+      "mentions": 1
+    },
+    {
+      "name": "View Packages and Pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001659,
+      "mentions": 1
+    },
+    {
+      "name": "Exchange Incentives",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001644,
+      "mentions": 1
+    },
+    {
+      "name": "Incentivize",
+      "type": "PERSON",
+      "salience": 0.001639,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations",
+      "type": "OTHER",
+      "salience": 0.001626,
+      "mentions": 1
+    },
+    {
+      "name": "Our Returns Platform simplifies returns complexity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001625,
+      "mentions": 1
+    },
+    {
+      "name": "helps deliver exceptional pre and post-purchase shopper experiences",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001625,
+      "mentions": 1
+    },
+    {
+      "name": "Direct",
+      "type": "OTHER",
+      "salience": 0.001615,
+      "mentions": 1
+    },
+    {
+      "name": "Gift and Third-party",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001615,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced Analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001606,
+      "mentions": 1
+    },
+    {
+      "name": "including Holiday specific policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001585,
+      "mentions": 1
+    },
+    {
+      "name": "Saved 80",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001563,
+      "mentions": 1
+    },
+    {
+      "name": "Impact of ReturnLogic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001552,
+      "mentions": 1
+    },
+    {
+      "name": "See All Resources",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0015,
+      "mentions": 1
+    },
+    {
+      "name": "Direct",
+      "type": "OTHER",
+      "salience": 0.001493,
+      "mentions": 1
+    },
+    {
+      "name": "Gift and Third-party",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001493,
+      "mentions": 1
+    },
+    {
+      "name": "Cost of Returns Calculator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001458,
+      "mentions": 1
+    },
+    {
+      "name": "including Holiday specific policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001447,
+      "mentions": 1
+    },
+    {
+      "name": "Saved 80",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001413,
+      "mentions": 1
+    },
+    {
+      "name": "Impact of ReturnLogic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001397,
+      "mentions": 1
+    },
+    {
+      "name": "See All Resources",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001325,
+      "mentions": 1
+    },
+    {
+      "name": "Cost of Returns Calculator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001269,
+      "mentions": 1
+    },
+    {
+      "name": "cut",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001041,
+      "mentions": 1
+    },
+    {
+      "name": "Streamline returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001041,
+      "mentions": 1
+    },
+    {
+      "name": "TRUSTED BY LEADING BRANDS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001036,
+      "mentions": 1
+    },
+    {
+      "name": "Simplified",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001033,
+      "mentions": 1
+    },
+    {
+      "name": "Direct",
+      "type": "OTHER",
+      "salience": 0.001033,
+      "mentions": 1
+    },
+    {
+      "name": "Gift and Third-party",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001033,
+      "mentions": 1
+    },
+    {
+      "name": "View Packages and Pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001024,
+      "mentions": 1
+    },
+    {
+      "name": "including Holiday specific policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001019,
+      "mentions": 1
+    },
+    {
+      "name": "Saved 80",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001009,
+      "mentions": 1
+    },
+    {
+      "name": "helps deliver exceptional pre and post-purchase shopper experiences",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001007,
+      "mentions": 1
+    },
+    {
+      "name": "Our Returns Platform simplifies returns complexity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001007,
+      "mentions": 1
+    },
+    {
+      "name": "Impact of ReturnLogic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001003,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced Analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000998,
+      "mentions": 1
+    },
+    {
+      "name": "See All Resources",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000979,
+      "mentions": 1
+    },
+    {
+      "name": "Cost of Returns Calculator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000958,
+      "mentions": 1
+    },
+    {
+      "name": "cut",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "Streamline returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "View Packages and Pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000633,
+      "mentions": 1
+    },
+    {
+      "name": "$5.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 32,
+    "CONSUMER_GOOD": 76,
+    "ORGANIZATION": 4,
+    "PERSON": 4,
+    "PRICE": 4,
+    "NUMBER": 24,
+    "DATE": 4
+  },
+  "type_salience": {
+    "OTHER": 0.470757,
+    "CONSUMER_GOOD": 0.44535999999999987,
+    "ORGANIZATION": 0.054542,
+    "PERSON": 0.017248000000000003,
+    "PRICE": 0.0,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

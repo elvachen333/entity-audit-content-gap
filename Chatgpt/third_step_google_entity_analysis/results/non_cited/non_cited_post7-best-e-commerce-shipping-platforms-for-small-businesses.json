@@ -1,0 +1,999 @@
+{
+  "file": "non_cited_post7-best-e-commerce-shipping-platforms-for-small-businesses.txt",
+  "word_count": 1236,
+  "entity_count": 162,
+  "entities": [
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.096907,
+      "mentions": 1
+    },
+    {
+      "name": "ShippingEasy",
+      "type": "OTHER",
+      "salience": 0.096907,
+      "mentions": 5
+    },
+    {
+      "name": "Shipping often becomes the most time-sensitive and cost-sensitive function.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.078078,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo",
+      "type": "PERSON",
+      "salience": 0.064789,
+      "mentions": 2
+    },
+    {
+      "name": "ShipStation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.042584,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation caters to sellers managing multiple channels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.04168,
+      "mentions": 1
+    },
+    {
+      "name": "automation",
+      "type": "OTHER",
+      "salience": 0.03151,
+      "mentions": 3
+    },
+    {
+      "name": "order processing",
+      "type": "OTHER",
+      "salience": 0.02176,
+      "mentions": 1
+    },
+    {
+      "name": "Veeqo",
+      "type": "OTHER",
+      "salience": 0.01971,
+      "mentions": 5
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.01971,
+      "mentions": 1
+    },
+    {
+      "name": "fulfillment",
+      "type": "OTHER",
+      "salience": 0.016874,
+      "mentions": 1
+    },
+    {
+      "name": "Stamps.com",
+      "type": "OTHER",
+      "salience": 0.015664,
+      "mentions": 3
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.015325,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.014696,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.014219,
+      "mentions": 1
+    },
+    {
+      "name": "Previous",
+      "type": "OTHER",
+      "salience": 0.013747,
+      "mentions": 1
+    },
+    {
+      "name": "The platform also offers pay-as-you-go pricing with no subscription lock-ins",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013539,
+      "mentions": 1
+    },
+    {
+      "name": "including USPS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01346,
+      "mentions": 1
+    },
+    {
+      "name": "Simple",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013155,
+      "mentions": 1
+    },
+    {
+      "name": "It consolidates orders",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012823,
+      "mentions": 1
+    },
+    {
+      "name": "discounted rates",
+      "type": "OTHER",
+      "salience": 0.012447,
+      "mentions": 1
+    },
+    {
+      "name": "from 10 to 500 monthly orders and want automation without the complexity of enterprise tools.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009045,
+      "mentions": 1
+    },
+    {
+      "name": "plug-and-play shipping solution.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008709,
+      "mentions": 1
+    },
+    {
+      "name": "goes beyond shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008349,
+      "mentions": 1
+    },
+    {
+      "name": "Each offers multi-carrier integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008275,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.008244,
+      "mentions": 1
+    },
+    {
+      "name": "shipping platforms",
+      "type": "OTHER",
+      "salience": 0.007964,
+      "mentions": 1
+    },
+    {
+      "name": "and customer service.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007707,
+      "mentions": 1
+    },
+    {
+      "name": "product sourcing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007707,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.007041,
+      "mentions": 1
+    },
+    {
+      "name": "Amazon",
+      "type": "PERSON",
+      "salience": 0.006717,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006717,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005986,
+      "mentions": 1
+    },
+    {
+      "name": "then transitioning to ShipStation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005297,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005207,
+      "mentions": 1
+    },
+    {
+      "name": "cut costs",
+      "type": "OTHER",
+      "salience": 0.004962,
+      "mentions": 1
+    },
+    {
+      "name": "eBay",
+      "type": "ORGANIZATION",
+      "salience": 0.004857,
+      "mentions": 3
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004759,
+      "mentions": 1
+    },
+    {
+      "name": "packing slips",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004759,
+      "mentions": 1
+    },
+    {
+      "name": "internationally",
+      "type": "OTHER",
+      "salience": 0.004484,
+      "mentions": 1
+    },
+    {
+      "name": "and FedEx",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004046,
+      "mentions": 1
+    },
+    {
+      "name": "over 40 carriers worldwide",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004046,
+      "mentions": 1
+    },
+    {
+      "name": "DHL",
+      "type": "ORGANIZATION",
+      "salience": 0.004046,
+      "mentions": 1
+    },
+    {
+      "name": "internationally",
+      "type": "OTHER",
+      "salience": 0.004038,
+      "mentions": 1
+    },
+    {
+      "name": "and Walmart.",
+      "type": "PERSON",
+      "salience": 0.00386,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship simplifies customs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003751,
+      "mentions": 1
+    },
+    {
+      "name": "minimizing repetitive tasks.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003638,
+      "mentions": 1
+    },
+    {
+      "name": "destination",
+      "type": "OTHER",
+      "salience": 0.003638,
+      "mentions": 1
+    },
+    {
+      "name": "It offers shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003584,
+      "mentions": 1
+    },
+    {
+      "name": "WooCommerce",
+      "type": "OTHER",
+      "salience": 0.003331,
+      "mentions": 1
+    },
+    {
+      "name": "and BigCommerce without coding.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003331,
+      "mentions": 1
+    },
+    {
+      "name": "The platform includes drag-and-drop order management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003157,
+      "mentions": 1
+    },
+    {
+      "name": "With 20+ years of experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002973,
+      "mentions": 1
+    },
+    {
+      "name": "small business logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002946,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-Channel Shipping Powerhouse",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002852,
+      "mentions": 1
+    },
+    {
+      "name": "inventory",
+      "type": "OTHER",
+      "salience": 0.002848,
+      "mentions": 1
+    },
+    {
+      "name": "Etsy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002791,
+      "mentions": 1
+    },
+    {
+      "name": "intelligently.",
+      "type": "OTHER",
+      "salience": 0.002757,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "PERSON",
+      "salience": 0.002752,
+      "mentions": 1
+    },
+    {
+      "name": "Ordoro",
+      "type": "PERSON",
+      "salience": 0.002629,
+      "mentions": 2
+    },
+    {
+      "name": "delivery times",
+      "type": "OTHER",
+      "salience": 0.002606,
+      "mentions": 1
+    },
+    {
+      "name": "fulfillment times",
+      "type": "OTHER",
+      "salience": 0.002556,
+      "mentions": 1
+    },
+    {
+      "name": "it unites order management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002492,
+      "mentions": 1
+    },
+    {
+      "name": "all from your computer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002319,
+      "mentions": 1
+    },
+    {
+      "name": "and Amazon",
+      "type": "OTHER",
+      "salience": 0.002097,
+      "mentions": 1
+    },
+    {
+      "name": "marketing messages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002044,
+      "mentions": 1
+    },
+    {
+      "name": "Volume",
+      "type": "OTHER",
+      "salience": 0.001966,
+      "mentions": 1
+    },
+    {
+      "name": "e-commerce shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001927,
+      "mentions": 1
+    },
+    {
+      "name": "inventory tracking",
+      "type": "OTHER",
+      "salience": 0.001857,
+      "mentions": 1
+    },
+    {
+      "name": "over 220 countries through 250+ courier solutions.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001813,
+      "mentions": 1
+    },
+    {
+      "name": "Automation and multi-channel integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001742,
+      "mentions": 1
+    },
+    {
+      "name": "and fulfillment.",
+      "type": "OTHER",
+      "salience": 0.00169,
+      "mentions": 1
+    },
+    {
+      "name": "efficiency",
+      "type": "OTHER",
+      "salience": 0.001629,
+      "mentions": 1
+    },
+    {
+      "name": "Perfect",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001581,
+      "mentions": 1
+    },
+    {
+      "name": "Its customer loyalty tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001535,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping and inventory management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00152,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00151,
+      "mentions": 1
+    },
+    {
+      "name": "access discounted postage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001449,
+      "mentions": 1
+    },
+    {
+      "name": "Its integration with Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001436,
+      "mentions": 1
+    },
+    {
+      "name": "Amazon",
+      "type": "OTHER",
+      "salience": 0.001413,
+      "mentions": 1
+    },
+    {
+      "name": "and delivery updates.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001359,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.001322,
+      "mentions": 1
+    },
+    {
+      "name": "including email marketing and feedback requests",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001285,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001272,
+      "mentions": 1
+    },
+    {
+      "name": "duties",
+      "type": "OTHER",
+      "salience": 0.001238,
+      "mentions": 1
+    },
+    {
+      "name": "Reliable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001235,
+      "mentions": 1
+    },
+    {
+      "name": "Stamps.com gives you enterprise-level USPS access at small-business pricing.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0012,
+      "mentions": 1
+    },
+    {
+      "name": "weight",
+      "type": "OTHER",
+      "salience": 0.001175,
+      "mentions": 1
+    },
+    {
+      "name": "Unified Shipping and Inventory Solution",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00117,
+      "mentions": 1
+    },
+    {
+      "name": "Simple",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00106,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "PERSON",
+      "salience": 0.001048,
+      "mentions": 1
+    },
+    {
+      "name": "and schedule carrier pickups",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000963,
+      "mentions": 1
+    },
+    {
+      "name": "Benjamin Gordon",
+      "type": "PERSON",
+      "salience": 0.000944,
+      "mentions": 1
+    },
+    {
+      "name": "Benjamin Gordon is Managing Partner at BG Strategic Advisors and Cambridge Capital",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00094,
+      "mentions": 1
+    },
+    {
+      "name": "Benjamin Gordon",
+      "type": "PERSON",
+      "salience": 0.000926,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 0.000882,
+      "mentions": 1
+    },
+    {
+      "name": "Magento",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000871,
+      "mentions": 1
+    },
+    {
+      "name": "drop-shipping workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000862,
+      "mentions": 1
+    },
+    {
+      "name": "purchasing",
+      "type": "OTHER",
+      "salience": 0.000856,
+      "mentions": 1
+    },
+    {
+      "name": "picking optimization",
+      "type": "OTHER",
+      "salience": 0.000754,
+      "mentions": 1
+    },
+    {
+      "name": "and performance analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000754,
+      "mentions": 1
+    },
+    {
+      "name": "and customer email notifications.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000754,
+      "mentions": 1
+    },
+    {
+      "name": "batch processing",
+      "type": "OTHER",
+      "salience": 0.000754,
+      "mentions": 1
+    },
+    {
+      "name": "previously led strategy at Mercer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000743,
+      "mentions": 1
+    },
+    {
+      "name": "Facebook Youtube Medium Behance",
+      "type": "OTHER",
+      "salience": 0.000739,
+      "mentions": 1
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "salience": 0.000729,
+      "mentions": 1
+    },
+    {
+      "name": "Global shipping and duties handling",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00072,
+      "mentions": 1
+    },
+    {
+      "name": "Cambridge Capital",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000698,
+      "mentions": 1
+    },
+    {
+      "name": "Domestic shipping reliability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000596,
+      "mentions": 1
+    },
+    {
+      "name": "owned by Amazon",
+      "type": "OTHER",
+      "salience": 0.000558,
+      "mentions": 1
+    },
+    {
+      "name": "specializing",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "he founded 3PLex",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000537,
+      "mentions": 1
+    },
+    {
+      "name": "sold to Maersk",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000537,
+      "mentions": 1
+    },
+    {
+      "name": "conference",
+      "type": "OTHER",
+      "salience": 0.000537,
+      "mentions": 1
+    },
+    {
+      "name": "Harvard",
+      "type": "OTHER",
+      "salience": 0.000537,
+      "mentions": 1
+    },
+    {
+      "name": "Yale",
+      "type": "OTHER",
+      "salience": 0.000537,
+      "mentions": 1
+    },
+    {
+      "name": "2026-01-11T16:49:21-05:00November",
+      "type": "PERSON",
+      "salience": 0.000532,
+      "mentions": 1
+    },
+    {
+      "name": "Share This Story",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00053,
+      "mentions": 1
+    },
+    {
+      "name": "Twitter",
+      "type": "OTHER",
+      "salience": 0.000525,
+      "mentions": 1
+    },
+    {
+      "name": "Whatsapp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000518,
+      "mentions": 1
+    },
+    {
+      "name": "Tumblr",
+      "type": "ORGANIZATION",
+      "salience": 0.000513,
+      "mentions": 1
+    },
+    {
+      "name": "Pinterest",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000511,
+      "mentions": 1
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "salience": 0.000505,
+      "mentions": 1
+    },
+    {
+      "name": "Suite 200 West Palm Beach",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000505,
+      "mentions": 1
+    },
+    {
+      "name": "BA",
+      "type": "OTHER",
+      "salience": 0.000501,
+      "mentions": 1
+    },
+    {
+      "name": "MBA",
+      "type": "OTHER",
+      "salience": 0.000501,
+      "mentions": 1
+    },
+    {
+      "name": "returns automation",
+      "type": "OTHER",
+      "salience": 0.000495,
+      "mentions": 1
+    },
+    {
+      "name": "LinkedIn",
+      "type": "OTHER",
+      "salience": 0.000487,
+      "mentions": 1
+    },
+    {
+      "name": "Reddit",
+      "type": "OTHER",
+      "salience": 0.000485,
+      "mentions": 1
+    },
+    {
+      "name": "scalable, and affordable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000484,
+      "mentions": 1
+    },
+    {
+      "name": "Google+",
+      "type": "OTHER",
+      "salience": 0.000481,
+      "mentions": 1
+    },
+    {
+      "name": "transparency",
+      "type": "OTHER",
+      "salience": 0.000463,
+      "mentions": 1
+    },
+    {
+      "name": "and customer satisfaction.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000335,
+      "mentions": 1
+    },
+    {
+      "name": "T16:49:21-05:00November 2nd, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "525 South Flagler Drive Suite 200 West Palm Beach, Florida 33401",
+      "type": "ADDRESS",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "220",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "49",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "525",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "33401",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 63,
+    "CONSUMER_GOOD": 67,
+    "PERSON": 11,
+    "ORGANIZATION": 7,
+    "LOCATION": 1,
+    "DATE": 1,
+    "ADDRESS": 1,
+    "NUMBER": 27
+  },
+  "type_salience": {
+    "OTHER": 0.4544079999999999,
+    "CONSUMER_GOOD": 0.37675799999999976,
+    "PERSON": 0.08419700000000001,
+    "ORGANIZATION": 0.024701,
+    "LOCATION": 0.000505,
+    "DATE": 0.0,
+    "ADDRESS": 0.0,
+    "NUMBER": 0.0
+  }
+}

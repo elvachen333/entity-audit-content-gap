@@ -1,0 +1,526 @@
+{
+  "cited_metrics": {
+    "PHONE_NUMBER": {
+      "total_mentions": 1,
+      "density_per_1k": 0.0794,
+      "coverage_rate": 0.1429,
+      "avg_salience": 0.0
+    },
+    "WORK_OF_ART": {
+      "total_mentions": 2,
+      "density_per_1k": 0.1588,
+      "coverage_rate": 0.2857,
+      "avg_salience": 0.007451
+    },
+    "NUMBER": {
+      "total_mentions": 583,
+      "density_per_1k": 46.2809,
+      "coverage_rate": 0.8571,
+      "avg_salience": 0.0
+    },
+    "DATE": {
+      "total_mentions": 73,
+      "density_per_1k": 5.795,
+      "coverage_rate": 0.8571,
+      "avg_salience": 0.0
+    },
+    "CONSUMER_GOOD": {
+      "total_mentions": 344,
+      "density_per_1k": 27.3081,
+      "coverage_rate": 0.8571,
+      "avg_salience": 0.231872
+    },
+    "PRICE": {
+      "total_mentions": 120,
+      "density_per_1k": 9.5261,
+      "coverage_rate": 0.7143,
+      "avg_salience": 0.0
+    },
+    "ORGANIZATION": {
+      "total_mentions": 57,
+      "density_per_1k": 4.5249,
+      "coverage_rate": 0.8571,
+      "avg_salience": 0.178711
+    },
+    "PERSON": {
+      "total_mentions": 68,
+      "density_per_1k": 5.3981,
+      "coverage_rate": 0.8571,
+      "avg_salience": 0.054733
+    },
+    "LOCATION": {
+      "total_mentions": 37,
+      "density_per_1k": 2.9372,
+      "coverage_rate": 0.7143,
+      "avg_salience": 0.02887
+    },
+    "ADDRESS": {
+      "total_mentions": 1,
+      "density_per_1k": 0.0794,
+      "coverage_rate": 0.1429,
+      "avg_salience": 0.0
+    },
+    "OTHER": {
+      "total_mentions": 474,
+      "density_per_1k": 37.628,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.486147
+    }
+  },
+  "non_cited_metrics": {
+    "PHONE_NUMBER": {
+      "total_mentions": 4,
+      "density_per_1k": 0.3606,
+      "coverage_rate": 0.1333,
+      "avg_salience": 0.0
+    },
+    "WORK_OF_ART": {
+      "total_mentions": 129,
+      "density_per_1k": 11.6279,
+      "coverage_rate": 0.7333,
+      "avg_salience": 0.004323
+    },
+    "NUMBER": {
+      "total_mentions": 3370,
+      "density_per_1k": 303.7678,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.0
+    },
+    "DATE": {
+      "total_mentions": 249,
+      "density_per_1k": 22.4446,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.0
+    },
+    "CONSUMER_GOOD": {
+      "total_mentions": 755,
+      "density_per_1k": 68.0548,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.047604
+    },
+    "PRICE": {
+      "total_mentions": 263,
+      "density_per_1k": 23.7065,
+      "coverage_rate": 0.8667,
+      "avg_salience": 0.0
+    },
+    "ORGANIZATION": {
+      "total_mentions": 799,
+      "density_per_1k": 72.0209,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.121979
+    },
+    "EVENT": {
+      "total_mentions": 26,
+      "density_per_1k": 2.3436,
+      "coverage_rate": 0.5333,
+      "avg_salience": 0.001911
+    },
+    "PERSON": {
+      "total_mentions": 1347,
+      "density_per_1k": 121.417,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.076633
+    },
+    "LOCATION": {
+      "total_mentions": 2177,
+      "density_per_1k": 196.2322,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.099815
+    },
+    "ADDRESS": {
+      "total_mentions": 3,
+      "density_per_1k": 0.2704,
+      "coverage_rate": 0.1333,
+      "avg_salience": 0.0
+    },
+    "OTHER": {
+      "total_mentions": 5924,
+      "density_per_1k": 533.9823,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.517796
+    }
+  },
+  "lift": {
+    "PHONE_NUMBER": {
+      "density_lift": 0.2202,
+      "coverage_lift": 1.072,
+      "cited_density": 0.0794,
+      "non_cited_density": 0.3606,
+      "cited_coverage": 0.1429,
+      "non_cited_coverage": 0.1333
+    },
+    "WORK_OF_ART": {
+      "density_lift": 0.0137,
+      "coverage_lift": 0.3896,
+      "cited_density": 0.1588,
+      "non_cited_density": 11.6279,
+      "cited_coverage": 0.2857,
+      "non_cited_coverage": 0.7333
+    },
+    "NUMBER": {
+      "density_lift": 0.1524,
+      "coverage_lift": 0.8571,
+      "cited_density": 46.2809,
+      "non_cited_density": 303.7678,
+      "cited_coverage": 0.8571,
+      "non_cited_coverage": 1.0
+    },
+    "DATE": {
+      "density_lift": 0.2582,
+      "coverage_lift": 0.8571,
+      "cited_density": 5.795,
+      "non_cited_density": 22.4446,
+      "cited_coverage": 0.8571,
+      "non_cited_coverage": 1.0
+    },
+    "CONSUMER_GOOD": {
+      "density_lift": 0.4013,
+      "coverage_lift": 0.8571,
+      "cited_density": 27.3081,
+      "non_cited_density": 68.0548,
+      "cited_coverage": 0.8571,
+      "non_cited_coverage": 1.0
+    },
+    "PRICE": {
+      "density_lift": 0.4018,
+      "coverage_lift": 0.8242,
+      "cited_density": 9.5261,
+      "non_cited_density": 23.7065,
+      "cited_coverage": 0.7143,
+      "non_cited_coverage": 0.8667
+    },
+    "ORGANIZATION": {
+      "density_lift": 0.0628,
+      "coverage_lift": 0.8571,
+      "cited_density": 4.5249,
+      "non_cited_density": 72.0209,
+      "cited_coverage": 0.8571,
+      "non_cited_coverage": 1.0
+    },
+    "EVENT": {
+      "density_lift": 0.0,
+      "coverage_lift": 0.0,
+      "cited_density": 0,
+      "non_cited_density": 2.3436,
+      "cited_coverage": 0,
+      "non_cited_coverage": 0.5333
+    },
+    "PERSON": {
+      "density_lift": 0.0445,
+      "coverage_lift": 0.8571,
+      "cited_density": 5.3981,
+      "non_cited_density": 121.417,
+      "cited_coverage": 0.8571,
+      "non_cited_coverage": 1.0
+    },
+    "LOCATION": {
+      "density_lift": 0.015,
+      "coverage_lift": 0.7143,
+      "cited_density": 2.9372,
+      "non_cited_density": 196.2322,
+      "cited_coverage": 0.7143,
+      "non_cited_coverage": 1.0
+    },
+    "ADDRESS": {
+      "density_lift": 0.2936,
+      "coverage_lift": 1.072,
+      "cited_density": 0.0794,
+      "non_cited_density": 0.2704,
+      "cited_coverage": 0.1429,
+      "non_cited_coverage": 0.1333
+    },
+    "OTHER": {
+      "density_lift": 0.0705,
+      "coverage_lift": 1.0,
+      "cited_density": 37.628,
+      "non_cited_density": 533.9823,
+      "cited_coverage": 1.0,
+      "non_cited_coverage": 1.0
+    }
+  },
+  "cited_doc_count": 7,
+  "non_cited_doc_count": 15,
+  "top_named_entity_gaps": [
+    {
+      "name": "magic",
+      "type": "OTHER",
+      "cited_rate": 0.5714,
+      "non_cited_rate": 0.0667,
+      "lift": 8.5714
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "cited_rate": 0.5714,
+      "non_cited_rate": 0.0667,
+      "lift": 8.5714
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0667,
+      "lift": 6.4286
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0667,
+      "lift": 6.4286
+    },
+    {
+      "name": "$4,000",
+      "type": "PRICE",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0667,
+      "lift": 6.4286
+    },
+    {
+      "name": "$200",
+      "type": "PRICE",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0667,
+      "lift": 6.4286
+    },
+    {
+      "name": "$500",
+      "type": "PRICE",
+      "cited_rate": 0.5714,
+      "non_cited_rate": 0.0,
+      "lift": 5.7143
+    },
+    {
+      "name": "disney",
+      "type": "ORGANIZATION",
+      "cited_rate": 0.7143,
+      "non_cited_rate": 0.1333,
+      "lift": 5.3571
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0,
+      "lift": 4.2857
+    },
+    {
+      "name": "access",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0667,
+      "lift": 4.2857
+    },
+    {
+      "name": "wi-fi",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0667,
+      "lift": 4.2857
+    },
+    {
+      "name": "$3,000",
+      "type": "PRICE",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0667,
+      "lift": 4.2857
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0667,
+      "lift": 4.2857
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0,
+      "lift": 4.2857
+    },
+    {
+      "name": "however",
+      "type": "OTHER",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0,
+      "lift": 4.2857
+    },
+    {
+      "name": "2,000",
+      "type": "NUMBER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0667,
+      "lift": 4.2857
+    },
+    {
+      "name": "disney treasure",
+      "type": "OTHER",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0,
+      "lift": 4.2857
+    },
+    {
+      "name": "instead",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0,
+      "lift": 4.2857
+    },
+    {
+      "name": "day",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0667,
+      "lift": 4.2857
+    },
+    {
+      "name": "$2,500",
+      "type": "PRICE",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0667,
+      "lift": 4.2857
+    },
+    {
+      "name": "read more",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0,
+      "lift": 4.2857
+    },
+    {
+      "name": "inside",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0667,
+      "lift": 4.2857
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0667,
+      "lift": 4.2857
+    },
+    {
+      "name": "home",
+      "type": "OTHER",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.0,
+      "lift": 4.2857
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.1333,
+      "lift": 3.2143
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.1333,
+      "lift": 3.2143
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "cited_rate": 0.4286,
+      "non_cited_rate": 0.1333,
+      "lift": 3.2143
+    },
+    {
+      "name": "related",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "related articles",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "disclaimer",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "disney wonder",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "sign up",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "disney fantasy",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "costco",
+      "type": "ORGANIZATION",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "december 2024",
+      "type": "DATE",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "$2,000",
+      "type": "PRICE",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "tea",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "new york",
+      "type": "PERSON",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    },
+    {
+      "name": "coffee",
+      "type": "OTHER",
+      "cited_rate": 0.2857,
+      "non_cited_rate": 0.0,
+      "lift": 2.8571
+    }
+  ]
+}

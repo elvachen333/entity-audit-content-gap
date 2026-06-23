@@ -1,0 +1,2313 @@
+{
+  "file": "non_cited_postorder-tracking-software.txt",
+  "word_count": 2255,
+  "entity_count": 381,
+  "entities": [
+    {
+      "name": "Branded tracking",
+      "type": "OTHER",
+      "salience": 0.028282,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02284,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking builds trust",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020439,
+      "mentions": 1
+    },
+    {
+      "name": "real-time",
+      "type": "OTHER",
+      "salience": 0.018994,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01816,
+      "mentions": 1
+    },
+    {
+      "name": "real-time notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016171,
+      "mentions": 1
+    },
+    {
+      "name": "AI delivery predictions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014287,
+      "mentions": 1
+    },
+    {
+      "name": "enhance the post-purchase experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014191,
+      "mentions": 1
+    },
+    {
+      "name": "Limited multi-carrier automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013285,
+      "mentions": 1
+    },
+    {
+      "name": "automation rules",
+      "type": "OTHER",
+      "salience": 0.012582,
+      "mentions": 1
+    },
+    {
+      "name": "and integrations",
+      "type": "OTHER",
+      "salience": 0.0121,
+      "mentions": 1
+    },
+    {
+      "name": "It",
+      "type": "ORGANIZATION",
+      "salience": 0.011745,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking pages and portals.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011378,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.011319,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with Shopify",
+      "type": "OTHER",
+      "salience": 0.011187,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.011123,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.010343,
+      "mentions": 1
+    },
+    {
+      "name": "Performance",
+      "type": "PERSON",
+      "salience": 0.009427,
+      "mentions": 1
+    },
+    {
+      "name": "Contents",
+      "type": "OTHER",
+      "salience": 0.009262,
+      "mentions": 1
+    },
+    {
+      "name": "Shoppers today demand transparency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009206,
+      "mentions": 1
+    },
+    {
+      "name": "Limited predictive analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008876,
+      "mentions": 1
+    },
+    {
+      "name": "Daniel Alcanja",
+      "type": "PERSON",
+      "salience": 0.00871,
+      "mentions": 1
+    },
+    {
+      "name": "Minimal front-end branding features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008639,
+      "mentions": 1
+    },
+    {
+      "name": "Supports multiple sales channels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0085,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008494,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.008432,
+      "mentions": 1
+    },
+    {
+      "name": "predictive ETAs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008144,
+      "mentions": 1
+    },
+    {
+      "name": "Predictive delivery estimates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008015,
+      "mentions": 1
+    },
+    {
+      "name": "Easy integration with e-commerce platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007923,
+      "mentions": 1
+    },
+    {
+      "name": "and AI delivery estimates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007915,
+      "mentions": 1
+    },
+    {
+      "name": "Global multi-carrier tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007643,
+      "mentions": 1
+    },
+    {
+      "name": "Predictive Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007517,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier integration",
+      "type": "OTHER",
+      "salience": 0.007467,
+      "mentions": 1
+    },
+    {
+      "name": "Automated customer communications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007339,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics and reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007293,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007208,
+      "mentions": 1
+    },
+    {
+      "name": "and notifications",
+      "type": "OTHER",
+      "salience": 0.007147,
+      "mentions": 1
+    },
+    {
+      "name": "Mobile-first experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006867,
+      "mentions": 1
+    },
+    {
+      "name": "increase support costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006638,
+      "mentions": 1
+    },
+    {
+      "name": "global tracking",
+      "type": "OTHER",
+      "salience": 0.006542,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce",
+      "type": "OTHER",
+      "salience": 0.006394,
+      "mentions": 1
+    },
+    {
+      "name": "Why It Matters: Route improves engagement and reduces customer anxiety with clear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006238,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.006225,
+      "mentions": 1
+    },
+    {
+      "name": "tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006212,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006147,
+      "mentions": 1
+    },
+    {
+      "name": "SLA tracking",
+      "type": "OTHER",
+      "salience": 0.006003,
+      "mentions": 1
+    },
+    {
+      "name": "Customization options limited",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005817,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.005588,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005456,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005456,
+      "mentions": 3
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.00512,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce needing branded tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking",
+      "type": "OTHER",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking",
+      "type": "OTHER",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "branded tracking",
+      "type": "OTHER",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "branded tracking",
+      "type": "OTHER",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "real-time tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "real-time tracking",
+      "type": "OTHER",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "branded tracking",
+      "type": "OTHER",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "Visual tracking",
+      "type": "OTHER",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "global tracking",
+      "type": "OTHER",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "Visual tracking",
+      "type": "OTHER",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "tracking",
+      "type": "OTHER",
+      "salience": 0.004982,
+      "mentions": 1
+    },
+    {
+      "name": "tracking",
+      "type": "OTHER",
+      "salience": 0.004982,
+      "mentions": 1
+    },
+    {
+      "name": "global tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004982,
+      "mentions": 1
+    },
+    {
+      "name": "Global parcel tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004982,
+      "mentions": 1
+    },
+    {
+      "name": "branded tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004982,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004964,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.004742,
+      "mentions": 1
+    },
+    {
+      "name": "Fully customizable",
+      "type": "OTHER",
+      "salience": 0.004705,
+      "mentions": 1
+    },
+    {
+      "name": "December 12",
+      "type": "PERSON",
+      "salience": 0.004641,
+      "mentions": 1
+    },
+    {
+      "name": "Customers",
+      "type": "OTHER",
+      "salience": 0.004483,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.004435,
+      "mentions": 1
+    },
+    {
+      "name": "and customer-friendly",
+      "type": "OTHER",
+      "salience": 0.004391,
+      "mentions": 1
+    },
+    {
+      "name": "Branded portals enhance CX",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004274,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip",
+      "type": "OTHER",
+      "salience": 0.004256,
+      "mentions": 2
+    },
+    {
+      "name": "EasyPost",
+      "type": "OTHER",
+      "salience": 0.004247,
+      "mentions": 2
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.004182,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip provides branded tracking pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004139,
+      "mentions": 1
+    },
+    {
+      "name": "drives unnecessary customer service inquiries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004021,
+      "mentions": 1
+    },
+    {
+      "name": "and scale smarter",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004003,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003833,
+      "mentions": 1
+    },
+    {
+      "name": "Limited branding and customization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003777,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.003693,
+      "mentions": 1
+    },
+    {
+      "name": "Share this article",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003584,
+      "mentions": 1
+    },
+    {
+      "name": "Visual tracking boosts engagement",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003546,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing scales with volume",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003532,
+      "mentions": 1
+    },
+    {
+      "name": "With the right tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003448,
+      "mentions": 1
+    },
+    {
+      "name": "Route",
+      "type": "OTHER",
+      "salience": 0.00344,
+      "mentions": 1
+    },
+    {
+      "name": "it's essential",
+      "type": "OTHER",
+      "salience": 0.003369,
+      "mentions": 1
+    },
+    {
+      "name": "Best For",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003347,
+      "mentions": 1
+    },
+    {
+      "name": "Flexible API for developers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003226,
+      "mentions": 1
+    },
+    {
+      "name": "and branded portals.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003146,
+      "mentions": 1
+    },
+    {
+      "name": "Package protection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003135,
+      "mentions": 1
+    },
+    {
+      "name": "consider these essential features:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002932,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002906,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.002902,
+      "mentions": 1
+    },
+    {
+      "name": "Limited customization",
+      "type": "OTHER",
+      "salience": 0.002902,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.002902,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.002902,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.002902,
+      "mentions": 1
+    },
+    {
+      "name": "fully customizable",
+      "type": "OTHER",
+      "salience": 0.00289,
+      "mentions": 1
+    },
+    {
+      "name": "Limited front-end branding features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00289,
+      "mentions": 1
+    },
+    {
+      "name": "predictive delivery estimates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002865,
+      "mentions": 1
+    },
+    {
+      "name": "Paid plans for higher volume",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002852,
+      "mentions": 1
+    },
+    {
+      "name": "Predictive Order Management: AI predicts delivery dates and proactively handles delays.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002814,
+      "mentions": 1
+    },
+    {
+      "name": "Automation",
+      "type": "OTHER",
+      "salience": 0.002778,
+      "mentions": 7
+    },
+    {
+      "name": "Mobile-friendly interface",
+      "type": "OTHER",
+      "salience": 0.002769,
+      "mentions": 1
+    },
+    {
+      "name": "Real-Time Order Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002725,
+      "mentions": 1
+    },
+    {
+      "name": "Order tracking and notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002693,
+      "mentions": 1
+    },
+    {
+      "name": "Post-purchase analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002675,
+      "mentions": 1
+    },
+    {
+      "name": "unlimited integrations",
+      "type": "OTHER",
+      "salience": 0.00265,
+      "mentions": 1
+    },
+    {
+      "name": "limited branding",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002605,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.00253,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.002424,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar emphasizes post-purchase engagement",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002404,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier",
+      "type": "PERSON",
+      "salience": 0.002399,
+      "mentions": 1
+    },
+    {
+      "name": "Platform Integrations: Sync with multiple carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002399,
+      "mentions": 1
+    },
+    {
+      "name": "Setup requires IT support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002296,
+      "mentions": 1
+    },
+    {
+      "name": "Some carriers are not fully supported",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002267,
+      "mentions": 1
+    },
+    {
+      "name": "claims",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002267,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002225,
+      "mentions": 1
+    },
+    {
+      "name": "Automation rules",
+      "type": "OTHER",
+      "salience": 0.002111,
+      "mentions": 1
+    },
+    {
+      "name": "Requires technical knowledge",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002062,
+      "mentions": 1
+    },
+    {
+      "name": "Supports hundreds of carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002042,
+      "mentions": 1
+    },
+    {
+      "name": "beginners",
+      "type": "OTHER",
+      "salience": 0.002028,
+      "mentions": 1
+    },
+    {
+      "name": "multi-carrier",
+      "type": "OTHER",
+      "salience": 0.002016,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier",
+      "type": "OTHER",
+      "salience": 0.002016,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-channel",
+      "type": "OTHER",
+      "salience": 0.002016,
+      "mentions": 2
+    },
+    {
+      "name": "global multi-carrier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002016,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier",
+      "type": "OTHER",
+      "salience": 0.002008,
+      "mentions": 1
+    },
+    {
+      "name": "Integrate with any carrier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001978,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics dashboard",
+      "type": "OTHER",
+      "salience": 0.001966,
+      "mentions": 1
+    },
+    {
+      "name": "Unlimited integrations",
+      "type": "OTHER",
+      "salience": 0.001946,
+      "mentions": 1
+    },
+    {
+      "name": "shipping",
+      "type": "OTHER",
+      "salience": 0.001927,
+      "mentions": 2
+    },
+    {
+      "name": "Paid features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001891,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics",
+      "type": "OTHER",
+      "salience": 0.001883,
+      "mentions": 6
+    },
+    {
+      "name": "AI predictive estimates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001878,
+      "mentions": 1
+    },
+    {
+      "name": "predictive delivery estimates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001878,
+      "mentions": 1
+    },
+    {
+      "name": "Businesses wanting tailored tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001878,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-channel support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001866,
+      "mentions": 1
+    },
+    {
+      "name": "It",
+      "type": "ORGANIZATION",
+      "salience": 0.001866,
+      "mentions": 1
+    },
+    {
+      "name": "Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001845,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.001841,
+      "mentions": 1
+    },
+    {
+      "name": "labeling",
+      "type": "OTHER",
+      "salience": 0.001829,
+      "mentions": 1
+    },
+    {
+      "name": "AI predictions",
+      "type": "OTHER",
+      "salience": 0.001828,
+      "mentions": 1
+    },
+    {
+      "name": "AI delivery predictions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001828,
+      "mentions": 1
+    },
+    {
+      "name": "AI",
+      "type": "OTHER",
+      "salience": 0.001809,
+      "mentions": 1
+    },
+    {
+      "name": "Performance analytics and reports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001804,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.001802,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001776,
+      "mentions": 1
+    },
+    {
+      "name": "WooCommerce",
+      "type": "OTHER",
+      "salience": 0.001775,
+      "mentions": 1
+    },
+    {
+      "name": "Amazon",
+      "type": "OTHER",
+      "salience": 0.001775,
+      "mentions": 1
+    },
+    {
+      "name": "Limited predictive AI",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001771,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.001728,
+      "mentions": 1
+    },
+    {
+      "name": "Global tracking across 500+ carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001725,
+      "mentions": 1
+    },
+    {
+      "name": "limited automation",
+      "type": "OTHER",
+      "salience": 0.0017,
+      "mentions": 1
+    },
+    {
+      "name": "Microapp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001684,
+      "mentions": 2
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00166,
+      "mentions": 1
+    },
+    {
+      "name": "carrier integration",
+      "type": "OTHER",
+      "salience": 0.001635,
+      "mentions": 1
+    },
+    {
+      "name": "integrations",
+      "type": "OTHER",
+      "salience": 0.001635,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.001634,
+      "mentions": 1
+    },
+    {
+      "name": "unlimited integrations",
+      "type": "OTHER",
+      "salience": 0.001628,
+      "mentions": 1
+    },
+    {
+      "name": "can",
+      "type": "OTHER",
+      "salience": 0.001612,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001566,
+      "mentions": 1
+    },
+    {
+      "name": "SMBs need multi-functional software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001563,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications:",
+      "type": "OTHER",
+      "salience": 0.001539,
+      "mentions": 1
+    },
+    {
+      "name": "Limited advanced AI",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001527,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.001502,
+      "mentions": 1
+    },
+    {
+      "name": "multiple carrier support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001497,
+      "mentions": 1
+    },
+    {
+      "name": "Consumers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001497,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.001479,
+      "mentions": 1
+    },
+    {
+      "name": "Strong automation capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001467,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001414,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features:",
+      "type": "OTHER",
+      "salience": 0.001414,
+      "mentions": 1
+    },
+    {
+      "name": "Setup can be complex",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001411,
+      "mentions": 1
+    },
+    {
+      "name": "and accurate delivery estimates.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001378,
+      "mentions": 1
+    },
+    {
+      "name": "With Microapp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001373,
+      "mentions": 1
+    },
+    {
+      "name": "Best Order Tracking Software in 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001368,
+      "mentions": 1
+    },
+    {
+      "name": "Expensive",
+      "type": "OTHER",
+      "salience": 0.001367,
+      "mentions": 1
+    },
+    {
+      "name": "With Microapp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001362,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00135,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001293,
+      "mentions": 1
+    },
+    {
+      "name": "Pros",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001278,
+      "mentions": 1
+    },
+    {
+      "name": "Higher starting price",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001259,
+      "mentions": 1
+    },
+    {
+      "name": "Shoppers today demand transparency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001254,
+      "mentions": 1
+    },
+    {
+      "name": "Predictive AI",
+      "type": "OTHER",
+      "salience": 0.001229,
+      "mentions": 2
+    },
+    {
+      "name": "high-impact solutions.",
+      "type": "OTHER",
+      "salience": 0.001205,
+      "mentions": 1
+    },
+    {
+      "name": "features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001174,
+      "mentions": 1
+    },
+    {
+      "name": "Best AI Contract Generators",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001171,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "ORGANIZATION",
+      "salience": 0.001168,
+      "mentions": 1
+    },
+    {
+      "name": "Parcel Perform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001158,
+      "mentions": 1
+    },
+    {
+      "name": "Build-your-own",
+      "type": "OTHER",
+      "salience": 0.001154,
+      "mentions": 1
+    },
+    {
+      "name": "Initial setup",
+      "type": "OTHER",
+      "salience": 0.001145,
+      "mentions": 1
+    },
+    {
+      "name": "Learning",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001132,
+      "mentions": 2
+    },
+    {
+      "name": "Build only what you need",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001118,
+      "mentions": 1
+    },
+    {
+      "name": "and branded portals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001107,
+      "mentions": 1
+    },
+    {
+      "name": "Paid Tools 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001104,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory and fulfillment management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001097,
+      "mentions": 1
+    },
+    {
+      "name": "Price",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001082,
+      "mentions": 1
+    },
+    {
+      "name": "Custom pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001082,
+      "mentions": 1
+    },
+    {
+      "name": "SLA monitoring and notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001041,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations Galore: Use your app to connect with carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001032,
+      "mentions": 1
+    },
+    {
+      "name": "Free global tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001023,
+      "mentions": 1
+    },
+    {
+      "name": "enterprise fulfillment",
+      "type": "OTHER",
+      "salience": 0.001023,
+      "mentions": 1
+    },
+    {
+      "name": "enterprise retailers",
+      "type": "OTHER",
+      "salience": 0.00102,
+      "mentions": 1
+    },
+    {
+      "name": "Comparison Table",
+      "type": "PERSON",
+      "salience": 0.001019,
+      "mentions": 1
+    },
+    {
+      "name": "and real-time notifications",
+      "type": "OTHER",
+      "salience": 0.001013,
+      "mentions": 1
+    },
+    {
+      "name": "scalable",
+      "type": "OTHER",
+      "salience": 0.001012,
+      "mentions": 1
+    },
+    {
+      "name": "Parcel Perform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001006,
+      "mentions": 1
+    },
+    {
+      "name": "This statistic underscores the importance of modern order-tracking software.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics and reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000954,
+      "mentions": 1
+    },
+    {
+      "name": "Reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000951,
+      "mentions": 1
+    },
+    {
+      "name": "Monitor delivery performance and identify bottlenecks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000951,
+      "mentions": 1
+    },
+    {
+      "name": "Fully customizable and scalable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000935,
+      "mentions": 1
+    },
+    {
+      "name": "Operational Efficiency",
+      "type": "PERSON",
+      "salience": 0.000923,
+      "mentions": 1
+    },
+    {
+      "name": "SLA monitoring",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0009,
+      "mentions": 1
+    },
+    {
+      "name": "Deliver real-time updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000884,
+      "mentions": 1
+    },
+    {
+      "name": "Predictive ETAs reduce inquiries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000882,
+      "mentions": 1
+    },
+    {
+      "name": "SLA management",
+      "type": "OTHER",
+      "salience": 0.000863,
+      "mentions": 1
+    },
+    {
+      "name": "Costly, IT setup required",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000863,
+      "mentions": 1
+    },
+    {
+      "name": "Global e-commerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000863,
+      "mentions": 1
+    },
+    {
+      "name": "Technical knowledge required",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000863,
+      "mentions": 1
+    },
+    {
+      "name": "AI delivery estimates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000863,
+      "mentions": 1
+    },
+    {
+      "name": "real-time updates",
+      "type": "OTHER",
+      "salience": 0.000863,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory",
+      "type": "OTHER",
+      "salience": 0.00086,
+      "mentions": 2
+    },
+    {
+      "name": "easy",
+      "type": "OTHER",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "complexity",
+      "type": "OTHER",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "Generate",
+      "type": "OTHER",
+      "salience": 0.000853,
+      "mentions": 1
+    },
+    {
+      "name": "Requires initial setup",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000841,
+      "mentions": 1
+    },
+    {
+      "name": "marketplaces",
+      "type": "OTHER",
+      "salience": 0.000825,
+      "mentions": 3
+    },
+    {
+      "name": "transparent",
+      "type": "OTHER",
+      "salience": 0.000816,
+      "mentions": 1
+    },
+    {
+      "name": "ClickPost",
+      "type": "OTHER",
+      "salience": 0.000814,
+      "mentions": 1
+    },
+    {
+      "name": "Increased Retention",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "Developers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000786,
+      "mentions": 1
+    },
+    {
+      "name": "creator-based",
+      "type": "OTHER",
+      "salience": 0.000783,
+      "mentions": 1
+    },
+    {
+      "name": "Why Microapp?",
+      "type": "OTHER",
+      "salience": 0.00078,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.000759,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.000758,
+      "mentions": 1
+    },
+    {
+      "name": "Limited Visibility: Customers cannot see accurate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000756,
+      "mentions": 1
+    },
+    {
+      "name": "customer communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000738,
+      "mentions": 1
+    },
+    {
+      "name": "developers",
+      "type": "OTHER",
+      "salience": 0.000737,
+      "mentions": 1
+    },
+    {
+      "name": "timely updates",
+      "type": "OTHER",
+      "salience": 0.000721,
+      "mentions": 1
+    },
+    {
+      "name": "Learning curve",
+      "type": "OTHER",
+      "salience": 0.000706,
+      "mentions": 3
+    },
+    {
+      "name": "Branded portals",
+      "type": "OTHER",
+      "salience": 0.000706,
+      "mentions": 1
+    },
+    {
+      "name": "branded portals",
+      "type": "OTHER",
+      "salience": 0.000706,
+      "mentions": 1
+    },
+    {
+      "name": "complex setup",
+      "type": "OTHER",
+      "salience": 0.000706,
+      "mentions": 1
+    },
+    {
+      "name": "Flexible",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000703,
+      "mentions": 1
+    },
+    {
+      "name": "SLA monitoring",
+      "type": "OTHER",
+      "salience": 0.000703,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics are minimal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000702,
+      "mentions": 1
+    },
+    {
+      "name": "basic plan",
+      "type": "OTHER",
+      "salience": 0.000695,
+      "mentions": 1
+    },
+    {
+      "name": "Visit Author page",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000689,
+      "mentions": 1
+    },
+    {
+      "name": "Visit Author page",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000687,
+      "mentions": 1
+    },
+    {
+      "name": "Aggregates multiple carriers under one dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000669,
+      "mentions": 1
+    },
+    {
+      "name": "High Support Volume",
+      "type": "OTHER",
+      "salience": 0.000659,
+      "mentions": 1
+    },
+    {
+      "name": "package protection",
+      "type": "OTHER",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "logistics teams",
+      "type": "OTHER",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise retailers",
+      "type": "OTHER",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "Retailers",
+      "type": "OTHER",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "High-volume retailers",
+      "type": "OTHER",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "automation rules",
+      "type": "OTHER",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "Route",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-channel sellers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "price scales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "small sellers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000622,
+      "mentions": 1
+    },
+    {
+      "name": "sell",
+      "type": "OTHER",
+      "salience": 0.000611,
+      "mentions": 1
+    },
+    {
+      "name": "Logistics",
+      "type": "OTHER",
+      "salience": 0.00059,
+      "mentions": 1
+    },
+    {
+      "name": "Cost-Efficient:",
+      "type": "OTHER",
+      "salience": 0.000588,
+      "mentions": 1
+    },
+    {
+      "name": "Ordoro",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000582,
+      "mentions": 2
+    },
+    {
+      "name": "Ordoro combines inventory",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000579,
+      "mentions": 1
+    },
+    {
+      "name": "Combines inventory",
+      "type": "OTHER",
+      "salience": 0.000561,
+      "mentions": 1
+    },
+    {
+      "name": "When evaluating order tracking software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000556,
+      "mentions": 1
+    },
+    {
+      "name": "Flexible API",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "Predictive ETAs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping API",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "predictive ETAs",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "ClickPost",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "mobile-friendly",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "Benefits of Real-Time",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000539,
+      "mentions": 1
+    },
+    {
+      "name": "Minimal analytics",
+      "type": "OTHER",
+      "salience": 0.000537,
+      "mentions": 1
+    },
+    {
+      "name": "Daniel Alcanja",
+      "type": "PERSON",
+      "salience": 0.000532,
+      "mentions": 1
+    },
+    {
+      "name": "Daniel Alcanja is the CEO and co-founder of Microapp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00053,
+      "mentions": 1
+    },
+    {
+      "name": "Shoppers",
+      "type": "PERSON",
+      "salience": 0.000511,
+      "mentions": 1
+    },
+    {
+      "name": "premium",
+      "type": "OTHER",
+      "salience": 0.000496,
+      "mentions": 1
+    },
+    {
+      "name": "Easy to use",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000467,
+      "mentions": 1
+    },
+    {
+      "name": "package protection & claims",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000451,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier aggregation",
+      "type": "OTHER",
+      "salience": 0.000451,
+      "mentions": 1
+    },
+    {
+      "name": "automated communications",
+      "type": "OTHER",
+      "salience": 0.000451,
+      "mentions": 1
+    },
+    {
+      "name": "17Track",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00045,
+      "mentions": 1
+    },
+    {
+      "name": "Outline Generator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000449,
+      "mentions": 1
+    },
+    {
+      "name": "Rapid deployment with low-code/no-code tools.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000432,
+      "mentions": 1
+    },
+    {
+      "name": "Productivity",
+      "type": "OTHER",
+      "salience": 0.000432,
+      "mentions": 1
+    },
+    {
+      "name": "According to ShipBob",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "Check out the best inventory management software in 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000412,
+      "mentions": 1
+    },
+    {
+      "name": "encouraging",
+      "type": "OTHER",
+      "salience": 0.000385,
+      "mentions": 1
+    },
+    {
+      "name": "Premium",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "From $59/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "increasing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000351,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "DevBlueprintAI",
+      "type": "OTHER",
+      "salience": 0.000337,
+      "mentions": 1
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000333,
+      "mentions": 1
+    },
+    {
+      "name": "simple",
+      "type": "OTHER",
+      "salience": 0.000332,
+      "mentions": 1
+    },
+    {
+      "name": "need guidance",
+      "type": "OTHER",
+      "salience": 0.000309,
+      "mentions": 1
+    },
+    {
+      "name": "CRM",
+      "type": "OTHER",
+      "salience": 0.000293,
+      "mentions": 1
+    },
+    {
+      "name": "Travel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000262,
+      "mentions": 1
+    },
+    {
+      "name": "Hospitality",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000262,
+      "mentions": 1
+    },
+    {
+      "name": "Paid from $11/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000259,
+      "mentions": 1
+    },
+    {
+      "name": "From $9.99/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000259,
+      "mentions": 1
+    },
+    {
+      "name": "From $0.01/label",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000259,
+      "mentions": 1
+    },
+    {
+      "name": "Related content",
+      "type": "OTHER",
+      "salience": 0.000249,
+      "mentions": 1
+    },
+    {
+      "name": "Try it",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "Challenges of Generic Tracking Tools",
+      "type": "LOCATION",
+      "salience": 0.000235,
+      "mentions": 1
+    },
+    {
+      "name": "No Branding or Personalization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000232,
+      "mentions": 1
+    },
+    {
+      "name": "unnecessary features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000229,
+      "mentions": 1
+    },
+    {
+      "name": "Lack of Integration: It is difficult to connect with multiple carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000168,
+      "mentions": 1
+    },
+    {
+      "name": "not months.",
+      "type": "OTHER",
+      "salience": 0.000163,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$59",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$11",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0.01",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$59",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "59",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "59",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "97",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 12, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 160,
+    "CONSUMER_GOOD": 171,
+    "ORGANIZATION": 3,
+    "PERSON": 8,
+    "LOCATION": 1,
+    "NUMBER": 47,
+    "DATE": 12,
+    "PRICE": 5
+  },
+  "type_salience": {
+    "OTHER": 0.40667900000000023,
+    "CONSUMER_GOOD": 0.5168439999999997,
+    "ORGANIZATION": 0.014779,
+    "PERSON": 0.028162,
+    "LOCATION": 0.000235,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

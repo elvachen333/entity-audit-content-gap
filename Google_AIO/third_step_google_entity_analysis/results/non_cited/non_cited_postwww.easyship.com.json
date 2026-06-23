@@ -1,0 +1,741 @@
+{
+  "file": "non_cited_postwww.easyship.com.txt",
+  "word_count": 1039,
+  "entity_count": 120,
+  "entities": [
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.097784,
+      "mentions": 2
+    },
+    {
+      "name": "Shipping Rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.093901,
+      "mentions": 1
+    },
+    {
+      "name": "Start with our free plan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.046718,
+      "mentions": 1
+    },
+    {
+      "name": "Simplify tracking and automation.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.032393,
+      "mentions": 1
+    },
+    {
+      "name": "Connect",
+      "type": "OTHER",
+      "salience": 0.032347,
+      "mentions": 1
+    },
+    {
+      "name": "Up to",
+      "type": "OTHER",
+      "salience": 0.027761,
+      "mentions": 1
+    },
+    {
+      "name": "Discounted Rates",
+      "type": "OTHER",
+      "salience": 0.027608,
+      "mentions": 1
+    },
+    {
+      "name": "Compare 550+ carriers",
+      "type": "OTHER",
+      "salience": 0.027047,
+      "mentions": 1
+    },
+    {
+      "name": "Start in 3 minutes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026435,
+      "mentions": 1
+    },
+    {
+      "name": "Courier Comparison",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026025,
+      "mentions": 1
+    },
+    {
+      "name": "Automatically compare",
+      "type": "ORGANIZATION",
+      "salience": 0.024139,
+      "mentions": 1
+    },
+    {
+      "name": "Check Your Rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023521,
+      "mentions": 1
+    },
+    {
+      "name": "Trusted By 100,000+ Businesses Worldwide",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02146,
+      "mentions": 1
+    },
+    {
+      "name": "With Easyship",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019979,
+      "mentions": 1
+    },
+    {
+      "name": "How Easyship Works",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019278,
+      "mentions": 1
+    },
+    {
+      "name": "Up to",
+      "type": "OTHER",
+      "salience": 0.018998,
+      "mentions": 1
+    },
+    {
+      "name": "it",
+      "type": "ORGANIZATION",
+      "salience": 0.018179,
+      "mentions": 1
+    },
+    {
+      "name": "Risk-Free",
+      "type": "OTHER",
+      "salience": 0.017862,
+      "mentions": 2
+    },
+    {
+      "name": "no credit card required",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017862,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship.",
+      "type": "OTHER",
+      "salience": 0.017785,
+      "mentions": 1
+    },
+    {
+      "name": "With our leading App or API",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016299,
+      "mentions": 1
+    },
+    {
+      "name": "Add calculated rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014755,
+      "mentions": 1
+    },
+    {
+      "name": "save up to",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013888,
+      "mentions": 1
+    },
+    {
+      "name": "The best shipping solution ever.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012957,
+      "mentions": 1
+    },
+    {
+      "name": "For High-Volume Brands\\",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012195,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx and 550+ more domestic and international services",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011655,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Store Owner",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011396,
+      "mentions": 1
+    },
+    {
+      "name": "Make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009026,
+      "mentions": 1
+    },
+    {
+      "name": "Verified via Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008685,
+      "mentions": 1
+    },
+    {
+      "name": "Verified via Capterra",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008529,
+      "mentions": 1
+    },
+    {
+      "name": "Our extensive resource library has everything you",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008487,
+      "mentions": 1
+    },
+    {
+      "name": "Verified via G2",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008381,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce.",
+      "type": "OTHER",
+      "salience": 0.008244,
+      "mentions": 1
+    },
+    {
+      "name": "Verified via Capterra",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008242,
+      "mentions": 1
+    },
+    {
+      "name": "integrations.",
+      "type": "OTHER",
+      "salience": 0.00811,
+      "mentions": 1
+    },
+    {
+      "name": "Compare shipping quotes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00776,
+      "mentions": 1
+    },
+    {
+      "name": "generate labels",
+      "type": "OTHER",
+      "salience": 0.00776,
+      "mentions": 1
+    },
+    {
+      "name": "with no hidden fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006788,
+      "mentions": 1
+    },
+    {
+      "name": "including USPS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006697,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.006697,
+      "mentions": 1
+    },
+    {
+      "name": "Unlock Global Growth with International Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006611,
+      "mentions": 1
+    },
+    {
+      "name": "everyone.",
+      "type": "OTHER",
+      "salience": 0.006073,
+      "mentions": 1
+    },
+    {
+      "name": "delivering",
+      "type": "OTHER",
+      "salience": 0.005945,
+      "mentions": 1
+    },
+    {
+      "name": "Verified via Capterra",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005437,
+      "mentions": 1
+    },
+    {
+      "name": "Start with our free plan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00537,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Store Owner",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004889,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Store Owner",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004841,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Owner",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004816,
+      "mentions": 1
+    },
+    {
+      "name": "only 3 minutes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004456,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Store",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004218,
+      "mentions": 1
+    },
+    {
+      "name": "we",
+      "type": "OTHER",
+      "salience": 0.004142,
+      "mentions": 1
+    },
+    {
+      "name": "We love the simple and easy user interface to quickly ship around 500+ orders daily.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004115,
+      "mentions": 1
+    },
+    {
+      "name": "It",
+      "type": "ORGANIZATION",
+      "salience": 0.004006,
+      "mentions": 1
+    },
+    {
+      "name": "Fulfillment growing pains",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003994,
+      "mentions": 1
+    },
+    {
+      "name": "Verified via Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003646,
+      "mentions": 1
+    },
+    {
+      "name": "Verified via G2",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003608,
+      "mentions": 1
+    },
+    {
+      "name": "Verified via Capterra",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003535,
+      "mentions": 1
+    },
+    {
+      "name": "Verified via Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0035,
+      "mentions": 1
+    },
+    {
+      "name": "reduce shipping expenses",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003451,
+      "mentions": 1
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003414,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.003334,
+      "mentions": 1
+    },
+    {
+      "name": "Body Care",
+      "type": "PERSON",
+      "salience": 0.003317,
+      "mentions": 1
+    },
+    {
+      "name": "Very happy with Easyship.",
+      "type": "OTHER",
+      "salience": 0.003131,
+      "mentions": 1
+    },
+    {
+      "name": "Improving transit times",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003128,
+      "mentions": 1
+    },
+    {
+      "name": "reducing tariff exposure",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002975,
+      "mentions": 1
+    },
+    {
+      "name": "Platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002822,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise.",
+      "type": "OTHER",
+      "salience": 0.00278,
+      "mentions": 1
+    },
+    {
+      "name": "smoother customs clearance",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002526,
+      "mentions": 1
+    },
+    {
+      "name": "No Coding Necessary",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002465,
+      "mentions": 1
+    },
+    {
+      "name": "Watson's Hair",
+      "type": "OTHER",
+      "salience": 0.002399,
+      "mentions": 1
+    },
+    {
+      "name": "Favorite shipping tool",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002384,
+      "mentions": 1
+    },
+    {
+      "name": "Freelance Artist",
+      "type": "PERSON",
+      "salience": 0.002356,
+      "mentions": 1
+    },
+    {
+      "name": "Red",
+      "type": "OTHER",
+      "salience": 0.002356,
+      "mentions": 1
+    },
+    {
+      "name": "schedule pickups",
+      "type": "OTHER",
+      "salience": 0.002332,
+      "mentions": 1
+    },
+    {
+      "name": "about 200",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002328,
+      "mentions": 1
+    },
+    {
+      "name": "Saivamsikrishna",
+      "type": "OTHER",
+      "salience": 0.002315,
+      "mentions": 1
+    },
+    {
+      "name": "Scaling fast",
+      "type": "OTHER",
+      "salience": 0.002313,
+      "mentions": 1
+    },
+    {
+      "name": "Nicole",
+      "type": "OTHER",
+      "salience": 0.002276,
+      "mentions": 1
+    },
+    {
+      "name": "Custom build",
+      "type": "OTHER",
+      "salience": 0.002242,
+      "mentions": 1
+    },
+    {
+      "name": "Visit our Support Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002169,
+      "mentions": 1
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002159,
+      "mentions": 1
+    },
+    {
+      "name": "no credit card required",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002051,
+      "mentions": 1
+    },
+    {
+      "name": "Excellent platform.",
+      "type": "OTHER",
+      "salience": 0.001725,
+      "mentions": 1
+    },
+    {
+      "name": "Industry leader",
+      "type": "OTHER",
+      "salience": 0.001609,
+      "mentions": 1
+    },
+    {
+      "name": "stress-free.",
+      "type": "OTHER",
+      "salience": 0.001563,
+      "mentions": 1
+    },
+    {
+      "name": "Daniel",
+      "type": "PERSON",
+      "salience": 0.001502,
+      "mentions": 1
+    },
+    {
+      "name": "Logistics Coordinator",
+      "type": "PERSON",
+      "salience": 0.001502,
+      "mentions": 1
+    },
+    {
+      "name": "Join",
+      "type": "PERSON",
+      "salience": 0.001437,
+      "mentions": 1
+    },
+    {
+      "name": "Audio Chic",
+      "type": "OTHER",
+      "salience": 0.001007,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Founder",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000996,
+      "mentions": 1
+    },
+    {
+      "name": "Lachlan",
+      "type": "OTHER",
+      "salience": 0.000996,
+      "mentions": 1
+    },
+    {
+      "name": "satisfaction.",
+      "type": "OTHER",
+      "salience": 0.000986,
+      "mentions": 1
+    },
+    {
+      "name": "Hazel",
+      "type": "OTHER",
+      "salience": 0.000976,
+      "mentions": 1
+    },
+    {
+      "name": "Loving the use of multi couriers and being able to see all my shipments in one place",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000971,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "550",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "550",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "550",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 33,
+    "CONSUMER_GOOD": 54,
+    "ORGANIZATION": 4,
+    "PERSON": 5,
+    "NUMBER": 26
+  },
+  "type_salience": {
+    "OTHER": 0.3418059999999999,
+    "CONSUMER_GOOD": 0.5901870000000002,
+    "ORGANIZATION": 0.053021000000000006,
+    "PERSON": 0.010114000000000001,
+    "NUMBER": 0.0
+  }
+}

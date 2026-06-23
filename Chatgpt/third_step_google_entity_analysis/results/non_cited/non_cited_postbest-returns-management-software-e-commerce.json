@@ -1,0 +1,2393 @@
+{
+  "file": "non_cited_postbest-returns-management-software-e-commerce.txt",
+  "word_count": 3838,
+  "entity_count": 395,
+  "entities": [
+    {
+      "name": "Happy Returns",
+      "type": "PERSON",
+      "salience": 0.046957,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "PERSON",
+      "salience": 0.046957,
+      "mentions": 1
+    },
+    {
+      "name": "Customer retention",
+      "type": "OTHER",
+      "salience": 0.040509,
+      "mentions": 1
+    },
+    {
+      "name": "best for",
+      "type": "OTHER",
+      "salience": 0.029834,
+      "mentions": 1
+    },
+    {
+      "name": "to 60 returns.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029698,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.024163,
+      "mentions": 1
+    },
+    {
+      "name": "customer loyalty",
+      "type": "OTHER",
+      "salience": 0.023241,
+      "mentions": 1
+    },
+    {
+      "name": "automate approvals and label generation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014711,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.013994,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.013994,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise brands",
+      "type": "OTHER",
+      "salience": 0.012737,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise omnichannel brands",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012737,
+      "mentions": 1
+    },
+    {
+      "name": "DTC brands",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012737,
+      "mentions": 1
+    },
+    {
+      "name": "Growing Shopify",
+      "type": "OTHER",
+      "salience": 0.012311,
+      "mentions": 1
+    },
+    {
+      "name": "With multilingual support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011448,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011369,
+      "mentions": 1
+    },
+    {
+      "name": "prioritize automation",
+      "type": "OTHER",
+      "salience": 0.010861,
+      "mentions": 1
+    },
+    {
+      "name": "offering deep Shopify integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010765,
+      "mentions": 1
+    },
+    {
+      "name": "software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010455,
+      "mentions": 1
+    },
+    {
+      "name": "logistics/WMS integrations",
+      "type": "OTHER",
+      "salience": 0.010389,
+      "mentions": 1
+    },
+    {
+      "name": "recovery from returns and automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010345,
+      "mentions": 1
+    },
+    {
+      "name": "Exchange‐first workflows and automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010345,
+      "mentions": 1
+    },
+    {
+      "name": "The platform generally offers custom",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008985,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.008626,
+      "mentions": 1
+    },
+    {
+      "name": "Revenue",
+      "type": "OTHER",
+      "salience": 0.008515,
+      "mentions": 2
+    },
+    {
+      "name": "eCommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008124,
+      "mentions": 3
+    },
+    {
+      "name": "Returns",
+      "type": "OTHER",
+      "salience": 0.007859,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.007834,
+      "mentions": 1
+    },
+    {
+      "name": "ShippyPro",
+      "type": "OTHER",
+      "salience": 0.007562,
+      "mentions": 3
+    },
+    {
+      "name": "Tiered SaaS plans",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007562,
+      "mentions": 1
+    },
+    {
+      "name": "Tiered plans",
+      "type": "OTHER",
+      "salience": 0.007562,
+      "mentions": 1
+    },
+    {
+      "name": "Return Prime",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007562,
+      "mentions": 3
+    },
+    {
+      "name": "Tiered plans",
+      "type": "OTHER",
+      "salience": 0.007562,
+      "mentions": 1
+    },
+    {
+      "name": "and deep Shopify integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007542,
+      "mentions": 1
+    },
+    {
+      "name": "Automated return labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007368,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGO",
+      "type": "OTHER",
+      "salience": 0.007311,
+      "mentions": 1
+    },
+    {
+      "name": "return",
+      "type": "OTHER",
+      "salience": 0.007174,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations with 100+ logistics and payment providers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006771,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.006615,
+      "mentions": 1
+    },
+    {
+      "name": "recommendations.",
+      "type": "OTHER",
+      "salience": 0.006537,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006312,
+      "mentions": 1
+    },
+    {
+      "name": "key features",
+      "type": "OTHER",
+      "salience": 0.006209,
+      "mentions": 1
+    },
+    {
+      "name": "Tool",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006073,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.005936,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.005918,
+      "mentions": 11
+    },
+    {
+      "name": "Returns",
+      "type": "OTHER",
+      "salience": 0.005912,
+      "mentions": 1
+    },
+    {
+      "name": "store credits",
+      "type": "OTHER",
+      "salience": 0.005868,
+      "mentions": 1
+    },
+    {
+      "name": "analytics",
+      "type": "OTHER",
+      "salience": 0.005833,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping‐heavy merchants",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005816,
+      "mentions": 1
+    },
+    {
+      "name": "profitability",
+      "type": "OTHER",
+      "salience": 0.005054,
+      "mentions": 1
+    },
+    {
+      "name": "Returns",
+      "type": "OTHER",
+      "salience": 0.004917,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGO",
+      "type": "OTHER",
+      "salience": 0.004904,
+      "mentions": 1
+    },
+    {
+      "name": "Returns",
+      "type": "OTHER",
+      "salience": 0.004866,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.004854,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.004787,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.004778,
+      "mentions": 1
+    },
+    {
+      "name": "generate labels",
+      "type": "OTHER",
+      "salience": 0.004755,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004686,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.004638,
+      "mentions": 1
+    },
+    {
+      "name": "Returns software centralizes approvals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004542,
+      "mentions": 1
+    },
+    {
+      "name": "Brands needing box‐free drop‐off options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004484,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping and logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004206,
+      "mentions": 1
+    },
+    {
+      "name": "store credits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004191,
+      "mentions": 1
+    },
+    {
+      "name": "policies",
+      "type": "OTHER",
+      "salience": 0.00405,
+      "mentions": 1
+    },
+    {
+      "name": "Multilingual",
+      "type": "PERSON",
+      "salience": 0.003941,
+      "mentions": 1
+    },
+    {
+      "name": "Key highlight",
+      "type": "OTHER",
+      "salience": 0.003923,
+      "mentions": 1
+    },
+    {
+      "name": "and communication",
+      "type": "OTHER",
+      "salience": 0.003725,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.003699,
+      "mentions": 1
+    },
+    {
+      "name": "its complexity and enterprise-level focus can demand longer implementation times and higher costs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003434,
+      "mentions": 1
+    },
+    {
+      "name": "February 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003424,
+      "mentions": 1
+    },
+    {
+      "name": "and upsells",
+      "type": "OTHER",
+      "salience": 0.003372,
+      "mentions": 1
+    },
+    {
+      "name": "quote‐based",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003342,
+      "mentions": 1
+    },
+    {
+      "name": "Paid plans start at $199/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003342,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing approach",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003342,
+      "mentions": 1
+    },
+    {
+      "name": "solution‐based",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003342,
+      "mentions": 1
+    },
+    {
+      "name": "Paid plans start at $155/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003342,
+      "mentions": 1
+    },
+    {
+      "name": "Paid plans start at $19.99/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003342,
+      "mentions": 1
+    },
+    {
+      "name": "and home goods",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003321,
+      "mentions": 1
+    },
+    {
+      "name": "multi‐carrier coordination",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003218,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise omnichannel retailers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003074,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003041,
+      "mentions": 1
+    },
+    {
+      "name": "strong automation",
+      "type": "OTHER",
+      "salience": 0.002974,
+      "mentions": 1
+    },
+    {
+      "name": "Instead of juggling spreadsheets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002971,
+      "mentions": 1
+    },
+    {
+      "name": "Top",
+      "type": "PERSON",
+      "salience": 0.002913,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.002908,
+      "mentions": 1
+    },
+    {
+      "name": "Post‐purchase",
+      "type": "OTHER",
+      "salience": 0.002734,
+      "mentions": 1
+    },
+    {
+      "name": "In‐person",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002734,
+      "mentions": 1
+    },
+    {
+      "name": "strong in Europe",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002734,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable",
+      "type": "OTHER",
+      "salience": 0.00273,
+      "mentions": 1
+    },
+    {
+      "name": "and in-portal upsells.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002408,
+      "mentions": 1
+    },
+    {
+      "name": "With automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002321,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.002262,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002172,
+      "mentions": 1
+    },
+    {
+      "name": "Quick comparison of top 5 returns management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002122,
+      "mentions": 1
+    },
+    {
+      "name": "Joyeeta Ghosal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002113,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.002044,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable return options",
+      "type": "OTHER",
+      "salience": 0.002015,
+      "mentions": 1
+    },
+    {
+      "name": "customer",
+      "type": "OTHER",
+      "salience": 0.002009,
+      "mentions": 2
+    },
+    {
+      "name": "emails",
+      "type": "OTHER",
+      "salience": 0.001975,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.001914,
+      "mentions": 2
+    },
+    {
+      "name": "Integrations with Shopify and popular fulfillment and marketing tools.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001902,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.001894,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.001863,
+      "mentions": 1
+    },
+    {
+      "name": "Updates: Tracking and Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001839,
+      "mentions": 1
+    },
+    {
+      "name": "capabilities.",
+      "type": "OTHER",
+      "salience": 0.001835,
+      "mentions": 1
+    },
+    {
+      "name": "While highly scalable and feature-rich",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001796,
+      "mentions": 1
+    },
+    {
+      "name": "updates",
+      "type": "OTHER",
+      "salience": 0.001721,
+      "mentions": 1
+    },
+    {
+      "name": "Integration with leading eCommerce platforms and logistics partners",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001716,
+      "mentions": 1
+    },
+    {
+      "name": "multi-channel returns platform.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001703,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.001687,
+      "mentions": 1
+    },
+    {
+      "name": "and brand perception.",
+      "type": "OTHER",
+      "salience": 0.001668,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "salience": 0.001646,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001615,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns emphasizes exchange-first workflows.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001606,
+      "mentions": 1
+    },
+    {
+      "name": "electronics",
+      "type": "OTHER",
+      "salience": 0.001596,
+      "mentions": 1
+    },
+    {
+      "name": "footwear",
+      "type": "OTHER",
+      "salience": 0.001596,
+      "mentions": 1
+    },
+    {
+      "name": "return rates can easily exceed 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001596,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.001588,
+      "mentions": 1
+    },
+    {
+      "name": "and carrier integrations",
+      "type": "OTHER",
+      "salience": 0.001529,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.001516,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations with major eCommerce platforms and carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001413,
+      "mentions": 1
+    },
+    {
+      "name": "returns across channels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001388,
+      "mentions": 1
+    },
+    {
+      "name": "that turns returns into growth opportunities.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00131,
+      "mentions": 1
+    },
+    {
+      "name": "more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001298,
+      "mentions": 1
+    },
+    {
+      "name": "ShippyPro merges shipping and returns management.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001259,
+      "mentions": 1
+    },
+    {
+      "name": "reason and eligibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001258,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001255,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001249,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001245,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "salience": 0.001236,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.001233,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001226,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify Order Status",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001218,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001209,
+      "mentions": 1
+    },
+    {
+      "name": "Shoppers expect simple",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001183,
+      "mentions": 1
+    },
+    {
+      "name": "Best for",
+      "type": "OTHER",
+      "salience": 0.00118,
+      "mentions": 1
+    },
+    {
+      "name": "fixed pricing.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001165,
+      "mentions": 1
+    },
+    {
+      "name": "Key Takeaways",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001159,
+      "mentions": 1
+    },
+    {
+      "name": "DR",
+      "type": "OTHER",
+      "salience": 0.001159,
+      "mentions": 1
+    },
+    {
+      "name": "shipping costs",
+      "type": "OTHER",
+      "salience": 0.001137,
+      "mentions": 1
+    },
+    {
+      "name": "geography",
+      "type": "OTHER",
+      "salience": 0.001128,
+      "mentions": 3
+    },
+    {
+      "name": "with 5",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001087,
+      "mentions": 1
+    },
+    {
+      "name": "TL",
+      "type": "OTHER",
+      "salience": 0.00108,
+      "mentions": 1
+    },
+    {
+      "name": "expectations",
+      "type": "OTHER",
+      "salience": 0.001062,
+      "mentions": 1
+    },
+    {
+      "name": "international capabilities",
+      "type": "OTHER",
+      "salience": 0.001057,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.001053,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.001031,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.001024,
+      "mentions": 1
+    },
+    {
+      "name": "beyond simple automation.",
+      "type": "OTHER",
+      "salience": 0.001009,
+      "mentions": 1
+    },
+    {
+      "name": "recovery features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001006,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations with leading eCommerce platforms and related tools.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000988,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.000985,
+      "mentions": 1
+    },
+    {
+      "name": "offer store credits",
+      "type": "OTHER",
+      "salience": 0.000917,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.000885,
+      "mentions": 1
+    },
+    {
+      "name": "labels",
+      "type": "OTHER",
+      "salience": 0.000875,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.000871,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.00087,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000865,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000856,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000852,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000848,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000844,
+      "mentions": 1
+    },
+    {
+      "name": "costs",
+      "type": "OTHER",
+      "salience": 0.000832,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.000817,
+      "mentions": 1
+    },
+    {
+      "name": "store credits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000807,
+      "mentions": 1
+    },
+    {
+      "name": "Retailers who view delivery and returns as one continuous experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.000778,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.000726,
+      "mentions": 1
+    },
+    {
+      "name": "logistics complexity",
+      "type": "OTHER",
+      "salience": 0.00071,
+      "mentions": 1
+    },
+    {
+      "name": "Test the customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000691,
+      "mentions": 1
+    },
+    {
+      "name": "to‐store options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000684,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.000682,
+      "mentions": 1
+    },
+    {
+      "name": "automation depth",
+      "type": "OTHER",
+      "salience": 0.000681,
+      "mentions": 1
+    },
+    {
+      "name": "automation",
+      "type": "OTHER",
+      "salience": 0.000677,
+      "mentions": 1
+    },
+    {
+      "name": "automates repetitive tasks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000671,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.00065,
+      "mentions": 1
+    },
+    {
+      "name": "rule‐based workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00065,
+      "mentions": 1
+    },
+    {
+      "name": "approvals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000648,
+      "mentions": 1
+    },
+    {
+      "name": "offers deep integrations",
+      "type": "OTHER",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "Centralized",
+      "type": "PERSON",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "intuitive interface",
+      "type": "OTHER",
+      "salience": 0.000634,
+      "mentions": 1
+    },
+    {
+      "name": "seamless integrations",
+      "type": "OTHER",
+      "salience": 0.000634,
+      "mentions": 1
+    },
+    {
+      "name": "Top",
+      "type": "PERSON",
+      "salience": 0.000625,
+      "mentions": 1
+    },
+    {
+      "name": "multi‐carrier integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000622,
+      "mentions": 1
+    },
+    {
+      "name": "Features like smart exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000619,
+      "mentions": 1
+    },
+    {
+      "name": "It centralizes the returns management process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000612,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000611,
+      "mentions": 2
+    },
+    {
+      "name": "Retains",
+      "type": "PERSON",
+      "salience": 0.000607,
+      "mentions": 1
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "salience": 0.00059,
+      "mentions": 1
+    },
+    {
+      "name": "replacing email threads and spreadsheets with automated workflows.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000586,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000578,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000577,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000577,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000576,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000575,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000574,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000574,
+      "mentions": 1
+    },
+    {
+      "name": "Retains",
+      "type": "PERSON",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000563,
+      "mentions": 1
+    },
+    {
+      "name": "revenue recovery",
+      "type": "OTHER",
+      "salience": 0.000562,
+      "mentions": 1
+    },
+    {
+      "name": "return processing costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00056,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.000528,
+      "mentions": 1
+    },
+    {
+      "name": "refunds",
+      "type": "OTHER",
+      "salience": 0.000523,
+      "mentions": 1
+    },
+    {
+      "name": "routing rules",
+      "type": "OTHER",
+      "salience": 0.000514,
+      "mentions": 1
+    },
+    {
+      "name": "top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000512,
+      "mentions": 1
+    },
+    {
+      "name": "carriers",
+      "type": "OTHER",
+      "salience": 0.000507,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.000505,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000504,
+      "mentions": 1
+    },
+    {
+      "name": "Top",
+      "type": "PERSON",
+      "salience": 0.000501,
+      "mentions": 1
+    },
+    {
+      "name": "Top",
+      "type": "PERSON",
+      "salience": 0.000493,
+      "mentions": 1
+    },
+    {
+      "name": "tracking",
+      "type": "OTHER",
+      "salience": 0.000493,
+      "mentions": 1
+    },
+    {
+      "name": "label creation",
+      "type": "OTHER",
+      "salience": 0.000485,
+      "mentions": 1
+    },
+    {
+      "name": "and workflow requirements",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000477,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000464,
+      "mentions": 1
+    },
+    {
+      "name": "ReadyReturns",
+      "type": "OTHER",
+      "salience": 0.000463,
+      "mentions": 1
+    },
+    {
+      "name": "ReadyReturns",
+      "type": "OTHER",
+      "salience": 0.000462,
+      "mentions": 1
+    },
+    {
+      "name": "Test the customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000456,
+      "mentions": 1
+    },
+    {
+      "name": "optimization.",
+      "type": "OTHER",
+      "salience": 0.000455,
+      "mentions": 1
+    },
+    {
+      "name": "actionable insights into ecommerce return s reasons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000453,
+      "mentions": 1
+    },
+    {
+      "name": "and customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000451,
+      "mentions": 1
+    },
+    {
+      "name": "Data‐driven eCommerce retailers that want advanced analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000444,
+      "mentions": 1
+    },
+    {
+      "name": "ReadyReturns",
+      "type": "OTHER",
+      "salience": 0.000442,
+      "mentions": 1
+    },
+    {
+      "name": "consolidated",
+      "type": "OTHER",
+      "salience": 0.000422,
+      "mentions": 1
+    },
+    {
+      "name": "Strong automation and integrations reduce manual handoffs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000414,
+      "mentions": 1
+    },
+    {
+      "name": "Check platform compatibility and ease of use",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00041,
+      "mentions": 1
+    },
+    {
+      "name": "fees",
+      "type": "OTHER",
+      "salience": 0.000405,
+      "mentions": 2
+    },
+    {
+      "name": "including exchanges",
+      "type": "OTHER",
+      "salience": 0.000393,
+      "mentions": 1
+    },
+    {
+      "name": "Step",
+      "type": "OTHER",
+      "salience": 0.000378,
+      "mentions": 1
+    },
+    {
+      "name": "Box‐free",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000366,
+      "mentions": 1
+    },
+    {
+      "name": "reduce costs",
+      "type": "OTHER",
+      "salience": 0.000362,
+      "mentions": 1
+    },
+    {
+      "name": "Continue reading",
+      "type": "OTHER",
+      "salience": 0.00036,
+      "mentions": 1
+    },
+    {
+      "name": "box‐free",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000358,
+      "mentions": 1
+    },
+    {
+      "name": "routing",
+      "type": "OTHER",
+      "salience": 0.000351,
+      "mentions": 2
+    },
+    {
+      "name": "approvals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000349,
+      "mentions": 1
+    },
+    {
+      "name": "ReadyReturns",
+      "type": "OTHER",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "store credits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "store credits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000342,
+      "mentions": 1
+    },
+    {
+      "name": "Incentives",
+      "type": "PERSON",
+      "salience": 0.000337,
+      "mentions": 1
+    },
+    {
+      "name": "Key features of returns management software include a branded returns portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000322,
+      "mentions": 1
+    },
+    {
+      "name": "automated approvals and generating return labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000322,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.00032,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00032,
+      "mentions": 1
+    },
+    {
+      "name": "Sorted Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000318,
+      "mentions": 1
+    },
+    {
+      "name": "Unified delivery and returns experience with branded portals.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000312,
+      "mentions": 1
+    },
+    {
+      "name": "product performance",
+      "type": "OTHER",
+      "salience": 0.000311,
+      "mentions": 1
+    },
+    {
+      "name": "After evaluating all these platforms and selection criteria",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000297,
+      "mentions": 1
+    },
+    {
+      "name": "data sync is reliable, and merchants can manage returns without complex custom development",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000295,
+      "mentions": 1
+    },
+    {
+      "name": "Fully scalable",
+      "type": "OTHER",
+      "salience": 0.000288,
+      "mentions": 1
+    },
+    {
+      "name": "Configurable",
+      "type": "OTHER",
+      "salience": 0.000281,
+      "mentions": 1
+    },
+    {
+      "name": "Check platform compatibility and ease of use",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "and responsive support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000275,
+      "mentions": 1
+    },
+    {
+      "name": "Understanding the benefits is one thing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000269,
+      "mentions": 1
+    },
+    {
+      "name": "Understanding",
+      "type": "PERSON",
+      "salience": 0.000268,
+      "mentions": 1
+    },
+    {
+      "name": "categories with the highest issues",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000267,
+      "mentions": 1
+    },
+    {
+      "name": "Demand transparency in analytics and reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000261,
+      "mentions": 1
+    },
+    {
+      "name": "Sorted Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000251,
+      "mentions": 1
+    },
+    {
+      "name": "clear",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "Aggregated",
+      "type": "OTHER",
+      "salience": 0.000242,
+      "mentions": 1
+    },
+    {
+      "name": "Quick comparison of top 5 returns management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000222,
+      "mentions": 1
+    },
+    {
+      "name": "quality",
+      "type": "OTHER",
+      "salience": 0.000216,
+      "mentions": 1
+    },
+    {
+      "name": "refine content",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000216,
+      "mentions": 1
+    },
+    {
+      "name": "Match features to your business model",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000212,
+      "mentions": 1
+    },
+    {
+      "name": "Thank you",
+      "type": "PERSON",
+      "salience": 0.000209,
+      "mentions": 1
+    },
+    {
+      "name": "Beyond subscription fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000209,
+      "mentions": 1
+    },
+    {
+      "name": "fraud signals",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "Demand transparency in analytics and reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000177,
+      "mentions": 1
+    },
+    {
+      "name": "authorizations",
+      "type": "OTHER",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "robust policy control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "February 8",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "February 8",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000163,
+      "mentions": 1
+    },
+    {
+      "name": "billed annually.",
+      "type": "OTHER",
+      "salience": 0.000158,
+      "mentions": 1
+    },
+    {
+      "name": "friendly",
+      "type": "OTHER",
+      "salience": 0.000157,
+      "mentions": 1
+    },
+    {
+      "name": "and product descriptions.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000156,
+      "mentions": 1
+    },
+    {
+      "name": "adjust size charts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000156,
+      "mentions": 1
+    },
+    {
+      "name": "and real‐time status updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000155,
+      "mentions": 1
+    },
+    {
+      "name": "superior customer service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000155,
+      "mentions": 1
+    },
+    {
+      "name": "training",
+      "type": "OTHER",
+      "salience": 0.000151,
+      "mentions": 1
+    },
+    {
+      "name": "e.g., Shopify vs. custom build",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00015,
+      "mentions": 1
+    },
+    {
+      "name": "and cost drivers.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000149,
+      "mentions": 1
+    },
+    {
+      "name": "Table of Contents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000147,
+      "mentions": 1
+    },
+    {
+      "name": "Slash operational costs and eliminate manual processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000143,
+      "mentions": 1
+    },
+    {
+      "name": "We",
+      "type": "OTHER",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "Match features to your business model",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "items",
+      "type": "OTHER",
+      "salience": 0.000139,
+      "mentions": 1
+    },
+    {
+      "name": "Slash operational costs and eliminate manual processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000134,
+      "mentions": 1
+    },
+    {
+      "name": "self‐serve returns with clear status updates and fast resolutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "Unlike its enterprise delivery platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000127,
+      "mentions": 1
+    },
+    {
+      "name": "Combined with extensive integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "clear instructions",
+      "type": "OTHER",
+      "salience": 0.000112,
+      "mentions": 1
+    },
+    {
+      "name": "minimizes errors",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Before committing",
+      "type": "OTHER",
+      "salience": 6.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "19.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 8, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$19.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$155",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$199",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$19.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$155",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$375",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$199",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$23",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$147",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$297",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$129",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$11",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$59",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$239",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$299",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "155",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "199",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "673",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 10, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "155",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "375",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "199",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "147",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "297",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "129",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "59",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "239",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "299",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "202",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 8, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "PERSON": 13,
+    "OTHER": 164,
+    "CONSUMER_GOOD": 141,
+    "NUMBER": 81,
+    "DATE": 3,
+    "PRICE": 17
+  },
+  "type_salience": {
+    "PERSON": 0.105016,
+    "OTHER": 0.46763,
+    "CONSUMER_GOOD": 0.3466000000000001,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

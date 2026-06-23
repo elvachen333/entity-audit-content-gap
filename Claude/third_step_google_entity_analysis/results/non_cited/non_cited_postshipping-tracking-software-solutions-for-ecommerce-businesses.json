@@ -1,0 +1,747 @@
+{
+  "file": "non_cited_postshipping-tracking-software-solutions-for-ecommerce-businesses.txt",
+  "word_count": 917,
+  "entity_count": 121,
+  "entities": [
+    {
+      "name": "shipped",
+      "type": "OTHER",
+      "salience": 0.134894,
+      "mentions": 1
+    },
+    {
+      "name": "E-Commerce",
+      "type": "OTHER",
+      "salience": 0.079848,
+      "mentions": 1
+    },
+    {
+      "name": "and consistent communication.",
+      "type": "OTHER",
+      "salience": 0.030011,
+      "mentions": 1
+    },
+    {
+      "name": "simple",
+      "type": "OTHER",
+      "salience": 0.029375,
+      "mentions": 1
+    },
+    {
+      "name": "helping businesses streamline shipping and tracking.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026332,
+      "mentions": 1
+    },
+    {
+      "name": "Integrating",
+      "type": "OTHER",
+      "salience": 0.025807,
+      "mentions": 1
+    },
+    {
+      "name": "Where is my order",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025449,
+      "mentions": 1
+    },
+    {
+      "name": "Tue Sep 09 2025Views",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02517,
+      "mentions": 1
+    },
+    {
+      "name": "today's customers demand live updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025112,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.024806,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo",
+      "type": "PERSON",
+      "salience": 0.024609,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.024456,
+      "mentions": 1
+    },
+    {
+      "name": "streamlines operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024031,
+      "mentions": 1
+    },
+    {
+      "name": "Table of contents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022039,
+      "mentions": 1
+    },
+    {
+      "name": "they want real-time tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02116,
+      "mentions": 1
+    },
+    {
+      "name": "choosing the best can be overwhelming.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019627,
+      "mentions": 1
+    },
+    {
+      "name": "visual tracking",
+      "type": "OTHER",
+      "salience": 0.018398,
+      "mentions": 1
+    },
+    {
+      "name": "updates via SMS or email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017705,
+      "mentions": 1
+    },
+    {
+      "name": "With over 900 carriers worldwide",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017557,
+      "mentions": 1
+    },
+    {
+      "name": "With Shippo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016267,
+      "mentions": 1
+    },
+    {
+      "name": "businesses.",
+      "type": "OTHER",
+      "salience": 0.015817,
+      "mentions": 1
+    },
+    {
+      "name": "notification was sufficient.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015154,
+      "mentions": 1
+    },
+    {
+      "name": "It offers real-time tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014926,
+      "mentions": 1
+    },
+    {
+      "name": "accurate delivery estimates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014434,
+      "mentions": 1
+    },
+    {
+      "name": "It connects with over 100 carriers and provides automatic tracking updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01436,
+      "mentions": 1
+    },
+    {
+      "name": "and enhances brand reputation.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013812,
+      "mentions": 1
+    },
+    {
+      "name": "Reducing",
+      "type": "OTHER",
+      "salience": 0.012932,
+      "mentions": 1
+    },
+    {
+      "name": "Best 8",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012627,
+      "mentions": 1
+    },
+    {
+      "name": "customer service calls.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012613,
+      "mentions": 1
+    },
+    {
+      "name": "giving customers a professional and seamless experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010349,
+      "mentions": 1
+    },
+    {
+      "name": "shipping tracking software solution for 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009787,
+      "mentions": 1
+    },
+    {
+      "name": "branded notifications",
+      "type": "OTHER",
+      "salience": 0.009767,
+      "mentions": 1
+    },
+    {
+      "name": "branded tracking pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009397,
+      "mentions": 1
+    },
+    {
+      "name": "Software Development",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00933,
+      "mentions": 1
+    },
+    {
+      "name": "WISMO",
+      "type": "OTHER",
+      "salience": 0.009122,
+      "mentions": 1
+    },
+    {
+      "name": "including branded tracking pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008939,
+      "mentions": 1
+    },
+    {
+      "name": "For more queries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008125,
+      "mentions": 1
+    },
+    {
+      "name": "Your Message",
+      "type": "OTHER",
+      "salience": 0.00557,
+      "mentions": 1
+    },
+    {
+      "name": "interestingly.",
+      "type": "OTHER",
+      "salience": 0.00553,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip",
+      "type": "OTHER",
+      "salience": 0.005315,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip is one of the best shipping tracking software solutions.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005223,
+      "mentions": 1
+    },
+    {
+      "name": "ParcelPanel",
+      "type": "OTHER",
+      "salience": 0.0052,
+      "mentions": 1
+    },
+    {
+      "name": "email and SMS notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005136,
+      "mentions": 1
+    },
+    {
+      "name": "ParcelPanel is designed to make tracking pages attractive and user-friendly.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005134,
+      "mentions": 1
+    },
+    {
+      "name": "requirements.",
+      "type": "OTHER",
+      "salience": 0.004908,
+      "mentions": 1
+    },
+    {
+      "name": "automates shipping tasks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004761,
+      "mentions": 1
+    },
+    {
+      "name": "This way",
+      "type": "OTHER",
+      "salience": 0.00469,
+      "mentions": 1
+    },
+    {
+      "name": "SendCloud",
+      "type": "OTHER",
+      "salience": 0.004581,
+      "mentions": 1
+    },
+    {
+      "name": "and WooCommerce",
+      "type": "OTHER",
+      "salience": 0.004467,
+      "mentions": 1
+    },
+    {
+      "name": "best shipping tracking software solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004301,
+      "mentions": 1
+    },
+    {
+      "name": "SEO-friendly content.",
+      "type": "OTHER",
+      "salience": 0.004293,
+      "mentions": 1
+    },
+    {
+      "name": "discounted shipping rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003731,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.003402,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.003321,
+      "mentions": 1
+    },
+    {
+      "name": "Malomo",
+      "type": "OTHER",
+      "salience": 0.003219,
+      "mentions": 1
+    },
+    {
+      "name": "Here are the best 8",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003169,
+      "mentions": 1
+    },
+    {
+      "name": "Route",
+      "type": "OTHER",
+      "salience": 0.003056,
+      "mentions": 1
+    },
+    {
+      "name": "Post comment",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Full Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002972,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 0.002957,
+      "mentions": 1
+    },
+    {
+      "name": "and detailed reports.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002951,
+      "mentions": 1
+    },
+    {
+      "name": "Woocommerce",
+      "type": "OTHER",
+      "salience": 0.002791,
+      "mentions": 1
+    },
+    {
+      "name": "delivering",
+      "type": "OTHER",
+      "salience": 0.002752,
+      "mentions": 1
+    },
+    {
+      "name": "making the process straightforward and organized.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00269,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00269,
+      "mentions": 1
+    },
+    {
+      "name": "contact Hornet Dynamics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002682,
+      "mentions": 1
+    },
+    {
+      "name": "Amazon",
+      "type": "OTHER",
+      "salience": 0.002566,
+      "mentions": 1
+    },
+    {
+      "name": "Saloni Singh",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002495,
+      "mentions": 1
+    },
+    {
+      "name": "EasyPost",
+      "type": "OTHER",
+      "salience": 0.002457,
+      "mentions": 1
+    },
+    {
+      "name": "value-driven",
+      "type": "OTHER",
+      "salience": 0.002453,
+      "mentions": 1
+    },
+    {
+      "name": "Share Your Thought",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002439,
+      "mentions": 1
+    },
+    {
+      "name": "Share",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002412,
+      "mentions": 1
+    },
+    {
+      "name": "Phone Number",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002337,
+      "mentions": 1
+    },
+    {
+      "name": "Phone",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002326,
+      "mentions": 1
+    },
+    {
+      "name": "product recommendations",
+      "type": "OTHER",
+      "salience": 0.002278,
+      "mentions": 1
+    },
+    {
+      "name": "E-Commerce",
+      "type": "OTHER",
+      "salience": 0.002259,
+      "mentions": 1
+    },
+    {
+      "name": "stolen",
+      "type": "OTHER",
+      "salience": 0.00186,
+      "mentions": 1
+    },
+    {
+      "name": "resolve",
+      "type": "OTHER",
+      "salience": 0.001843,
+      "mentions": 1
+    },
+    {
+      "name": "Verified Expert in Blog Writing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001794,
+      "mentions": 1
+    },
+    {
+      "name": "and marketing materials",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001774,
+      "mentions": 1
+    },
+    {
+      "name": "connecting with audiences and delivering clear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001774,
+      "mentions": 1
+    },
+    {
+      "name": "websites",
+      "type": "OTHER",
+      "salience": 0.001774,
+      "mentions": 1
+    },
+    {
+      "name": "Guaranteed response within one hour",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001717,
+      "mentions": 1
+    },
+    {
+      "name": "Submit",
+      "type": "OTHER",
+      "salience": 0.001665,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.001657,
+      "mentions": 1
+    },
+    {
+      "name": "Digital Marketing",
+      "type": "PERSON",
+      "salience": 0.001649,
+      "mentions": 1
+    },
+    {
+      "name": "Magento",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001626,
+      "mentions": 1
+    },
+    {
+      "name": "Laravel Web Development",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001589,
+      "mentions": 1
+    },
+    {
+      "name": "Artificial Intelligence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001582,
+      "mentions": 1
+    },
+    {
+      "name": "B2C",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001575,
+      "mentions": 1
+    },
+    {
+      "name": "Since it supports international shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001159,
+      "mentions": 1
+    },
+    {
+      "name": "Final Words",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001151,
+      "mentions": 1
+    },
+    {
+      "name": "communicate effectively",
+      "type": "OTHER",
+      "salience": 0.001136,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Tue Sep 09 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1579",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "900",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 40,
+    "CONSUMER_GOOD": 51,
+    "PERSON": 2,
+    "DATE": 7,
+    "NUMBER": 21
+  },
+  "type_salience": {
+    "OTHER": 0.5062530000000003,
+    "CONSUMER_GOOD": 0.467492,
+    "PERSON": 0.026258,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

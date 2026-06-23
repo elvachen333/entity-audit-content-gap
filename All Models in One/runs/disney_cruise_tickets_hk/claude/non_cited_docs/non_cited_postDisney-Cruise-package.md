@@ -1,0 +1,81 @@
+郵輪假期及套票
+
+# 迪士尼郵輪 Disney Cruise Line
+
+[按船公司](https://www.tcitravel.com/zh-CN/Cruise/Cruise-Package/Cruise-Package-Company)
+
+[TCI 勝景遊主頁](https://www.tcitravel.com/zh-CN)
+
+[遊輪假期](https://www.tcitravel.com/zh-CN/Cruise)
+
+[遊輪假期及套票](https://www.tcitravel.com/zh-CN/Cruise/Cruise-Package)
+
+[按船公司](https://www.tcitravel.com/zh-CN/Cruise/Cruise-Package/Cruise-Package-Company)
+
+[迪士尼遊輪 Disney Cruise Line](https://www.tcitravel.com/zh-CN/Cruise/Cruise-Package/Cruise-Package-Company/Disney-Cruise-package)
+
+無拘無束的隨心旅程
+
+郵輪套票將令您真正感受大海上的無拘無束。自卸下行李的一刻起，精彩假期便正式展開，航行期間船上的美食、設備可供任意享用，在此並可遇見來自世界各地的旅客，與他們暢聚交流。郵輪泊岸後，您只需帶上簡便行裝，便可按自己的節調自由探索岸上風土人情，或參與當地的小型旅行團，一切隨心。
+
+迪士尼郵輪 (Disney Cruise Line)
+
+以風靡全球的卡通人物作主題，華納迪士尼旗下共有四艘遊輪，均為乘客締造童話般的海上假期，在海上城堡與一眾迪士尼人物嬉戲，或與親朋好友欣賞燦爛的海上煙花，將是旅途中難忘的共同回憶。遊輪航線遍及加勒比海、阿拉斯加、地中海等地，在世界多個角落都可找到卡通偶像的身影。
+
+迪士尼幻想號 (Disney Fantasy) ─ 優雅舒適
+
+迪士尼幻想號時刻讓您置身於優雅舒適的空間，船上的Concierge Royal Suite with Verandah寬逾1700呎，並附有私人露台，就中奢華請您細意享受。Remy餐廳的設計結合燈光與新派藝術風格，這光之城為您提供精緻的法國菜和甜品。氣氛悠閒的Flo’s Café露天餐廳裏，您可與孩子品嚐漢堡、薄餅等可口美食，享受闔家歡樂時光。
+
+迪士尼幻想號 (Disney Fantasy) ─ 動靜皆宜
+
+船上的玩樂設施動靜兼備，務求令每位旅客盡興。AquaDuck滑梯集觀景與刺激於一身，半透明設計容您觀賞無際的海洋美景，後段忽然加速令您感受極速橫衝下水的快感。即將推出的Star Wars Day at Sea中，您將穿起《星球大戰》服飾化身武士，以激光劍與反派角色一較高下。刺激過後請觀賞一場阿拉丁神燈表演，與家人享受歡欣輕鬆的晚上。
+
+旅行團
+
+[\+ 高級搜尋](https://www.tcitravel.com/zh-CN/Cruise/Cruise-Package/Cruise-Package-Company/Disney-Cruise-package# "+ 高級搜尋")
+
+[了解更多](https://www.tcitravel.com/zh-CN/Product/P_PSA04_18602 "了解更多")
+
+[迪士尼遊輪全新「迪士尼探索號」 \- 新加坡4 晚航程(2026 年 3-12 月逢星期四啟航)\\
+\\
+團號: PSA04()\\
+\\
+迪士尼遊輪 \- 迪士尼探索號\\
+\\
+出發日期： 2026年4月30日; 2026年5月21日; 2026年6月18日; 2026年7月16日; 2026年8月...\\
+\\
+4.5 (100)\\
+\\
+$4,522起](https://www.tcitravel.com/zh-CN/Product/P_PSA04_18602)
+
+查看更多
+
+[上一頁](https://www.tcitravel.com/zh-CN/Cruise/Cruise-Package/Cruise-Package-Company/Disney-Cruise-package?PageIndex=0#productlist "上一頁")
+
+[下一頁](https://www.tcitravel.com/zh-CN/Cruise/Cruise-Package/Cruise-Package-Company/Disney-Cruise-package?PageIndex=2#productlist "下一頁")
+
+本公司透過使用Cookie以評估閣下在本網站的使用情況，為閣下提供最佳的網站體驗。如果閣下繼續瀏覽本網站，即表示您接受本公司使用Cookie來收集數據。
+
+詳情請參閱 [隱私政策](https://www.tcitravel.com/zh-CN/About-Us/Website-Privacy-Notice) 及 [Cookie 政策](https://www.tcitravel.com/zh-CN/About-Us/Cookie-Policy)。
+
+接受並繼續
+
+![logo](https://cdn-cmp.tcitravel.com/images/tci_logo_bg_white.jpeg)
+
+TCI 勝景遊
+
+一樣的風景 非一般的旅程體驗 品鑒不一樣的世界
+
+![](https://cdn-cmp.tcitravel.com/images/ab/close_20.svg)
+
+TCI 勝景遊
+
+您好！歡迎光臨 TCI 勝景遊，我們非常榮幸能為您提供服務。
+
+您好！我想查詢旅遊產品。
+
+[![](https://cdn-cmp.tcitravel.com/images/ab/whatsapp_22.svg)\\
+\\
+開始查詢](https://web.whatsapp.com/send?phone=85291981414&text=%E6%82%A8%E5%A5%BD%EF%BC%81%E6%88%91%E6%83%B3%E6%9F%A5%E8%A9%A2%E6%97%85%E9%81%8A%E7%94%A2%E5%93%81%E3%80%82%0Ahttps://www.tcitravel.com/zh-CN/Cruise/Cruise-Package/Cruise-Package-Company/Disney-Cruise-package)
+
+![](https://cdn-cmp.tcitravel.com/images/ab/whatsapp_22.svg)

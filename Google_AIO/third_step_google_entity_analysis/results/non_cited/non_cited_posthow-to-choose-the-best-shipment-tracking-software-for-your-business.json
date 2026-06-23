@@ -1,0 +1,565 @@
+{
+  "file": "non_cited_posthow-to-choose-the-best-shipment-tracking-software-for-your-business.txt",
+  "word_count": 1140,
+  "entity_count": 90,
+  "entities": [
+    {
+      "name": "Shipment tracking software is becoming increasingly important.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.112065,
+      "mentions": 1
+    },
+    {
+      "name": "to and from where and by what means of transport.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.077092,
+      "mentions": 1
+    },
+    {
+      "name": "Brand Contributor",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.065603,
+      "mentions": 1
+    },
+    {
+      "name": "Leadership",
+      "type": "OTHER",
+      "salience": 0.056902,
+      "mentions": 1
+    },
+    {
+      "name": "BRANDVOICE Storytelling and expertise from marketers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.054426,
+      "mentions": 1
+    },
+    {
+      "name": "software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.052047,
+      "mentions": 1
+    },
+    {
+      "name": "malomo",
+      "type": "OTHER",
+      "salience": 0.043435,
+      "mentions": 1
+    },
+    {
+      "name": "They will",
+      "type": "OTHER",
+      "salience": 0.038663,
+      "mentions": 1
+    },
+    {
+      "name": "tracking.",
+      "type": "OTHER",
+      "salience": 0.035563,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking.",
+      "type": "OTHER",
+      "salience": 0.031671,
+      "mentions": 1
+    },
+    {
+      "name": "Paid Program",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024887,
+      "mentions": 1
+    },
+    {
+      "name": "Transportation Tracking",
+      "type": "OTHER",
+      "salience": 0.022849,
+      "mentions": 1
+    },
+    {
+      "name": "Transportation tracking software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022385,
+      "mentions": 1
+    },
+    {
+      "name": "Logistics Tracking",
+      "type": "OTHER",
+      "salience": 0.019161,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017243,
+      "mentions": 1
+    },
+    {
+      "name": "Jan 05",
+      "type": "OTHER",
+      "salience": 0.016766,
+      "mentions": 1
+    },
+    {
+      "name": "05:05pm EST",
+      "type": "OTHER",
+      "salience": 0.016766,
+      "mentions": 1
+    },
+    {
+      "name": "ESTMar 02",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016766,
+      "mentions": 1
+    },
+    {
+      "name": "entrepreneurs",
+      "type": "OTHER",
+      "salience": 0.016461,
+      "mentions": 1
+    },
+    {
+      "name": "however",
+      "type": "OTHER",
+      "salience": 0.01422,
+      "mentions": 1
+    },
+    {
+      "name": "shipment tracking software.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012583,
+      "mentions": 1
+    },
+    {
+      "name": "accountable,",
+      "type": "OTHER",
+      "salience": 0.012173,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.011865,
+      "mentions": 1
+    },
+    {
+      "name": "TMS",
+      "type": "ORGANIZATION",
+      "salience": 0.011377,
+      "mentions": 1
+    },
+    {
+      "name": "Internal Shipment Tracking and Inbound Shipment Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008303,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007882,
+      "mentions": 1
+    },
+    {
+      "name": "where they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007788,
+      "mentions": 1
+    },
+    {
+      "name": "products they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007788,
+      "mentions": 1
+    },
+    {
+      "name": "it",
+      "type": "LOCATION",
+      "salience": 0.007393,
+      "mentions": 1
+    },
+    {
+      "name": "Data breaches and cyber-attacks are more common than ever.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006982,
+      "mentions": 1
+    },
+    {
+      "name": "ve purchased goods",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006885,
+      "mentions": 1
+    },
+    {
+      "name": "You",
+      "type": "OTHER",
+      "salience": 0.006716,
+      "mentions": 1
+    },
+    {
+      "name": "Last Mile",
+      "type": "OTHER",
+      "salience": 0.006374,
+      "mentions": 2
+    },
+    {
+      "name": "Last Mile",
+      "type": "PERSON",
+      "salience": 0.005859,
+      "mentions": 1
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005549,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe today",
+      "type": "OTHER",
+      "salience": 0.005235,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.005097,
+      "mentions": 1
+    },
+    {
+      "name": "Subscriptions renew automatically",
+      "type": "OTHER",
+      "salience": 0.005071,
+      "mentions": 1
+    },
+    {
+      "name": "Make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004917,
+      "mentions": 1
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004904,
+      "mentions": 1
+    },
+    {
+      "name": "Data Security",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004329,
+      "mentions": 1
+    },
+    {
+      "name": "Conditional Awareness",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003874,
+      "mentions": 1
+    },
+    {
+      "name": "even shock",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003811,
+      "mentions": 1
+    },
+    {
+      "name": "conditions like temperature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003811,
+      "mentions": 1
+    },
+    {
+      "name": "Scalability",
+      "type": "OTHER",
+      "salience": 0.00375,
+      "mentions": 1
+    },
+    {
+      "name": "USPS tracking",
+      "type": "OTHER",
+      "salience": 0.003545,
+      "mentions": 1
+    },
+    {
+      "name": "Please select all matching images",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00338,
+      "mentions": 1
+    },
+    {
+      "name": "Please select around the object",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003348,
+      "mentions": 1
+    },
+    {
+      "name": "BRANDVOICE",
+      "type": "OTHER",
+      "salience": 0.003306,
+      "mentions": 1
+    },
+    {
+      "name": "Make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00316,
+      "mentions": 1
+    },
+    {
+      "name": "more than",
+      "type": "ORGANIZATION",
+      "salience": 0.003131,
+      "mentions": 1
+    },
+    {
+      "name": "named Best Package Tracking App 2018",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002861,
+      "mentions": 1
+    },
+    {
+      "name": "humidity",
+      "type": "OTHER",
+      "salience": 0.002756,
+      "mentions": 1
+    },
+    {
+      "name": "i.e. when your shipment is dropped and potentially damaged",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002756,
+      "mentions": 1
+    },
+    {
+      "name": "Forbes brand contributors",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00273,
+      "mentions": 1
+    },
+    {
+      "name": "Forbes brand contributors",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002694,
+      "mentions": 1
+    },
+    {
+      "name": "Why send customers to UPS tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002564,
+      "mentions": 1
+    },
+    {
+      "name": "auto PREMIUM",
+      "type": "OTHER",
+      "salience": 0.002417,
+      "mentions": 1
+    },
+    {
+      "name": "Premium Journalism",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002352,
+      "mentions": 1
+    },
+    {
+      "name": "website",
+      "type": "OTHER",
+      "salience": 0.002279,
+      "mentions": 1
+    },
+    {
+      "name": "Verify",
+      "type": "OTHER",
+      "salience": 0.002215,
+      "mentions": 1
+    },
+    {
+      "name": "User-Friendliness",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002059,
+      "mentions": 1
+    },
+    {
+      "name": "right",
+      "type": "OTHER",
+      "salience": 0.001851,
+      "mentions": 1
+    },
+    {
+      "name": "Visit Malomo's",
+      "type": "OTHER",
+      "salience": 0.001778,
+      "mentions": 1
+    },
+    {
+      "name": "render-sign-in",
+      "type": "OTHER",
+      "salience": 0.001758,
+      "mentions": 1
+    },
+    {
+      "name": "deeply reported stories and breaking news",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0017,
+      "mentions": 1
+    },
+    {
+      "name": "Members-only events",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001691,
+      "mentions": 1
+    },
+    {
+      "name": "reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001657,
+      "mentions": 1
+    },
+    {
+      "name": "Paid Program",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001509,
+      "mentions": 1
+    },
+    {
+      "name": "Streamlined",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001166,
+      "mentions": 1
+    },
+    {
+      "name": "layman-friendly",
+      "type": "PERSON",
+      "salience": 0.001166,
+      "mentions": 1
+    },
+    {
+      "name": "gomalomo.com",
+      "type": "OTHER",
+      "salience": 0.00115,
+      "mentions": 1
+    },
+    {
+      "name": "Editorial Standards",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001112,
+      "mentions": 1
+    },
+    {
+      "name": "Permissions",
+      "type": "OTHER",
+      "salience": 0.001105,
+      "mentions": 1
+    },
+    {
+      "name": "Reprints",
+      "type": "OTHER",
+      "salience": 0.001105,
+      "mentions": 1
+    },
+    {
+      "name": "Magic Spoon",
+      "type": "PERSON",
+      "salience": 0.001078,
+      "mentions": 1
+    },
+    {
+      "name": "CUTS",
+      "type": "OTHER",
+      "salience": 0.001078,
+      "mentions": 1
+    },
+    {
+      "name": "Jan 05, 2021, 05:50pm",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 39,
+    "OTHER": 32,
+    "ORGANIZATION": 3,
+    "LOCATION": 1,
+    "PERSON": 3,
+    "DATE": 3,
+    "NUMBER": 10
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.5686590000000002,
+    "OTHER": 0.383216,
+    "ORGANIZATION": 0.026373,
+    "LOCATION": 0.007393,
+    "PERSON": 0.008102999999999999,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

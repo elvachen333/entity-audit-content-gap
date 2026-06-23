@@ -1,0 +1,1919 @@
+{
+  "file": "cited_postDisney-Cruise-Line.cDS.Cruise-Line-Info.txt",
+  "word_count": 1988,
+  "entity_count": 315,
+  "entities": [
+    {
+      "name": "cruises found",
+      "type": "OTHER",
+      "salience": 0.039752,
+      "mentions": 1
+    },
+    {
+      "name": "cruise",
+      "type": "OTHER",
+      "salience": 0.037276,
+      "mentions": 10
+    },
+    {
+      "name": "Disney Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026537,
+      "mentions": 10
+    },
+    {
+      "name": "Disney Wonder",
+      "type": "OTHER",
+      "salience": 0.026052,
+      "mentions": 4
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.014732,
+      "mentions": 1
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.014732,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Fantasy",
+      "type": "OTHER",
+      "salience": 0.014494,
+      "mentions": 4
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.012238,
+      "mentions": 1
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.012238,
+      "mentions": 1
+    },
+    {
+      "name": "visiting 3 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012056,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Dream",
+      "type": "OTHER",
+      "salience": 0.011966,
+      "mentions": 2
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.011557,
+      "mentions": 1
+    },
+    {
+      "name": "Expert assistance",
+      "type": "OTHER",
+      "salience": 0.010866,
+      "mentions": 1
+    },
+    {
+      "name": "visiting 2 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01049,
+      "mentions": 1
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01036,
+      "mentions": 1
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.010092,
+      "mentions": 1
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "salience": 0.008751,
+      "mentions": 11
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008606,
+      "mentions": 1
+    },
+    {
+      "name": "inside room per traveler",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00821,
+      "mentions": 1
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.007992,
+      "mentions": 1
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.007992,
+      "mentions": 1
+    },
+    {
+      "name": "CanadaDeparting",
+      "type": "OTHER",
+      "salience": 0.007661,
+      "mentions": 1
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.007155,
+      "mentions": 1
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.007155,
+      "mentions": 1
+    },
+    {
+      "name": "Port Canaveral",
+      "type": "OTHER",
+      "salience": 0.007029,
+      "mentions": 12
+    },
+    {
+      "name": "visiting 3 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006891,
+      "mentions": 1
+    },
+    {
+      "name": "May 4",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006714,
+      "mentions": 1
+    },
+    {
+      "name": "May 7",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006714,
+      "mentions": 1
+    },
+    {
+      "name": "Departing between",
+      "type": "OTHER",
+      "salience": 0.006691,
+      "mentions": 1
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.006645,
+      "mentions": 1
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.006531,
+      "mentions": 1
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.006531,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.00642,
+      "mentions": 1
+    },
+    {
+      "name": "visiting 3 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006251,
+      "mentions": 1
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.006042,
+      "mentions": 1
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.006042,
+      "mentions": 1
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.006038,
+      "mentions": 1
+    },
+    {
+      "name": "cruise vacation",
+      "type": "OTHER",
+      "salience": 0.005981,
+      "mentions": 1
+    },
+    {
+      "name": "visiting 3 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005757,
+      "mentions": 1
+    },
+    {
+      "name": "May 7",
+      "type": "OTHER",
+      "salience": 0.005697,
+      "mentions": 1
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005619,
+      "mentions": 1
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.005568,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.005333,
+      "mentions": 1
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005031,
+      "mentions": 1
+    },
+    {
+      "name": "Prices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00503,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.004702,
+      "mentions": 1
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004592,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.004471,
+      "mentions": 1
+    },
+    {
+      "name": "Going to",
+      "type": "OTHER",
+      "salience": 0.004465,
+      "mentions": 1
+    },
+    {
+      "name": "Duration3",
+      "type": "PERSON",
+      "salience": 0.004439,
+      "mentions": 1
+    },
+    {
+      "name": "San Diego",
+      "type": "PERSON",
+      "salience": 0.004299,
+      "mentions": 5
+    },
+    {
+      "name": "More details",
+      "type": "OTHER",
+      "salience": 0.004273,
+      "mentions": 1
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004248,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.004175,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.004159,
+      "mentions": 1
+    },
+    {
+      "name": "Going to",
+      "type": "OTHER",
+      "salience": 0.004057,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Wish",
+      "type": "OTHER",
+      "salience": 0.003586,
+      "mentions": 3
+    },
+    {
+      "name": "safety",
+      "type": "OTHER",
+      "salience": 0.003189,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.003117,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.002845,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.002632,
+      "mentions": 1
+    },
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "salience": 0.002582,
+      "mentions": 2
+    },
+    {
+      "name": "Castaway Cay",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002401,
+      "mentions": 7
+    },
+    {
+      "name": "May 4",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002399,
+      "mentions": 1
+    },
+    {
+      "name": "CRUISING",
+      "type": "ORGANIZATION",
+      "salience": 0.002262,
+      "mentions": 1
+    },
+    {
+      "name": "Min nights",
+      "type": "OTHER",
+      "salience": 0.002207,
+      "mentions": 1
+    },
+    {
+      "name": "visiting 4 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002137,
+      "mentions": 1
+    },
+    {
+      "name": "line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002118,
+      "mentions": 1
+    },
+    {
+      "name": "Max nights",
+      "type": "OTHER",
+      "salience": 0.002099,
+      "mentions": 1
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.002073,
+      "mentions": 1
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.002061,
+      "mentions": 1
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.002061,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Guide",
+      "type": "OTHER",
+      "salience": 0.002031,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.002026,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.002018,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Articles",
+      "type": "OTHER",
+      "salience": 0.002013,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.001994,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Ships",
+      "type": "OTHER",
+      "salience": 0.001964,
+      "mentions": 1
+    },
+    {
+      "name": "visiting 4 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001957,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Magic",
+      "type": "OTHER",
+      "salience": 0.00195,
+      "mentions": 1
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.001942,
+      "mentions": 1
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.001942,
+      "mentions": 1
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.001894,
+      "mentions": 1
+    },
+    {
+      "name": "Prioritizing your safety",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001849,
+      "mentions": 1
+    },
+    {
+      "name": "visiting 3 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00184,
+      "mentions": 1
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.001833,
+      "mentions": 1
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.001833,
+      "mentions": 1
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.001782,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 16",
+      "type": "OTHER",
+      "salience": 0.001743,
+      "mentions": 1
+    },
+    {
+      "name": "night",
+      "type": "OTHER",
+      "salience": 0.00174,
+      "mentions": 1
+    },
+    {
+      "name": "nights",
+      "type": "OTHER",
+      "salience": 0.00174,
+      "mentions": 1
+    },
+    {
+      "name": "visiting 4 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001732,
+      "mentions": 1
+    },
+    {
+      "name": "Ensenada",
+      "type": "OTHER",
+      "salience": 0.001682,
+      "mentions": 2
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.001679,
+      "mentions": 1
+    },
+    {
+      "name": "visiting 4 ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001641,
+      "mentions": 1
+    },
+    {
+      "name": "Itinerary details",
+      "type": "OTHER",
+      "salience": 0.001591,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 30",
+      "type": "OTHER",
+      "salience": 0.001573,
+      "mentions": 1
+    },
+    {
+      "name": "May 11,",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001476,
+      "mentions": 1
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001449,
+      "mentions": 1
+    },
+    {
+      "name": "available within last 24",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001424,
+      "mentions": 1
+    },
+    {
+      "name": "fees",
+      "type": "OTHER",
+      "salience": 0.001392,
+      "mentions": 1
+    },
+    {
+      "name": "Taxes",
+      "type": "OTHER",
+      "salience": 0.001392,
+      "mentions": 1
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001366,
+      "mentions": 1
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001289,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 24,",
+      "type": "PERSON",
+      "salience": 0.001239,
+      "mentions": 1
+    },
+    {
+      "name": "destination} on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001223,
+      "mentions": 1
+    },
+    {
+      "name": "Nassau",
+      "type": "OTHER",
+      "salience": 0.001221,
+      "mentions": 4
+    },
+    {
+      "name": "May 8",
+      "type": "OTHER",
+      "salience": 0.00115,
+      "mentions": 1
+    },
+    {
+      "name": "nightclubs",
+      "type": "OTHER",
+      "salience": 0.001078,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 27,",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001027,
+      "mentions": 1
+    },
+    {
+      "name": "Vancouver",
+      "type": "LOCATION",
+      "salience": 0.001024,
+      "mentions": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00102,
+      "mentions": 1
+    },
+    {
+      "name": "Fort Lauderdale",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001006,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.000898,
+      "mentions": 1
+    },
+    {
+      "name": "May 15",
+      "type": "OTHER",
+      "salience": 0.000884,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.000846,
+      "mentions": 1
+    },
+    {
+      "name": "with exclusive pools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000813,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.000798,
+      "mentions": 1
+    },
+    {
+      "name": "Continue with",
+      "type": "PERSON",
+      "salience": 0.000758,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000693,
+      "mentions": 1
+    },
+    {
+      "name": "Expedia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000668,
+      "mentions": 1
+    },
+    {
+      "name": "Oct 4",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000626,
+      "mentions": 1
+    },
+    {
+      "name": "spa facilities",
+      "type": "OTHER",
+      "salience": 0.000622,
+      "mentions": 1
+    },
+    {
+      "name": "Catalina",
+      "type": "PERSON",
+      "salience": 0.000527,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 2",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000459,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000459,
+      "mentions": 1
+    },
+    {
+      "name": "duration",
+      "type": "OTHER",
+      "salience": 0.000381,
+      "mentions": 1
+    },
+    {
+      "name": "fitness facilities",
+      "type": "OTHER",
+      "salience": 0.000377,
+      "mentions": 1
+    },
+    {
+      "name": "When booking your 2027",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 24,",
+      "type": "PERSON",
+      "salience": 0.000372,
+      "mentions": 1
+    },
+    {
+      "name": "fitness facilities",
+      "type": "OTHER",
+      "salience": 0.000371,
+      "mentions": 1
+    },
+    {
+      "name": "spa facilities",
+      "type": "OTHER",
+      "salience": 0.000371,
+      "mentions": 1
+    },
+    {
+      "name": "time",
+      "type": "OTHER",
+      "salience": 0.000355,
+      "mentions": 1
+    },
+    {
+      "name": "Add your destination",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000346,
+      "mentions": 1
+    },
+    {
+      "name": "like Frozen",
+      "type": "OTHER",
+      "salience": 0.00031,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 27,",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000308,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.0003,
+      "mentions": 1
+    },
+    {
+      "name": "May 11,",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000298,
+      "mentions": 1
+    },
+    {
+      "name": "youth programs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000296,
+      "mentions": 1
+    },
+    {
+      "name": "youth programs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000292,
+      "mentions": 1
+    },
+    {
+      "name": "between 6 months to 12 months in advance.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.000283,
+      "mentions": 1
+    },
+    {
+      "name": "All add-ons like hotel accommodations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000274,
+      "mentions": 1
+    },
+    {
+      "name": "friendly staff",
+      "type": "OTHER",
+      "salience": 0.000215,
+      "mentions": 1
+    },
+    {
+      "name": "modern amenities",
+      "type": "OTHER",
+      "salience": 0.000215,
+      "mentions": 1
+    },
+    {
+      "name": "entertainment",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "Secondly",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "summer",
+      "type": "OTHER",
+      "salience": 0.000206,
+      "mentions": 1
+    },
+    {
+      "name": "more comfortable.",
+      "type": "OTHER",
+      "salience": 0.000197,
+      "mentions": 1
+    },
+    {
+      "name": "It's a small world",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "November 27,",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Oceania Cruises",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000163,
+      "mentions": 1
+    },
+    {
+      "name": "May 18",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000163,
+      "mentions": 1
+    },
+    {
+      "name": "Disney characters",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "Florida",
+      "type": "LOCATION",
+      "salience": 0.000135,
+      "mentions": 1
+    },
+    {
+      "name": "Conditions",
+      "type": "OTHER",
+      "salience": 0.000106,
+      "mentions": 1
+    },
+    {
+      "name": "hot tubs",
+      "type": "OTHER",
+      "salience": 9.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "while experiencing premium Disney-style hospitality",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "or Vibe",
+      "type": "OTHER",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "nursery hosted by Huggies",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Tangled",
+      "type": "OTHER",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "original Disney musicals",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Heather Mcmanus",
+      "type": "PERSON",
+      "salience": 9.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Sept 13",
+      "type": "OTHER",
+      "salience": 9.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "AmaWaterways",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Avalon Waterways",
+      "type": "OTHER",
+      "salience": 9.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Celebrity Cruises",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Cunard Cruises",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "MSC Cruises",
+      "type": "OTHER",
+      "salience": 9.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Norwegian Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Princess Cruises",
+      "type": "OTHER",
+      "salience": 9.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Royal Caribbean",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Seabourn Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER",
+      "salience": 9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "f-ae43-180030188709199fc52b-3032-49e5-84",
+      "type": "OTHER",
+      "salience": 8.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "de-ff92a76e4a6e",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "84",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 7, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 7, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 11, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 16, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 20, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 30, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Oct 4, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 24, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 27, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 1, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 4, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 2, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Sep 6, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 24, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 27, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 15, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 18, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 8, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 11, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 27, 2018",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Sept 13, 2019",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$923",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$962",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,027",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,031",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,058",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,061",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,067",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,087",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,087",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,090",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "866",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "403",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9848",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "923",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "962",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1-866-403-9848",
+      "type": "PHONE_NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,031",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 4, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,058",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,058",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,061",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,061",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,067",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,067",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,087",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,087",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,087",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,087",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,090",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,090",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "101",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "82",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "405",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "180030188709199",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3032",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "49",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,031",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 120,
+    "CONSUMER_GOOD": 77,
+    "LOCATION": 15,
+    "PERSON": 20,
+    "ORGANIZATION": 7,
+    "NUMBER": 105,
+    "DATE": 23,
+    "PRICE": 10,
+    "PHONE_NUMBER": 1
+  },
+  "type_salience": {
+    "OTHER": 0.39656800000000014,
+    "CONSUMER_GOOD": 0.17025700000000007,
+    "LOCATION": 0.012492,
+    "PERSON": 0.039320999999999995,
+    "ORGANIZATION": 0.021105,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0,
+    "PHONE_NUMBER": 0.0
+  }
+}

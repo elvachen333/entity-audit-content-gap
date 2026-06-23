@@ -1,0 +1,2619 @@
+{
+  "file": "cited_postAUZIYQFX80lpiAqjnZcpbPEnlsBSsHlSAxzcV4ZoxLI1yrFESUnauLK-uUde_dvKWZNF1xQc6-MdwhcS.txt",
+  "word_count": 3960,
+  "entity_count": 432,
+  "entities": [
+    {
+      "name": "Returns can cost retailers 27 percent of the original order value when processed manually.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.038792,
+      "mentions": 1
+    },
+    {
+      "name": "and then the 5 chatbot integrations that handle the customer-facing side of returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.035837,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "PERSON",
+      "salience": 0.03422,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "OTHER",
+      "salience": 0.03422,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGO",
+      "type": "OTHER",
+      "salience": 0.03422,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.03422,
+      "mentions": 1
+    },
+    {
+      "name": "The stakes are significant.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.028273,
+      "mentions": 1
+    },
+    {
+      "name": "return reason analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023622,
+      "mentions": 1
+    },
+    {
+      "name": "custom pricing",
+      "type": "OTHER",
+      "salience": 0.02338,
+      "mentions": 1
+    },
+    {
+      "name": "The",
+      "type": "ORGANIZATION",
+      "salience": 0.021398,
+      "mentions": 1
+    },
+    {
+      "name": "And 71",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020904,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGO",
+      "type": "OTHER",
+      "salience": 0.020471,
+      "mentions": 1
+    },
+    {
+      "name": "Returnless resolutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019681,
+      "mentions": 1
+    },
+    {
+      "name": "return reason",
+      "type": "OTHER",
+      "salience": 0.019681,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGO also supports multilingual portals and international return workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019321,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.017576,
+      "mentions": 7
+    },
+    {
+      "name": "Best for",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016616,
+      "mentions": 1
+    },
+    {
+      "name": "How It Works",
+      "type": "OTHER",
+      "salience": 0.016356,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.015107,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.015107,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.015107,
+      "mentions": 1
+    },
+    {
+      "name": "The platform supports exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013611,
+      "mentions": 1
+    },
+    {
+      "name": "international returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009464,
+      "mentions": 1
+    },
+    {
+      "name": "trusted by over 5,000 ecommerce stores.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00889,
+      "mentions": 1
+    },
+    {
+      "name": "customer segment",
+      "type": "OTHER",
+      "salience": 0.008853,
+      "mentions": 1
+    },
+    {
+      "name": "customer",
+      "type": "OTHER",
+      "salience": 0.008449,
+      "mentions": 2
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007748,
+      "mentions": 1
+    },
+    {
+      "name": "Platform",
+      "type": "LOCATION",
+      "salience": 0.007702,
+      "mentions": 1
+    },
+    {
+      "name": "AeroChat Team",
+      "type": "OTHER",
+      "salience": 0.007333,
+      "mentions": 1
+    },
+    {
+      "name": "custom pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007154,
+      "mentions": 1
+    },
+    {
+      "name": "Starting price",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007154,
+      "mentions": 1
+    },
+    {
+      "name": "custom pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007154,
+      "mentions": 1
+    },
+    {
+      "name": "Free plan",
+      "type": "OTHER",
+      "salience": 0.006595,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify DTC brands",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006595,
+      "mentions": 1
+    },
+    {
+      "name": "international returns",
+      "type": "OTHER",
+      "salience": 0.006421,
+      "mentions": 1
+    },
+    {
+      "name": "Management Software",
+      "type": "PERSON",
+      "salience": 0.006237,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006083,
+      "mentions": 1
+    },
+    {
+      "name": "exchange-first",
+      "type": "OTHER",
+      "salience": 0.005636,
+      "mentions": 1
+    },
+    {
+      "name": "refund timelines",
+      "type": "OTHER",
+      "salience": 0.005488,
+      "mentions": 1
+    },
+    {
+      "name": "return eligibility checks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005402,
+      "mentions": 1
+    },
+    {
+      "name": "return status updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00535,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify integration",
+      "type": "OTHER",
+      "salience": 0.005292,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.005114,
+      "mentions": 1
+    },
+    {
+      "name": "Returning an item requires no packaging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005054,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "salience": 0.004926,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.004721,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.004703,
+      "mentions": 1
+    },
+    {
+      "name": "which products are generating disproportionate returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004686,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.004635,
+      "mentions": 1
+    },
+    {
+      "name": "The platform handles automated label generation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004517,
+      "mentions": 1
+    },
+    {
+      "name": "any item",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004515,
+      "mentions": 1
+    },
+    {
+      "name": "returns management",
+      "type": "OTHER",
+      "salience": 0.004434,
+      "mentions": 1
+    },
+    {
+      "name": "analytics",
+      "type": "OTHER",
+      "salience": 0.004426,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "LOCATION",
+      "salience": 0.004426,
+      "mentions": 1
+    },
+    {
+      "name": "Instagram DMs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004416,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise post-purchase communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004217,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004186,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.004126,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.004126,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.004126,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.004126,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.004126,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise retailers",
+      "type": "OTHER",
+      "salience": 0.004005,
+      "mentions": 1
+    },
+    {
+      "name": "This guide covers the 7 best ecommerce returns management software platforms in 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003741,
+      "mentions": 1
+    },
+    {
+      "name": "fraud control",
+      "type": "OTHER",
+      "salience": 0.003572,
+      "mentions": 1
+    },
+    {
+      "name": "Box-free drop-off",
+      "type": "LOCATION",
+      "salience": 0.003572,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise features add significant cost at scale",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003356,
+      "mentions": 1
+    },
+    {
+      "name": "The platform includes automated RMA workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003197,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "PERSON",
+      "salience": 0.003125,
+      "mentions": 1
+    },
+    {
+      "name": "refunds",
+      "type": "OTHER",
+      "salience": 0.00304,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002938,
+      "mentions": 1
+    },
+    {
+      "name": "the WhatsApp messages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002788,
+      "mentions": 1
+    },
+    {
+      "name": "Mid-market",
+      "type": "OTHER",
+      "salience": 0.002662,
+      "mentions": 1
+    },
+    {
+      "name": "Free plan available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002598,
+      "mentions": 1
+    },
+    {
+      "name": "Log in",
+      "type": "OTHER",
+      "salience": 0.002484,
+      "mentions": 2
+    },
+    {
+      "name": "fraud detection",
+      "type": "OTHER",
+      "salience": 0.002464,
+      "mentions": 1
+    },
+    {
+      "name": "Custom pricing",
+      "type": "OTHER",
+      "salience": 0.00244,
+      "mentions": 1
+    },
+    {
+      "name": "The actual return processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002427,
+      "mentions": 1
+    },
+    {
+      "name": "Fast setup",
+      "type": "OTHER",
+      "salience": 0.002423,
+      "mentions": 1
+    },
+    {
+      "name": "Free plan available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002423,
+      "mentions": 1
+    },
+    {
+      "name": "Custom pricing",
+      "type": "OTHER",
+      "salience": 0.002406,
+      "mentions": 1
+    },
+    {
+      "name": "eligibility rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002369,
+      "mentions": 1
+    },
+    {
+      "name": "The customer-facing conversation is a separate layer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002356,
+      "mentions": 1
+    },
+    {
+      "name": "FAQ",
+      "type": "OTHER",
+      "salience": 0.002219,
+      "mentions": 1
+    },
+    {
+      "name": "Its setup is genuinely fast",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002216,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGO or AfterShip Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00219,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise with global returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00219,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns or ReturnLogic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00219,
+      "mentions": 1
+    },
+    {
+      "name": "Growing Shopify stores wanting flexibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002177,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002177,
+      "mentions": 1
+    },
+    {
+      "name": "parcelLab",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002177,
+      "mentions": 1
+    },
+    {
+      "name": "omnichannel",
+      "type": "OTHER",
+      "salience": 0.002177,
+      "mentions": 1
+    },
+    {
+      "name": "the item being routed",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002155,
+      "mentions": 1
+    },
+    {
+      "name": "Custom pricing",
+      "type": "OTHER",
+      "salience": 0.002097,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.002002,
+      "mentions": 1
+    },
+    {
+      "name": "Most flexible policy configuration of any platform reviewed",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001962,
+      "mentions": 1
+    },
+    {
+      "name": "average 24.5 percent across categories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001944,
+      "mentions": 1
+    },
+    {
+      "name": "Good",
+      "type": "OTHER",
+      "salience": 0.001925,
+      "mentions": 1
+    },
+    {
+      "name": "Good",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001925,
+      "mentions": 1
+    },
+    {
+      "name": "Good",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001925,
+      "mentions": 1
+    },
+    {
+      "name": "Good",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001925,
+      "mentions": 1
+    },
+    {
+      "name": "Good",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001925,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001925,
+      "mentions": 1
+    },
+    {
+      "name": "Key features: Exchange-first portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001836,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify and BigCommerce integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001774,
+      "mentions": 1
+    },
+    {
+      "name": "automated policy rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001671,
+      "mentions": 1
+    },
+    {
+      "name": "Excellent",
+      "type": "LOCATION",
+      "salience": 0.001664,
+      "mentions": 1
+    },
+    {
+      "name": "Excellent",
+      "type": "LOCATION",
+      "salience": 0.001664,
+      "mentions": 1
+    },
+    {
+      "name": "configuration",
+      "type": "OTHER",
+      "salience": 0.001635,
+      "mentions": 1
+    },
+    {
+      "name": "Custom enterprise pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001592,
+      "mentions": 1
+    },
+    {
+      "name": "post-purchase communications integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001581,
+      "mentions": 1
+    },
+    {
+      "name": "Custom pricing",
+      "type": "OTHER",
+      "salience": 0.001578,
+      "mentions": 1
+    },
+    {
+      "name": "and resolution options.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001575,
+      "mentions": 1
+    },
+    {
+      "name": "website chat",
+      "type": "OTHER",
+      "salience": 0.001527,
+      "mentions": 1
+    },
+    {
+      "name": "The returns management software handles the operational back-end",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001505,
+      "mentions": 1
+    },
+    {
+      "name": "the eligibility rules",
+      "type": "LOCATION",
+      "salience": 0.001505,
+      "mentions": 1
+    },
+    {
+      "name": "The chatbot handles the customer-facing conversations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001502,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify integration",
+      "type": "OTHER",
+      "salience": 0.001497,
+      "mentions": 1
+    },
+    {
+      "name": "multilingual portal",
+      "type": "OTHER",
+      "salience": 0.001488,
+      "mentions": 1
+    },
+    {
+      "name": "exchange and store credit options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001488,
+      "mentions": 1
+    },
+    {
+      "name": "Key features: Flexible policy engine by product",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001488,
+      "mentions": 1
+    },
+    {
+      "name": "and FedEx stores.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00144,
+      "mentions": 1
+    },
+    {
+      "name": "Multilingual",
+      "type": "PERSON",
+      "salience": 0.001438,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "salience": 0.001437,
+      "mentions": 1
+    },
+    {
+      "name": "trial only",
+      "type": "OTHER",
+      "salience": 0.001392,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify fit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001392,
+      "mentions": 1
+    },
+    {
+      "name": "AI-assisted eligibility rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001354,
+      "mentions": 1
+    },
+    {
+      "name": "returnless resolutions",
+      "type": "OTHER",
+      "salience": 0.001354,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0013,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify and BigCommerce integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001289,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify and BigCommerce integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001276,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "salience": 0.001268,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing: Plans from",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001261,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001242,
+      "mentions": 1
+    },
+    {
+      "name": "the entry price point of",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001208,
+      "mentions": 1
+    },
+    {
+      "name": "fraud flag automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001165,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "salience": 0.001135,
+      "mentions": 1
+    },
+    {
+      "name": "Quick comparison",
+      "type": "OTHER",
+      "salience": 0.001131,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 13",
+      "type": "PERSON",
+      "salience": 0.001127,
+      "mentions": 1
+    },
+    {
+      "name": "From $9/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001106,
+      "mentions": 1
+    },
+    {
+      "name": "From $0/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001106,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00107,
+      "mentions": 1
+    },
+    {
+      "name": "enterprise integrations",
+      "type": "OTHER",
+      "salience": 0.001018,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.001006,
+      "mentions": 1
+    },
+    {
+      "name": "Chatbots Comparison",
+      "type": "OTHER",
+      "salience": 0.000984,
+      "mentions": 1
+    },
+    {
+      "name": "bonus credit incentives",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00096,
+      "mentions": 1
+    },
+    {
+      "name": "automatically.",
+      "type": "OTHER",
+      "salience": 0.00095,
+      "mentions": 1
+    },
+    {
+      "name": "rising to 30 to 50 percent in fashion and electronics.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000934,
+      "mentions": 1
+    },
+    {
+      "name": "enterprise analytics",
+      "type": "OTHER",
+      "salience": 0.000909,
+      "mentions": 1
+    },
+    {
+      "name": "exchange option questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00088,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.000866,
+      "mentions": 1
+    },
+    {
+      "name": "driven",
+      "type": "OTHER",
+      "salience": 0.000859,
+      "mentions": 1
+    },
+    {
+      "name": "The returns management software market is growing from $13.26 billion in 2025 to $26.38 billion by 2035",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000859,
+      "mentions": 1
+    },
+    {
+      "name": "shipping",
+      "type": "OTHER",
+      "salience": 0.000839,
+      "mentions": 1
+    },
+    {
+      "name": "windows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000815,
+      "mentions": 1
+    },
+    {
+      "name": "without any developer involvement",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000815,
+      "mentions": 1
+    },
+    {
+      "name": "geography",
+      "type": "OTHER",
+      "salience": 0.000815,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "salience": 0.000812,
+      "mentions": 1
+    },
+    {
+      "name": "From $59/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "From $199/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "explain the returns process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000786,
+      "mentions": 1
+    },
+    {
+      "name": "Free plan",
+      "type": "OTHER",
+      "salience": 0.000781,
+      "mentions": 1
+    },
+    {
+      "name": "and geography",
+      "type": "OTHER",
+      "salience": 0.000778,
+      "mentions": 1
+    },
+    {
+      "name": "Free plan",
+      "type": "OTHER",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "Its pricing is custom and enterprise-level",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000743,
+      "mentions": 1
+    },
+    {
+      "name": "complaint",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000728,
+      "mentions": 1
+    },
+    {
+      "name": "branded return portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000728,
+      "mentions": 1
+    },
+    {
+      "name": "over 1,000 major brands and retailers.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000694,
+      "mentions": 1
+    },
+    {
+      "name": "customer portal",
+      "type": "OTHER",
+      "salience": 0.000679,
+      "mentions": 1
+    },
+    {
+      "name": "QR code drop-off",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000669,
+      "mentions": 1
+    },
+    {
+      "name": "WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000667,
+      "mentions": 5
+    },
+    {
+      "name": "Most affordable entry point at",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000656,
+      "mentions": 1
+    },
+    {
+      "name": "no printing",
+      "type": "OTHER",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "chat",
+      "type": "OTHER",
+      "salience": 0.000652,
+      "mentions": 1
+    },
+    {
+      "name": "BigCommerce and Magento support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000633,
+      "mentions": 1
+    },
+    {
+      "name": "exchange and store credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000628,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.000625,
+      "mentions": 1
+    },
+    {
+      "name": "Intercom",
+      "type": "OTHER",
+      "salience": 0.00062,
+      "mentions": 2
+    },
+    {
+      "name": "Intercom's Fin AI handles complex",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "international customer bases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000617,
+      "mentions": 1
+    },
+    {
+      "name": "Store stage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000616,
+      "mentions": 1
+    },
+    {
+      "name": "Chatbot integration",
+      "type": "OTHER",
+      "salience": 0.000605,
+      "mentions": 1
+    },
+    {
+      "name": "item received",
+      "type": "OTHER",
+      "salience": 0.000594,
+      "mentions": 1
+    },
+    {
+      "name": "refund processed",
+      "type": "OTHER",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "where is my refund",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000571,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.000568,
+      "mentions": 3
+    },
+    {
+      "name": "approving an out-of-policy request",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000562,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "communications",
+      "type": "OTHER",
+      "salience": 0.000547,
+      "mentions": 2
+    },
+    {
+      "name": "branded returns portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "refund execution",
+      "type": "OTHER",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "Best",
+      "type": "OTHER",
+      "salience": 0.000539,
+      "mentions": 1
+    },
+    {
+      "name": "AeroChat",
+      "type": "OTHER",
+      "salience": 0.000536,
+      "mentions": 4
+    },
+    {
+      "name": "AeroChat Widget",
+      "type": "OTHER",
+      "salience": 0.000531,
+      "mentions": 1
+    },
+    {
+      "name": "refund timeline questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000528,
+      "mentions": 1
+    },
+    {
+      "name": "refund timeline questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000523,
+      "mentions": 1
+    },
+    {
+      "name": "fraud risk signals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000522,
+      "mentions": 1
+    },
+    {
+      "name": "access",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00052,
+      "mentions": 1
+    },
+    {
+      "name": "Or",
+      "type": "OTHER",
+      "salience": 0.000511,
+      "mentions": 1
+    },
+    {
+      "name": "Free WhatsApp Link Generator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000506,
+      "mentions": 1
+    },
+    {
+      "name": "Tidio can answer eligibility questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000503,
+      "mentions": 1
+    },
+    {
+      "name": "Key features: Automated label generation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000499,
+      "mentions": 1
+    },
+    {
+      "name": "fraud detection",
+      "type": "OTHER",
+      "salience": 0.000486,
+      "mentions": 1
+    },
+    {
+      "name": "Strong international carrier coverage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "all within a WhatsApp conversation.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000476,
+      "mentions": 1
+    },
+    {
+      "name": "and more conversions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00047,
+      "mentions": 1
+    },
+    {
+      "name": "conversations.",
+      "type": "OTHER",
+      "salience": 0.000469,
+      "mentions": 1
+    },
+    {
+      "name": "and outcomes by product type",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000468,
+      "mentions": 1
+    },
+    {
+      "name": "conditions",
+      "type": "OTHER",
+      "salience": 0.000468,
+      "mentions": 1
+    },
+    {
+      "name": "WhatsApp conversation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000463,
+      "mentions": 1
+    },
+    {
+      "name": "RMA workflows",
+      "type": "OTHER",
+      "salience": 0.000451,
+      "mentions": 1
+    },
+    {
+      "name": "No prompt setup.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000451,
+      "mentions": 1
+    },
+    {
+      "name": "No flow-building.",
+      "type": "OTHER",
+      "salience": 0.00045,
+      "mentions": 1
+    },
+    {
+      "name": "one agent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000449,
+      "mentions": 1
+    },
+    {
+      "name": "PRODUCT",
+      "type": "OTHER",
+      "salience": 0.000447,
+      "mentions": 1
+    },
+    {
+      "name": "multiple fulfilment nodes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000447,
+      "mentions": 1
+    },
+    {
+      "name": "Key features: Boxless drop-off network",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000445,
+      "mentions": 1
+    },
+    {
+      "name": "is handled by the returns management software.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000436,
+      "mentions": 1
+    },
+    {
+      "name": "Strong fraud detection and policy abuse prevention",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000436,
+      "mentions": 1
+    },
+    {
+      "name": "Instagram",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000429,
+      "mentions": 6
+    },
+    {
+      "name": "particularly",
+      "type": "OTHER",
+      "salience": 0.000427,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGO free plan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000421,
+      "mentions": 1
+    },
+    {
+      "name": "AeroChat team plan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000421,
+      "mentions": 1
+    },
+    {
+      "name": "it can answer return status queries instantly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000421,
+      "mentions": 1
+    },
+    {
+      "name": "key differentiator.",
+      "type": "OTHER",
+      "salience": 0.000415,
+      "mentions": 1
+    },
+    {
+      "name": "Gorgias",
+      "type": "PERSON",
+      "salience": 0.00041,
+      "mentions": 1
+    },
+    {
+      "name": "no public entry point",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000391,
+      "mentions": 1
+    },
+    {
+      "name": "exchange and refund options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000384,
+      "mentions": 1
+    },
+    {
+      "name": "Key features: Box-free QR code drop-off at thousands of US locations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000384,
+      "mentions": 1
+    },
+    {
+      "name": "support smarter",
+      "type": "OTHER",
+      "salience": 0.000383,
+      "mentions": 1
+    },
+    {
+      "name": "Most integrated post-purchase and returns communication platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000382,
+      "mentions": 1
+    },
+    {
+      "name": "All conversations across WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00038,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.000379,
+      "mentions": 1
+    },
+    {
+      "name": "Less established than some enterprise alternatives",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000378,
+      "mentions": 1
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "salience": 0.000377,
+      "mentions": 3
+    },
+    {
+      "name": "omnichannel return coordination",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000364,
+      "mentions": 1
+    },
+    {
+      "name": "policy questions",
+      "type": "OTHER",
+      "salience": 0.00036,
+      "mentions": 1
+    },
+    {
+      "name": "differentiated.",
+      "type": "OTHER",
+      "salience": 0.000359,
+      "mentions": 1
+    },
+    {
+      "name": "Key features: Return reason analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000359,
+      "mentions": 1
+    },
+    {
+      "name": "fraud detection",
+      "type": "OTHER",
+      "salience": 0.000359,
+      "mentions": 1
+    },
+    {
+      "name": "multiple product categories with different return policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000355,
+      "mentions": 1
+    },
+    {
+      "name": "the returns portal cannot answer those questions.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00035,
+      "mentions": 1
+    },
+    {
+      "name": "They process the portal submission.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000343,
+      "mentions": 2
+    },
+    {
+      "name": "Partnership with UPS provides logistics reliability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000343,
+      "mentions": 1
+    },
+    {
+      "name": "initiation confirmation",
+      "type": "LOCATION",
+      "salience": 0.000341,
+      "mentions": 1
+    },
+    {
+      "name": "Channels covered",
+      "type": "OTHER",
+      "salience": 0.000339,
+      "mentions": 1
+    },
+    {
+      "name": "Free plan",
+      "type": "OTHER",
+      "salience": 0.000337,
+      "mentions": 1
+    },
+    {
+      "name": "and social channels.",
+      "type": "OTHER",
+      "salience": 0.000334,
+      "mentions": 1
+    },
+    {
+      "name": "notifications",
+      "type": "OTHER",
+      "salience": 0.000332,
+      "mentions": 1
+    },
+    {
+      "name": "Free plan",
+      "type": "OTHER",
+      "salience": 0.000331,
+      "mentions": 1
+    },
+    {
+      "name": "Significant implementation complexity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000328,
+      "mentions": 1
+    },
+    {
+      "name": "Free plan",
+      "type": "OTHER",
+      "salience": 0.000326,
+      "mentions": 1
+    },
+    {
+      "name": "the portal",
+      "type": "OTHER",
+      "salience": 0.000323,
+      "mentions": 1
+    },
+    {
+      "name": "international carrier support across 1,200 plus carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00032,
+      "mentions": 1
+    },
+    {
+      "name": "helping businesses respond faster",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000316,
+      "mentions": 1
+    },
+    {
+      "name": "label generation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "How It Works",
+      "type": "OTHER",
+      "salience": 0.000291,
+      "mentions": 1
+    },
+    {
+      "name": "Tidio",
+      "type": "OTHER",
+      "salience": 0.00029,
+      "mentions": 1
+    },
+    {
+      "name": "check eligibility automatically",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000289,
+      "mentions": 1
+    },
+    {
+      "name": "Key features: Automated returns communications at every milestone",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000286,
+      "mentions": 1
+    },
+    {
+      "name": "parcelLab",
+      "type": "OTHER",
+      "salience": 0.000283,
+      "mentions": 1
+    },
+    {
+      "name": "Returns software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000269,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.000267,
+      "mentions": 1
+    },
+    {
+      "name": "processing an exception",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000262,
+      "mentions": 1
+    },
+    {
+      "name": "RESOURCES",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "Partnership",
+      "type": "OTHER",
+      "salience": 0.000239,
+      "mentions": 1
+    },
+    {
+      "name": "All rights reserved",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000237,
+      "mentions": 1
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "salience": 0.000227,
+      "mentions": 1
+    },
+    {
+      "name": "return rates by customer segment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000226,
+      "mentions": 1
+    },
+    {
+      "name": "happier customers",
+      "type": "OTHER",
+      "salience": 0.000221,
+      "mentions": 1
+    },
+    {
+      "name": "and convert more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00022,
+      "mentions": 1
+    },
+    {
+      "name": "now owned by UPS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000219,
+      "mentions": 1
+    },
+    {
+      "name": "workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "Instagram DM",
+      "type": "OTHER",
+      "salience": 0.000217,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.000216,
+      "mentions": 1
+    },
+    {
+      "name": "the WhatsApp messages asking about return status",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000214,
+      "mentions": 1
+    },
+    {
+      "name": "deep analytics",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "UPS logistics integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000201,
+      "mentions": 1
+    },
+    {
+      "name": "accurately",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000198,
+      "mentions": 1
+    },
+    {
+      "name": "Freshdesk",
+      "type": "OTHER",
+      "salience": 0.000193,
+      "mentions": 3
+    },
+    {
+      "name": "Freshdesk's Freddy AI handles return-related queries through email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "Freshsales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "Freshchat",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "inventory reconciliation",
+      "type": "OTHER",
+      "salience": 0.000188,
+      "mentions": 1
+    },
+    {
+      "name": "the label generation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000186,
+      "mentions": 1
+    },
+    {
+      "name": "global return logistics routing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000179,
+      "mentions": 1
+    },
+    {
+      "name": "Implementation complexity requires dedicated onboarding support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000178,
+      "mentions": 1
+    },
+    {
+      "name": "messaging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "escalate",
+      "type": "LOCATION",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "return policy FAQs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Growing store",
+      "type": "OTHER",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "AeroChat or Gorgias",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "Mid-market store",
+      "type": "OTHER",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "Just faster replies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "aggregated",
+      "type": "OTHER",
+      "salience": 0.00016,
+      "mentions": 1
+    },
+    {
+      "name": "widget",
+      "type": "OTHER",
+      "salience": 0.000158,
+      "mentions": 1
+    },
+    {
+      "name": "Aggregated drop-off shipments reduce per-unit reverse logistics cost",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000158,
+      "mentions": 1
+    },
+    {
+      "name": "Limited outside the US market",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000155,
+      "mentions": 1
+    },
+    {
+      "name": "sizing guide improvements",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00015,
+      "mentions": 1
+    },
+    {
+      "name": "policy enforcement",
+      "type": "OTHER",
+      "salience": 0.000149,
+      "mentions": 1
+    },
+    {
+      "name": "recommendations",
+      "type": "OTHER",
+      "salience": 0.000146,
+      "mentions": 1
+    },
+    {
+      "name": "and social channels.",
+      "type": "OTHER",
+      "salience": 0.000145,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar or parcelLab",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000139,
+      "mentions": 1
+    },
+    {
+      "name": "without any agent involvement",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000139,
+      "mentions": 1
+    },
+    {
+      "name": "WhatsApp and Instagram DMs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000139,
+      "mentions": 1
+    },
+    {
+      "name": "allowing it to answer return-related queries accurately and instantly without any agent involvement",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "protecting",
+      "type": "OTHER",
+      "salience": 0.000136,
+      "mentions": 1
+    },
+    {
+      "name": "post-return follow-up",
+      "type": "OTHER",
+      "salience": 0.000125,
+      "mentions": 1
+    },
+    {
+      "name": "the Instagram DMs asking about refund timelines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "Small Shopify store under 100 returns per month",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "with personalised",
+      "type": "OTHER",
+      "salience": 0.000121,
+      "mentions": 1
+    },
+    {
+      "name": "branded communications triggered automatically at each milestone.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000121,
+      "mentions": 1
+    },
+    {
+      "name": "Staples",
+      "type": "ORGANIZATION",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "personalised post-purchase notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "exchange fulfilment",
+      "type": "OTHER",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "and website chat from one unified inbox.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000113,
+      "mentions": 1
+    },
+    {
+      "name": "and ticketing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000112,
+      "mentions": 1
+    },
+    {
+      "name": "Beyond processing returns efficiently",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000109,
+      "mentions": 1
+    },
+    {
+      "name": "the reverse logistics routing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "FAQ",
+      "type": "OTHER",
+      "salience": 0.000103,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.000103,
+      "mentions": 1
+    },
+    {
+      "name": "plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0001,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 9.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 9.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Fin AI integrates with Shopify and can access order data to answer specific return status queries.",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently asked questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Ready to scale customer support",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "poorly",
+      "type": "OTHER",
+      "salience": 8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Podcasts",
+      "type": "OTHER",
+      "salience": 8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "ACCOUNT",
+      "type": "OTHER",
+      "salience": 7.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Terms of Use",
+      "type": "CONSUMER_GOOD",
+      "salience": 7.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 7.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "SkipSubmit",
+      "type": "OTHER",
+      "salience": 7.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Powered by AeroChat",
+      "type": "OTHER",
+      "salience": 7.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Freshworks ecosystem",
+      "type": "CONSUMER_GOOD",
+      "salience": 7.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "ticketing",
+      "type": "OTHER",
+      "salience": 7.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "high return volumes",
+      "type": "CONSUMER_GOOD",
+      "salience": 7.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2035",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$13.26",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$26.38",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$59",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$199",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "£60",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "£65",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "£60",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$59",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$23",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$199",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$36",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$29",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$15",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$74",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "71",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13.26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26.38",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2035",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "59",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "199",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "65",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "59",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "199",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "36",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "74",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 13, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 192,
+    "PERSON": 6,
+    "OTHER": 159,
+    "ORGANIZATION": 2,
+    "LOCATION": 8,
+    "NUMBER": 67,
+    "DATE": 6,
+    "PRICE": 21
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.45157000000000014,
+    "PERSON": 0.04655700000000001,
+    "OTHER": 0.43884700000000026,
+    "ORGANIZATION": 0.021517,
+    "LOCATION": 0.021047999999999997,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

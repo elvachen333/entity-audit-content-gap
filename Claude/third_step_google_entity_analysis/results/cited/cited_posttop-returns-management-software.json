@@ -1,0 +1,905 @@
+{
+  "file": "cited_posttop-returns-management-software.txt",
+  "word_count": 1302,
+  "entity_count": 147,
+  "entities": [
+    {
+      "name": "Returns Management",
+      "type": "OTHER",
+      "salience": 0.22926,
+      "mentions": 2
+    },
+    {
+      "name": "Returnly",
+      "type": "OTHER",
+      "salience": 0.064298,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce Challenges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.055228,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.049837,
+      "mentions": 1
+    },
+    {
+      "name": "All Posts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.043616,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouse Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.039834,
+      "mentions": 1
+    },
+    {
+      "name": "businesses",
+      "type": "OTHER",
+      "salience": 0.033276,
+      "mentions": 3
+    },
+    {
+      "name": "customers.",
+      "type": "OTHER",
+      "salience": 0.026,
+      "mentions": 2
+    },
+    {
+      "name": "Top 9",
+      "type": "OTHER",
+      "salience": 0.023469,
+      "mentions": 1
+    },
+    {
+      "name": "Returns management software automates the return process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021173,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "ORGANIZATION",
+      "salience": 0.017941,
+      "mentions": 1
+    },
+    {
+      "name": "This article presents the top 9 returns management software for 2023",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015881,
+      "mentions": 1
+    },
+    {
+      "name": "Team Hopstack",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01536,
+      "mentions": 1
+    },
+    {
+      "name": "August 7",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009602,
+      "mentions": 1
+    },
+    {
+      "name": "A smooth",
+      "type": "OTHER",
+      "salience": 0.009591,
+      "mentions": 1
+    },
+    {
+      "name": "their return bars",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009561,
+      "mentions": 1
+    },
+    {
+      "name": "The software supports customizable return policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009276,
+      "mentions": 1
+    },
+    {
+      "name": "recycled",
+      "type": "OTHER",
+      "salience": 0.009248,
+      "mentions": 2
+    },
+    {
+      "name": "customizable return policies",
+      "type": "OTHER",
+      "salience": 0.008815,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Satisfaction",
+      "type": "OTHER",
+      "salience": 0.008507,
+      "mentions": 1
+    },
+    {
+      "name": "ChatGPT",
+      "type": "OTHER",
+      "salience": 0.008289,
+      "mentions": 1
+    },
+    {
+      "name": "opportunities",
+      "type": "OTHER",
+      "salience": 0.007392,
+      "mentions": 1
+    },
+    {
+      "name": "brand reputation",
+      "type": "OTHER",
+      "salience": 0.006307,
+      "mentions": 1
+    },
+    {
+      "name": "Summarize with AI",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006265,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005857,
+      "mentions": 1
+    },
+    {
+      "name": "Perplexity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005759,
+      "mentions": 1
+    },
+    {
+      "name": "Google AI",
+      "type": "OTHER",
+      "salience": 0.005549,
+      "mentions": 1
+    },
+    {
+      "name": "allow",
+      "type": "OTHER",
+      "salience": 0.005495,
+      "mentions": 1
+    },
+    {
+      "name": "Claude",
+      "type": "OTHER",
+      "salience": 0.005363,
+      "mentions": 1
+    },
+    {
+      "name": "repaired",
+      "type": "OTHER",
+      "salience": 0.004446,
+      "mentions": 1
+    },
+    {
+      "name": "helping businesses identify trends",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003747,
+      "mentions": 1
+    },
+    {
+      "name": "automating",
+      "type": "OTHER",
+      "salience": 0.00358,
+      "mentions": 1
+    },
+    {
+      "name": "automation rules",
+      "type": "OTHER",
+      "salience": 0.003558,
+      "mentions": 1
+    },
+    {
+      "name": "satisfaction.",
+      "type": "OTHER",
+      "salience": 0.003415,
+      "mentions": 1
+    },
+    {
+      "name": "Operational Efficiency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003322,
+      "mentions": 1
+    },
+    {
+      "name": "box-free",
+      "type": "OTHER",
+      "salience": 0.003256,
+      "mentions": 1
+    },
+    {
+      "name": "increasing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003206,
+      "mentions": 1
+    },
+    {
+      "name": "physical locations spread across the nation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003157,
+      "mentions": 1
+    },
+    {
+      "name": "Business Insights",
+      "type": "OTHER",
+      "salience": 0.002959,
+      "mentions": 1
+    },
+    {
+      "name": "With ZigZag Global",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00294,
+      "mentions": 1
+    },
+    {
+      "name": "auto-generated",
+      "type": "OTHER",
+      "salience": 0.002873,
+      "mentions": 1
+    },
+    {
+      "name": "an innovative",
+      "type": "OTHER",
+      "salience": 0.002685,
+      "mentions": 1
+    },
+    {
+      "name": "and streamlining returns and exchanges.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002589,
+      "mentions": 1
+    },
+    {
+      "name": "Its robust product returns management software supports international returns and exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002584,
+      "mentions": 1
+    },
+    {
+      "name": "product",
+      "type": "OTHER",
+      "salience": 0.00237,
+      "mentions": 1
+    },
+    {
+      "name": "AI-powered returns reduction solution.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002287,
+      "mentions": 1
+    },
+    {
+      "name": "diverse return reasons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002224,
+      "mentions": 1
+    },
+    {
+      "name": "Reputation Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002111,
+      "mentions": 1
+    },
+    {
+      "name": "warehouse-...",
+      "type": "OTHER",
+      "salience": 0.001963,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.001913,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00179,
+      "mentions": 1
+    },
+    {
+      "name": "Top 12",
+      "type": "PERSON",
+      "salience": 0.001771,
+      "mentions": 1
+    },
+    {
+      "name": "Top 30",
+      "type": "PERSON",
+      "salience": 0.001738,
+      "mentions": 1
+    },
+    {
+      "name": "consolidated",
+      "type": "OTHER",
+      "salience": 0.001714,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro",
+      "type": "OTHER",
+      "salience": 0.001622,
+      "mentions": 1
+    },
+    {
+      "name": "It streamlines communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001608,
+      "mentions": 1
+    },
+    {
+      "name": "issues",
+      "type": "OTHER",
+      "salience": 0.001557,
+      "mentions": 1
+    },
+    {
+      "name": "Logistics",
+      "type": "OTHER",
+      "salience": 0.001525,
+      "mentions": 1
+    },
+    {
+      "name": "Implementing",
+      "type": "OTHER",
+      "salience": 0.001435,
+      "mentions": 1
+    },
+    {
+      "name": "Team Hopstack",
+      "type": "PERSON",
+      "salience": 0.001386,
+      "mentions": 1
+    },
+    {
+      "name": "Team Hopstack",
+      "type": "PERSON",
+      "salience": 0.001364,
+      "mentions": 1
+    },
+    {
+      "name": "Team Hopstack",
+      "type": "PERSON",
+      "salience": 0.001338,
+      "mentions": 1
+    },
+    {
+      "name": "Moreover",
+      "type": "OTHER",
+      "salience": 0.001313,
+      "mentions": 1
+    },
+    {
+      "name": "ZigZag Global",
+      "type": "OTHER",
+      "salience": 0.001248,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001223,
+      "mentions": 1
+    },
+    {
+      "name": "Newmine",
+      "type": "OTHER",
+      "salience": 0.001204,
+      "mentions": 1
+    },
+    {
+      "name": "Cost Savings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001203,
+      "mentions": 1
+    },
+    {
+      "name": "platform",
+      "type": "OTHER",
+      "salience": 0.001196,
+      "mentions": 1
+    },
+    {
+      "name": "EcoReturns",
+      "type": "OTHER",
+      "salience": 0.001158,
+      "mentions": 1
+    },
+    {
+      "name": "Order Fulfillment Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00115,
+      "mentions": 1
+    },
+    {
+      "name": "Order Fulfillment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001146,
+      "mentions": 1
+    },
+    {
+      "name": "Furthermore",
+      "type": "OTHER",
+      "salience": 0.001126,
+      "mentions": 1
+    },
+    {
+      "name": "refurbishment",
+      "type": "OTHER",
+      "salience": 0.001053,
+      "mentions": 1
+    },
+    {
+      "name": "empowering",
+      "type": "OTHER",
+      "salience": 0.00105,
+      "mentions": 1
+    },
+    {
+      "name": "hassle-free return experience can strengthen customer loyalty and boost repeat purchases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00102,
+      "mentions": 1
+    },
+    {
+      "name": "whether",
+      "type": "OTHER",
+      "salience": 0.000985,
+      "mentions": 1
+    },
+    {
+      "name": "Modern Digital Warehousing and Fulfillment Platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000945,
+      "mentions": 1
+    },
+    {
+      "name": "donation",
+      "type": "OTHER",
+      "salience": 0.000923,
+      "mentions": 1
+    },
+    {
+      "name": "August 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000918,
+      "mentions": 1
+    },
+    {
+      "name": "Benefits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000914,
+      "mentions": 1
+    },
+    {
+      "name": "Explore what is order fulfillment software/system",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000914,
+      "mentions": 1
+    },
+    {
+      "name": "its benefits",
+      "type": "OTHER",
+      "salience": 0.000914,
+      "mentions": 1
+    },
+    {
+      "name": "September 5",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "QR code scanners",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0009,
+      "mentions": 1
+    },
+    {
+      "name": "Boost 3PL fulfillment efficiency with top barcode",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0009,
+      "mentions": 1
+    },
+    {
+      "name": "forward-thinking",
+      "type": "OTHER",
+      "salience": 0.000899,
+      "mentions": 1
+    },
+    {
+      "name": "retail-grade",
+      "type": "OTHER",
+      "salience": 0.000896,
+      "mentions": 1
+    },
+    {
+      "name": "Discover consumer-grade",
+      "type": "OTHER",
+      "salience": 0.000896,
+      "mentions": 1
+    },
+    {
+      "name": "September 11",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000886,
+      "mentions": 1
+    },
+    {
+      "name": "Explore top 30 third-party logistics providers to boost ecommerce success.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000883,
+      "mentions": 1
+    },
+    {
+      "name": "assess the quality of goods",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000754,
+      "mentions": 1
+    },
+    {
+      "name": "Regulatory Compliance",
+      "type": "OTHER",
+      "salience": 0.00075,
+      "mentions": 1
+    },
+    {
+      "name": "All tags",
+      "type": "OTHER",
+      "salience": 0.000736,
+      "mentions": 1
+    },
+    {
+      "name": "All categories",
+      "type": "OTHER",
+      "salience": 0.000732,
+      "mentions": 1
+    },
+    {
+      "name": "the bottom line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000728,
+      "mentions": 1
+    },
+    {
+      "name": "and ultimately",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000728,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe to newsletter",
+      "type": "OTHER",
+      "salience": 0.000678,
+      "mentions": 1
+    },
+    {
+      "name": "Share this post",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000675,
+      "mentions": 1
+    },
+    {
+      "name": "Similar Blog Posts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000669,
+      "mentions": 1
+    },
+    {
+      "name": "Officer®",
+      "type": "OTHER",
+      "salience": 0.000641,
+      "mentions": 1
+    },
+    {
+      "name": "Download Ebook",
+      "type": "OTHER",
+      "salience": 0.000627,
+      "mentions": 1
+    },
+    {
+      "name": "Modern Digital Warehousing and Fulfillment Platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000569,
+      "mentions": 1
+    },
+    {
+      "name": "restocking",
+      "type": "OTHER",
+      "salience": 0.00044,
+      "mentions": 1
+    },
+    {
+      "name": "Table of Contents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000419,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 30, 2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 5, 2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 11, 2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 7, 2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 57,
+    "CONSUMER_GOOD": 46,
+    "ORGANIZATION": 1,
+    "PERSON": 5,
+    "NUMBER": 35,
+    "DATE": 8
+  },
+  "type_salience": {
+    "OTHER": 0.5111949999999998,
+    "CONSUMER_GOOD": 0.337261,
+    "ORGANIZATION": 0.017941,
+    "PERSON": 0.007597,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

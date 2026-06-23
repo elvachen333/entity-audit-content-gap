@@ -1,0 +1,4963 @@
+{
+  "file": "non_cited_postdisney-cruises.txt",
+  "word_count": 321,
+  "entity_count": 822,
+  "entities": [
+    {
+      "name": "迪士尼",
+      "type": "OTHER",
+      "salience": 0.030593,
+      "mentions": 3
+    },
+    {
+      "name": "新加坡",
+      "type": "LOCATION",
+      "salience": 0.026694,
+      "mentions": 14
+    },
+    {
+      "name": "Mimi",
+      "type": "PERSON",
+      "salience": 0.025189,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.023386,
+      "mentions": 4
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.0212,
+      "mentions": 1
+    },
+    {
+      "name": "张飞新加坡",
+      "type": "LOCATION",
+      "salience": 0.020405,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.020226,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.016241,
+      "mentions": 1
+    },
+    {
+      "name": "Mimi",
+      "type": "PERSON",
+      "salience": 0.013789,
+      "mentions": 1
+    },
+    {
+      "name": "韩",
+      "type": "LOCATION",
+      "salience": 0.013789,
+      "mentions": 4
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.013402,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.011895,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.010968,
+      "mentions": 1
+    },
+    {
+      "name": "攻略",
+      "type": "OTHER",
+      "salience": 0.010828,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.010737,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.010578,
+      "mentions": 1
+    },
+    {
+      "name": "韩の旅游生活",
+      "type": "OTHER",
+      "salience": 0.01002,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.00956,
+      "mentions": 1
+    },
+    {
+      "name": "动线",
+      "type": "OTHER",
+      "salience": 0.00915,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.008059,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Adventure",
+      "type": "PERSON",
+      "salience": 0.007927,
+      "mentions": 1
+    },
+    {
+      "name": "亚洲",
+      "type": "LOCATION",
+      "salience": 0.007927,
+      "mentions": 3
+    },
+    {
+      "name": "主题区",
+      "type": "LOCATION",
+      "salience": 0.007581,
+      "mentions": 1
+    },
+    {
+      "name": "空间",
+      "type": "OTHER",
+      "salience": 0.007193,
+      "mentions": 1
+    },
+    {
+      "name": "漫威",
+      "type": "PERSON",
+      "salience": 0.006915,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.006731,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.006511,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.006511,
+      "mentions": 1
+    },
+    {
+      "name": "KKDAY",
+      "type": "OTHER",
+      "salience": 0.00649,
+      "mentions": 8
+    },
+    {
+      "name": "KLOOK",
+      "type": "OTHER",
+      "salience": 0.00649,
+      "mentions": 5
+    },
+    {
+      "name": "甲板",
+      "type": "LOCATION",
+      "salience": 0.006401,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.006303,
+      "mentions": 1
+    },
+    {
+      "name": "排队区",
+      "type": "LOCATION",
+      "salience": 0.005893,
+      "mentions": 1
+    },
+    {
+      "name": "动线",
+      "type": "OTHER",
+      "salience": 0.00565,
+      "mentions": 1
+    },
+    {
+      "name": "米老鼠",
+      "type": "OTHER",
+      "salience": 0.005593,
+      "mentions": 1
+    },
+    {
+      "name": "为什么迪士尼探险号",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005364,
+      "mentions": 1
+    },
+    {
+      "name": "漫威巡航区",
+      "type": "LOCATION",
+      "salience": 0.005345,
+      "mentions": 1
+    },
+    {
+      "name": "区",
+      "type": "LOCATION",
+      "salience": 0.005197,
+      "mentions": 1
+    },
+    {
+      "name": "机票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005164,
+      "mentions": 1
+    },
+    {
+      "name": "朝圣预算花",
+      "type": "OTHER",
+      "salience": 0.005099,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.004976,
+      "mentions": 1
+    },
+    {
+      "name": "台湾",
+      "type": "LOCATION",
+      "salience": 0.00476,
+      "mentions": 2
+    },
+    {
+      "name": "旅人",
+      "type": "PERSON",
+      "salience": 0.004633,
+      "mentions": 1
+    },
+    {
+      "name": "作者",
+      "type": "PERSON",
+      "salience": 0.004616,
+      "mentions": 1
+    },
+    {
+      "name": "冰雪奇缘主题区",
+      "type": "LOCATION",
+      "salience": 0.004594,
+      "mentions": 1
+    },
+    {
+      "name": "实体化",
+      "type": "OTHER",
+      "salience": 0.004504,
+      "mentions": 1
+    },
+    {
+      "name": "本文目录",
+      "type": "OTHER",
+      "salience": 0.004272,
+      "mentions": 1
+    },
+    {
+      "name": "船",
+      "type": "OTHER",
+      "salience": 0.00427,
+      "mentions": 1
+    },
+    {
+      "name": "世界",
+      "type": "LOCATION",
+      "salience": 0.004169,
+      "mentions": 1
+    },
+    {
+      "name": "甲板",
+      "type": "OTHER",
+      "salience": 0.004152,
+      "mentions": 1
+    },
+    {
+      "name": "加赠",
+      "type": "LOCATION",
+      "salience": 0.003963,
+      "mentions": 1
+    },
+    {
+      "name": "甲板",
+      "type": "OTHER",
+      "salience": 0.003928,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.003886,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼乐园",
+      "type": "LOCATION",
+      "salience": 0.003809,
+      "mentions": 1
+    },
+    {
+      "name": "船",
+      "type": "OTHER",
+      "salience": 0.00372,
+      "mentions": 1
+    },
+    {
+      "name": "排队拿餐点",
+      "type": "OTHER",
+      "salience": 0.00372,
+      "mentions": 1
+    },
+    {
+      "name": "东南亚",
+      "type": "LOCATION",
+      "salience": 0.003665,
+      "mentions": 3
+    },
+    {
+      "name": "钢铁人云霄",
+      "type": "OTHER",
+      "salience": 0.003578,
+      "mentions": 1
+    },
+    {
+      "name": "巨无霸",
+      "type": "OTHER",
+      "salience": 0.003517,
+      "mentions": 1
+    },
+    {
+      "name": "现实",
+      "type": "OTHER",
+      "salience": 0.003453,
+      "mentions": 1
+    },
+    {
+      "name": "钱",
+      "type": "OTHER",
+      "salience": 0.00345,
+      "mentions": 1
+    },
+    {
+      "name": "设施",
+      "type": "OTHER",
+      "salience": 0.003368,
+      "mentions": 1
+    },
+    {
+      "name": "船票",
+      "type": "OTHER",
+      "salience": 0.003351,
+      "mentions": 1
+    },
+    {
+      "name": "选项",
+      "type": "OTHER",
+      "salience": 0.003328,
+      "mentions": 1
+    },
+    {
+      "name": "小小孩",
+      "type": "PERSON",
+      "salience": 0.003248,
+      "mentions": 1
+    },
+    {
+      "name": "钢铁人云霄飞车",
+      "type": "OTHER",
+      "salience": 0.00323,
+      "mentions": 1
+    },
+    {
+      "name": "小孩",
+      "type": "PERSON",
+      "salience": 0.003098,
+      "mentions": 1
+    },
+    {
+      "name": "速度感",
+      "type": "OTHER",
+      "salience": 0.003078,
+      "mentions": 1
+    },
+    {
+      "name": "机票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002967,
+      "mentions": 1
+    },
+    {
+      "name": "闷热感",
+      "type": "OTHER",
+      "salience": 0.002912,
+      "mentions": 1
+    },
+    {
+      "name": "船队",
+      "type": "OTHER",
+      "salience": 0.00285,
+      "mentions": 1
+    },
+    {
+      "name": "硬体设备",
+      "type": "OTHER",
+      "salience": 0.00285,
+      "mentions": 1
+    },
+    {
+      "name": "晚餐",
+      "type": "OTHER",
+      "salience": 0.002821,
+      "mentions": 1
+    },
+    {
+      "name": "硬体",
+      "type": "OTHER",
+      "salience": 0.002782,
+      "mentions": 1
+    },
+    {
+      "name": "艾莎施展冰雪魔法",
+      "type": "OTHER",
+      "salience": 0.002769,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.002704,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.002704,
+      "mentions": 1
+    },
+    {
+      "name": "人潮",
+      "type": "PERSON",
+      "salience": 0.002646,
+      "mentions": 1
+    },
+    {
+      "name": "角度",
+      "type": "OTHER",
+      "salience": 0.002589,
+      "mentions": 1
+    },
+    {
+      "name": "人生",
+      "type": "OTHER",
+      "salience": 0.002589,
+      "mentions": 1
+    },
+    {
+      "name": "小孩",
+      "type": "PERSON",
+      "salience": 0.002544,
+      "mentions": 1
+    },
+    {
+      "name": "漫威巡航",
+      "type": "OTHER",
+      "salience": 0.0025,
+      "mentions": 1
+    },
+    {
+      "name": "沉浸感",
+      "type": "OTHER",
+      "salience": 0.002487,
+      "mentions": 1
+    },
+    {
+      "name": "小孩",
+      "type": "PERSON",
+      "salience": 0.002427,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.002393,
+      "mentions": 1
+    },
+    {
+      "name": "头",
+      "type": "OTHER",
+      "salience": 0.002388,
+      "mentions": 1
+    },
+    {
+      "name": "玩具总动员水世界",
+      "type": "LOCATION",
+      "salience": 0.002345,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.002332,
+      "mentions": 1
+    },
+    {
+      "name": "童话",
+      "type": "OTHER",
+      "salience": 0.00233,
+      "mentions": 1
+    },
+    {
+      "name": "剧院",
+      "type": "LOCATION",
+      "salience": 0.00233,
+      "mentions": 1
+    },
+    {
+      "name": "开销",
+      "type": "OTHER",
+      "salience": 0.002296,
+      "mentions": 1
+    },
+    {
+      "name": "地方",
+      "type": "LOCATION",
+      "salience": 0.002256,
+      "mentions": 1
+    },
+    {
+      "name": "回忆",
+      "type": "OTHER",
+      "salience": 0.002247,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.002233,
+      "mentions": 1
+    },
+    {
+      "name": "钢铁人云霄飞车",
+      "type": "OTHER",
+      "salience": 0.002207,
+      "mentions": 1
+    },
+    {
+      "name": "中央",
+      "type": "ORGANIZATION",
+      "salience": 0.002137,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.002075,
+      "mentions": 1
+    },
+    {
+      "name": "天花板",
+      "type": "OTHER",
+      "salience": 0.002055,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.002032,
+      "mentions": 1
+    },
+    {
+      "name": "水世界",
+      "type": "LOCATION",
+      "salience": 0.002032,
+      "mentions": 1
+    },
+    {
+      "name": "地板",
+      "type": "OTHER",
+      "salience": 0.001966,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Discovery Reef",
+      "type": "PERSON",
+      "salience": 0.001966,
+      "mentions": 1
+    },
+    {
+      "name": "设施",
+      "type": "OTHER",
+      "salience": 0.001963,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.001933,
+      "mentions": 1
+    },
+    {
+      "name": "视觉效果",
+      "type": "OTHER",
+      "salience": 0.001924,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.001919,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼税",
+      "type": "OTHER",
+      "salience": 0.0019,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.001891,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.001891,
+      "mentions": 1
+    },
+    {
+      "name": "赢家",
+      "type": "OTHER",
+      "salience": 0.001882,
+      "mentions": 1
+    },
+    {
+      "name": "魔法",
+      "type": "OTHER",
+      "salience": 0.001875,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.001836,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.001814,
+      "mentions": 1
+    },
+    {
+      "name": "巨舰",
+      "type": "OTHER",
+      "salience": 0.001798,
+      "mentions": 1
+    },
+    {
+      "name": "心态",
+      "type": "OTHER",
+      "salience": 0.001798,
+      "mentions": 1
+    },
+    {
+      "name": "游客",
+      "type": "PERSON",
+      "salience": 0.001724,
+      "mentions": 1
+    },
+    {
+      "name": "高温",
+      "type": "OTHER",
+      "salience": 0.001724,
+      "mentions": 1
+    },
+    {
+      "name": "电梯",
+      "type": "OTHER",
+      "salience": 0.001724,
+      "mentions": 1
+    },
+    {
+      "name": "画面",
+      "type": "OTHER",
+      "salience": 0.001724,
+      "mentions": 1
+    },
+    {
+      "name": "冰雪奇缘",
+      "type": "OTHER",
+      "salience": 0.001692,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.001673,
+      "mentions": 1
+    },
+    {
+      "name": "钱包",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001658,
+      "mentions": 1
+    },
+    {
+      "name": "心理",
+      "type": "OTHER",
+      "salience": 0.001599,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.001582,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.001577,
+      "mentions": 1
+    },
+    {
+      "name": "苍蝇",
+      "type": "OTHER",
+      "salience": 0.00154,
+      "mentions": 1
+    },
+    {
+      "name": "船身边缘",
+      "type": "OTHER",
+      "salience": 0.001512,
+      "mentions": 1
+    },
+    {
+      "name": "全球",
+      "type": "LOCATION",
+      "salience": 0.001512,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.001476,
+      "mentions": 1
+    },
+    {
+      "name": "门口",
+      "type": "LOCATION",
+      "salience": 0.001471,
+      "mentions": 1
+    },
+    {
+      "name": "户外",
+      "type": "OTHER",
+      "salience": 0.001469,
+      "mentions": 1
+    },
+    {
+      "name": "艾莎",
+      "type": "PERSON",
+      "salience": 0.001451,
+      "mentions": 1
+    },
+    {
+      "name": "甲板派对",
+      "type": "OTHER",
+      "salience": 0.001446,
+      "mentions": 1
+    },
+    {
+      "name": "空间",
+      "type": "OTHER",
+      "salience": 0.001421,
+      "mentions": 1
+    },
+    {
+      "name": "全船噪音分贝",
+      "type": "OTHER",
+      "salience": 0.001399,
+      "mentions": 1
+    },
+    {
+      "name": "2026迪士尼邮轮航程",
+      "type": "OTHER",
+      "salience": 0.001388,
+      "mentions": 1
+    },
+    {
+      "name": "周围",
+      "type": "OTHER",
+      "salience": 0.001377,
+      "mentions": 1
+    },
+    {
+      "name": "分贝",
+      "type": "OTHER",
+      "salience": 0.001377,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.001372,
+      "mentions": 1
+    },
+    {
+      "name": "甲板派对",
+      "type": "EVENT",
+      "salience": 0.001336,
+      "mentions": 1
+    },
+    {
+      "name": "救赎",
+      "type": "OTHER",
+      "salience": 0.00132,
+      "mentions": 1
+    },
+    {
+      "name": "空间",
+      "type": "OTHER",
+      "salience": 0.00132,
+      "mentions": 1
+    },
+    {
+      "name": "外头",
+      "type": "OTHER",
+      "salience": 0.001299,
+      "mentions": 1
+    },
+    {
+      "name": "炎热",
+      "type": "OTHER",
+      "salience": 0.001299,
+      "mentions": 1
+    },
+    {
+      "name": "空间",
+      "type": "OTHER",
+      "salience": 0.001295,
+      "mentions": 1
+    },
+    {
+      "name": "地方",
+      "type": "LOCATION",
+      "salience": 0.001294,
+      "mentions": 1
+    },
+    {
+      "name": "Marvel Landing",
+      "type": "PERSON",
+      "salience": 0.001278,
+      "mentions": 1
+    },
+    {
+      "name": "剧院",
+      "type": "LOCATION",
+      "salience": 0.001272,
+      "mentions": 1
+    },
+    {
+      "name": "湿漉漉",
+      "type": "OTHER",
+      "salience": 0.001266,
+      "mentions": 1
+    },
+    {
+      "name": "房型空间",
+      "type": "OTHER",
+      "salience": 0.001259,
+      "mentions": 1
+    },
+    {
+      "name": "房型空间",
+      "type": "OTHER",
+      "salience": 0.001258,
+      "mentions": 1
+    },
+    {
+      "name": "空间",
+      "type": "OTHER",
+      "salience": 0.00125,
+      "mentions": 1
+    },
+    {
+      "name": "奇想花园",
+      "type": "LOCATION",
+      "salience": 0.001247,
+      "mentions": 1
+    },
+    {
+      "name": "外套",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001246,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.001229,
+      "mentions": 1
+    },
+    {
+      "name": "实体喷雪特效",
+      "type": "OTHER",
+      "salience": 0.001221,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.001214,
+      "mentions": 1
+    },
+    {
+      "name": "主题区",
+      "type": "LOCATION",
+      "salience": 0.001199,
+      "mentions": 1
+    },
+    {
+      "name": "船票",
+      "type": "OTHER",
+      "salience": 0.001198,
+      "mentions": 1
+    },
+    {
+      "name": "门票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001198,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.001197,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.001195,
+      "mentions": 1
+    },
+    {
+      "name": "主题餐厅",
+      "type": "LOCATION",
+      "salience": 0.001195,
+      "mentions": 1
+    },
+    {
+      "name": "轨道",
+      "type": "OTHER",
+      "salience": 0.001189,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮航程",
+      "type": "OTHER",
+      "salience": 0.001188,
+      "mentions": 1
+    },
+    {
+      "name": "官方 APP",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001176,
+      "mentions": 1
+    },
+    {
+      "name": "起居区",
+      "type": "LOCATION",
+      "salience": 0.00117,
+      "mentions": 1
+    },
+    {
+      "name": "天堂",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00116,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.001157,
+      "mentions": 1
+    },
+    {
+      "name": "甲板区",
+      "type": "LOCATION",
+      "salience": 0.001157,
+      "mentions": 1
+    },
+    {
+      "name": "缺点",
+      "type": "OTHER",
+      "salience": 0.001156,
+      "mentions": 1
+    },
+    {
+      "name": "甲板",
+      "type": "OTHER",
+      "salience": 0.001155,
+      "mentions": 1
+    },
+    {
+      "name": "主题餐厅",
+      "type": "LOCATION",
+      "salience": 0.001144,
+      "mentions": 1
+    },
+    {
+      "name": "主题餐厅",
+      "type": "LOCATION",
+      "salience": 0.001131,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.001125,
+      "mentions": 1
+    },
+    {
+      "name": "甲板",
+      "type": "LOCATION",
+      "salience": 0.00112,
+      "mentions": 1
+    },
+    {
+      "name": "滑水道",
+      "type": "LOCATION",
+      "salience": 0.001117,
+      "mentions": 1
+    },
+    {
+      "name": "战区",
+      "type": "OTHER",
+      "salience": 0.001117,
+      "mentions": 1
+    },
+    {
+      "name": "摩托车座椅",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001117,
+      "mentions": 1
+    },
+    {
+      "name": "交通",
+      "type": "OTHER",
+      "salience": 0.001114,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.001114,
+      "mentions": 1
+    },
+    {
+      "name": "甲板",
+      "type": "OTHER",
+      "salience": 0.001107,
+      "mentions": 1
+    },
+    {
+      "name": "主题",
+      "type": "OTHER",
+      "salience": 0.001103,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.001102,
+      "mentions": 1
+    },
+    {
+      "name": "水花炮塔",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001101,
+      "mentions": 1
+    },
+    {
+      "name": "交通",
+      "type": "OTHER",
+      "salience": 0.001099,
+      "mentions": 1
+    },
+    {
+      "name": "Avengers Assemble",
+      "type": "PERSON",
+      "salience": 0.001099,
+      "mentions": 1
+    },
+    {
+      "name": "水花",
+      "type": "OTHER",
+      "salience": 0.001082,
+      "mentions": 1
+    },
+    {
+      "name": "预算",
+      "type": "OTHER",
+      "salience": 0.00108,
+      "mentions": 1
+    },
+    {
+      "name": "大片",
+      "type": "OTHER",
+      "salience": 0.001053,
+      "mentions": 1
+    },
+    {
+      "name": "动画",
+      "type": "OTHER",
+      "salience": 0.001048,
+      "mentions": 1
+    },
+    {
+      "name": "阳台房",
+      "type": "LOCATION",
+      "salience": 0.001032,
+      "mentions": 1
+    },
+    {
+      "name": "地上",
+      "type": "OTHER",
+      "salience": 0.001026,
+      "mentions": 1
+    },
+    {
+      "name": "投影",
+      "type": "OTHER",
+      "salience": 0.001023,
+      "mentions": 1
+    },
+    {
+      "name": "妆容",
+      "type": "OTHER",
+      "salience": 0.001018,
+      "mentions": 1
+    },
+    {
+      "name": "部分",
+      "type": "OTHER",
+      "salience": 0.001018,
+      "mentions": 1
+    },
+    {
+      "name": "太阳",
+      "type": "OTHER",
+      "salience": 0.001018,
+      "mentions": 1
+    },
+    {
+      "name": "预算",
+      "type": "OTHER",
+      "salience": 0.000994,
+      "mentions": 1
+    },
+    {
+      "name": "船安顿行李",
+      "type": "OTHER",
+      "salience": 0.000992,
+      "mentions": 1
+    },
+    {
+      "name": "酷刑",
+      "type": "OTHER",
+      "salience": 0.000992,
+      "mentions": 1
+    },
+    {
+      "name": "海景舱房",
+      "type": "LOCATION",
+      "salience": 0.000977,
+      "mentions": 1
+    },
+    {
+      "name": "海景房",
+      "type": "LOCATION",
+      "salience": 0.00097,
+      "mentions": 1
+    },
+    {
+      "name": "妈妈们",
+      "type": "PERSON",
+      "salience": 0.000968,
+      "mentions": 1
+    },
+    {
+      "name": "入口处",
+      "type": "OTHER",
+      "salience": 0.000968,
+      "mentions": 1
+    },
+    {
+      "name": "皮克斯空间亮点",
+      "type": "OTHER",
+      "salience": 0.000945,
+      "mentions": 1
+    },
+    {
+      "name": "阳台舱房",
+      "type": "LOCATION",
+      "salience": 0.000945,
+      "mentions": 1
+    },
+    {
+      "name": "航程天数",
+      "type": "OTHER",
+      "salience": 0.000945,
+      "mentions": 1
+    },
+    {
+      "name": "Toy Story Place",
+      "type": "PERSON",
+      "salience": 0.000944,
+      "mentions": 1
+    },
+    {
+      "name": "阳台房",
+      "type": "LOCATION",
+      "salience": 0.000942,
+      "mentions": 1
+    },
+    {
+      "name": "动线",
+      "type": "OTHER",
+      "salience": 0.000942,
+      "mentions": 1
+    },
+    {
+      "name": "饭店",
+      "type": "LOCATION",
+      "salience": 0.000935,
+      "mentions": 1
+    },
+    {
+      "name": "米奇",
+      "type": "OTHER",
+      "salience": 0.000931,
+      "mentions": 1
+    },
+    {
+      "name": "舱房等级",
+      "type": "OTHER",
+      "salience": 0.000928,
+      "mentions": 1
+    },
+    {
+      "name": "室内",
+      "type": "LOCATION",
+      "salience": 0.000925,
+      "mentions": 1
+    },
+    {
+      "name": "大件行李",
+      "type": "OTHER",
+      "salience": 0.000918,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000917,
+      "mentions": 1
+    },
+    {
+      "name": "内舱房",
+      "type": "LOCATION",
+      "salience": 0.000908,
+      "mentions": 1
+    },
+    {
+      "name": "连通房型",
+      "type": "OTHER",
+      "salience": 0.000906,
+      "mentions": 1
+    },
+    {
+      "name": "Imagination Garden",
+      "type": "LOCATION",
+      "salience": 0.000888,
+      "mentions": 1
+    },
+    {
+      "name": "里头",
+      "type": "OTHER",
+      "salience": 0.000886,
+      "mentions": 1
+    },
+    {
+      "name": "行李",
+      "type": "OTHER",
+      "salience": 0.000879,
+      "mentions": 1
+    },
+    {
+      "name": "身高",
+      "type": "OTHER",
+      "salience": 0.000876,
+      "mentions": 1
+    },
+    {
+      "name": "滨海湾邮轮中心",
+      "type": "LOCATION",
+      "salience": 0.000871,
+      "mentions": 1
+    },
+    {
+      "name": "冷风",
+      "type": "OTHER",
+      "salience": 0.000869,
+      "mentions": 1
+    },
+    {
+      "name": "舞台",
+      "type": "LOCATION",
+      "salience": 0.000869,
+      "mentions": 1
+    },
+    {
+      "name": "空间开放感",
+      "type": "OTHER",
+      "salience": 0.000867,
+      "mentions": 1
+    },
+    {
+      "name": "房型",
+      "type": "OTHER",
+      "salience": 0.000866,
+      "mentions": 1
+    },
+    {
+      "name": "小孩",
+      "type": "PERSON",
+      "salience": 0.000857,
+      "mentions": 1
+    },
+    {
+      "name": "海景",
+      "type": "OTHER",
+      "salience": 0.000856,
+      "mentions": 1
+    },
+    {
+      "name": "房内",
+      "type": "LOCATION",
+      "salience": 0.000856,
+      "mentions": 1
+    },
+    {
+      "name": "座位",
+      "type": "OTHER",
+      "salience": 0.000852,
+      "mentions": 1
+    },
+    {
+      "name": "海景",
+      "type": "OTHER",
+      "salience": 0.000849,
+      "mentions": 1
+    },
+    {
+      "name": "铁则",
+      "type": "OTHER",
+      "salience": 0.000837,
+      "mentions": 1
+    },
+    {
+      "name": "海景",
+      "type": "OTHER",
+      "salience": 0.00083,
+      "mentions": 1
+    },
+    {
+      "name": "边缘位置",
+      "type": "OTHER",
+      "salience": 0.000822,
+      "mentions": 1
+    },
+    {
+      "name": "视线",
+      "type": "OTHER",
+      "salience": 0.000822,
+      "mentions": 1
+    },
+    {
+      "name": "度假",
+      "type": "OTHER",
+      "salience": 0.00082,
+      "mentions": 1
+    },
+    {
+      "name": "焦虑感",
+      "type": "OTHER",
+      "salience": 0.00082,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000816,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮中心",
+      "type": "LOCATION",
+      "salience": 0.000806,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000803,
+      "mentions": 1
+    },
+    {
+      "name": "预算",
+      "type": "OTHER",
+      "salience": 0.000798,
+      "mentions": 1
+    },
+    {
+      "name": "地方",
+      "type": "LOCATION",
+      "salience": 0.000774,
+      "mentions": 1
+    },
+    {
+      "name": "加赠",
+      "type": "LOCATION",
+      "salience": 0.000773,
+      "mentions": 1
+    },
+    {
+      "name": "尖叫声",
+      "type": "OTHER",
+      "salience": 0.00077,
+      "mentions": 1
+    },
+    {
+      "name": "遮阳躺椅数量",
+      "type": "OTHER",
+      "salience": 0.00077,
+      "mentions": 1
+    },
+    {
+      "name": "预算",
+      "type": "OTHER",
+      "salience": 0.000768,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.000759,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.000758,
+      "mentions": 1
+    },
+    {
+      "name": "空景",
+      "type": "OTHER",
+      "salience": 0.000757,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮中心",
+      "type": "LOCATION",
+      "salience": 0.000742,
+      "mentions": 1
+    },
+    {
+      "name": "地毯",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000735,
+      "mentions": 1
+    },
+    {
+      "name": "包包",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00073,
+      "mentions": 1
+    },
+    {
+      "name": "阳台",
+      "type": "LOCATION",
+      "salience": 0.000729,
+      "mentions": 1
+    },
+    {
+      "name": "烟火",
+      "type": "OTHER",
+      "salience": 0.000728,
+      "mentions": 1
+    },
+    {
+      "name": "混乱感",
+      "type": "OTHER",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.000722,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000722,
+      "mentions": 1
+    },
+    {
+      "name": "内舱房",
+      "type": "LOCATION",
+      "salience": 0.000715,
+      "mentions": 1
+    },
+    {
+      "name": "阳台",
+      "type": "LOCATION",
+      "salience": 0.000703,
+      "mentions": 1
+    },
+    {
+      "name": "冰雪奇缘角色",
+      "type": "OTHER",
+      "salience": 0.000699,
+      "mentions": 1
+    },
+    {
+      "name": "加赠",
+      "type": "LOCATION",
+      "salience": 0.000693,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.00068,
+      "mentions": 1
+    },
+    {
+      "name": "房间",
+      "type": "LOCATION",
+      "salience": 0.00065,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "房间",
+      "type": "LOCATION",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "家庭",
+      "type": "PERSON",
+      "salience": 0.000633,
+      "mentions": 1
+    },
+    {
+      "name": "家庭",
+      "type": "PERSON",
+      "salience": 0.000622,
+      "mentions": 1
+    },
+    {
+      "name": "家庭",
+      "type": "PERSON",
+      "salience": 0.000621,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "云霄飞车",
+      "type": "OTHER",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.000617,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.000617,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.000617,
+      "mentions": 1
+    },
+    {
+      "name": "家庭",
+      "type": "PERSON",
+      "salience": 0.000608,
+      "mentions": 1
+    },
+    {
+      "name": "大人",
+      "type": "PERSON",
+      "salience": 0.000604,
+      "mentions": 1
+    },
+    {
+      "name": "套房等级",
+      "type": "OTHER",
+      "salience": 0.000604,
+      "mentions": 1
+    },
+    {
+      "name": "用餐机制",
+      "type": "OTHER",
+      "salience": 0.000602,
+      "mentions": 1
+    },
+    {
+      "name": "滨海湾",
+      "type": "LOCATION",
+      "salience": 0.000599,
+      "mentions": 1
+    },
+    {
+      "name": "VIP等级",
+      "type": "OTHER",
+      "salience": 0.000597,
+      "mentions": 1
+    },
+    {
+      "name": "唐老鸭",
+      "type": "OTHER",
+      "salience": 0.000595,
+      "mentions": 1
+    },
+    {
+      "name": "服务",
+      "type": "OTHER",
+      "salience": 0.000589,
+      "mentions": 1
+    },
+    {
+      "name": "机制",
+      "type": "OTHER",
+      "salience": 0.000581,
+      "mentions": 1
+    },
+    {
+      "name": "服务",
+      "type": "OTHER",
+      "salience": 0.000578,
+      "mentions": 1
+    },
+    {
+      "name": "托运人员",
+      "type": "PERSON",
+      "salience": 0.000574,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.000574,
+      "mentions": 1
+    },
+    {
+      "name": "舱房",
+      "type": "LOCATION",
+      "salience": 0.00057,
+      "mentions": 1
+    },
+    {
+      "name": "钱",
+      "type": "OTHER",
+      "salience": 0.00057,
+      "mentions": 1
+    },
+    {
+      "name": "面",
+      "type": "OTHER",
+      "salience": 0.000558,
+      "mentions": 1
+    },
+    {
+      "name": "滨海湾",
+      "type": "LOCATION",
+      "salience": 0.000552,
+      "mentions": 1
+    },
+    {
+      "name": "成人专属空间",
+      "type": "OTHER",
+      "salience": 0.000544,
+      "mentions": 1
+    },
+    {
+      "name": "旅人",
+      "type": "PERSON",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "内舱",
+      "type": "OTHER",
+      "salience": 0.000539,
+      "mentions": 1
+    },
+    {
+      "name": "视觉舒适度",
+      "type": "OTHER",
+      "salience": 0.000539,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line Navigator APP",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000538,
+      "mentions": 1
+    },
+    {
+      "name": "行李箱",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000531,
+      "mentions": 1
+    },
+    {
+      "name": "明洞住宿",
+      "type": "LOCATION",
+      "salience": 0.000528,
+      "mentions": 1
+    },
+    {
+      "name": "航次",
+      "type": "OTHER",
+      "salience": 0.000527,
+      "mentions": 1
+    },
+    {
+      "name": "空气",
+      "type": "OTHER",
+      "salience": 0.000527,
+      "mentions": 1
+    },
+    {
+      "name": "晚餐",
+      "type": "OTHER",
+      "salience": 0.000522,
+      "mentions": 1
+    },
+    {
+      "name": "机场",
+      "type": "LOCATION",
+      "salience": 0.00052,
+      "mentions": 1
+    },
+    {
+      "name": "Grab",
+      "type": "LOCATION",
+      "salience": 0.000518,
+      "mentions": 1
+    },
+    {
+      "name": "角色主题套房",
+      "type": "LOCATION",
+      "salience": 0.000517,
+      "mentions": 1
+    },
+    {
+      "name": "情侣旅人",
+      "type": "PERSON",
+      "salience": 0.000515,
+      "mentions": 1
+    },
+    {
+      "name": "樟宜机场",
+      "type": "LOCATION",
+      "salience": 0.000514,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.000513,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.000511,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.000508,
+      "mentions": 1
+    },
+    {
+      "name": "成人专属区",
+      "type": "LOCATION",
+      "salience": 0.000501,
+      "mentions": 1
+    },
+    {
+      "name": "剧场大秀",
+      "type": "OTHER",
+      "salience": 0.0005,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.000498,
+      "mentions": 1
+    },
+    {
+      "name": "虚拟魔法舷窗",
+      "type": "OTHER",
+      "salience": 0.000495,
+      "mentions": 1
+    },
+    {
+      "name": "人家",
+      "type": "PERSON",
+      "salience": 0.000493,
+      "mentions": 1
+    },
+    {
+      "name": "花点",
+      "type": "OTHER",
+      "salience": 0.000493,
+      "mentions": 1
+    },
+    {
+      "name": "2026苏美岛住宿不踩雷",
+      "type": "LOCATION",
+      "salience": 0.000491,
+      "mentions": 1
+    },
+    {
+      "name": "攻略",
+      "type": "OTHER",
+      "salience": 0.000487,
+      "mentions": 1
+    },
+    {
+      "name": "机票比价攻略",
+      "type": "OTHER",
+      "salience": 0.000486,
+      "mentions": 1
+    },
+    {
+      "name": "魔法舷窗",
+      "type": "OTHER",
+      "salience": 0.000485,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000484,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "交通",
+      "type": "OTHER",
+      "salience": 0.000482,
+      "mentions": 1
+    },
+    {
+      "name": "交通",
+      "type": "OTHER",
+      "salience": 0.000479,
+      "mentions": 1
+    },
+    {
+      "name": "细腻度",
+      "type": "OTHER",
+      "salience": 0.000479,
+      "mentions": 1
+    },
+    {
+      "name": "攻略",
+      "type": "OTHER",
+      "salience": 0.000477,
+      "mentions": 1
+    },
+    {
+      "name": "体力",
+      "type": "OTHER",
+      "salience": 0.00047,
+      "mentions": 1
+    },
+    {
+      "name": "行李箱",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00047,
+      "mentions": 1
+    },
+    {
+      "name": "皮克斯",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000464,
+      "mentions": 1
+    },
+    {
+      "name": "攻略",
+      "type": "OTHER",
+      "salience": 0.000464,
+      "mentions": 1
+    },
+    {
+      "name": "二楼",
+      "type": "LOCATION",
+      "salience": 0.000458,
+      "mentions": 1
+    },
+    {
+      "name": "攻略",
+      "type": "OTHER",
+      "salience": 0.000457,
+      "mentions": 1
+    },
+    {
+      "name": "现场",
+      "type": "LOCATION",
+      "salience": 0.000452,
+      "mentions": 1
+    },
+    {
+      "name": "城市灯海浪漫路线攻略",
+      "type": "OTHER",
+      "salience": 0.000451,
+      "mentions": 1
+    },
+    {
+      "name": "海岛度假攻略",
+      "type": "OTHER",
+      "salience": 0.00045,
+      "mentions": 1
+    },
+    {
+      "name": "钱",
+      "type": "OTHER",
+      "salience": 0.000448,
+      "mentions": 1
+    },
+    {
+      "name": "蜜月攻略",
+      "type": "OTHER",
+      "salience": 0.000448,
+      "mentions": 1
+    },
+    {
+      "name": "聚光灯俱乐部",
+      "type": "LOCATION",
+      "salience": 0.000445,
+      "mentions": 1
+    },
+    {
+      "name": "位子",
+      "type": "OTHER",
+      "salience": 0.000442,
+      "mentions": 1
+    },
+    {
+      "name": "海关",
+      "type": "ORGANIZATION",
+      "salience": 0.000441,
+      "mentions": 1
+    },
+    {
+      "name": "索拉利西铁饭店",
+      "type": "LOCATION",
+      "salience": 0.000438,
+      "mentions": 1
+    },
+    {
+      "name": "海",
+      "type": "LOCATION",
+      "salience": 0.000426,
+      "mentions": 1
+    },
+    {
+      "name": "预算配置",
+      "type": "OTHER",
+      "salience": 0.00042,
+      "mentions": 1
+    },
+    {
+      "name": "住宿",
+      "type": "OTHER",
+      "salience": 0.000418,
+      "mentions": 1
+    },
+    {
+      "name": "行李箱",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "码头",
+      "type": "LOCATION",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "湿热空气",
+      "type": "OTHER",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "体力",
+      "type": "OTHER",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "老鼠互动",
+      "type": "OTHER",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "床铺",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "预算差异",
+      "type": "OTHER",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "夫妻情侣",
+      "type": "PERSON",
+      "salience": 0.000412,
+      "mentions": 1
+    },
+    {
+      "name": "Top10山中湖温泉饭店",
+      "type": "LOCATION",
+      "salience": 0.000412,
+      "mentions": 1
+    },
+    {
+      "name": "床铺",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000411,
+      "mentions": 1
+    },
+    {
+      "name": "门看海",
+      "type": "LOCATION",
+      "salience": 0.00041,
+      "mentions": 1
+    },
+    {
+      "name": "独立户外阳台",
+      "type": "OTHER",
+      "salience": 0.00041,
+      "mentions": 1
+    },
+    {
+      "name": "个人",
+      "type": "PERSON",
+      "salience": 0.000407,
+      "mentions": 1
+    },
+    {
+      "name": "设计",
+      "type": "OTHER",
+      "salience": 0.000405,
+      "mentions": 1
+    },
+    {
+      "name": "体验者",
+      "type": "PERSON",
+      "salience": 0.000396,
+      "mentions": 1
+    },
+    {
+      "name": "同堂",
+      "type": "OTHER",
+      "salience": 0.000395,
+      "mentions": 1
+    },
+    {
+      "name": "圆形假窗",
+      "type": "OTHER",
+      "salience": 0.000393,
+      "mentions": 1
+    },
+    {
+      "name": "面",
+      "type": "OTHER",
+      "salience": 0.000393,
+      "mentions": 1
+    },
+    {
+      "name": "剧场",
+      "type": "LOCATION",
+      "salience": 0.000392,
+      "mentions": 1
+    },
+    {
+      "name": "窗帘",
+      "type": "OTHER",
+      "salience": 0.000391,
+      "mentions": 1
+    },
+    {
+      "name": "折叠沙发床",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000391,
+      "mentions": 1
+    },
+    {
+      "name": "双人床",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000391,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡捷运",
+      "type": "OTHER",
+      "salience": 0.000389,
+      "mentions": 1
+    },
+    {
+      "name": "旅程",
+      "type": "OTHER",
+      "salience": 0.000389,
+      "mentions": 1
+    },
+    {
+      "name": "酒廊",
+      "type": "LOCATION",
+      "salience": 0.000389,
+      "mentions": 1
+    },
+    {
+      "name": "落地窗",
+      "type": "OTHER",
+      "salience": 0.000388,
+      "mentions": 1
+    },
+    {
+      "name": "温水",
+      "type": "OTHER",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "Grab",
+      "type": "OTHER",
+      "salience": 0.000385,
+      "mentions": 1
+    },
+    {
+      "name": "柠檬",
+      "type": "OTHER",
+      "salience": 0.000385,
+      "mentions": 1
+    },
+    {
+      "name": "小孩",
+      "type": "PERSON",
+      "salience": 0.000383,
+      "mentions": 1
+    },
+    {
+      "name": "小孩",
+      "type": "PERSON",
+      "salience": 0.00038,
+      "mentions": 1
+    },
+    {
+      "name": "风格",
+      "type": "OTHER",
+      "salience": 0.000378,
+      "mentions": 1
+    },
+    {
+      "name": "设计",
+      "type": "OTHER",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "服务生",
+      "type": "PERSON",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "航海冒险氛围",
+      "type": "OTHER",
+      "salience": 0.000374,
+      "mentions": 1
+    },
+    {
+      "name": "电子化",
+      "type": "OTHER",
+      "salience": 0.000369,
+      "mentions": 1
+    },
+    {
+      "name": "细节",
+      "type": "OTHER",
+      "salience": 0.000365,
+      "mentions": 1
+    },
+    {
+      "name": "亲子饭店",
+      "type": "LOCATION",
+      "salience": 0.000362,
+      "mentions": 1
+    },
+    {
+      "name": "体力",
+      "type": "OTHER",
+      "salience": 0.000356,
+      "mentions": 1
+    },
+    {
+      "name": "Mimi",
+      "type": "PERSON",
+      "salience": 0.000353,
+      "mentions": 1
+    },
+    {
+      "name": "Inside Stateroom",
+      "type": "PERSON",
+      "salience": 0.000353,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.00035,
+      "mentions": 1
+    },
+    {
+      "name": "捷运",
+      "type": "OTHER",
+      "salience": 0.000348,
+      "mentions": 1
+    },
+    {
+      "name": "澳门",
+      "type": "LOCATION",
+      "salience": 0.000347,
+      "mentions": 3
+    },
+    {
+      "name": "饭店",
+      "type": "LOCATION",
+      "salience": 0.000345,
+      "mentions": 1
+    },
+    {
+      "name": "饭店",
+      "type": "LOCATION",
+      "salience": 0.000344,
+      "mentions": 1
+    },
+    {
+      "name": "世纪大难题",
+      "type": "OTHER",
+      "salience": 0.000343,
+      "mentions": 1
+    },
+    {
+      "name": "自助餐",
+      "type": "OTHER",
+      "salience": 0.000343,
+      "mentions": 1
+    },
+    {
+      "name": "设施",
+      "type": "OTHER",
+      "salience": 0.000342,
+      "mentions": 1
+    },
+    {
+      "name": "浴厕分离",
+      "type": "OTHER",
+      "salience": 0.000342,
+      "mentions": 1
+    },
+    {
+      "name": "晚餐",
+      "type": "OTHER",
+      "salience": 0.000339,
+      "mentions": 1
+    },
+    {
+      "name": "码头交通接驳",
+      "type": "OTHER",
+      "salience": 0.000339,
+      "mentions": 1
+    },
+    {
+      "name": "Mimi韩",
+      "type": "PERSON",
+      "salience": 0.000339,
+      "mentions": 1
+    },
+    {
+      "name": "2026曼谷自由行",
+      "type": "ORGANIZATION",
+      "salience": 0.000333,
+      "mentions": 1
+    },
+    {
+      "name": "澳门自由行",
+      "type": "ORGANIZATION",
+      "salience": 0.00033,
+      "mentions": 1
+    },
+    {
+      "name": "区商店街中心",
+      "type": "LOCATION",
+      "salience": 0.00033,
+      "mentions": 1
+    },
+    {
+      "name": "Mimi",
+      "type": "PERSON",
+      "salience": 0.000327,
+      "mentions": 1
+    },
+    {
+      "name": "Rotational Dining",
+      "type": "PERSON",
+      "salience": 0.000323,
+      "mentions": 1
+    },
+    {
+      "name": "重点",
+      "type": "OTHER",
+      "salience": 0.000321,
+      "mentions": 1
+    },
+    {
+      "name": "环形走廊",
+      "type": "LOCATION",
+      "salience": 0.000319,
+      "mentions": 1
+    },
+    {
+      "name": "好莱坞",
+      "type": "LOCATION",
+      "salience": 0.000316,
+      "mentions": 1
+    },
+    {
+      "name": "天数",
+      "type": "OTHER",
+      "salience": 0.000314,
+      "mentions": 1
+    },
+    {
+      "name": "窗外风景",
+      "type": "OTHER",
+      "salience": 0.000314,
+      "mentions": 1
+    },
+    {
+      "name": "报价单",
+      "type": "OTHER",
+      "salience": 0.000311,
+      "mentions": 1
+    },
+    {
+      "name": "房型",
+      "type": "OTHER",
+      "salience": 0.00031,
+      "mentions": 1
+    },
+    {
+      "name": "特色",
+      "type": "OTHER",
+      "salience": 0.000309,
+      "mentions": 1
+    },
+    {
+      "name": "差异",
+      "type": "OTHER",
+      "salience": 0.000308,
+      "mentions": 1
+    },
+    {
+      "name": "海岛度假",
+      "type": "OTHER",
+      "salience": 0.000307,
+      "mentions": 1
+    },
+    {
+      "name": "绿色",
+      "type": "OTHER",
+      "salience": 0.000306,
+      "mentions": 1
+    },
+    {
+      "name": "加赠",
+      "type": "LOCATION",
+      "salience": 0.000305,
+      "mentions": 1
+    },
+    {
+      "name": "MBCCS",
+      "type": "ORGANIZATION",
+      "salience": 0.000304,
+      "mentions": 1
+    },
+    {
+      "name": "角落",
+      "type": "OTHER",
+      "salience": 0.000304,
+      "mentions": 1
+    },
+    {
+      "name": "窗景",
+      "type": "OTHER",
+      "salience": 0.000303,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.000301,
+      "mentions": 1
+    },
+    {
+      "name": "美食",
+      "type": "OTHER",
+      "salience": 0.0003,
+      "mentions": 1
+    },
+    {
+      "name": "旅客",
+      "type": "PERSON",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "选择",
+      "type": "OTHER",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "派对",
+      "type": "EVENT",
+      "salience": 0.000298,
+      "mentions": 1
+    },
+    {
+      "name": "卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000297,
+      "mentions": 1
+    },
+    {
+      "name": "诚意",
+      "type": "OTHER",
+      "salience": 0.000297,
+      "mentions": 1
+    },
+    {
+      "name": "好处",
+      "type": "OTHER",
+      "salience": 0.000296,
+      "mentions": 1
+    },
+    {
+      "name": "空间压迫",
+      "type": "OTHER",
+      "salience": 0.000294,
+      "mentions": 1
+    },
+    {
+      "name": "隔音",
+      "type": "OTHER",
+      "salience": 0.000292,
+      "mentions": 1
+    },
+    {
+      "name": "支撑力",
+      "type": "OTHER",
+      "salience": 0.000292,
+      "mentions": 1
+    },
+    {
+      "name": "早餐",
+      "type": "OTHER",
+      "salience": 0.000292,
+      "mentions": 1
+    },
+    {
+      "name": "面积",
+      "type": "OTHER",
+      "salience": 0.000292,
+      "mentions": 1
+    },
+    {
+      "name": "海风",
+      "type": "OTHER",
+      "salience": 0.00029,
+      "mentions": 1
+    },
+    {
+      "name": "桌椅",
+      "type": "OTHER",
+      "salience": 0.00029,
+      "mentions": 1
+    },
+    {
+      "name": "拍照",
+      "type": "OTHER",
+      "salience": 0.00029,
+      "mentions": 1
+    },
+    {
+      "name": "自由行",
+      "type": "OTHER",
+      "salience": 0.000288,
+      "mentions": 1
+    },
+    {
+      "name": "均衡性",
+      "type": "OTHER",
+      "salience": 0.000288,
+      "mentions": 1
+    },
+    {
+      "name": "厕所",
+      "type": "LOCATION",
+      "salience": 0.000288,
+      "mentions": 1
+    },
+    {
+      "name": "路",
+      "type": "LOCATION",
+      "salience": 0.000287,
+      "mentions": 1
+    },
+    {
+      "name": "大地游戏",
+      "type": "OTHER",
+      "salience": 0.000287,
+      "mentions": 1
+    },
+    {
+      "name": "角色见面会",
+      "type": "EVENT",
+      "salience": 0.000287,
+      "mentions": 1
+    },
+    {
+      "name": "CP值",
+      "type": "OTHER",
+      "salience": 0.000286,
+      "mentions": 1
+    },
+    {
+      "name": "夕阳",
+      "type": "OTHER",
+      "salience": 0.000284,
+      "mentions": 1
+    },
+    {
+      "name": "Marina South Pier 站",
+      "type": "LOCATION",
+      "salience": 0.000283,
+      "mentions": 1
+    },
+    {
+      "name": "MRT",
+      "type": "OTHER",
+      "salience": 0.000283,
+      "mentions": 1
+    },
+    {
+      "name": "主题套房",
+      "type": "LOCATION",
+      "salience": 0.000283,
+      "mentions": 1
+    },
+    {
+      "name": "清迈美食",
+      "type": "OTHER",
+      "salience": 0.000282,
+      "mentions": 1
+    },
+    {
+      "name": "探险号",
+      "type": "OTHER",
+      "salience": 0.000281,
+      "mentions": 1
+    },
+    {
+      "name": "LCD",
+      "type": "OTHER",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "太空小飞象",
+      "type": "PERSON",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "角色探头",
+      "type": "OTHER",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "孩子",
+      "type": "PERSON",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "备品",
+      "type": "OTHER",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "浴缸",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "平台",
+      "type": "OTHER",
+      "salience": 0.000279,
+      "mentions": 1
+    },
+    {
+      "name": "美食",
+      "type": "OTHER",
+      "salience": 0.000279,
+      "mentions": 1
+    },
+    {
+      "name": "房间",
+      "type": "LOCATION",
+      "salience": 0.000279,
+      "mentions": 1
+    },
+    {
+      "name": "房内壁纸",
+      "type": "OTHER",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "礼物",
+      "type": "OTHER",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "迎宾",
+      "type": "OTHER",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "周边",
+      "type": "OTHER",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "抱枕",
+      "type": "OTHER",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "书桌",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "衣橱",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "美食",
+      "type": "OTHER",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "蓝色",
+      "type": "OTHER",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "婚礼",
+      "type": "EVENT",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "套房住客",
+      "type": "PERSON",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "父母",
+      "type": "PERSON",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "宝宝",
+      "type": "PERSON",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "表演",
+      "type": "OTHER",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "美食",
+      "type": "OTHER",
+      "salience": 0.000275,
+      "mentions": 1
+    },
+    {
+      "name": "世界",
+      "type": "LOCATION",
+      "salience": 0.000275,
+      "mentions": 1
+    },
+    {
+      "name": "视野",
+      "type": "OTHER",
+      "salience": 0.000274,
+      "mentions": 1
+    },
+    {
+      "name": "双重考验",
+      "type": "OTHER",
+      "salience": 0.000273,
+      "mentions": 1
+    },
+    {
+      "name": "专属服务生团队",
+      "type": "ORGANIZATION",
+      "salience": 0.000271,
+      "mentions": 1
+    },
+    {
+      "name": "坚果",
+      "type": "OTHER",
+      "salience": 0.000268,
+      "mentions": 1
+    },
+    {
+      "name": "等级",
+      "type": "OTHER",
+      "salience": 0.000266,
+      "mentions": 1
+    },
+    {
+      "name": "刀口",
+      "type": "OTHER",
+      "salience": 0.000264,
+      "mentions": 1
+    },
+    {
+      "name": "长辈同行",
+      "type": "OTHER",
+      "salience": 0.000264,
+      "mentions": 1
+    },
+    {
+      "name": "大人",
+      "type": "PERSON",
+      "salience": 0.00026,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.000257,
+      "mentions": 1
+    },
+    {
+      "name": "大人",
+      "type": "PERSON",
+      "salience": 0.000256,
+      "mentions": 1
+    },
+    {
+      "name": "钱",
+      "type": "OTHER",
+      "salience": 0.000253,
+      "mentions": 1
+    },
+    {
+      "name": "手续",
+      "type": "OTHER",
+      "salience": 0.000253,
+      "mentions": 1
+    },
+    {
+      "name": "吞吐量",
+      "type": "OTHER",
+      "salience": 0.000253,
+      "mentions": 1
+    },
+    {
+      "name": "文章",
+      "type": "OTHER",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "当下",
+      "type": "OTHER",
+      "salience": 0.00025,
+      "mentions": 1
+    },
+    {
+      "name": "计程车",
+      "type": "OTHER",
+      "salience": 0.000245,
+      "mentions": 1
+    },
+    {
+      "name": "路人甲",
+      "type": "OTHER",
+      "salience": 0.000244,
+      "mentions": 1
+    },
+    {
+      "name": "菜市场",
+      "type": "OTHER",
+      "salience": 0.000244,
+      "mentions": 1
+    },
+    {
+      "name": "车程",
+      "type": "OTHER",
+      "salience": 0.00024,
+      "mentions": 1
+    },
+    {
+      "name": "航海家俱乐部",
+      "type": "ORGANIZATION",
+      "salience": 0.000235,
+      "mentions": 1
+    },
+    {
+      "name": "文章",
+      "type": "OTHER",
+      "salience": 0.000235,
+      "mentions": 1
+    },
+    {
+      "name": "文章",
+      "type": "WORK_OF_ART",
+      "salience": 0.000234,
+      "mentions": 1
+    },
+    {
+      "name": "地下通道换线",
+      "type": "LOCATION",
+      "salience": 0.000233,
+      "mentions": 1
+    },
+    {
+      "name": "文章",
+      "type": "WORK_OF_ART",
+      "salience": 0.000233,
+      "mentions": 1
+    },
+    {
+      "name": "车资",
+      "type": "OTHER",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "台币",
+      "type": "OTHER",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "巴拉望住宿",
+      "type": "OTHER",
+      "salience": 0.000229,
+      "mentions": 1
+    },
+    {
+      "name": "交通费",
+      "type": "OTHER",
+      "salience": 0.000228,
+      "mentions": 1
+    },
+    {
+      "name": "房间楼层",
+      "type": "OTHER",
+      "salience": 0.000224,
+      "mentions": 1
+    },
+    {
+      "name": "定价逻辑",
+      "type": "OTHER",
+      "salience": 0.000224,
+      "mentions": 1
+    },
+    {
+      "name": "声光效果",
+      "type": "OTHER",
+      "salience": 0.000222,
+      "mentions": 1
+    },
+    {
+      "name": "声光效果",
+      "type": "OTHER",
+      "salience": 0.000219,
+      "mentions": 1
+    },
+    {
+      "name": "随身小包",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "分贝",
+      "type": "OTHER",
+      "salience": 0.000215,
+      "mentions": 1
+    },
+    {
+      "name": "女生",
+      "type": "PERSON",
+      "salience": 0.000215,
+      "mentions": 1
+    },
+    {
+      "name": "餐饮体验",
+      "type": "OTHER",
+      "salience": 0.000212,
+      "mentions": 1
+    },
+    {
+      "name": "码头",
+      "type": "OTHER",
+      "salience": 0.000211,
+      "mentions": 1
+    },
+    {
+      "name": "人潮密集度",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "舱房",
+      "type": "LOCATION",
+      "salience": 0.000209,
+      "mentions": 1
+    },
+    {
+      "name": "米其林",
+      "type": "ORGANIZATION",
+      "salience": 0.000206,
+      "mentions": 1
+    },
+    {
+      "name": "门口",
+      "type": "OTHER",
+      "salience": 0.000206,
+      "mentions": 1
+    },
+    {
+      "name": "杂货店",
+      "type": "LOCATION",
+      "salience": 0.000206,
+      "mentions": 1
+    },
+    {
+      "name": "弘大店",
+      "type": "LOCATION",
+      "salience": 0.000206,
+      "mentions": 1
+    },
+    {
+      "name": "景点",
+      "type": "LOCATION",
+      "salience": 0.000204,
+      "mentions": 1
+    },
+    {
+      "name": "芒果冰专卖店",
+      "type": "LOCATION",
+      "salience": 0.000201,
+      "mentions": 1
+    },
+    {
+      "name": "人大",
+      "type": "ORGANIZATION",
+      "salience": 0.000198,
+      "mentions": 1
+    },
+    {
+      "name": "景点",
+      "type": "LOCATION",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "2026峇里岛",
+      "type": "LOCATION",
+      "salience": 0.000191,
+      "mentions": 1
+    },
+    {
+      "name": "天堂之门",
+      "type": "OTHER",
+      "salience": 0.000184,
+      "mentions": 1
+    },
+    {
+      "name": "景点",
+      "type": "LOCATION",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "圣淘沙度假酒店",
+      "type": "LOCATION",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "爱妮岛",
+      "type": "LOCATION",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "巴拉望公主港",
+      "type": "LOCATION",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "苏美岛",
+      "type": "LOCATION",
+      "salience": 0.000179,
+      "mentions": 1
+    },
+    {
+      "name": "富士山山中湖",
+      "type": "LOCATION",
+      "salience": 0.000179,
+      "mentions": 1
+    },
+    {
+      "name": "品味",
+      "type": "OTHER",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "动画师",
+      "type": "PERSON",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "烤羊排",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "细致度",
+      "type": "OTHER",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "动画师",
+      "type": "PERSON",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "品味",
+      "type": "OTHER",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "气氛沸腾",
+      "type": "OTHER",
+      "salience": 0.000172,
+      "mentions": 1
+    },
+    {
+      "name": "特权",
+      "type": "OTHER",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "气氛",
+      "type": "OTHER",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "满分",
+      "type": "OTHER",
+      "salience": 0.000168,
+      "mentions": 1
+    },
+    {
+      "name": "泳池",
+      "type": "LOCATION",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "位子",
+      "type": "OTHER",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "旅程",
+      "type": "OTHER",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "救赎",
+      "type": "OTHER",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "评分者",
+      "type": "PERSON",
+      "salience": 0.000166,
+      "mentions": 1
+    },
+    {
+      "name": "首航",
+      "type": "OTHER",
+      "salience": 0.000166,
+      "mentions": 1
+    },
+    {
+      "name": "儿童俱乐部",
+      "type": "PERSON",
+      "salience": 0.000166,
+      "mentions": 1
+    },
+    {
+      "name": "童话",
+      "type": "OTHER",
+      "salience": 0.000165,
+      "mentions": 1
+    },
+    {
+      "name": "附接驳车",
+      "type": "OTHER",
+      "salience": 0.000159,
+      "mentions": 1
+    },
+    {
+      "name": "泳池沙滩滑水道",
+      "type": "LOCATION",
+      "salience": 0.000158,
+      "mentions": 1
+    },
+    {
+      "name": "行程规划",
+      "type": "OTHER",
+      "salience": 0.000158,
+      "mentions": 1
+    },
+    {
+      "name": "芒果糯米饭",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000157,
+      "mentions": 1
+    },
+    {
+      "name": "自由行规划",
+      "type": "OTHER",
+      "salience": 0.000153,
+      "mentions": 1
+    },
+    {
+      "name": "交通接驳攻略",
+      "type": "OTHER",
+      "salience": 0.000152,
+      "mentions": 1
+    },
+    {
+      "name": "笔记",
+      "type": "OTHER",
+      "salience": 0.000151,
+      "mentions": 1
+    },
+    {
+      "name": "笔记",
+      "type": "OTHER",
+      "salience": 0.000151,
+      "mentions": 1
+    },
+    {
+      "name": "Quiet Cove",
+      "type": "PERSON",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "义大利",
+      "type": "LOCATION",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "Palo",
+      "type": "LOCATION",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "BUTTER",
+      "type": "ORGANIZATION",
+      "salience": 0.000135,
+      "mentions": 1
+    },
+    {
+      "name": "Mango Mania",
+      "type": "PERSON",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "塔佩",
+      "type": "PERSON",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "望德圣母堂",
+      "type": "LOCATION",
+      "salience": 0.000131,
+      "mentions": 1
+    },
+    {
+      "name": "澳门亮眼文创园区",
+      "type": "LOCATION",
+      "salience": 0.000131,
+      "mentions": 1
+    },
+    {
+      "name": "推东东咖啡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000131,
+      "mentions": 1
+    },
+    {
+      "name": "东京",
+      "type": "LOCATION",
+      "salience": 0.000129,
+      "mentions": 1
+    },
+    {
+      "name": "2026大阪夜景推荐)TOP8精选观景台",
+      "type": "LOCATION",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "宴会厨房",
+      "type": "LOCATION",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "菲律宾",
+      "type": "LOCATION",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "泰国",
+      "type": "LOCATION",
+      "salience": 0.000127,
+      "mentions": 1
+    },
+    {
+      "name": "超美饭店度假村",
+      "type": "LOCATION",
+      "salience": 0.000127,
+      "mentions": 1
+    },
+    {
+      "name": "脸书",
+      "type": "OTHER",
+      "salience": 0.000127,
+      "mentions": 2
+    },
+    {
+      "name": "中上水准",
+      "type": "OTHER",
+      "salience": 0.000127,
+      "mentions": 1
+    },
+    {
+      "name": "任务",
+      "type": "OTHER",
+      "salience": 0.000126,
+      "mentions": 1
+    },
+    {
+      "name": "供应数",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "牛排",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "口味",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "大虾",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "摆盘",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "菜单",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "主菜",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "萤幕",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "动画秀",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "超级重头戏",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "顶点",
+      "type": "OTHER",
+      "salience": 0.000122,
+      "mentions": 1
+    },
+    {
+      "name": "动画音效",
+      "type": "OTHER",
+      "salience": 0.000122,
+      "mentions": 1
+    },
+    {
+      "name": "惊呼声",
+      "type": "OTHER",
+      "salience": 0.000122,
+      "mentions": 1
+    },
+    {
+      "name": "环境音量",
+      "type": "OTHER",
+      "salience": 0.000122,
+      "mentions": 1
+    },
+    {
+      "name": "取舍",
+      "type": "OTHER",
+      "salience": 0.000122,
+      "mentions": 1
+    },
+    {
+      "name": "话",
+      "type": "OTHER",
+      "salience": 0.000122,
+      "mentions": 1
+    },
+    {
+      "name": "浓度",
+      "type": "OTHER",
+      "salience": 0.00012,
+      "mentions": 1
+    },
+    {
+      "name": "里面",
+      "type": "OTHER",
+      "salience": 0.00012,
+      "mentions": 1
+    },
+    {
+      "name": "漫威英雄训练营",
+      "type": "OTHER",
+      "salience": 0.00012,
+      "mentions": 1
+    },
+    {
+      "name": "旅",
+      "type": "OTHER",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "陆地",
+      "type": "LOCATION",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "回票价",
+      "type": "OTHER",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "品质",
+      "type": "OTHER",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "评论分数",
+      "type": "OTHER",
+      "salience": 0.000118,
+      "mentions": 1
+    },
+    {
+      "name": "票价硬",
+      "type": "OTHER",
+      "salience": 0.000117,
+      "mentions": 1
+    },
+    {
+      "name": "顿饭",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000117,
+      "mentions": 1
+    },
+    {
+      "name": "血拼",
+      "type": "OTHER",
+      "salience": 0.000115,
+      "mentions": 1
+    },
+    {
+      "name": "真相",
+      "type": "OTHER",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "女孩儿",
+      "type": "PERSON",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "生活用品小物",
+      "type": "OTHER",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "芒果冰沙",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000112,
+      "mentions": 1
+    },
+    {
+      "name": "新手",
+      "type": "PERSON",
+      "salience": 0.000111,
+      "mentions": 1
+    },
+    {
+      "name": "交通防骗",
+      "type": "OTHER",
+      "salience": 0.000111,
+      "mentions": 1
+    },
+    {
+      "name": "氛围",
+      "type": "OTHER",
+      "salience": 0.00011,
+      "mentions": 1
+    },
+    {
+      "name": "交通门票优惠分享",
+      "type": "OTHER",
+      "salience": 0.00011,
+      "mentions": 1
+    },
+    {
+      "name": "交通指南",
+      "type": "OTHER",
+      "salience": 0.000109,
+      "mentions": 1
+    },
+    {
+      "name": "国家",
+      "type": "LOCATION",
+      "salience": 0.000109,
+      "mentions": 1
+    },
+    {
+      "name": "专职",
+      "type": "PERSON",
+      "salience": 0.000109,
+      "mentions": 1
+    },
+    {
+      "name": "购物心得",
+      "type": "OTHER",
+      "salience": 0.000109,
+      "mentions": 1
+    },
+    {
+      "name": "摩天轮",
+      "type": "OTHER",
+      "salience": 0.000108,
+      "mentions": 1
+    },
+    {
+      "name": "分类",
+      "type": "OTHER",
+      "salience": 0.000108,
+      "mentions": 1
+    },
+    {
+      "name": "留言",
+      "type": "OTHER",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 0.000106,
+      "mentions": 1
+    },
+    {
+      "name": "RSS",
+      "type": "OTHER",
+      "salience": 0.000105,
+      "mentions": 1
+    },
+    {
+      "name": "魔相4D艺术馆&智勇迷宫",
+      "type": "LOCATION",
+      "salience": 7.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年3月6日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1950",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4500元",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20 萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-03-11",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03/06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03/23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03/30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03/19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3/26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04/06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04/13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04/20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04/27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04/02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04/09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04/16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04/23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04/30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05/04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05/11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05/18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05/25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05/07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05/14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05/21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05/28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06/01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06/08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06/15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06/22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06/29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06/04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06/11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06/18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06/25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07/06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07/13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07/20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07/27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07/02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07/09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07/16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07/23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07/30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08/03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08/10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08/17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08/24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08/31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08/06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08/13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08/30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08/27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09/07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09/14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09/21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09/28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09/03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09/10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09/17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09/24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年3月10日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12/07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12/14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12/21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12/28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12/03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12/10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12/17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12/24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12/31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2.4萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2.2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.3萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1950",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20 萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "七",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "六千",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "千",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四十",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "二十",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "二",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "六千",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "兩",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "五百",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "兩",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "七",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "千",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2.4萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.3萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "兩",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "兩",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "二",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "千",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "兩",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 373,
+    "LOCATION": 147,
+    "PERSON": 76,
+    "ORGANIZATION": 20,
+    "CONSUMER_GOOD": 32,
+    "EVENT": 4,
+    "WORK_OF_ART": 2,
+    "NUMBER": 203,
+    "DATE": 4,
+    "PRICE": 1
+  },
+  "type_salience": {
+    "OTHER": 0.45507899999999996,
+    "LOCATION": 0.1915300000000001,
+    "PERSON": 0.19261699999999995,
+    "ORGANIZATION": 0.05508599999999998,
+    "CONSUMER_GOOD": 0.029810000000000007,
+    "EVENT": 0.002198,
+    "WORK_OF_ART": 0.00046699999999999997,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

@@ -1,0 +1,917 @@
+{
+  "file": "non_cited_postDisney-Cruise-package.txt",
+  "word_count": 98,
+  "entity_count": 148,
+  "entities": [
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.08383,
+      "mentions": 1
+    },
+    {
+      "name": "套票",
+      "type": "OTHER",
+      "salience": 0.059704,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.054583,
+      "mentions": 7
+    },
+    {
+      "name": "按船公司",
+      "type": "ORGANIZATION",
+      "salience": 0.037864,
+      "mentions": 2
+    },
+    {
+      "name": "游轮",
+      "type": "OTHER",
+      "salience": 0.036135,
+      "mentions": 1
+    },
+    {
+      "name": "游轮",
+      "type": "OTHER",
+      "salience": 0.032834,
+      "mentions": 1
+    },
+    {
+      "name": "TCI",
+      "type": "ORGANIZATION",
+      "salience": 0.032552,
+      "mentions": 1
+    },
+    {
+      "name": "华纳迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.027806,
+      "mentions": 1
+    },
+    {
+      "name": "套票",
+      "type": "OTHER",
+      "salience": 0.018362,
+      "mentions": 1
+    },
+    {
+      "name": "胜景游主页",
+      "type": "OTHER",
+      "salience": 0.017853,
+      "mentions": 1
+    },
+    {
+      "name": "游轮",
+      "type": "OTHER",
+      "salience": 0.017653,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮套票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014037,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.011853,
+      "mentions": 1
+    },
+    {
+      "name": "随心旅程",
+      "type": "OTHER",
+      "salience": 0.011655,
+      "mentions": 1
+    },
+    {
+      "name": "大海",
+      "type": "LOCATION",
+      "salience": 0.011027,
+      "mentions": 1
+    },
+    {
+      "name": "美食",
+      "type": "OTHER",
+      "salience": 0.010488,
+      "mentions": 1
+    },
+    {
+      "name": "旅客",
+      "type": "PERSON",
+      "salience": 0.010488,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.010214,
+      "mentions": 3
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.008708,
+      "mentions": 1
+    },
+    {
+      "name": "世界各地",
+      "type": "LOCATION",
+      "salience": 0.007464,
+      "mentions": 1
+    },
+    {
+      "name": "设备",
+      "type": "OTHER",
+      "salience": 0.007464,
+      "mentions": 1
+    },
+    {
+      "name": "行李",
+      "type": "OTHER",
+      "salience": 0.007464,
+      "mentions": 1
+    },
+    {
+      "name": "旅行团",
+      "type": "OTHER",
+      "salience": 0.007418,
+      "mentions": 1
+    },
+    {
+      "name": "卡通人物",
+      "type": "PERSON",
+      "salience": 0.00684,
+      "mentions": 1
+    },
+    {
+      "name": "主题",
+      "type": "OTHER",
+      "salience": 0.00684,
+      "mentions": 1
+    },
+    {
+      "name": "游轮",
+      "type": "OTHER",
+      "salience": 0.006638,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探索号",
+      "type": "OTHER",
+      "salience": 0.006196,
+      "mentions": 1
+    },
+    {
+      "name": "旗下",
+      "type": "OTHER",
+      "salience": 0.005517,
+      "mentions": 1
+    },
+    {
+      "name": "一切",
+      "type": "OTHER",
+      "salience": 0.005279,
+      "mentions": 1
+    },
+    {
+      "name": "当地",
+      "type": "LOCATION",
+      "salience": 0.005279,
+      "mentions": 1
+    },
+    {
+      "name": "岸上风土人情",
+      "type": "OTHER",
+      "salience": 0.005279,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮泊岸",
+      "type": "OTHER",
+      "salience": 0.005279,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼幻想号",
+      "type": "OTHER",
+      "salience": 0.004977,
+      "mentions": 4
+    },
+    {
+      "name": "全球",
+      "type": "LOCATION",
+      "salience": 0.004868,
+      "mentions": 1
+    },
+    {
+      "name": "童话",
+      "type": "OTHER",
+      "salience": 0.004868,
+      "mentions": 1
+    },
+    {
+      "name": "行装",
+      "type": "OTHER",
+      "salience": 0.004657,
+      "mentions": 1
+    },
+    {
+      "name": "乘客",
+      "type": "PERSON",
+      "salience": 0.004404,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.003948,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.003905,
+      "mentions": 1
+    },
+    {
+      "name": "阿拉丁",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003756,
+      "mentions": 1
+    },
+    {
+      "name": "星球大战",
+      "type": "WORK_OF_ART",
+      "salience": 0.003475,
+      "mentions": 1
+    },
+    {
+      "name": "反派角色",
+      "type": "OTHER",
+      "salience": 0.003233,
+      "mentions": 1
+    },
+    {
+      "name": "露台",
+      "type": "LOCATION",
+      "salience": 0.003101,
+      "mentions": 1
+    },
+    {
+      "name": "旅行团",
+      "type": "ORGANIZATION",
+      "salience": 0.003094,
+      "mentions": 1
+    },
+    {
+      "name": "世界",
+      "type": "LOCATION",
+      "salience": 0.003083,
+      "mentions": 1
+    },
+    {
+      "name": "旅客",
+      "type": "PERSON",
+      "salience": 0.003068,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.00301,
+      "mentions": 1
+    },
+    {
+      "name": "新派艺术风格",
+      "type": "OTHER",
+      "salience": 0.00301,
+      "mentions": 1
+    },
+    {
+      "name": "设计",
+      "type": "OTHER",
+      "salience": 0.002993,
+      "mentions": 1
+    },
+    {
+      "name": "美食",
+      "type": "OTHER",
+      "salience": 0.002925,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.002925,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.002915,
+      "mentions": 1
+    },
+    {
+      "name": "地中海",
+      "type": "LOCATION",
+      "salience": 0.002878,
+      "mentions": 1
+    },
+    {
+      "name": "阿拉斯加",
+      "type": "LOCATION",
+      "salience": 0.002878,
+      "mentions": 1
+    },
+    {
+      "name": "加勒比海",
+      "type": "OTHER",
+      "salience": 0.002878,
+      "mentions": 1
+    },
+    {
+      "name": "Concierge",
+      "type": "PERSON",
+      "salience": 0.002622,
+      "mentions": 1
+    },
+    {
+      "name": "Remy",
+      "type": "PERSON",
+      "salience": 0.002545,
+      "mentions": 1
+    },
+    {
+      "name": "AquaDuck",
+      "type": "PERSON",
+      "salience": 0.002531,
+      "mentions": 1
+    },
+    {
+      "name": "人物",
+      "type": "OTHER",
+      "salience": 0.002512,
+      "mentions": 1
+    },
+    {
+      "name": "Flo's Café",
+      "type": "LOCATION",
+      "salience": 0.002473,
+      "mentions": 1
+    },
+    {
+      "name": "品尝汉堡",
+      "type": "PERSON",
+      "salience": 0.002473,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡",
+      "type": "LOCATION",
+      "salience": 0.002465,
+      "mentions": 1
+    },
+    {
+      "name": "PSA04",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002465,
+      "mentions": 1
+    },
+    {
+      "name": "游轮航线",
+      "type": "OTHER",
+      "salience": 0.002422,
+      "mentions": 1
+    },
+    {
+      "name": "角落",
+      "type": "OTHER",
+      "salience": 0.002422,
+      "mentions": 1
+    },
+    {
+      "name": "法国菜",
+      "type": "OTHER",
+      "salience": 0.002367,
+      "mentions": 1
+    },
+    {
+      "name": "激光剑",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0023,
+      "mentions": 1
+    },
+    {
+      "name": "家人",
+      "type": "PERSON",
+      "salience": 0.002249,
+      "mentions": 1
+    },
+    {
+      "name": "神灯表演",
+      "type": "OTHER",
+      "salience": 0.002249,
+      "mentions": 1
+    },
+    {
+      "name": "动静皆宜",
+      "type": "OTHER",
+      "salience": 0.00224,
+      "mentions": 1
+    },
+    {
+      "name": "空间",
+      "type": "OTHER",
+      "salience": 0.002207,
+      "mentions": 1
+    },
+    {
+      "name": "TCI",
+      "type": "ORGANIZATION",
+      "salience": 0.002193,
+      "mentions": 1
+    },
+    {
+      "name": "玩乐设施",
+      "type": "OTHER",
+      "salience": 0.002183,
+      "mentions": 1
+    },
+    {
+      "name": "甜品",
+      "type": "OTHER",
+      "salience": 0.002142,
+      "mentions": 1
+    },
+    {
+      "name": "城",
+      "type": "OTHER",
+      "salience": 0.002142,
+      "mentions": 1
+    },
+    {
+      "name": "设计结合灯光",
+      "type": "OTHER",
+      "salience": 0.002142,
+      "mentions": 1
+    },
+    {
+      "name": "TCI",
+      "type": "ORGANIZATION",
+      "salience": 0.002133,
+      "mentions": 1
+    },
+    {
+      "name": "快感",
+      "type": "OTHER",
+      "salience": 0.00213,
+      "mentions": 1
+    },
+    {
+      "name": "滑梯集观景",
+      "type": "OTHER",
+      "salience": 0.00213,
+      "mentions": 1
+    },
+    {
+      "name": "海洋美景",
+      "type": "OTHER",
+      "salience": 0.00213,
+      "mentions": 1
+    },
+    {
+      "name": "阖家",
+      "type": "PERSON",
+      "salience": 0.002082,
+      "mentions": 1
+    },
+    {
+      "name": "薄饼",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002082,
+      "mentions": 1
+    },
+    {
+      "name": "孩子",
+      "type": "PERSON",
+      "salience": 0.002082,
+      "mentions": 1
+    },
+    {
+      "name": "服饰化身武士",
+      "type": "OTHER",
+      "salience": 0.002081,
+      "mentions": 1
+    },
+    {
+      "name": "Star",
+      "type": "OTHER",
+      "salience": 0.002081,
+      "mentions": 1
+    },
+    {
+      "name": "身影",
+      "type": "OTHER",
+      "salience": 0.00208,
+      "mentions": 1
+    },
+    {
+      "name": "TCI",
+      "type": "ORGANIZATION",
+      "salience": 0.002078,
+      "mentions": 1
+    },
+    {
+      "name": "团号",
+      "type": "OTHER",
+      "salience": 0.002074,
+      "mentions": 1
+    },
+    {
+      "name": "公司",
+      "type": "ORGANIZATION",
+      "salience": 0.00193,
+      "mentions": 1
+    },
+    {
+      "name": "公司",
+      "type": "ORGANIZATION",
+      "salience": 0.001912,
+      "mentions": 1
+    },
+    {
+      "name": "网站",
+      "type": "OTHER",
+      "salience": 0.001859,
+      "mentions": 1
+    },
+    {
+      "name": "Cookie",
+      "type": "OTHER",
+      "salience": 0.001814,
+      "mentions": 3
+    },
+    {
+      "name": "海上烟花",
+      "type": "OTHER",
+      "salience": 0.001787,
+      "mentions": 1
+    },
+    {
+      "name": "旅途",
+      "type": "OTHER",
+      "salience": 0.001787,
+      "mentions": 1
+    },
+    {
+      "name": "亲朋好友",
+      "type": "PERSON",
+      "salience": 0.001787,
+      "mentions": 1
+    },
+    {
+      "name": "海上城堡",
+      "type": "LOCATION",
+      "salience": 0.001787,
+      "mentions": 1
+    },
+    {
+      "name": "地",
+      "type": "LOCATION",
+      "salience": 0.001723,
+      "mentions": 1
+    },
+    {
+      "name": "卡通偶像",
+      "type": "PERSON",
+      "salience": 0.001723,
+      "mentions": 1
+    },
+    {
+      "name": "世界",
+      "type": "LOCATION",
+      "salience": 0.001509,
+      "mentions": 1
+    },
+    {
+      "name": "网站",
+      "type": "OTHER",
+      "salience": 0.001245,
+      "mentions": 1
+    },
+    {
+      "name": "隐私政策",
+      "type": "OTHER",
+      "salience": 0.001238,
+      "mentions": 1
+    },
+    {
+      "name": "政策",
+      "type": "OTHER",
+      "salience": 0.001238,
+      "mentions": 1
+    },
+    {
+      "name": "风景",
+      "type": "OTHER",
+      "salience": 0.001185,
+      "mentions": 1
+    },
+    {
+      "name": "旅程",
+      "type": "OTHER",
+      "salience": 0.001185,
+      "mentions": 1
+    },
+    {
+      "name": "胜景游",
+      "type": "OTHER",
+      "salience": 0.001139,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "ORGANIZATION",
+      "salience": 0.001127,
+      "mentions": 1
+    },
+    {
+      "name": "服务",
+      "type": "OTHER",
+      "salience": 0.000896,
+      "mentions": 1
+    },
+    {
+      "name": "本网站",
+      "type": "OTHER",
+      "salience": 0.000894,
+      "mentions": 1
+    },
+    {
+      "name": "数据",
+      "type": "OTHER",
+      "salience": 0.000894,
+      "mentions": 1
+    },
+    {
+      "name": "使用情况",
+      "type": "OTHER",
+      "salience": 0.000886,
+      "mentions": 1
+    },
+    {
+      "name": "详情",
+      "type": "OTHER",
+      "salience": 0.000881,
+      "mentions": 1
+    },
+    {
+      "name": "品鉴",
+      "type": "OTHER",
+      "salience": 0.000844,
+      "mentions": 1
+    },
+    {
+      "name": "旅游产品",
+      "type": "OTHER",
+      "salience": 0.00079,
+      "mentions": 1
+    },
+    {
+      "name": "2026 年",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年4月30日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年5月21日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年6月18日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年7月16日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年8月",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4,522",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1700",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,522",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,522",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 78,
+    "ORGANIZATION": 15,
+    "CONSUMER_GOOD": 5,
+    "LOCATION": 15,
+    "PERSON": 13,
+    "WORK_OF_ART": 1,
+    "DATE": 6,
+    "PRICE": 1,
+    "NUMBER": 28
+  },
+  "type_salience": {
+    "OTHER": 0.5157839999999998,
+    "ORGANIZATION": 0.13475599999999996,
+    "CONSUMER_GOOD": 0.02464,
+    "LOCATION": 0.056470000000000006,
+    "PERSON": 0.044894,
+    "WORK_OF_ART": 0.003475,
+    "DATE": 0.0,
+    "PRICE": 0.0,
+    "NUMBER": 0.0
+  }
+}

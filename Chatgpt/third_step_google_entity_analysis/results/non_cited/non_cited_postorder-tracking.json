@@ -1,0 +1,1303 @@
+{
+  "file": "non_cited_postorder-tracking.txt",
+  "word_count": 2408,
+  "entity_count": 213,
+  "entities": [
+    {
+      "name": "Tracking",
+      "type": "OTHER",
+      "salience": 0.277278,
+      "mentions": 1
+    },
+    {
+      "name": "delivery dates",
+      "type": "OTHER",
+      "salience": 0.05261,
+      "mentions": 1
+    },
+    {
+      "name": "delivery timing",
+      "type": "OTHER",
+      "salience": 0.047961,
+      "mentions": 1
+    },
+    {
+      "name": "customers",
+      "type": "OTHER",
+      "salience": 0.04471,
+      "mentions": 1
+    },
+    {
+      "name": "Customers are overwhelmed",
+      "type": "OTHER",
+      "salience": 0.038283,
+      "mentions": 1
+    },
+    {
+      "name": "Deliveries are very contextual",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029021,
+      "mentions": 1
+    },
+    {
+      "name": "For customers",
+      "type": "OTHER",
+      "salience": 0.028727,
+      "mentions": 1
+    },
+    {
+      "name": "Post by",
+      "type": "OTHER",
+      "salience": 0.024085,
+      "mentions": 1
+    },
+    {
+      "name": "For shoppers",
+      "type": "OTHER",
+      "salience": 0.023633,
+      "mentions": 1
+    },
+    {
+      "name": "that's not enough",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014781,
+      "mentions": 1
+    },
+    {
+      "name": "Read time",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014638,
+      "mentions": 1
+    },
+    {
+      "name": "ChatGPT",
+      "type": "OTHER",
+      "salience": 0.013812,
+      "mentions": 1
+    },
+    {
+      "name": "The more predictable and transparent the post-purchase experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013339,
+      "mentions": 1
+    },
+    {
+      "name": "Retailers",
+      "type": "OTHER",
+      "salience": 0.012745,
+      "mentions": 1
+    },
+    {
+      "name": "shipping times",
+      "type": "OTHER",
+      "salience": 0.012355,
+      "mentions": 1
+    },
+    {
+      "name": "Anastasiia Starchenko",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012122,
+      "mentions": 1
+    },
+    {
+      "name": "From our experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010492,
+      "mentions": 1
+    },
+    {
+      "name": "Co-Founder at Ingrid",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010391,
+      "mentions": 1
+    },
+    {
+      "name": "the after-sales experience can easily encourage repeat customers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009473,
+      "mentions": 1
+    },
+    {
+      "name": "delivery",
+      "type": "OTHER",
+      "salience": 0.009447,
+      "mentions": 1
+    },
+    {
+      "name": "tracking information",
+      "type": "OTHER",
+      "salience": 0.008439,
+      "mentions": 1
+    },
+    {
+      "name": "Commerce Thinking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007974,
+      "mentions": 1
+    },
+    {
+      "name": "Make data-driven business decisions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007484,
+      "mentions": 1
+    },
+    {
+      "name": "WISMO",
+      "type": "OTHER",
+      "salience": 0.006936,
+      "mentions": 1
+    },
+    {
+      "name": "Summarize with AI block",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006622,
+      "mentions": 1
+    },
+    {
+      "name": "While",
+      "type": "PERSON",
+      "salience": 0.006555,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery has entered the age of intelligence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005879,
+      "mentions": 1
+    },
+    {
+      "name": "delivery and returns as discovery layer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005835,
+      "mentions": 1
+    },
+    {
+      "name": "July 3",
+      "type": "OTHER",
+      "salience": 0.005776,
+      "mentions": 1
+    },
+    {
+      "name": "reduces delivery anxiety",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005267,
+      "mentions": 1
+    },
+    {
+      "name": "which makes up around",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005016,
+      "mentions": 1
+    },
+    {
+      "name": "question",
+      "type": "OTHER",
+      "salience": 0.005016,
+      "mentions": 1
+    },
+    {
+      "name": "addressing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004861,
+      "mentions": 1
+    },
+    {
+      "name": "and delays.",
+      "type": "OTHER",
+      "salience": 0.004807,
+      "mentions": 1
+    },
+    {
+      "name": "Claude",
+      "type": "OTHER",
+      "salience": 0.004365,
+      "mentions": 1
+    },
+    {
+      "name": "delivery success rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00425,
+      "mentions": 1
+    },
+    {
+      "name": "anticipating future customer needs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004202,
+      "mentions": 1
+    },
+    {
+      "name": "Perplexity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004193,
+      "mentions": 1
+    },
+    {
+      "name": "the reality falls short",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00404,
+      "mentions": 1
+    },
+    {
+      "name": "generating PINs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004001,
+      "mentions": 1
+    },
+    {
+      "name": "it's a strategic customer experience touchpoint",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003904,
+      "mentions": 1
+    },
+    {
+      "name": "whether they prefer home delivery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003829,
+      "mentions": 1
+    },
+    {
+      "name": "Frustration",
+      "type": "OTHER",
+      "salience": 0.003733,
+      "mentions": 1
+    },
+    {
+      "name": "For instance",
+      "type": "OTHER",
+      "salience": 0.003672,
+      "mentions": 1
+    },
+    {
+      "name": "Benefits of order tracking optimization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003641,
+      "mentions": 1
+    },
+    {
+      "name": "any longer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00364,
+      "mentions": 1
+    },
+    {
+      "name": "customer experience strategy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003536,
+      "mentions": 1
+    },
+    {
+      "name": "Ingrid Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00348,
+      "mentions": 1
+    },
+    {
+      "name": "and any delay can cause frustration.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003403,
+      "mentions": 1
+    },
+    {
+      "name": "Boost customer retention and lifetime value",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003238,
+      "mentions": 1
+    },
+    {
+      "name": "pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003179,
+      "mentions": 1
+    },
+    {
+      "name": "No digging through notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003179,
+      "mentions": 1
+    },
+    {
+      "name": "entering order numbers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003179,
+      "mentions": 1
+    },
+    {
+      "name": "For more information",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003155,
+      "mentions": 1
+    },
+    {
+      "name": "notifications",
+      "type": "OTHER",
+      "salience": 0.003143,
+      "mentions": 1
+    },
+    {
+      "name": "Worse",
+      "type": "OTHER",
+      "salience": 0.003104,
+      "mentions": 1
+    },
+    {
+      "name": "notification",
+      "type": "OTHER",
+      "salience": 0.003064,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking emails",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003022,
+      "mentions": 1
+    },
+    {
+      "name": "Standard carrier tracking won't cut it",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003005,
+      "mentions": 1
+    },
+    {
+      "name": "and customer preferences.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002825,
+      "mentions": 1
+    },
+    {
+      "name": "These days",
+      "type": "OTHER",
+      "salience": 0.002732,
+      "mentions": 1
+    },
+    {
+      "name": "texts and push notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002716,
+      "mentions": 1
+    },
+    {
+      "name": "harmonized",
+      "type": "OTHER",
+      "salience": 0.002676,
+      "mentions": 1
+    },
+    {
+      "name": "speed",
+      "type": "ORGANIZATION",
+      "salience": 0.002622,
+      "mentions": 1
+    },
+    {
+      "name": "Optimize your order confirmation email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002512,
+      "mentions": 1
+    },
+    {
+      "name": "support contact information",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002452,
+      "mentions": 1
+    },
+    {
+      "name": "they offer instant 24/7 updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002411,
+      "mentions": 1
+    },
+    {
+      "name": "speed up the delivery times and reduce shipping costs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002295,
+      "mentions": 1
+    },
+    {
+      "name": "at 3 AM",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002265,
+      "mentions": 1
+    },
+    {
+      "name": "Luke Hodgson",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002233,
+      "mentions": 1
+    },
+    {
+      "name": "Instead",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002208,
+      "mentions": 1
+    },
+    {
+      "name": "send them consolidated",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002208,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time delivery updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002088,
+      "mentions": 1
+    },
+    {
+      "name": "boost the overall customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002087,
+      "mentions": 1
+    },
+    {
+      "name": "Increase customer satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001998,
+      "mentions": 1
+    },
+    {
+      "name": "make",
+      "type": "OTHER",
+      "salience": 0.001988,
+      "mentions": 1
+    },
+    {
+      "name": "an account creation possibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001988,
+      "mentions": 1
+    },
+    {
+      "name": "it's confirmed",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001967,
+      "mentions": 1
+    },
+    {
+      "name": "Giving customers accurate delivery estimates and detailed",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001935,
+      "mentions": 1
+    },
+    {
+      "name": "Anders Ekman",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001878,
+      "mentions": 1
+    },
+    {
+      "name": "Chatbots use AI and natural language processing (NLP) to provide natural",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001876,
+      "mentions": 1
+    },
+    {
+      "name": "At best",
+      "type": "OTHER",
+      "salience": 0.001838,
+      "mentions": 1
+    },
+    {
+      "name": "Instead",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001828,
+      "mentions": 1
+    },
+    {
+      "name": "links themselves.",
+      "type": "OTHER",
+      "salience": 0.001814,
+      "mentions": 1
+    },
+    {
+      "name": "Return Economics 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001801,
+      "mentions": 1
+    },
+    {
+      "name": "Ingrid and Kindly chatbot tracking integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001523,
+      "mentions": 1
+    },
+    {
+      "name": "make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001509,
+      "mentions": 1
+    },
+    {
+      "name": "Use creative chatbot automations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001502,
+      "mentions": 1
+    },
+    {
+      "name": "Ingrid Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001481,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.001429,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.001366,
+      "mentions": 1
+    },
+    {
+      "name": "With Ingrid",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001331,
+      "mentions": 1
+    },
+    {
+      "name": "products",
+      "type": "OTHER",
+      "salience": 0.001244,
+      "mentions": 1
+    },
+    {
+      "name": "Complicated",
+      "type": "OTHER",
+      "salience": 0.001203,
+      "mentions": 1
+    },
+    {
+      "name": "proactive",
+      "type": "OTHER",
+      "salience": 0.001168,
+      "mentions": 1
+    },
+    {
+      "name": "proactive tracking emails",
+      "type": "OTHER",
+      "salience": 0.001154,
+      "mentions": 1
+    },
+    {
+      "name": "from the moment the order's placed",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001135,
+      "mentions": 1
+    },
+    {
+      "name": "Content Manager",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001098,
+      "mentions": 1
+    },
+    {
+      "name": "Boost",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001082,
+      "mentions": 1
+    },
+    {
+      "name": "then automate",
+      "type": "OTHER",
+      "salience": 0.001063,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001058,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00105,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001042,
+      "mentions": 1
+    },
+    {
+      "name": "best practices",
+      "type": "OTHER",
+      "salience": 0.001027,
+      "mentions": 1
+    },
+    {
+      "name": "Use customer data",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001012,
+      "mentions": 1
+    },
+    {
+      "name": "repeat purchases",
+      "type": "OTHER",
+      "salience": 0.000998,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10 order tracking optimization practices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000991,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.00094,
+      "mentions": 1
+    },
+    {
+      "name": "Streamline all tracking events",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000924,
+      "mentions": 1
+    },
+    {
+      "name": "and poor customer satisfaction.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000924,
+      "mentions": 1
+    },
+    {
+      "name": "IDEAL OF SWEDEN",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000914,
+      "mentions": 1
+    },
+    {
+      "name": "Ideally",
+      "type": "OTHER",
+      "salience": 0.000913,
+      "mentions": 1
+    },
+    {
+      "name": "Work email",
+      "type": "OTHER",
+      "salience": 0.000906,
+      "mentions": 1
+    },
+    {
+      "name": "Now that you",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000905,
+      "mentions": 1
+    },
+    {
+      "name": "Finally",
+      "type": "OTHER",
+      "salience": 0.000894,
+      "mentions": 1
+    },
+    {
+      "name": "maximum transparency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00089,
+      "mentions": 1
+    },
+    {
+      "name": "research reports",
+      "type": "OTHER",
+      "salience": 0.000821,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.000819,
+      "mentions": 1
+    },
+    {
+      "name": "and customer lifetime value",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000793,
+      "mentions": 1
+    },
+    {
+      "name": "and how AI is reshaping e-commerce operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000792,
+      "mentions": 1
+    },
+    {
+      "name": "tried and tested",
+      "type": "OTHER",
+      "salience": 0.000788,
+      "mentions": 1
+    },
+    {
+      "name": "Industry research",
+      "type": "OTHER",
+      "salience": 0.000787,
+      "mentions": 1
+    },
+    {
+      "name": "warehouse management system (WMS) or 3PL order events",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000777,
+      "mentions": 1
+    },
+    {
+      "name": "rising costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000773,
+      "mentions": 1
+    },
+    {
+      "name": "and of course",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000759,
+      "mentions": 1
+    },
+    {
+      "name": "Reduce support issues",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000731,
+      "mentions": 1
+    },
+    {
+      "name": "Think checkout and order creation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000726,
+      "mentions": 1
+    },
+    {
+      "name": "Benefits of order tracking optimization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000692,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10 order tracking optimization practices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000691,
+      "mentions": 1
+    },
+    {
+      "name": "Share",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000683,
+      "mentions": 1
+    },
+    {
+      "name": "triggered",
+      "type": "OTHER",
+      "salience": 0.000663,
+      "mentions": 1
+    },
+    {
+      "name": "Cover all stages of the post-purchase customer journey and delivery process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000652,
+      "mentions": 1
+    },
+    {
+      "name": "Imagine the quick",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000649,
+      "mentions": 1
+    },
+    {
+      "name": "prepared",
+      "type": "OTHER",
+      "salience": 0.000649,
+      "mentions": 1
+    },
+    {
+      "name": "Submit",
+      "type": "OTHER",
+      "salience": 0.000646,
+      "mentions": 1
+    },
+    {
+      "name": "minimal hassle.",
+      "type": "OTHER",
+      "salience": 0.000644,
+      "mentions": 1
+    },
+    {
+      "name": "with failure rates hovering around 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000632,
+      "mentions": 1
+    },
+    {
+      "name": "Thank you",
+      "type": "PERSON",
+      "salience": 0.000623,
+      "mentions": 1
+    },
+    {
+      "name": "OOH",
+      "type": "OTHER",
+      "salience": 0.000623,
+      "mentions": 1
+    },
+    {
+      "name": "make alternate arrangements",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000623,
+      "mentions": 1
+    },
+    {
+      "name": "conversational responses.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000619,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.000584,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000576,
+      "mentions": 1
+    },
+    {
+      "name": "CLV",
+      "type": "OTHER",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "drive returning traffic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "buy now.",
+      "type": "OTHER",
+      "salience": 0.000559,
+      "mentions": 1
+    },
+    {
+      "name": "tried and tested",
+      "type": "OTHER",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "Related blog posts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "research reports",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "D-Congress 2026",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "margin",
+      "type": "OTHER",
+      "salience": 0.000535,
+      "mentions": 1
+    },
+    {
+      "name": "Agentic commerce",
+      "type": "OTHER",
+      "salience": 0.000532,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000528,
+      "mentions": 1
+    },
+    {
+      "name": "international expansion and scalability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000528,
+      "mentions": 1
+    },
+    {
+      "name": "PDF",
+      "type": "OTHER",
+      "salience": 0.000492,
+      "mentions": 1
+    },
+    {
+      "name": "PDF",
+      "type": "OTHER",
+      "salience": 0.000491,
+      "mentions": 1
+    },
+    {
+      "name": "Anastasiia Starchenko",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000458,
+      "mentions": 1
+    },
+    {
+      "name": "TMS",
+      "type": "ORGANIZATION",
+      "salience": 0.000446,
+      "mentions": 1
+    },
+    {
+      "name": "Share",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000445,
+      "mentions": 1
+    },
+    {
+      "name": "logistics",
+      "type": "OTHER",
+      "salience": 0.000444,
+      "mentions": 1
+    },
+    {
+      "name": "unless",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000442,
+      "mentions": 1
+    },
+    {
+      "name": "where 1",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000435,
+      "mentions": 1
+    },
+    {
+      "name": "Voyado",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000431,
+      "mentions": 1
+    },
+    {
+      "name": "such as Zendesk",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000431,
+      "mentions": 1
+    },
+    {
+      "name": "Klaviyo",
+      "type": "OTHER",
+      "salience": 0.000431,
+      "mentions": 1
+    },
+    {
+      "name": "Emarsys",
+      "type": "OTHER",
+      "salience": 0.000431,
+      "mentions": 1
+    },
+    {
+      "name": "Table of content",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "Go to the report",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000379,
+      "mentions": 1
+    },
+    {
+      "name": "I agree to receive communications from Ingrid",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "exploring delivery and returns economics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000361,
+      "mentions": 1
+    },
+    {
+      "name": "region",
+      "type": "OTHER",
+      "salience": 0.000348,
+      "mentions": 1
+    },
+    {
+      "name": "FAQs",
+      "type": "OTHER",
+      "salience": 0.000255,
+      "mentions": 1
+    },
+    {
+      "name": "pick-up points",
+      "type": "OTHER",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "€14",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "70",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "85",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "37",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 3, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "77",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "74",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 66,
+    "CONSUMER_GOOD": 102,
+    "PERSON": 2,
+    "ORGANIZATION": 3,
+    "NUMBER": 36,
+    "DATE": 3,
+    "PRICE": 1
+  },
+  "type_salience": {
+    "OTHER": 0.67705,
+    "CONSUMER_GOOD": 0.3121339999999999,
+    "PERSON": 0.007178,
+    "ORGANIZATION": 0.0036440000000000005,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

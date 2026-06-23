@@ -1,0 +1,529 @@
+{
+  "file": "cited_posttop-10-best-shipment-tracking-software-for-e-commerce.txt",
+  "word_count": 1183,
+  "entity_count": 84,
+  "entities": [
+    {
+      "name": "eCommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.201524,
+      "mentions": 2
+    },
+    {
+      "name": "ShipEak",
+      "type": "OTHER",
+      "salience": 0.136786,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo",
+      "type": "LOCATION",
+      "salience": 0.092282,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.079612,
+      "mentions": 1
+    },
+    {
+      "name": "Like post",
+      "type": "OTHER",
+      "salience": 0.052444,
+      "mentions": 1
+    },
+    {
+      "name": "Updated 2 months ago",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.036406,
+      "mentions": 1
+    },
+    {
+      "name": "Shipway",
+      "type": "LOCATION",
+      "salience": 0.033038,
+      "mentions": 1
+    },
+    {
+      "name": "Save post",
+      "type": "OTHER",
+      "salience": 0.032533,
+      "mentions": 1
+    },
+    {
+      "name": "tracking pages",
+      "type": "OTHER",
+      "salience": 0.027965,
+      "mentions": 1
+    },
+    {
+      "name": "Published 2 years ago",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.027667,
+      "mentions": 1
+    },
+    {
+      "name": "ShipWell",
+      "type": "OTHER",
+      "salience": 0.026076,
+      "mentions": 1
+    },
+    {
+      "name": "Shiprocket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018989,
+      "mentions": 1
+    },
+    {
+      "name": "Shiprocket offers integrations with over 1045 carriers and 24x7 customer support.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018585,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017104,
+      "mentions": 1
+    },
+    {
+      "name": "Introduction",
+      "type": "OTHER",
+      "salience": 0.01206,
+      "mentions": 1
+    },
+    {
+      "name": "They provide detailed",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007854,
+      "mentions": 1
+    },
+    {
+      "name": "and product notifications.",
+      "type": "OTHER",
+      "salience": 0.00735,
+      "mentions": 1
+    },
+    {
+      "name": "Like post",
+      "type": "OTHER",
+      "salience": 0.006973,
+      "mentions": 1
+    },
+    {
+      "name": "product review",
+      "type": "OTHER",
+      "salience": 0.006448,
+      "mentions": 1
+    },
+    {
+      "name": "Interestingly,",
+      "type": "OTHER",
+      "salience": 0.006133,
+      "mentions": 1
+    },
+    {
+      "name": "experience.implementing",
+      "type": "OTHER",
+      "salience": 0.005701,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.004998,
+      "mentions": 1
+    },
+    {
+      "name": "This is the question I",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004944,
+      "mentions": 1
+    },
+    {
+      "name": "As family members.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004838,
+      "mentions": 1
+    },
+    {
+      "name": "As companions whose health",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004817,
+      "mentions": 1
+    },
+    {
+      "name": "communication.",
+      "type": "OTHER",
+      "salience": 0.004654,
+      "mentions": 1
+    },
+    {
+      "name": "Save post",
+      "type": "OTHER",
+      "salience": 0.004609,
+      "mentions": 1
+    },
+    {
+      "name": "vijay kumar",
+      "type": "OTHER",
+      "salience": 0.004556,
+      "mentions": 1
+    },
+    {
+      "name": "Like post",
+      "type": "OTHER",
+      "salience": 0.004321,
+      "mentions": 1
+    },
+    {
+      "name": "Personalized",
+      "type": "PERSON",
+      "salience": 0.004158,
+      "mentions": 1
+    },
+    {
+      "name": "MetaPack",
+      "type": "OTHER",
+      "salience": 0.003689,
+      "mentions": 1
+    },
+    {
+      "name": "ParcelLab",
+      "type": "OTHER",
+      "salience": 0.00359,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "LOCATION",
+      "salience": 0.003468,
+      "mentions": 1
+    },
+    {
+      "name": "list",
+      "type": "OTHER",
+      "salience": 0.003393,
+      "mentions": 1
+    },
+    {
+      "name": "EasyShip",
+      "type": "OTHER",
+      "salience": 0.002897,
+      "mentions": 1
+    },
+    {
+      "name": "Save post",
+      "type": "OTHER",
+      "salience": 0.002862,
+      "mentions": 1
+    },
+    {
+      "name": "Aspen Marie 9 days agoin Journal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002609,
+      "mentions": 1
+    },
+    {
+      "name": "Harvey Specter 7 days agoin Journal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002544,
+      "mentions": 1
+    },
+    {
+      "name": "WeSupplyLabs",
+      "type": "OTHER",
+      "salience": 0.002362,
+      "mentions": 1
+    },
+    {
+      "name": "individually.",
+      "type": "OTHER",
+      "salience": 0.00235,
+      "mentions": 1
+    },
+    {
+      "name": "WeSupplyLabs",
+      "type": "OTHER",
+      "salience": 0.002344,
+      "mentions": 1
+    },
+    {
+      "name": "WeSupplyLabs",
+      "type": "OTHER",
+      "salience": 0.00229,
+      "mentions": 1
+    },
+    {
+      "name": "Comments",
+      "type": "OTHER",
+      "salience": 0.002196,
+      "mentions": 1
+    },
+    {
+      "name": "She was never in",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002111,
+      "mentions": 1
+    },
+    {
+      "name": "Conclusion",
+      "type": "OTHER",
+      "salience": 0.002053,
+      "mentions": 1
+    },
+    {
+      "name": "understanding.",
+      "type": "OTHER",
+      "salience": 0.002041,
+      "mentions": 1
+    },
+    {
+      "name": "advice",
+      "type": "OTHER",
+      "salience": 0.001962,
+      "mentions": 1
+    },
+    {
+      "name": "How does it work",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001961,
+      "mentions": 1
+    },
+    {
+      "name": "up-to-the-minute",
+      "type": "OTHER",
+      "salience": 0.001759,
+      "mentions": 1
+    },
+    {
+      "name": "Reader insights",
+      "type": "OTHER",
+      "salience": 0.001713,
+      "mentions": 1
+    },
+    {
+      "name": "happiness",
+      "type": "OTHER",
+      "salience": 0.001705,
+      "mentions": 1
+    },
+    {
+      "name": "Francis Carter 3 days agoin Families",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001664,
+      "mentions": 1
+    },
+    {
+      "name": "vijay kumar 3 years agoin Journal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001592,
+      "mentions": 1
+    },
+    {
+      "name": "AM",
+      "type": "OTHER",
+      "salience": 0.001175,
+      "mentions": 1
+    },
+    {
+      "name": "FC",
+      "type": "OTHER",
+      "salience": 0.001126,
+      "mentions": 1
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "salience": 0.001005,
+      "mentions": 1
+    },
+    {
+      "name": "Vocal Community Guidelines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000802,
+      "mentions": 1
+    },
+    {
+      "name": "Keep reading",
+      "type": "OTHER",
+      "salience": 0.000787,
+      "mentions": 1
+    },
+    {
+      "name": "Sid",
+      "type": "ORGANIZATION",
+      "salience": 0.000762,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$7",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1045",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 19,
+    "OTHER": 36,
+    "LOCATION": 3,
+    "PERSON": 1,
+    "ORGANIZATION": 1,
+    "NUMBER": 24,
+    "PRICE": 1
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.435623,
+    "OTHER": 0.386906,
+    "LOCATION": 0.12878799999999999,
+    "PERSON": 0.004158,
+    "ORGANIZATION": 0.000762,
+    "NUMBER": 0.0,
+    "PRICE": 0.0
+  }
+}

@@ -1,0 +1,1761 @@
+{
+  "file": "cited_postReverseLogix-Whitepaper-Choosing-a-Returns-Management-System.pdf_utm_source=open.txt",
+  "word_count": 2533,
+  "entity_count": 289,
+  "entities": [
+    {
+      "name": "And yet",
+      "type": "OTHER",
+      "salience": 0.068477,
+      "mentions": 1
+    },
+    {
+      "name": "end-to-end management of returns.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.063071,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.045786,
+      "mentions": 1
+    },
+    {
+      "name": "of U.S.",
+      "type": "OTHER",
+      "salience": 0.042706,
+      "mentions": 1
+    },
+    {
+      "name": "returns merchandise authorization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.04168,
+      "mentions": 1
+    },
+    {
+      "name": "return-to-vendor",
+      "type": "OTHER",
+      "salience": 0.04168,
+      "mentions": 1
+    },
+    {
+      "name": "in both B2C and B2B industries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.035181,
+      "mentions": 1
+    },
+    {
+      "name": "The end result",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.034799,
+      "mentions": 1
+    },
+    {
+      "name": "waste and complexity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.032435,
+      "mentions": 1
+    },
+    {
+      "name": "That's changing.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.03228,
+      "mentions": 1
+    },
+    {
+      "name": "RMS",
+      "type": "OTHER",
+      "salience": 0.025005,
+      "mentions": 1
+    },
+    {
+      "name": "An RMS delivers two major functions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01972,
+      "mentions": 1
+    },
+    {
+      "name": "B2C sales were returned in 2021",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015024,
+      "mentions": 1
+    },
+    {
+      "name": "fulfillment",
+      "type": "OTHER",
+      "salience": 0.014378,
+      "mentions": 1
+    },
+    {
+      "name": "employee productivity and the customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013535,
+      "mentions": 1
+    },
+    {
+      "name": "every",
+      "type": "OTHER",
+      "salience": 0.012974,
+      "mentions": 1
+    },
+    {
+      "name": "Return shipment capabilities and forward tracking of order shipments should go hand-in-hand.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01113,
+      "mentions": 1
+    },
+    {
+      "name": "offers B2C",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010907,
+      "mentions": 1
+    },
+    {
+      "name": "The very best retailers",
+      "type": "ORGANIZATION",
+      "salience": 0.010107,
+      "mentions": 1
+    },
+    {
+      "name": "easy",
+      "type": "OTHER",
+      "salience": 0.009473,
+      "mentions": 1
+    },
+    {
+      "name": "Supply Chain Disrupted",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009318,
+      "mentions": 1
+    },
+    {
+      "name": "Back orders",
+      "type": "OTHER",
+      "salience": 0.008992,
+      "mentions": 1
+    },
+    {
+      "name": "Industry-leading",
+      "type": "OTHER",
+      "salience": 0.008988,
+      "mentions": 1
+    },
+    {
+      "name": "or your customer's",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00805,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Processing",
+      "type": "OTHER",
+      "salience": 0.007674,
+      "mentions": 1
+    },
+    {
+      "name": "queue and order.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007332,
+      "mentions": 1
+    },
+    {
+      "name": "route optimization Receive",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007291,
+      "mentions": 1
+    },
+    {
+      "name": "The ReverseLogix RMS was integrated with 3PL partner systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007031,
+      "mentions": 1
+    },
+    {
+      "name": "The company eliminated steps around product dispositioning",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006857,
+      "mentions": 1
+    },
+    {
+      "name": "The ReverseLogix returns management system (RMS) is the industry's only end-to-end",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00684,
+      "mentions": 1
+    },
+    {
+      "name": "repairs",
+      "type": "OTHER",
+      "salience": 0.006226,
+      "mentions": 1
+    },
+    {
+      "name": "grading, etc.",
+      "type": "PERSON",
+      "salience": 0.006218,
+      "mentions": 1
+    },
+    {
+      "name": "An RMS improves labor costs by standardizing and automating rules and policies.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005747,
+      "mentions": 1
+    },
+    {
+      "name": "Introduction",
+      "type": "OTHER",
+      "salience": 0.005726,
+      "mentions": 1
+    },
+    {
+      "name": "customer portals",
+      "type": "OTHER",
+      "salience": 0.005723,
+      "mentions": 1
+    },
+    {
+      "name": "initiation",
+      "type": "OTHER",
+      "salience": 0.005723,
+      "mentions": 1
+    },
+    {
+      "name": "inspect",
+      "type": "OTHER",
+      "salience": 0.005482,
+      "mentions": 1
+    },
+    {
+      "name": "digitized it and more sustainably sourced it.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005165,
+      "mentions": 1
+    },
+    {
+      "name": "An RMS opens up a whole new world of data and analysis.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005102,
+      "mentions": 1
+    },
+    {
+      "name": "An RMS centralizes and analyzes massive amounts of data",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005006,
+      "mentions": 1
+    },
+    {
+      "name": "An RMS tackles all of this so you can manage customer registrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004976,
+      "mentions": 1
+    },
+    {
+      "name": "and Wilson",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004878,
+      "mentions": 1
+    },
+    {
+      "name": "customer order must be counted",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00487,
+      "mentions": 1
+    },
+    {
+      "name": "This includes returns processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004681,
+      "mentions": 1
+    },
+    {
+      "name": "RMS",
+      "type": "OTHER",
+      "salience": 0.004652,
+      "mentions": 1
+    },
+    {
+      "name": "standardized",
+      "type": "OTHER",
+      "salience": 0.004625,
+      "mentions": 1
+    },
+    {
+      "name": "per customer",
+      "type": "OTHER",
+      "salience": 0.004473,
+      "mentions": 1
+    },
+    {
+      "name": "The returns",
+      "type": "ORGANIZATION",
+      "salience": 0.004315,
+      "mentions": 1
+    },
+    {
+      "name": "Centralizes and analyzes returns-related data from core supply chain software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004299,
+      "mentions": 1
+    },
+    {
+      "name": "Centralizes and analyzes returns data",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004042,
+      "mentions": 1
+    },
+    {
+      "name": "and processing",
+      "type": "OTHER",
+      "salience": 0.00399,
+      "mentions": 1
+    },
+    {
+      "name": "coupled",
+      "type": "LOCATION",
+      "salience": 0.003936,
+      "mentions": 1
+    },
+    {
+      "name": "purchases",
+      "type": "OTHER",
+      "salience": 0.003936,
+      "mentions": 1
+    },
+    {
+      "name": "Complete shipping visibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003795,
+      "mentions": 1
+    },
+    {
+      "name": "RMS",
+      "type": "OTHER",
+      "salience": 0.003769,
+      "mentions": 1
+    },
+    {
+      "name": "Reverse transportation",
+      "type": "OTHER",
+      "salience": 0.003733,
+      "mentions": 1
+    },
+    {
+      "name": "Nearly",
+      "type": "PERSON",
+      "salience": 0.003683,
+      "mentions": 1
+    },
+    {
+      "name": "forward-thinking",
+      "type": "OTHER",
+      "salience": 0.003679,
+      "mentions": 1
+    },
+    {
+      "name": "requirements",
+      "type": "OTHER",
+      "salience": 0.003535,
+      "mentions": 1
+    },
+    {
+      "name": "cancellations Picking",
+      "type": "OTHER",
+      "salience": 0.003505,
+      "mentions": 1
+    },
+    {
+      "name": "ReverseLogix",
+      "type": "OTHER",
+      "salience": 0.003495,
+      "mentions": 2
+    },
+    {
+      "name": "companies lose",
+      "type": "OTHER",
+      "salience": 0.003321,
+      "mentions": 1
+    },
+    {
+      "name": "Are all returns legitimate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003251,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Communication",
+      "type": "PERSON",
+      "salience": 0.003176,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Service",
+      "type": "PERSON",
+      "salience": 0.003106,
+      "mentions": 1
+    },
+    {
+      "name": "No more disparate or patchworks of systems.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003094,
+      "mentions": 1
+    },
+    {
+      "name": "RMS workflows can be configured by location",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003087,
+      "mentions": 1
+    },
+    {
+      "name": "B2B or hybrid environment.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00303,
+      "mentions": 1
+    },
+    {
+      "name": "customer and product",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "processing",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "and customer notifications.",
+      "type": "OTHER",
+      "salience": 0.002993,
+      "mentions": 1
+    },
+    {
+      "name": "RMA",
+      "type": "OTHER",
+      "salience": 0.002993,
+      "mentions": 1
+    },
+    {
+      "name": "significant to severe.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002934,
+      "mentions": 1
+    },
+    {
+      "name": "with faster workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002882,
+      "mentions": 1
+    },
+    {
+      "name": "For more information",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002875,
+      "mentions": 1
+    },
+    {
+      "name": "the cost",
+      "type": "OTHER",
+      "salience": 0.002833,
+      "mentions": 1
+    },
+    {
+      "name": "for example",
+      "type": "OTHER",
+      "salience": 0.002817,
+      "mentions": 1
+    },
+    {
+      "name": "costs aren't being addressed effectively.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002787,
+      "mentions": 1
+    },
+    {
+      "name": "cdot",
+      "type": "OTHER",
+      "salience": 0.002785,
+      "mentions": 1
+    },
+    {
+      "name": "Products are accepted",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002657,
+      "mentions": 1
+    },
+    {
+      "name": "payment",
+      "type": "OTHER",
+      "salience": 0.002596,
+      "mentions": 1
+    },
+    {
+      "name": "products are resold at full price",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002448,
+      "mentions": 1
+    },
+    {
+      "name": "ReverseLogix",
+      "type": "OTHER",
+      "salience": 0.002272,
+      "mentions": 1
+    },
+    {
+      "name": "Data analytics and business intelligence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002257,
+      "mentions": 1
+    },
+    {
+      "name": "ReverseLogix",
+      "type": "OTHER",
+      "salience": 0.002255,
+      "mentions": 1
+    },
+    {
+      "name": "ReverseLogix",
+      "type": "OTHER",
+      "salience": 0.002239,
+      "mentions": 1
+    },
+    {
+      "name": "inspected and dispositioned consistently",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002223,
+      "mentions": 1
+    },
+    {
+      "name": "An exceptional customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002184,
+      "mentions": 1
+    },
+    {
+      "name": "queue and order.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002106,
+      "mentions": 1
+    },
+    {
+      "name": "it integrates with other systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002092,
+      "mentions": 1
+    },
+    {
+      "name": "including automated updates at each stage of the returns process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002067,
+      "mentions": 1
+    },
+    {
+      "name": "recycle, remarket Audit",
+      "type": "OTHER",
+      "salience": 0.002014,
+      "mentions": 1
+    },
+    {
+      "name": "layout",
+      "type": "OTHER",
+      "salience": 0.002014,
+      "mentions": 1
+    },
+    {
+      "name": "With complete shipping visibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001922,
+      "mentions": 1
+    },
+    {
+      "name": "Within days of the ReverseLogix RMS implementation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001848,
+      "mentions": 1
+    },
+    {
+      "name": "Disposal costs",
+      "type": "OTHER",
+      "salience": 0.001805,
+      "mentions": 1
+    },
+    {
+      "name": "as retailers",
+      "type": "OTHER",
+      "salience": 0.001803,
+      "mentions": 1
+    },
+    {
+      "name": "packing and dispatch",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001793,
+      "mentions": 1
+    },
+    {
+      "name": "Initial receipt",
+      "type": "OTHER",
+      "salience": 0.001728,
+      "mentions": 1
+    },
+    {
+      "name": "dispositioning",
+      "type": "OTHER",
+      "salience": 0.001681,
+      "mentions": 1
+    },
+    {
+      "name": "perform in-warranty and outof-warranty repairs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001676,
+      "mentions": 1
+    },
+    {
+      "name": "Consolidate",
+      "type": "PERSON",
+      "salience": 0.001672,
+      "mentions": 1
+    },
+    {
+      "name": "return items.",
+      "type": "OTHER",
+      "salience": 0.001671,
+      "mentions": 1
+    },
+    {
+      "name": "receiving",
+      "type": "OTHER",
+      "salience": 0.001546,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking",
+      "type": "OTHER",
+      "salience": 0.001493,
+      "mentions": 1
+    },
+    {
+      "name": "Fulfillment transportation",
+      "type": "PERSON",
+      "salience": 0.001491,
+      "mentions": 1
+    },
+    {
+      "name": "Track Packages",
+      "type": "PERSON",
+      "salience": 0.00146,
+      "mentions": 1
+    },
+    {
+      "name": "B2B Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001423,
+      "mentions": 1
+    },
+    {
+      "name": "ReverseLogix",
+      "type": "OTHER",
+      "salience": 0.001421,
+      "mentions": 1
+    },
+    {
+      "name": "purpose-built RMS with configurable and flexible workflows that serve B2B",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001395,
+      "mentions": 1
+    },
+    {
+      "name": "Order Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001381,
+      "mentions": 1
+    },
+    {
+      "name": "B2C Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001346,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Labels",
+      "type": "PERSON",
+      "salience": 0.00134,
+      "mentions": 1
+    },
+    {
+      "name": "when returned",
+      "type": "OTHER",
+      "salience": 0.00134,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00133,
+      "mentions": 1
+    },
+    {
+      "name": "B2C or hybrid",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001293,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Labels",
+      "type": "PERSON",
+      "salience": 0.001281,
+      "mentions": 1
+    },
+    {
+      "name": "Consolidation",
+      "type": "OTHER",
+      "salience": 0.001272,
+      "mentions": 1
+    },
+    {
+      "name": "including",
+      "type": "OTHER",
+      "salience": 0.001259,
+      "mentions": 1
+    },
+    {
+      "name": "reason",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001181,
+      "mentions": 1
+    },
+    {
+      "name": "inspecting",
+      "type": "OTHER",
+      "salience": 0.001163,
+      "mentions": 1
+    },
+    {
+      "name": "Receiving",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001141,
+      "mentions": 1
+    },
+    {
+      "name": "Access",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001139,
+      "mentions": 1
+    },
+    {
+      "name": "Repair Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001136,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Notifications",
+      "type": "OTHER",
+      "salience": 0.001115,
+      "mentions": 1
+    },
+    {
+      "name": "Smart Disposition",
+      "type": "OTHER",
+      "salience": 0.0011,
+      "mentions": 1
+    },
+    {
+      "name": "Back up sustainability claims with the right data and reports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001082,
+      "mentions": 1
+    },
+    {
+      "name": "handling costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001072,
+      "mentions": 1
+    },
+    {
+      "name": "RMA Initiation",
+      "type": "OTHER",
+      "salience": 0.001065,
+      "mentions": 1
+    },
+    {
+      "name": "RMA Initiation",
+      "type": "OTHER",
+      "salience": 0.001057,
+      "mentions": 1
+    },
+    {
+      "name": "End-to-end capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000989,
+      "mentions": 1
+    },
+    {
+      "name": "respondents",
+      "type": "OTHER",
+      "salience": 0.000952,
+      "mentions": 1
+    },
+    {
+      "name": "reporting",
+      "type": "OTHER",
+      "salience": 0.000952,
+      "mentions": 1
+    },
+    {
+      "name": "No visibility into returns data",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000939,
+      "mentions": 1
+    },
+    {
+      "name": "such as reconditioning",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000885,
+      "mentions": 1
+    },
+    {
+      "name": "more automated",
+      "type": "OTHER",
+      "salience": 0.000885,
+      "mentions": 1
+    },
+    {
+      "name": "This includes:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "said the director of distribution operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000876,
+      "mentions": 1
+    },
+    {
+      "name": "distributors.",
+      "type": "OTHER",
+      "salience": 0.000875,
+      "mentions": 1
+    },
+    {
+      "name": "Branded Portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000871,
+      "mentions": 1
+    },
+    {
+      "name": "Picking",
+      "type": "OTHER",
+      "salience": 0.000862,
+      "mentions": 1
+    },
+    {
+      "name": "Inspection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000858,
+      "mentions": 1
+    },
+    {
+      "name": "Parts Consumption",
+      "type": "PERSON",
+      "salience": 0.000851,
+      "mentions": 1
+    },
+    {
+      "name": "Branded Page",
+      "type": "PERSON",
+      "salience": 0.000839,
+      "mentions": 1
+    },
+    {
+      "name": "which is basically the return rate.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000834,
+      "mentions": 1
+    },
+    {
+      "name": "In-store Inspection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000833,
+      "mentions": 1
+    },
+    {
+      "name": "warranty checks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000808,
+      "mentions": 1
+    },
+    {
+      "name": "prioritize",
+      "type": "OTHER",
+      "salience": 0.000796,
+      "mentions": 1
+    },
+    {
+      "name": "WMs",
+      "type": "OTHER",
+      "salience": 0.000751,
+      "mentions": 1
+    },
+    {
+      "name": "Easy Exchanges",
+      "type": "OTHER",
+      "salience": 0.00075,
+      "mentions": 1
+    },
+    {
+      "name": "centralized",
+      "type": "OTHER",
+      "salience": 0.000744,
+      "mentions": 1
+    },
+    {
+      "name": "Whether B2B",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000743,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Credits",
+      "type": "PERSON",
+      "salience": 0.000736,
+      "mentions": 1
+    },
+    {
+      "name": "Stock Transfer",
+      "type": "PERSON",
+      "salience": 0.000736,
+      "mentions": 1
+    },
+    {
+      "name": "Entitlements",
+      "type": "OTHER",
+      "salience": 0.000731,
+      "mentions": 1
+    },
+    {
+      "name": "Configurable workflows",
+      "type": "OTHER",
+      "salience": 0.000726,
+      "mentions": 1
+    },
+    {
+      "name": "capabilities.",
+      "type": "OTHER",
+      "salience": 0.000688,
+      "mentions": 1
+    },
+    {
+      "name": "repairs and after-sales care.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000669,
+      "mentions": 1
+    },
+    {
+      "name": "home-grown solutions and other supply chain software.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000668,
+      "mentions": 1
+    },
+    {
+      "name": "Exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000666,
+      "mentions": 1
+    },
+    {
+      "name": "Reason Codes",
+      "type": "PERSON",
+      "salience": 0.000666,
+      "mentions": 1
+    },
+    {
+      "name": "cdot",
+      "type": "OTHER",
+      "salience": 0.000663,
+      "mentions": 1
+    },
+    {
+      "name": "Approvals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00066,
+      "mentions": 1
+    },
+    {
+      "name": "Reason Codes",
+      "type": "PERSON",
+      "salience": 0.00066,
+      "mentions": 1
+    },
+    {
+      "name": "example",
+      "type": "OTHER",
+      "salience": 0.00066,
+      "mentions": 1
+    },
+    {
+      "name": "Grading",
+      "type": "OTHER",
+      "salience": 0.000655,
+      "mentions": 2
+    },
+    {
+      "name": "Approvals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000655,
+      "mentions": 1
+    },
+    {
+      "name": "Multi Location",
+      "type": "PERSON",
+      "salience": 0.000655,
+      "mentions": 1
+    },
+    {
+      "name": "Quote Approval",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00065,
+      "mentions": 1
+    },
+    {
+      "name": "insight into returns data.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000637,
+      "mentions": 1
+    },
+    {
+      "name": "Vendor Portals",
+      "type": "PERSON",
+      "salience": 0.000632,
+      "mentions": 1
+    },
+    {
+      "name": "Approval Chain",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000632,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications",
+      "type": "OTHER",
+      "salience": 0.000557,
+      "mentions": 1
+    },
+    {
+      "name": "Check Status",
+      "type": "PERSON",
+      "salience": 0.000557,
+      "mentions": 1
+    },
+    {
+      "name": "Check Status",
+      "type": "PERSON",
+      "salience": 0.000552,
+      "mentions": 1
+    },
+    {
+      "name": "said the director",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000552,
+      "mentions": 1
+    },
+    {
+      "name": "fast",
+      "type": "OTHER",
+      "salience": 0.00055,
+      "mentions": 1
+    },
+    {
+      "name": "explained the director.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "So we",
+      "type": "OTHER",
+      "salience": 0.000548,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty",
+      "type": "PERSON",
+      "salience": 0.000544,
+      "mentions": 1
+    },
+    {
+      "name": "B2C and hybrid environments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000543,
+      "mentions": 1
+    },
+    {
+      "name": "About ReverseLogix",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "manufacturing and 3PL organizations.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000538,
+      "mentions": 1
+    },
+    {
+      "name": "the ReverseLogix platform facilitates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000537,
+      "mentions": 1
+    },
+    {
+      "name": "Organizations",
+      "type": "OTHER",
+      "salience": 0.000536,
+      "mentions": 1
+    },
+    {
+      "name": "Reprocessing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000508,
+      "mentions": 1
+    },
+    {
+      "name": "Holding costs",
+      "type": "OTHER",
+      "salience": 0.000502,
+      "mentions": 1
+    },
+    {
+      "name": "easy",
+      "type": "OTHER",
+      "salience": 0.000486,
+      "mentions": 1
+    },
+    {
+      "name": "Gaurav Saran",
+      "type": "PERSON",
+      "salience": 0.000479,
+      "mentions": 1
+    },
+    {
+      "name": "CEO",
+      "type": "PERSON",
+      "salience": 0.000479,
+      "mentions": 1
+    },
+    {
+      "name": "Amer Sports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000477,
+      "mentions": 1
+    },
+    {
+      "name": "Replacing SAP with RMS Fuels More Efficient Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000468,
+      "mentions": 1
+    },
+    {
+      "name": "Gartner",
+      "type": "ORGANIZATION",
+      "salience": 0.000461,
+      "mentions": 1
+    },
+    {
+      "name": "complexity and customer satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000459,
+      "mentions": 1
+    },
+    {
+      "name": "Validations",
+      "type": "OTHER",
+      "salience": 0.000439,
+      "mentions": 1
+    },
+    {
+      "name": "Multi Role",
+      "type": "PERSON",
+      "salience": 0.000436,
+      "mentions": 1
+    },
+    {
+      "name": "Arrived Damaged",
+      "type": "OTHER",
+      "salience": 0.000434,
+      "mentions": 1
+    },
+    {
+      "name": "ecommerce",
+      "type": "OTHER",
+      "salience": 0.000428,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier integrations",
+      "type": "OTHER",
+      "salience": 0.000426,
+      "mentions": 1
+    },
+    {
+      "name": "In-Store Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000424,
+      "mentions": 1
+    },
+    {
+      "name": "RTV",
+      "type": "OTHER",
+      "salience": 0.000421,
+      "mentions": 1
+    },
+    {
+      "name": "and have good communication.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00042,
+      "mentions": 1
+    },
+    {
+      "name": "Manage Contracts",
+      "type": "PERSON",
+      "salience": 0.00042,
+      "mentions": 1
+    },
+    {
+      "name": "Policy Validations",
+      "type": "PERSON",
+      "salience": 0.00042,
+      "mentions": 1
+    },
+    {
+      "name": "RTV Initiation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00042,
+      "mentions": 1
+    },
+    {
+      "name": "Poor customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000416,
+      "mentions": 1
+    },
+    {
+      "name": "Key Capabilities",
+      "type": "PERSON",
+      "salience": 0.000392,
+      "mentions": 1
+    },
+    {
+      "name": "which",
+      "type": "OTHER",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "How These Companies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000348,
+      "mentions": 1
+    },
+    {
+      "name": "NetSuite",
+      "type": "OTHER",
+      "salience": 0.000321,
+      "mentions": 1
+    },
+    {
+      "name": "Account Portals",
+      "type": "OTHER",
+      "salience": 0.000317,
+      "mentions": 1
+    },
+    {
+      "name": "Supporting Docs",
+      "type": "PERSON",
+      "salience": 0.000317,
+      "mentions": 1
+    },
+    {
+      "name": "History",
+      "type": "OTHER",
+      "salience": 0.000317,
+      "mentions": 1
+    },
+    {
+      "name": "Before ReverseLogix",
+      "type": "OTHER",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "sorted it",
+      "type": "OTHER",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "Reject Codes",
+      "type": "PERSON",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "Discrepancy",
+      "type": "OTHER",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "Put-away",
+      "type": "OTHER",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "ReSKU",
+      "type": "OTHER",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "IW/OW",
+      "type": "OTHER",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "Safety Stock",
+      "type": "PERSON",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket Assignment",
+      "type": "PERSON",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "Fault Analysis",
+      "type": "PERSON",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "Text/Email",
+      "type": "OTHER",
+      "salience": 0.000308,
+      "mentions": 1
+    },
+    {
+      "name": "WiSMo",
+      "type": "OTHER",
+      "salience": 0.000308,
+      "mentions": 1
+    },
+    {
+      "name": "\\circ",
+      "type": "OTHER",
+      "salience": 0.000306,
+      "mentions": 1
+    },
+    {
+      "name": "visit www.reverselogix.com",
+      "type": "OTHER",
+      "salience": 0.000306,
+      "mentions": 1
+    },
+    {
+      "name": "Aging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000304,
+      "mentions": 1
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "Global Retailer Solves Complex B2B and B2C Returns Processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000275,
+      "mentions": 1
+    },
+    {
+      "name": "DHL",
+      "type": "ORGANIZATION",
+      "salience": 0.0002,
+      "mentions": 1
+    },
+    {
+      "name": "Atomic",
+      "type": "OTHER",
+      "salience": 0.000198,
+      "mentions": 1
+    },
+    {
+      "name": "said Kai Bahlman",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000197,
+      "mentions": 1
+    },
+    {
+      "name": "Today",
+      "type": "OTHER",
+      "salience": 0.000196,
+      "mentions": 1
+    },
+    {
+      "name": "doubles",
+      "type": "OTHER",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "said Hayden Rice",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "I'd say",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 10.30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$80",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$75",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$94",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10.30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "94",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 101,
+    "CONSUMER_GOOD": 102,
+    "ORGANIZATION": 4,
+    "PERSON": 31,
+    "LOCATION": 1,
+    "PRICE": 10,
+    "NUMBER": 39,
+    "DATE": 3
+  },
+  "type_salience": {
+    "OTHER": 0.39186199999999993,
+    "CONSUMER_GOOD": 0.5508409999999998,
+    "ORGANIZATION": 0.015083000000000001,
+    "PERSON": 0.035052,
+    "LOCATION": 0.003936,
+    "PRICE": 0.0,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "file": "cited_postcustomer-support-disney-cruise-line.pdf_utm_source=openai.txt",
+  "word_count": 9,
+  "entity_count": 1,
+  "entities": [
+    {
+      "name": "Forbidden",
+      "type": "OTHER",
+      "salience": 1.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 1
+  },
+  "type_salience": {
+    "OTHER": 1.0
+  }
+}

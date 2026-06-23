@@ -1,0 +1,903 @@
+{
+  "file": "non_cited_postecommerce-return-platforms.txt",
+  "word_count": 2453,
+  "entity_count": 147,
+  "entities": [
+    {
+      "name": "return fraud",
+      "type": "OTHER",
+      "salience": 0.090105,
+      "mentions": 1
+    },
+    {
+      "name": "poorly managed returns can lead to frustrated customers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.076091,
+      "mentions": 1
+    },
+    {
+      "name": "Customer satisfaction is the backbone of any successful ecommerce business.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.047047,
+      "mentions": 1
+    },
+    {
+      "name": "the key features of ecommerce return platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.039112,
+      "mentions": 1
+    },
+    {
+      "name": "return shipping labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.032997,
+      "mentions": 1
+    },
+    {
+      "name": "return labels",
+      "type": "OTHER",
+      "salience": 0.030966,
+      "mentions": 1
+    },
+    {
+      "name": "Return Rabbit and Its Capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.030302,
+      "mentions": 1
+    },
+    {
+      "name": "Return Shipping Label Generation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.027619,
+      "mentions": 1
+    },
+    {
+      "name": "businesses",
+      "type": "OTHER",
+      "salience": 0.025149,
+      "mentions": 2
+    },
+    {
+      "name": "such as shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024771,
+      "mentions": 1
+    },
+    {
+      "name": "Join 27,952+ Readers of the Cahoot Newsletter",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020996,
+      "mentions": 1
+    },
+    {
+      "name": "revenue",
+      "type": "OTHER",
+      "salience": 0.020234,
+      "mentions": 1
+    },
+    {
+      "name": "return windows",
+      "type": "OTHER",
+      "salience": 0.019948,
+      "mentions": 1
+    },
+    {
+      "name": "speeds up processing returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019629,
+      "mentions": 1
+    },
+    {
+      "name": "Returns",
+      "type": "OTHER",
+      "salience": 0.019277,
+      "mentions": 1
+    },
+    {
+      "name": "more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018906,
+      "mentions": 1
+    },
+    {
+      "name": "Overview of Returns Management Systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017584,
+      "mentions": 1
+    },
+    {
+      "name": "Subscription Form",
+      "type": "OTHER",
+      "salience": 0.015237,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.014968,
+      "mentions": 1
+    },
+    {
+      "name": "enhance customer loyalty",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014451,
+      "mentions": 1
+    },
+    {
+      "name": "customer experience",
+      "type": "OTHER",
+      "salience": 0.014326,
+      "mentions": 2
+    },
+    {
+      "name": "The more automated and streamlined the portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014316,
+      "mentions": 1
+    },
+    {
+      "name": "offering flexible exchange options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013808,
+      "mentions": 1
+    },
+    {
+      "name": "operator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013458,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.012635,
+      "mentions": 1
+    },
+    {
+      "name": "They can significantly impact customer satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011631,
+      "mentions": 1
+    },
+    {
+      "name": "Introduction",
+      "type": "OTHER",
+      "salience": 0.011544,
+      "mentions": 1
+    },
+    {
+      "name": "The more proactive your communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010398,
+      "mentions": 1
+    },
+    {
+      "name": "Additionally",
+      "type": "OTHER",
+      "salience": 0.009865,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Notifications and Real-Time Updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009396,
+      "mentions": 1
+    },
+    {
+      "name": "Example Ecommerce Return Platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009117,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable Return Policies",
+      "type": "OTHER",
+      "salience": 0.009059,
+      "mentions": 1
+    },
+    {
+      "name": "customizable return policies",
+      "type": "OTHER",
+      "salience": 0.009052,
+      "mentions": 1
+    },
+    {
+      "name": "increase revenue retention",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008107,
+      "mentions": 1
+    },
+    {
+      "name": "when done manually",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007722,
+      "mentions": 1
+    },
+    {
+      "name": "Make Returns Profitable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007534,
+      "mentions": 1
+    },
+    {
+      "name": "Summary",
+      "type": "OTHER",
+      "salience": 0.006659,
+      "mentions": 1
+    },
+    {
+      "name": "brands can streamline their returns process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006639,
+      "mentions": 1
+    },
+    {
+      "name": "understanding",
+      "type": "OTHER",
+      "salience": 0.006471,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006418,
+      "mentions": 1
+    },
+    {
+      "name": "Introduction",
+      "type": "OTHER",
+      "salience": 0.006334,
+      "mentions": 1
+    },
+    {
+      "name": "Understanding",
+      "type": "PERSON",
+      "salience": 0.00597,
+      "mentions": 1
+    },
+    {
+      "name": "With Return Rabbit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005926,
+      "mentions": 1
+    },
+    {
+      "name": "lost revenue",
+      "type": "OTHER",
+      "salience": 0.005831,
+      "mentions": 1
+    },
+    {
+      "name": "restocking",
+      "type": "OTHER",
+      "salience": 0.005669,
+      "mentions": 1
+    },
+    {
+      "name": "ecommerce businesses can offer customers a positive returns experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005031,
+      "mentions": 1
+    },
+    {
+      "name": "Cut shipping and processing costs by",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004739,
+      "mentions": 1
+    },
+    {
+      "name": "Understanding the Importance of Customer Satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004595,
+      "mentions": 1
+    },
+    {
+      "name": "ecommerce businesses can cut costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00428,
+      "mentions": 1
+    },
+    {
+      "name": "bracketing",
+      "type": "OTHER",
+      "salience": 0.0041,
+      "mentions": 1
+    },
+    {
+      "name": "Help the planet and your profits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004029,
+      "mentions": 1
+    },
+    {
+      "name": "reduce shipping costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003884,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.003827,
+      "mentions": 1
+    },
+    {
+      "name": "repeat business",
+      "type": "OTHER",
+      "salience": 0.003499,
+      "mentions": 1
+    },
+    {
+      "name": "Comprehensive Returns Portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003444,
+      "mentions": 1
+    },
+    {
+      "name": "Automated",
+      "type": "PERSON",
+      "salience": 0.003325,
+      "mentions": 1
+    },
+    {
+      "name": "and provides real-time reporting and data features.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003317,
+      "mentions": 1
+    },
+    {
+      "name": "automatically",
+      "type": "OTHER",
+      "salience": 0.003231,
+      "mentions": 1
+    },
+    {
+      "name": "Furthermore",
+      "type": "OTHER",
+      "salience": 0.003106,
+      "mentions": 1
+    },
+    {
+      "name": "including product exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003004,
+      "mentions": 1
+    },
+    {
+      "name": "By continuing",
+      "type": "OTHER",
+      "salience": 0.002961,
+      "mentions": 1
+    },
+    {
+      "name": "intervention.",
+      "type": "OTHER",
+      "salience": 0.00292,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.00292,
+      "mentions": 1
+    },
+    {
+      "name": "It also enhances productivity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002903,
+      "mentions": 1
+    },
+    {
+      "name": "Fraud Prevention and Return Analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002658,
+      "mentions": 1
+    },
+    {
+      "name": "When evaluating ecommerce return platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002631,
+      "mentions": 1
+    },
+    {
+      "name": "Integration",
+      "type": "OTHER",
+      "salience": 0.002573,
+      "mentions": 1
+    },
+    {
+      "name": "Overview of Returns Management Systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002554,
+      "mentions": 1
+    },
+    {
+      "name": "ultimately leading to positive word-of-mouth",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00253,
+      "mentions": 1
+    },
+    {
+      "name": "more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002307,
+      "mentions": 1
+    },
+    {
+      "name": "inaccurate",
+      "type": "OTHER",
+      "salience": 0.002246,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.00223,
+      "mentions": 1
+    },
+    {
+      "name": "Real savings",
+      "type": "OTHER",
+      "salience": 0.002197,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.002171,
+      "mentions": 1
+    },
+    {
+      "name": "which can help boost customer loyalty and revenue retention.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002084,
+      "mentions": 1
+    },
+    {
+      "name": "improvement",
+      "type": "OTHER",
+      "salience": 0.001898,
+      "mentions": 1
+    },
+    {
+      "name": "What are the key features of an ecommerce return platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001814,
+      "mentions": 1
+    },
+    {
+      "name": "increases customer loyalty",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001788,
+      "mentions": 1
+    },
+    {
+      "name": "such as store credit or exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001686,
+      "mentions": 1
+    },
+    {
+      "name": "sales",
+      "type": "LOCATION",
+      "salience": 0.001601,
+      "mentions": 1
+    },
+    {
+      "name": "Additionally",
+      "type": "OTHER",
+      "salience": 0.001575,
+      "mentions": 1
+    },
+    {
+      "name": "No More Return Waste",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00152,
+      "mentions": 1
+    },
+    {
+      "name": "real-time tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001513,
+      "mentions": 1
+    },
+    {
+      "name": "select return options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001457,
+      "mentions": 1
+    },
+    {
+      "name": "play",
+      "type": "OTHER",
+      "salience": 0.001396,
+      "mentions": 1
+    },
+    {
+      "name": "comprehensive",
+      "type": "OTHER",
+      "salience": 0.001392,
+      "mentions": 1
+    },
+    {
+      "name": "fraud prevention tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00136,
+      "mentions": 1
+    },
+    {
+      "name": "no warehouse processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001344,
+      "mentions": 1
+    },
+    {
+      "name": "and world-class support.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001304,
+      "mentions": 1
+    },
+    {
+      "name": "Convert returns into second-chance sales and new customers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001294,
+      "mentions": 1
+    },
+    {
+      "name": "encourage exchanges",
+      "type": "OTHER",
+      "salience": 0.001288,
+      "mentions": 1
+    },
+    {
+      "name": "Additionally",
+      "type": "OTHER",
+      "salience": 0.001262,
+      "mentions": 1
+    },
+    {
+      "name": "data analytics",
+      "type": "OTHER",
+      "salience": 0.001185,
+      "mentions": 1
+    },
+    {
+      "name": "Introducing",
+      "type": "OTHER",
+      "salience": 0.001153,
+      "mentions": 1
+    },
+    {
+      "name": "save time",
+      "type": "OTHER",
+      "salience": 0.001123,
+      "mentions": 1
+    },
+    {
+      "name": "and boost customer satisfaction.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001109,
+      "mentions": 1
+    },
+    {
+      "name": "improves operational efficiency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001098,
+      "mentions": 1
+    },
+    {
+      "name": "When returns are managed efficiently",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001041,
+      "mentions": 1
+    },
+    {
+      "name": "innovative technology",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001036,
+      "mentions": 1
+    },
+    {
+      "name": "enhancing efficiency and user experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001027,
+      "mentions": 1
+    },
+    {
+      "name": "and customizable return policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001009,
+      "mentions": 1
+    },
+    {
+      "name": "Cahoot",
+      "type": "OTHER",
+      "salience": 0.000995,
+      "mentions": 1
+    },
+    {
+      "name": "Turn Returns Into New Revenue",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000992,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns and Its Benefits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000991,
+      "mentions": 1
+    },
+    {
+      "name": "software solutions",
+      "type": "OTHER",
+      "salience": 0.000967,
+      "mentions": 1
+    },
+    {
+      "name": "flag suspicious return patterns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000853,
+      "mentions": 1
+    },
+    {
+      "name": "Example Ecommerce Return Platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000837,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.000835,
+      "mentions": 1
+    },
+    {
+      "name": "including popular apps and sales channels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000827,
+      "mentions": 1
+    },
+    {
+      "name": "fraud prevention",
+      "type": "OTHER",
+      "salience": 0.000826,
+      "mentions": 1
+    },
+    {
+      "name": "Learn More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000825,
+      "mentions": 1
+    },
+    {
+      "name": "Learn More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000816,
+      "mentions": 1
+    },
+    {
+      "name": "Here are the key features that matter most:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000784,
+      "mentions": 1
+    },
+    {
+      "name": "Additionally",
+      "type": "OTHER",
+      "salience": 0.000742,
+      "mentions": 1
+    },
+    {
+      "name": "No greenwashing",
+      "type": "OTHER",
+      "salience": 0.000725,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000695,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.000682,
+      "mentions": 1
+    },
+    {
+      "name": "Rinaldi Juwono",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000669,
+      "mentions": 1
+    },
+    {
+      "name": "Rinaldi Juwono leads content and SEO strategy at Cahoot",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000667,
+      "mentions": 1
+    },
+    {
+      "name": "e.g., returns through brick-and-mortar stores and online returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000654,
+      "mentions": 1
+    },
+    {
+      "name": "Related Blog Posts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000654,
+      "mentions": 1
+    },
+    {
+      "name": "cookies",
+      "type": "OTHER",
+      "salience": 0.00065,
+      "mentions": 1
+    },
+    {
+      "name": "Accept",
+      "type": "OTHER",
+      "salience": 0.000646,
+      "mentions": 1
+    },
+    {
+      "name": "cut costs",
+      "type": "OTHER",
+      "salience": 0.000533,
+      "mentions": 1
+    },
+    {
+      "name": "Written By:",
+      "type": "OTHER",
+      "salience": 0.000485,
+      "mentions": 1
+    },
+    {
+      "name": "seasonality",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "Uncategorized",
+      "type": "OTHER",
+      "salience": 0.00048,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.000429,
+      "mentions": 1
+    },
+    {
+      "name": "Summary",
+      "type": "OTHER",
+      "salience": 0.000425,
+      "mentions": 1
+    },
+    {
+      "name": "box-free returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000304,
+      "mentions": 1
+    },
+    {
+      "name": "27,952",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27,952",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "70",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 57,
+    "CONSUMER_GOOD": 72,
+    "PERSON": 2,
+    "LOCATION": 1,
+    "NUMBER": 17
+  },
+  "type_salience": {
+    "OTHER": 0.3930019999999999,
+    "CONSUMER_GOOD": 0.580416,
+    "PERSON": 0.009295,
+    "LOCATION": 0.001601,
+    "NUMBER": 0.0
+  }
+}

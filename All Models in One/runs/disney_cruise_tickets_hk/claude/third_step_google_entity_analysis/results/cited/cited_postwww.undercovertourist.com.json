@@ -1,0 +1,7053 @@
+{
+  "file": "cited_postwww.undercovertourist.com.txt",
+  "word_count": 3293,
+  "entity_count": 1171,
+  "entities": [
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.058697,
+      "mentions": 7
+    },
+    {
+      "name": "Up to $1000 Onboard Credit.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024815,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Resort",
+      "type": "PERSON",
+      "salience": 0.019401,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Deals",
+      "type": "OTHER",
+      "salience": 0.017394,
+      "mentions": 1
+    },
+    {
+      "name": "Spa Orlando",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015103,
+      "mentions": 1
+    },
+    {
+      "name": "Theme Park",
+      "type": "LOCATION",
+      "salience": 0.014482,
+      "mentions": 4
+    },
+    {
+      "name": "Resort",
+      "type": "OTHER",
+      "salience": 0.013952,
+      "mentions": 1
+    },
+    {
+      "name": "Disneyland® Resort",
+      "type": "OTHER",
+      "salience": 0.013853,
+      "mentions": 6
+    },
+    {
+      "name": "Universal Orlando Resort",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013755,
+      "mentions": 7
+    },
+    {
+      "name": "Park City",
+      "type": "LOCATION",
+      "salience": 0.012144,
+      "mentions": 2
+    },
+    {
+      "name": "next 14",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012072,
+      "mentions": 1
+    },
+    {
+      "name": "Discount Tickets",
+      "type": "OTHER",
+      "salience": 0.012038,
+      "mentions": 1
+    },
+    {
+      "name": "Orlando\\",
+      "type": "OTHER",
+      "salience": 0.010861,
+      "mentions": 6
+    },
+    {
+      "name": "Discount Vacation Packages",
+      "type": "OTHER",
+      "salience": 0.010832,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.010711,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.010523,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.009896,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.009746,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009499,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009366,
+      "mentions": 1
+    },
+    {
+      "name": "SEARCH DISNEY CRUISES",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009043,
+      "mentions": 1
+    },
+    {
+      "name": "San Diego",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008523,
+      "mentions": 8
+    },
+    {
+      "name": "San Francisco",
+      "type": "LOCATION",
+      "salience": 0.008312,
+      "mentions": 4
+    },
+    {
+      "name": "Orlando\\ \\ LEGOLAND® Florida Resort",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007714,
+      "mentions": 1
+    },
+    {
+      "name": "San Antonio",
+      "type": "OTHER",
+      "salience": 0.007598,
+      "mentions": 6
+    },
+    {
+      "name": "Los Angeles",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007409,
+      "mentions": 17
+    },
+    {
+      "name": "Resort",
+      "type": "OTHER",
+      "salience": 0.007075,
+      "mentions": 1
+    },
+    {
+      "name": "Resort",
+      "type": "OTHER",
+      "salience": 0.006941,
+      "mentions": 1
+    },
+    {
+      "name": "Resort",
+      "type": "OTHER",
+      "salience": 0.006497,
+      "mentions": 1
+    },
+    {
+      "name": "Resort",
+      "type": "OTHER",
+      "salience": 0.006392,
+      "mentions": 1
+    },
+    {
+      "name": "city",
+      "type": "OTHER",
+      "salience": 0.006371,
+      "mentions": 1
+    },
+    {
+      "name": "Kids",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005631,
+      "mentions": 1
+    },
+    {
+      "name": "Kids Sail Free",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00549,
+      "mentions": 1
+    },
+    {
+      "name": "Park-to-Park",
+      "type": "LOCATION",
+      "salience": 0.005361,
+      "mentions": 1
+    },
+    {
+      "name": "Park-to-Park",
+      "type": "LOCATION",
+      "salience": 0.005286,
+      "mentions": 1
+    },
+    {
+      "name": "Oceanview",
+      "type": "OTHER",
+      "salience": 0.005063,
+      "mentions": 1
+    },
+    {
+      "name": "Universal 3-Day",
+      "type": "OTHER",
+      "salience": 0.004845,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 11",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004816,
+      "mentions": 1
+    },
+    {
+      "name": "Royal Caribbean Cruise Line.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004813,
+      "mentions": 1
+    },
+    {
+      "name": "Universal 3-Day",
+      "type": "OTHER",
+      "salience": 0.004777,
+      "mentions": 1
+    },
+    {
+      "name": "San Diego\\ \\ LEGOLAND® California Resort",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004439,
+      "mentions": 1
+    },
+    {
+      "name": "guaranteed",
+      "type": "OTHER",
+      "salience": 0.004369,
+      "mentions": 1
+    },
+    {
+      "name": "Adult",
+      "type": "OTHER",
+      "salience": 0.004253,
+      "mentions": 16
+    },
+    {
+      "name": "guaranteed",
+      "type": "OTHER",
+      "salience": 0.003786,
+      "mentions": 1
+    },
+    {
+      "name": "Walt Disney World",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003761,
+      "mentions": 1
+    },
+    {
+      "name": "SeaWorld",
+      "type": "OTHER",
+      "salience": 0.003698,
+      "mentions": 3
+    },
+    {
+      "name": "Check-In",
+      "type": "OTHER",
+      "salience": 0.003609,
+      "mentions": 2
+    },
+    {
+      "name": "OGT",
+      "type": "OTHER",
+      "salience": 0.003603,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.003603,
+      "mentions": 1
+    },
+    {
+      "name": "or VGT",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003603,
+      "mentions": 1
+    },
+    {
+      "name": "Inside",
+      "type": "OTHER",
+      "salience": 0.003603,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003392,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003367,
+      "mentions": 1
+    },
+    {
+      "name": "SeaWorld and Aquatica Orlando",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003352,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003347,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003343,
+      "mentions": 1
+    },
+    {
+      "name": "General Admission Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003301,
+      "mentions": 1
+    },
+    {
+      "name": "General Admission Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003277,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003255,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00324,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003232,
+      "mentions": 1
+    },
+    {
+      "name": "Disney's Art of Animation Resort",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0032,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003192,
+      "mentions": 1
+    },
+    {
+      "name": "Disney's Grand Floridian Resort",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003182,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003154,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-4 of 12",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003143,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003142,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Good Neighbor Hotels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003121,
+      "mentions": 1
+    },
+    {
+      "name": "Disneyland® Resort Hotels",
+      "type": "OTHER",
+      "salience": 0.003109,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003101,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003054,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003043,
+      "mentions": 1
+    },
+    {
+      "name": "Check-Out",
+      "type": "OTHER",
+      "salience": 0.003037,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.003006,
+      "mentions": 1
+    },
+    {
+      "name": "New York City",
+      "type": "LOCATION",
+      "salience": 0.002992,
+      "mentions": 4
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.002973,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.002949,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002902,
+      "mentions": 2
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002895,
+      "mentions": 1
+    },
+    {
+      "name": "Disney World Closures",
+      "type": "OTHER",
+      "salience": 0.002875,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.002869,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 14",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002867,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00285,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002804,
+      "mentions": 1
+    },
+    {
+      "name": "Disney California Adventure® Food & Wine Festival",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002802,
+      "mentions": 1
+    },
+    {
+      "name": "Disneyland Ride Closures",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002801,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.00275,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.002654,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.002632,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.002603,
+      "mentions": 1
+    },
+    {
+      "name": "Disneyland",
+      "type": "ORGANIZATION",
+      "salience": 0.002569,
+      "mentions": 4
+    },
+    {
+      "name": "Discovery Cove Spring Sale",
+      "type": "OTHER",
+      "salience": 0.002566,
+      "mentions": 1
+    },
+    {
+      "name": "Up to 30% off Cruises",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002555,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.002553,
+      "mentions": 1
+    },
+    {
+      "name": "Up to 50% Off",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002536,
+      "mentions": 1
+    },
+    {
+      "name": "Up to 30% Off",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002533,
+      "mentions": 1
+    },
+    {
+      "name": "Ticket quantity",
+      "type": "OTHER",
+      "salience": 0.002533,
+      "mentions": 1
+    },
+    {
+      "name": "Universal Studios Hollywood",
+      "type": "OTHER",
+      "salience": 0.002532,
+      "mentions": 4
+    },
+    {
+      "name": "Up to 50% off",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002509,
+      "mentions": 1
+    },
+    {
+      "name": "Up to $1,000 Onboard Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002503,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002488,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.002323,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00231,
+      "mentions": 1
+    },
+    {
+      "name": "Walt Disney World",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002266,
+      "mentions": 1
+    },
+    {
+      "name": "Walt Disney World",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002223,
+      "mentions": 1
+    },
+    {
+      "name": "Boston",
+      "type": "LOCATION",
+      "salience": 0.002127,
+      "mentions": 4
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "salience": 0.002103,
+      "mentions": 4
+    },
+    {
+      "name": "Walt Disney World",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002081,
+      "mentions": 1
+    },
+    {
+      "name": "Celebrity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002059,
+      "mentions": 2
+    },
+    {
+      "name": "Walt Disney World",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002047,
+      "mentions": 1
+    },
+    {
+      "name": "Destination",
+      "type": "OTHER",
+      "salience": 0.001854,
+      "mentions": 1
+    },
+    {
+      "name": "Park-to-Park",
+      "type": "LOCATION",
+      "salience": 0.001846,
+      "mentions": 1
+    },
+    {
+      "name": "Park-to-Park",
+      "type": "LOCATION",
+      "salience": 0.001823,
+      "mentions": 1
+    },
+    {
+      "name": "Check-Out",
+      "type": "OTHER",
+      "salience": 0.001803,
+      "mentions": 1
+    },
+    {
+      "name": "Universal in CA",
+      "type": "OTHER",
+      "salience": 0.001683,
+      "mentions": 1
+    },
+    {
+      "name": "sport",
+      "type": "OTHER",
+      "salience": 0.001683,
+      "mentions": 1
+    },
+    {
+      "name": "concert",
+      "type": "OTHER",
+      "salience": 0.001683,
+      "mentions": 1
+    },
+    {
+      "name": "Now Including SeaWorld Parks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001677,
+      "mentions": 1
+    },
+    {
+      "name": "Universal in CA",
+      "type": "OTHER",
+      "salience": 0.001672,
+      "mentions": 1
+    },
+    {
+      "name": "Universal 1-Day",
+      "type": "OTHER",
+      "salience": 0.001668,
+      "mentions": 1
+    },
+    {
+      "name": "Universal 1-Day",
+      "type": "OTHER",
+      "salience": 0.001648,
+      "mentions": 1
+    },
+    {
+      "name": "Holland America",
+      "type": "PERSON",
+      "salience": 0.001618,
+      "mentions": 1
+    },
+    {
+      "name": "Princess",
+      "type": "OTHER",
+      "salience": 0.001618,
+      "mentions": 1
+    },
+    {
+      "name": "MSC",
+      "type": "OTHER",
+      "salience": 0.001618,
+      "mentions": 2
+    },
+    {
+      "name": "Universal Orlando Resort Hotels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001605,
+      "mentions": 1
+    },
+    {
+      "name": "Day FREE",
+      "type": "OTHER",
+      "salience": 0.001574,
+      "mentions": 1
+    },
+    {
+      "name": "Day FREE",
+      "type": "OTHER",
+      "salience": 0.001563,
+      "mentions": 1
+    },
+    {
+      "name": "Discovery Cove",
+      "type": "OTHER",
+      "salience": 0.001558,
+      "mentions": 5
+    },
+    {
+      "name": "2nd Day FREE",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001479,
+      "mentions": 1
+    },
+    {
+      "name": "2nd Day FREE",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001468,
+      "mentions": 1
+    },
+    {
+      "name": "Orlando",
+      "type": "OTHER",
+      "salience": 0.001455,
+      "mentions": 1
+    },
+    {
+      "name": "Orlando",
+      "type": "OTHER",
+      "salience": 0.001436,
+      "mentions": 1
+    },
+    {
+      "name": "Get a FREE",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00142,
+      "mentions": 1
+    },
+    {
+      "name": "Dallas/Fort Worth",
+      "type": "OTHER",
+      "salience": 0.001355,
+      "mentions": 1
+    },
+    {
+      "name": "Keystone",
+      "type": "OTHER",
+      "salience": 0.001313,
+      "mentions": 1
+    },
+    {
+      "name": "logos",
+      "type": "OTHER",
+      "salience": 0.001294,
+      "mentions": 1
+    },
+    {
+      "name": "properties:",
+      "type": "OTHER",
+      "salience": 0.001294,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.001285,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.001284,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Discount Tickets & Hotels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001272,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Theme Park Tickets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001253,
+      "mentions": 1
+    },
+    {
+      "name": "Beaver Creek",
+      "type": "OTHER",
+      "salience": 0.001252,
+      "mentions": 1
+    },
+    {
+      "name": "Breckenridge",
+      "type": "OTHER",
+      "salience": 0.00124,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001237,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001227,
+      "mentions": 1
+    },
+    {
+      "name": "on select sailings",
+      "type": "LOCATION",
+      "salience": 0.001203,
+      "mentions": 1
+    },
+    {
+      "name": "Norwegian",
+      "type": "OTHER",
+      "salience": 0.001151,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Deals",
+      "type": "OTHER",
+      "salience": 0.001096,
+      "mentions": 1
+    },
+    {
+      "name": "ADULT AT KIDS RATE PROMO",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001043,
+      "mentions": 1
+    },
+    {
+      "name": "ADULT AT KIDS RATE PROMO",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001034,
+      "mentions": 1
+    },
+    {
+      "name": "Admission",
+      "type": "OTHER",
+      "salience": 0.001034,
+      "mentions": 1
+    },
+    {
+      "name": "3-Day Park Hopper®",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001032,
+      "mentions": 1
+    },
+    {
+      "name": "3-Day Park Hopper®",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001023,
+      "mentions": 1
+    },
+    {
+      "name": "Vero Beach",
+      "type": "OTHER",
+      "salience": 0.001008,
+      "mentions": 1
+    },
+    {
+      "name": "Admission",
+      "type": "OTHER",
+      "salience": 0.001005,
+      "mentions": 1
+    },
+    {
+      "name": "Admission",
+      "type": "OTHER",
+      "salience": 0.000992,
+      "mentions": 1
+    },
+    {
+      "name": "Admission",
+      "type": "OTHER",
+      "salience": 0.000978,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000953,
+      "mentions": 1
+    },
+    {
+      "name": "Admission",
+      "type": "OTHER",
+      "salience": 0.000947,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000946,
+      "mentions": 1
+    },
+    {
+      "name": "Resort Hotels",
+      "type": "PERSON",
+      "salience": 0.000919,
+      "mentions": 1
+    },
+    {
+      "name": "Admission",
+      "type": "OTHER",
+      "salience": 0.000906,
+      "mentions": 1
+    },
+    {
+      "name": "Buy",
+      "type": "OTHER",
+      "salience": 0.000902,
+      "mentions": 1
+    },
+    {
+      "name": "Aspen Snowmass",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000899,
+      "mentions": 1
+    },
+    {
+      "name": "Steamboat Springs",
+      "type": "OTHER",
+      "salience": 0.000867,
+      "mentions": 1
+    },
+    {
+      "name": "From",
+      "type": "PERSON",
+      "salience": 0.000863,
+      "mentions": 1
+    },
+    {
+      "name": "Day Resort with Signature Dolphin Swim Package",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000862,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000862,
+      "mentions": 1
+    },
+    {
+      "name": "Day Resort with Signature Dolphin Swim Package",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00085,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00085,
+      "mentions": 1
+    },
+    {
+      "name": "Big Thunder Mountain Reopens May 3",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000845,
+      "mentions": 1
+    },
+    {
+      "name": "SeaWorld",
+      "type": "OTHER",
+      "salience": 0.000843,
+      "mentions": 2
+    },
+    {
+      "name": "SeaWorld San Antonio Single Day Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000842,
+      "mentions": 1
+    },
+    {
+      "name": "SeaWorld San Antonio Single Day Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000835,
+      "mentions": 1
+    },
+    {
+      "name": "Los Angeles Crowd Calendar",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000833,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000828,
+      "mentions": 1
+    },
+    {
+      "name": "SeaWorld",
+      "type": "OTHER",
+      "salience": 0.000823,
+      "mentions": 2
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000821,
+      "mentions": 1
+    },
+    {
+      "name": "From",
+      "type": "PERSON",
+      "salience": 0.000815,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000812,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $20 DiningDollars.com Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00081,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 5",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000796,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 9",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000795,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000795,
+      "mentions": 1
+    },
+    {
+      "name": "Sailings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000794,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000783,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 7",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000782,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000782,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 12",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000781,
+      "mentions": 1
+    },
+    {
+      "name": "Kids",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000775,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000774,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000771,
+      "mentions": 1
+    },
+    {
+      "name": "4-Park Magic Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000771,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000768,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 12",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000764,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000759,
+      "mentions": 1
+    },
+    {
+      "name": "4-Park Magic Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000758,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-4 of 4",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000757,
+      "mentions": 1
+    },
+    {
+      "name": "Visit Universal Studios Hollywood in 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000757,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000753,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000751,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00075,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 12",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00075,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000747,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 5",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000745,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000742,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 5",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000741,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000736,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-7 of 9",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000734,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000731,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000731,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 11",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00073,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "Showing 1-5 of 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000721,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000714,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000712,
+      "mentions": 1
+    },
+    {
+      "name": "LEGOLAND® California Resort",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000711,
+      "mentions": 2
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000683,
+      "mentions": 1
+    },
+    {
+      "name": "Universal Orlando Refurbishments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000664,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000655,
+      "mentions": 1
+    },
+    {
+      "name": "Universal Parks",
+      "type": "OTHER",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "Universal Studios HollywoodTM",
+      "type": "OTHER",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "PROMO",
+      "type": "OTHER",
+      "salience": 0.000648,
+      "mentions": 1
+    },
+    {
+      "name": "LEGOLAND® Florida Resort",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000645,
+      "mentions": 2
+    },
+    {
+      "name": "PROMO",
+      "type": "OTHER",
+      "salience": 0.000643,
+      "mentions": 1
+    },
+    {
+      "name": "Walt Disney World",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Add",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000629,
+      "mentions": 1
+    },
+    {
+      "name": "PROMO",
+      "type": "OTHER",
+      "salience": 0.000627,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000626,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000625,
+      "mentions": 1
+    },
+    {
+      "name": "Get a FREE",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000619,
+      "mentions": 1
+    },
+    {
+      "name": "PROMO",
+      "type": "OTHER",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000616,
+      "mentions": 1
+    },
+    {
+      "name": "PROMO",
+      "type": "OTHER",
+      "salience": 0.000612,
+      "mentions": 1
+    },
+    {
+      "name": "PROMO",
+      "type": "OTHER",
+      "salience": 0.000608,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000607,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000597,
+      "mentions": 1
+    },
+    {
+      "name": "PROMO",
+      "type": "OTHER",
+      "salience": 0.000597,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000593,
+      "mentions": 1
+    },
+    {
+      "name": "PROMO",
+      "type": "OTHER",
+      "salience": 0.000589,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000584,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000579,
+      "mentions": 1
+    },
+    {
+      "name": "Flash",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000507,
+      "mentions": 1
+    },
+    {
+      "name": "Save 40%",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000501,
+      "mentions": 1
+    },
+    {
+      "name": "ages 3-9",
+      "type": "OTHER",
+      "salience": 0.000482,
+      "mentions": 1
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "salience": 0.000462,
+      "mentions": 1
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "salience": 0.000459,
+      "mentions": 1
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "salience": 0.00044,
+      "mentions": 1
+    },
+    {
+      "name": "Ski Resorts",
+      "type": "OTHER",
+      "salience": 0.000429,
+      "mentions": 2
+    },
+    {
+      "name": "Special Offer",
+      "type": "PERSON",
+      "salience": 0.000427,
+      "mentions": 1
+    },
+    {
+      "name": "Special Offer",
+      "type": "OTHER",
+      "salience": 0.000414,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $100 Disney Gift Card",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000405,
+      "mentions": 1
+    },
+    {
+      "name": "Special Offer",
+      "type": "PERSON",
+      "salience": 0.000405,
+      "mentions": 1
+    },
+    {
+      "name": "Special Fares",
+      "type": "PERSON",
+      "salience": 0.0004,
+      "mentions": 1
+    },
+    {
+      "name": "FREE 3rd/4th guest",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000397,
+      "mentions": 1
+    },
+    {
+      "name": "Special Offer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000395,
+      "mentions": 1
+    },
+    {
+      "name": "FREE $100 Disney Gift Card",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000393,
+      "mentions": 1
+    },
+    {
+      "name": "Special Offer",
+      "type": "PERSON",
+      "salience": 0.000393,
+      "mentions": 1
+    },
+    {
+      "name": "Featured Hotels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000385,
+      "mentions": 1
+    },
+    {
+      "name": "Featured News",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00036,
+      "mentions": 1
+    },
+    {
+      "name": "SeaWorld Parks and LEGOLAND® Florida Resort and LEGOLAND® California Resort Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "Featured Disney Vacation Packages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000354,
+      "mentions": 1
+    },
+    {
+      "name": "Summer 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "Sailings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000346,
+      "mentions": 1
+    },
+    {
+      "name": "All Inclusive",
+      "type": "OTHER",
+      "salience": 0.000336,
+      "mentions": 1
+    },
+    {
+      "name": "Progress:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000332,
+      "mentions": 1
+    },
+    {
+      "name": "SEA LIFE Hopper",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000329,
+      "mentions": 1
+    },
+    {
+      "name": "SEA LIFE Hopper",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000326,
+      "mentions": 1
+    },
+    {
+      "name": "deposits",
+      "type": "OTHER",
+      "salience": 0.000312,
+      "mentions": 1
+    },
+    {
+      "name": "Refurbishments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000308,
+      "mentions": 1
+    },
+    {
+      "name": "Magic Kingdom® After Hours",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "LEGOLAND Discovery Center Tickets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000289,
+      "mentions": 1
+    },
+    {
+      "name": "Vacation Package Offer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "Royal Caribbean",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000272,
+      "mentions": 2
+    },
+    {
+      "name": "Spring Sale",
+      "type": "PERSON",
+      "salience": 0.000269,
+      "mentions": 1
+    },
+    {
+      "name": "Royal Caribbean",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000269,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.000265,
+      "mentions": 1
+    },
+    {
+      "name": "Including",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000265,
+      "mentions": 1
+    },
+    {
+      "name": "Attractions",
+      "type": "OTHER",
+      "salience": 0.000262,
+      "mentions": 1
+    },
+    {
+      "name": "Walt Disney World",
+      "type": "LOCATION",
+      "salience": 0.00026,
+      "mentions": 1
+    },
+    {
+      "name": "Kennedy Space Center: 1-Day Admission Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000246,
+      "mentions": 1
+    },
+    {
+      "name": "Kennedy Space Center: 1-Day Admission Ticket",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000244,
+      "mentions": 1
+    },
+    {
+      "name": "Disney World in 2026 and 2027",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000221,
+      "mentions": 1
+    },
+    {
+      "name": "Universal Orlando in 2026 and 2027",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00022,
+      "mentions": 1
+    },
+    {
+      "name": "Overview of Disney World's Disability Access Service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000219,
+      "mentions": 1
+    },
+    {
+      "name": "Attractions",
+      "type": "OTHER",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "Aquariums",
+      "type": "OTHER",
+      "salience": 0.000216,
+      "mentions": 1
+    },
+    {
+      "name": "Disneyland in 2026 and 2027",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000215,
+      "mentions": 1
+    },
+    {
+      "name": "Lowest Crowds",
+      "type": "PERSON",
+      "salience": 0.000215,
+      "mentions": 1
+    },
+    {
+      "name": "Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.000198,
+      "mentions": 1
+    },
+    {
+      "name": "Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "May 2025",
+      "type": "OTHER",
+      "salience": 0.000193,
+      "mentions": 1
+    },
+    {
+      "name": "May 2025",
+      "type": "OTHER",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "May 2025",
+      "type": "OTHER",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.000189,
+      "mentions": 1
+    },
+    {
+      "name": "Favorite Cities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000189,
+      "mentions": 1
+    },
+    {
+      "name": "Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "Breckenridge",
+      "type": "OTHER",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "Keystone",
+      "type": "OTHER",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "Beaver Creek",
+      "type": "OTHER",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "Washington",
+      "type": "OTHER",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "Beaches Resorts",
+      "type": "PERSON",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "Las Vegas",
+      "type": "LOCATION",
+      "salience": 0.000179,
+      "mentions": 2
+    },
+    {
+      "name": "May 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000179,
+      "mentions": 1
+    },
+    {
+      "name": "FREE Meal Voucher",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000179,
+      "mentions": 1
+    },
+    {
+      "name": "Favorite Cruises",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000178,
+      "mentions": 1
+    },
+    {
+      "name": "FREE Meal Voucher",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000177,
+      "mentions": 1
+    },
+    {
+      "name": "Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.000177,
+      "mentions": 1
+    },
+    {
+      "name": "Princess Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "through 10/3/2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.000172,
+      "mentions": 1
+    },
+    {
+      "name": "Water Parks",
+      "type": "OTHER",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "Sightseeing",
+      "type": "OTHER",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "May 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "Sat",
+      "type": "OTHER",
+      "salience": 0.000166,
+      "mentions": 1
+    },
+    {
+      "name": "Sat",
+      "type": "OTHER",
+      "salience": 0.000164,
+      "mentions": 1
+    },
+    {
+      "name": "Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.000163,
+      "mentions": 1
+    },
+    {
+      "name": "Spa",
+      "type": "OTHER",
+      "salience": 0.00016,
+      "mentions": 1
+    },
+    {
+      "name": "Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.000159,
+      "mentions": 1
+    },
+    {
+      "name": "Sat",
+      "type": "OTHER",
+      "salience": 0.000158,
+      "mentions": 1
+    },
+    {
+      "name": "May 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000157,
+      "mentions": 1
+    },
+    {
+      "name": "Featured In",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000155,
+      "mentions": 1
+    },
+    {
+      "name": "Sat",
+      "type": "OTHER",
+      "salience": 0.000153,
+      "mentions": 1
+    },
+    {
+      "name": "May 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000149,
+      "mentions": 1
+    },
+    {
+      "name": "Time",
+      "type": "OTHER",
+      "salience": 0.000149,
+      "mentions": 1
+    },
+    {
+      "name": "Sat",
+      "type": "OTHER",
+      "salience": 0.000148,
+      "mentions": 1
+    },
+    {
+      "name": "New Orleans",
+      "type": "LOCATION",
+      "salience": 0.000148,
+      "mentions": 1
+    },
+    {
+      "name": "Sat",
+      "type": "OTHER",
+      "salience": 0.000144,
+      "mentions": 1
+    },
+    {
+      "name": "Sat",
+      "type": "OTHER",
+      "salience": 0.00014,
+      "mentions": 1
+    },
+    {
+      "name": "Sat",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "Movie Tickets",
+      "type": "OTHER",
+      "salience": 0.000135,
+      "mentions": 1
+    },
+    {
+      "name": "Sat",
+      "type": "OTHER",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "Go City Multi-Attraction Passes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026",
+      "type": "OTHER",
+      "salience": 0.000129,
+      "mentions": 1
+    },
+    {
+      "name": "Sandals Resorts",
+      "type": "PERSON",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "Margaritaville at Sea",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000125,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "DAS",
+      "type": "OTHER",
+      "salience": 0.000122,
+      "mentions": 1
+    },
+    {
+      "name": "Cheapest Dates",
+      "type": "PERSON",
+      "salience": 0.00012,
+      "mentions": 1
+    },
+    {
+      "name": "Refurbishment Schedule",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "AAP",
+      "type": "OTHER",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026",
+      "type": "OTHER",
+      "salience": 0.000115,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026",
+      "type": "OTHER",
+      "salience": 0.000109,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026",
+      "type": "OTHER",
+      "salience": 0.000103,
+      "mentions": 1
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000102,
+      "mentions": 1
+    },
+    {
+      "name": "Aquarium Tickets",
+      "type": "OTHER",
+      "salience": 9.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Big Bus Tours Tickets",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Closings",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "great prices",
+      "type": "OTHER",
+      "salience": 7.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Great customer service",
+      "type": "CONSUMER_GOOD",
+      "salience": 7.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Museum Tickets",
+      "type": "CONSUMER_GOOD",
+      "salience": 7.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Sightseeing Tickets",
+      "type": "OTHER",
+      "salience": 7.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Dallas/Fort Worth",
+      "type": "OTHER",
+      "salience": 7.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "salience": 5.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Read All 4,362 Satisfied Reviews",
+      "type": "CONSUMER_GOOD",
+      "salience": 5.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Budget",
+      "type": "OTHER",
+      "salience": 5.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Avis",
+      "type": "LOCATION",
+      "salience": 5.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Zoo Tickets",
+      "type": "OTHER",
+      "salience": 5.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Halloween Tickets",
+      "type": "LOCATION",
+      "salience": 5.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "iFLY Tickets",
+      "type": "OTHER",
+      "salience": 5.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "AMC Theatre Tickets",
+      "type": "CONSUMER_GOOD",
+      "salience": 5.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Charlotte",
+      "type": "OTHER",
+      "salience": 5.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Cincinnati",
+      "type": "OTHER",
+      "salience": 5.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Kansas City",
+      "type": "OTHER",
+      "salience": 5.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Minneapolis",
+      "type": "LOCATION",
+      "salience": 5.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Nashville",
+      "type": "OTHER",
+      "salience": 5.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Oklahoma City",
+      "type": "LOCATION",
+      "salience": 5.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Philadelphia",
+      "type": "ORGANIZATION",
+      "salience": 5.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/3/26",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 3, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9 May 2026 Sun",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6 April 2026 Sun",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9 May 2026 Sun",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6 April 2026 Sun",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9 May 2026 Sun",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6 April 2026 Sun",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9 May 2026 Sun",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6 April 2026 Sun",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$200",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$90",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$368",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$87",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$191",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$178",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$220",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$83",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$220",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$191",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$67",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$368",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$42",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$391.97",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$381.36",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$42",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$13",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$414.73",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$414.73",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$13",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$75",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$413.77",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$402.64",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$75",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$38",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$313.07",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$303.23",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$38",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$67",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$270.19",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$67",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$72",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$75.92",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$72",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$77",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$54.90",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$77",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$16",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$71.69",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$71.69",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$16",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$28",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$506.70",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$484.45",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$28",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$12",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$390.98",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$371.65",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$12",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$103.38",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$95.50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$57",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$58.58",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$57",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$113",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$70.30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$113",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$79",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$47.10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$79",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$171",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$72",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$395",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$52",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$25",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$8",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$8",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$191",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$368",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$220",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$87",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$37",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$166",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$74",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$19",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$22",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$87",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "368",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "87",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "191",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "178",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "220",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "83",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "220",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "191",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "67",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "368",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "42",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "391.97",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "381.36",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "42",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "414.73",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "414.73",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "413.77",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "402.64",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "38",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "313.07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "303.23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "38",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "67",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "270.19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "67",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75.92",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "77",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "54.90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "77",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "71.69",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "71.69",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "506.70",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "484.45",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "390.98",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "371.65",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "103.38",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95.50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "57",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "58.58",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "57",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "113",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "70.30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "113",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "79",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "47.10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "79",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "171",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "395",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "52",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026/2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "70",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "191",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "368",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "220",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "87",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "37",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "166",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "74",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "87",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/3/2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,362",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,362",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "ORGANIZATION": 35,
+    "CONSUMER_GOOD": 202,
+    "PERSON": 15,
+    "OTHER": 184,
+    "LOCATION": 39,
+    "NUMBER": 670,
+    "DATE": 26,
+    "PRICE": 104
+  },
+  "type_salience": {
+    "ORGANIZATION": 0.078456,
+    "CONSUMER_GOOD": 0.30465699999999996,
+    "PERSON": 0.029755999999999998,
+    "OTHER": 0.329521,
+    "LOCATION": 0.059893,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "file": "non_cited_postGFG0000023232.txt",
+  "word_count": 18,
+  "entity_count": 31,
+  "entities": [
+    {
+      "name": "首页",
+      "type": "OTHER",
+      "salience": 0.176495,
+      "mentions": 1
+    },
+    {
+      "name": "游轮",
+      "type": "OTHER",
+      "salience": 0.120668,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼游轮",
+      "type": "OTHER",
+      "salience": 0.109748,
+      "mentions": 3
+    },
+    {
+      "name": "团体旅游",
+      "type": "OTHER",
+      "salience": 0.069667,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.068422,
+      "mentions": 1
+    },
+    {
+      "name": "精选船队",
+      "type": "OTHER",
+      "salience": 0.068003,
+      "mentions": 1
+    },
+    {
+      "name": "游轮",
+      "type": "OTHER",
+      "salience": 0.057657,
+      "mentions": 1
+    },
+    {
+      "name": "GFG0000023232",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.034535,
+      "mentions": 1
+    },
+    {
+      "name": "商品编号",
+      "type": "OTHER",
+      "salience": 0.029083,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.028618,
+      "mentions": 1
+    },
+    {
+      "name": "漫威",
+      "type": "OTHER",
+      "salience": 0.014687,
+      "mentions": 1
+    },
+    {
+      "name": "皮克斯",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014687,
+      "mentions": 1
+    },
+    {
+      "name": "世界",
+      "type": "LOCATION",
+      "salience": 0.013861,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.013566,
+      "mentions": 1
+    },
+    {
+      "name": "梦想",
+      "type": "OTHER",
+      "salience": 0.012997,
+      "mentions": 1
+    },
+    {
+      "name": "魔法",
+      "type": "OTHER",
+      "salience": 0.012997,
+      "mentions": 1
+    },
+    {
+      "name": "奇幻航程",
+      "type": "OTHER",
+      "salience": 0.012997,
+      "mentions": 1
+    },
+    {
+      "name": "星际大战角色",
+      "type": "OTHER",
+      "salience": 0.012363,
+      "mentions": 1
+    },
+    {
+      "name": "桃园",
+      "type": "LOCATION",
+      "salience": 0.010929,
+      "mentions": 1
+    },
+    {
+      "name": "船票",
+      "type": "OTHER",
+      "salience": 0.009868,
+      "mentions": 1
+    },
+    {
+      "name": "船队简介",
+      "type": "OTHER",
+      "salience": 0.009868,
+      "mentions": 1
+    },
+    {
+      "name": "首选",
+      "type": "OTHER",
+      "salience": 0.008512,
+      "mentions": 1
+    },
+    {
+      "name": "家庭",
+      "type": "PERSON",
+      "salience": 0.006058,
+      "mentions": 1
+    },
+    {
+      "name": "船航行",
+      "type": "OTHER",
+      "salience": 0.005934,
+      "mentions": 1
+    },
+    {
+      "name": "世界海域",
+      "type": "LOCATION",
+      "salience": 0.005934,
+      "mentions": 1
+    },
+    {
+      "name": "旗下",
+      "type": "OTHER",
+      "salience": 0.005788,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 19,
+    "ORGANIZATION": 2,
+    "CONSUMER_GOOD": 2,
+    "LOCATION": 3,
+    "PERSON": 2,
+    "NUMBER": 5
+  },
+  "type_salience": {
+    "OTHER": 0.7373320000000001,
+    "ORGANIZATION": 0.09704,
+    "CONSUMER_GOOD": 0.049222,
+    "LOCATION": 0.030724,
+    "PERSON": 0.019624,
+    "NUMBER": 0.0
+  }
+}

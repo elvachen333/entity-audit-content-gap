@@ -1,0 +1,867 @@
+{
+  "file": "cited_postdisney-cruise-line-deals-2026.txt",
+  "word_count": 1006,
+  "entity_count": 140,
+  "entities": [
+    {
+      "name": "Disney Cruise Line Deals 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.108788,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Travel Advisor",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.105676,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.076556,
+      "mentions": 1
+    },
+    {
+      "name": "Planning a Disney cruise in 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.070479,
+      "mentions": 1
+    },
+    {
+      "name": "cruises",
+      "type": "OTHER",
+      "salience": 0.062115,
+      "mentions": 1
+    },
+    {
+      "name": "what's excluded",
+      "type": "OTHER",
+      "salience": 0.050484,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line Deal Snapshot",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.04937,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Wish and Disney Dream",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.045345,
+      "mentions": 1
+    },
+    {
+      "name": "WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.037112,
+      "mentions": 2
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.02637,
+      "mentions": 1
+    },
+    {
+      "name": "Booking Deadline",
+      "type": "PERSON",
+      "salience": 0.026095,
+      "mentions": 1
+    },
+    {
+      "name": "Eligible guests can save",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025275,
+      "mentions": 1
+    },
+    {
+      "name": "–July 2026",
+      "type": "OTHER",
+      "salience": 0.023603,
+      "mentions": 1
+    },
+    {
+      "name": "✔️ Offer",
+      "type": "PERSON",
+      "salience": 0.022602,
+      "mentions": 1
+    },
+    {
+      "name": "deals 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022503,
+      "mentions": 1
+    },
+    {
+      "name": "Updated February",
+      "type": "PERSON",
+      "salience": 0.018308,
+      "mentions": 1
+    },
+    {
+      "name": "Eligible Staterooms: Categories 04A",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01477,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.014295,
+      "mentions": 1
+    },
+    {
+      "name": "Travel Window",
+      "type": "PERSON",
+      "salience": 0.013856,
+      "mentions": 1
+    },
+    {
+      "name": "Share",
+      "type": "OTHER",
+      "salience": 0.012369,
+      "mentions": 2
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.011454,
+      "mentions": 1
+    },
+    {
+      "name": "Reddit",
+      "type": "OTHER",
+      "salience": 0.008807,
+      "mentions": 1
+    },
+    {
+      "name": "✔️ Ships",
+      "type": "PERSON",
+      "salience": 0.008518,
+      "mentions": 1
+    },
+    {
+      "name": "March 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008379,
+      "mentions": 1
+    },
+    {
+      "name": "Check Availability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0081,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026 and July 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007461,
+      "mentions": 1
+    },
+    {
+      "name": "March 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0074,
+      "mentions": 1
+    },
+    {
+      "name": "Onboard Credit Restrictions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007149,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026 and July",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006826,
+      "mentions": 1
+    },
+    {
+      "name": "Get a Quote",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006364,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Tips",
+      "type": "PERSON",
+      "salience": 0.005552,
+      "mentions": 1
+    },
+    {
+      "name": "11C",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005383,
+      "mentions": 1
+    },
+    {
+      "name": "Concierge and suites excluded",
+      "type": "ORGANIZATION",
+      "salience": 0.005383,
+      "mentions": 1
+    },
+    {
+      "name": "automatically added to your onboard account",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00493,
+      "mentions": 1
+    },
+    {
+      "name": "The Disney Believe",
+      "type": "LOCATION",
+      "salience": 0.004543,
+      "mentions": 1
+    },
+    {
+      "name": "The Disney Believe",
+      "type": "LOCATION",
+      "salience": 0.004522,
+      "mentions": 1
+    },
+    {
+      "name": "Eligible Stateroom Categories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003863,
+      "mentions": 1
+    },
+    {
+      "name": "Port expenses",
+      "type": "OTHER",
+      "salience": 0.00358,
+      "mentions": 1
+    },
+    {
+      "name": "Port Adventures",
+      "type": "OTHER",
+      "salience": 0.003526,
+      "mentions": 1
+    },
+    {
+      "name": "apply eligible offers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003324,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Dream",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003175,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Planning",
+      "type": "OTHER",
+      "salience": 0.002496,
+      "mentions": 1
+    },
+    {
+      "name": "One",
+      "type": "OTHER",
+      "salience": 0.002292,
+      "mentions": 1
+    },
+    {
+      "name": "March 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002176,
+      "mentions": 1
+    },
+    {
+      "name": "subject to change",
+      "type": "LOCATION",
+      "salience": 0.001855,
+      "mentions": 1
+    },
+    {
+      "name": "How the $250 Onboard Credit Works",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001813,
+      "mentions": 1
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "salience": 0.001806,
+      "mentions": 1
+    },
+    {
+      "name": "First-Time Disney Cruisers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00169,
+      "mentions": 1
+    },
+    {
+      "name": "specialty dining",
+      "type": "OTHER",
+      "salience": 0.001626,
+      "mentions": 1
+    },
+    {
+      "name": "and Why It Feels Familiar",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001499,
+      "mentions": 1
+    },
+    {
+      "name": "and Why It Feels Familiar",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001492,
+      "mentions": 1
+    },
+    {
+      "name": "Which Categories Qualify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001389,
+      "mentions": 1
+    },
+    {
+      "name": "merchandise",
+      "type": "OTHER",
+      "salience": 0.001262,
+      "mentions": 1
+    },
+    {
+      "name": "food and beverage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001262,
+      "mentions": 1
+    },
+    {
+      "name": "Nonrefundable and nontransferable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001236,
+      "mentions": 1
+    },
+    {
+      "name": "Cruising tips",
+      "type": "OTHER",
+      "salience": 0.001235,
+      "mentions": 1
+    },
+    {
+      "name": "More Tips",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001167,
+      "mentions": 1
+    },
+    {
+      "name": "required",
+      "type": "OTHER",
+      "salience": 0.0011,
+      "mentions": 1
+    },
+    {
+      "name": "required",
+      "type": "OTHER",
+      "salience": 0.001094,
+      "mentions": 1
+    },
+    {
+      "name": "Gratuities",
+      "type": "OTHER",
+      "salience": 0.001086,
+      "mentions": 1
+    },
+    {
+      "name": "must-have gear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00106,
+      "mentions": 1
+    },
+    {
+      "name": "Required",
+      "type": "PERSON",
+      "salience": 0.000992,
+      "mentions": 1
+    },
+    {
+      "name": "Required",
+      "type": "PERSON",
+      "salience": 0.000984,
+      "mentions": 1
+    },
+    {
+      "name": "Name",
+      "type": "PERSON",
+      "salience": 0.000768,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000764,
+      "mentions": 1
+    },
+    {
+      "name": "email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000755,
+      "mentions": 1
+    },
+    {
+      "name": "Travel Insights",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000729,
+      "mentions": 1
+    },
+    {
+      "name": "Posted in Disney",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000729,
+      "mentions": 1
+    },
+    {
+      "name": "will not be published",
+      "type": "ORGANIZATION",
+      "salience": 0.000713,
+      "mentions": 1
+    },
+    {
+      "name": "Updates",
+      "type": "OTHER",
+      "salience": 0.000699,
+      "mentions": 1
+    },
+    {
+      "name": "Name",
+      "type": "PERSON",
+      "salience": 0.000692,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000686,
+      "mentions": 1
+    },
+    {
+      "name": "Puerto Rico",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000683,
+      "mentions": 2
+    },
+    {
+      "name": "Reddit",
+      "type": "OTHER",
+      "salience": 0.000617,
+      "mentions": 1
+    },
+    {
+      "name": "Website",
+      "type": "OTHER",
+      "salience": 0.000597,
+      "mentions": 1
+    },
+    {
+      "name": "Universal Tips",
+      "type": "OTHER",
+      "salience": 0.000491,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications",
+      "type": "OTHER",
+      "salience": 0.000452,
+      "mentions": 1
+    },
+    {
+      "name": "$250 USD",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 15, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 29, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 29, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 29, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 39,
+    "ORGANIZATION": 6,
+    "OTHER": 22,
+    "PERSON": 10,
+    "LOCATION": 3,
+    "PRICE": 8,
+    "NUMBER": 40,
+    "DATE": 15
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.5708019999999997,
+    "ORGANIZATION": 0.134771,
+    "OTHER": 0.181337,
+    "PERSON": 0.09836700000000002,
+    "LOCATION": 0.010920000000000001,
+    "PRICE": 0.0,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

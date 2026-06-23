@@ -1,0 +1,855 @@
+{
+  "file": "non_cited_postbest-shipping-software-for-shopify.txt",
+  "word_count": 993,
+  "entity_count": 139,
+  "entities": [
+    {
+      "name": "Shipping platforms",
+      "type": "PERSON",
+      "salience": 0.089915,
+      "mentions": 1
+    },
+    {
+      "name": "Shiprocket similarly uses automated courier suggestions and WhatsApp alerts to customers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.051781,
+      "mentions": 1
+    },
+    {
+      "name": "The result is broader delivery coverage",
+      "type": "ORGANIZATION",
+      "salience": 0.029764,
+      "mentions": 1
+    },
+    {
+      "name": "also called shipping aggregators",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025965,
+      "mentions": 1
+    },
+    {
+      "name": "and often lower shipping rates.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023657,
+      "mentions": 1
+    },
+    {
+      "name": "brings many courier companies to one platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022736,
+      "mentions": 1
+    },
+    {
+      "name": "RTO",
+      "type": "OTHER",
+      "salience": 0.022533,
+      "mentions": 1
+    },
+    {
+      "name": "Automated label printing: Bulk-create and print shipping labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021963,
+      "mentions": 1
+    },
+    {
+      "name": "and other sales channels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021138,
+      "mentions": 1
+    },
+    {
+      "name": "Best Shipping Software...",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020558,
+      "mentions": 1
+    },
+    {
+      "name": "COD",
+      "type": "OTHER",
+      "salience": 0.020511,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.018436,
+      "mentions": 1
+    },
+    {
+      "name": "connect",
+      "type": "PERSON",
+      "salience": 0.01784,
+      "mentions": 2
+    },
+    {
+      "name": "notifications",
+      "type": "OTHER",
+      "salience": 0.016614,
+      "mentions": 1
+    },
+    {
+      "name": "Uncategorized",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016338,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.015733,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.015733,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.015406,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo",
+      "type": "PERSON",
+      "salience": 0.0151,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo is a budget-friendly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0151,
+      "mentions": 1
+    },
+    {
+      "name": "returns-to-origin",
+      "type": "OTHER",
+      "salience": 0.015,
+      "mentions": 1
+    },
+    {
+      "name": "Shiprocket",
+      "type": "PERSON",
+      "salience": 0.014821,
+      "mentions": 1
+    },
+    {
+      "name": "Shiprocket:",
+      "type": "OTHER",
+      "salience": 0.014821,
+      "mentions": 1
+    },
+    {
+      "name": "Uncategorized",
+      "type": "OTHER",
+      "salience": 0.014305,
+      "mentions": 1
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "salience": 0.014251,
+      "mentions": 1
+    },
+    {
+      "name": "reconciliation",
+      "type": "OTHER",
+      "salience": 0.014091,
+      "mentions": 1
+    },
+    {
+      "name": "These tools automate order fulfillment tasks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013901,
+      "mentions": 1
+    },
+    {
+      "name": "and similar Indian aggregators",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013755,
+      "mentions": 1
+    },
+    {
+      "name": "and analytics",
+      "type": "OTHER",
+      "salience": 0.01179,
+      "mentions": 1
+    },
+    {
+      "name": "for selecting services by weight",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011026,
+      "mentions": 1
+    },
+    {
+      "name": "and real-time notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009933,
+      "mentions": 1
+    },
+    {
+      "name": "to major couriers.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009421,
+      "mentions": 1
+    },
+    {
+      "name": "25+ partners",
+      "type": "OTHER",
+      "salience": 0.009375,
+      "mentions": 1
+    },
+    {
+      "name": "Cash-on-Delivery",
+      "type": "OTHER",
+      "salience": 0.009368,
+      "mentions": 1
+    },
+    {
+      "name": "management",
+      "type": "OTHER",
+      "salience": 0.009368,
+      "mentions": 1
+    },
+    {
+      "name": "communication.",
+      "type": "OTHER",
+      "salience": 0.009213,
+      "mentions": 1
+    },
+    {
+      "name": "with couriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009095,
+      "mentions": 1
+    },
+    {
+      "name": "recommendations",
+      "type": "OTHER",
+      "salience": 0.008906,
+      "mentions": 1
+    },
+    {
+      "name": "which",
+      "type": "OTHER",
+      "salience": 0.00858,
+      "mentions": 1
+    },
+    {
+      "name": "These intelligent features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008311,
+      "mentions": 1
+    },
+    {
+      "name": "saving time and money",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007989,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007844,
+      "mentions": 1
+    },
+    {
+      "name": "so",
+      "type": "OTHER",
+      "salience": 0.007844,
+      "mentions": 1
+    },
+    {
+      "name": "For international markets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007243,
+      "mentions": 1
+    },
+    {
+      "name": "leveraging each carrier's pin-code reach",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007113,
+      "mentions": 1
+    },
+    {
+      "name": "significantly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006818,
+      "mentions": 1
+    },
+    {
+      "name": "address verification",
+      "type": "OTHER",
+      "salience": 0.006604,
+      "mentions": 1
+    },
+    {
+      "name": "help ensure more packages reach customers successfully",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006604,
+      "mentions": 1
+    },
+    {
+      "name": "fraud filtering",
+      "type": "OTHER",
+      "salience": 0.006604,
+      "mentions": 1
+    },
+    {
+      "name": "e.g. 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006233,
+      "mentions": 1
+    },
+    {
+      "name": "Customer notifications: Branded tracking pages and automatic updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006181,
+      "mentions": 1
+    },
+    {
+      "name": "available couriers",
+      "type": "OTHER",
+      "salience": 0.006014,
+      "mentions": 1
+    },
+    {
+      "name": "AI-driven",
+      "type": "OTHER",
+      "salience": 0.00592,
+      "mentions": 1
+    },
+    {
+      "name": "can erode profits.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005512,
+      "mentions": 1
+    },
+    {
+      "name": "The platform includes an AI-powered courier recommendation engine",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00543,
+      "mentions": 1
+    },
+    {
+      "name": "Address validation",
+      "type": "OTHER",
+      "salience": 0.005385,
+      "mentions": 1
+    },
+    {
+      "name": "OrderzUp uses AI to pre-validate addresses and phone numbers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005102,
+      "mentions": 1
+    },
+    {
+      "name": "It provides access to 40+ global carriers and discounted USPS/UPS rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00473,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.004635,
+      "mentions": 1
+    },
+    {
+      "name": "It supports 25+ courier partners and delivers to over 24,000 pincodes in India and 220+ countries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00461,
+      "mentions": 1
+    },
+    {
+      "name": "and branded tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00439,
+      "mentions": 1
+    },
+    {
+      "name": "Smart courier selection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004281,
+      "mentions": 1
+    },
+    {
+      "name": "reduce return-to-origin rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004184,
+      "mentions": 1
+    },
+    {
+      "name": "courier performance and delivery timelines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00413,
+      "mentions": 1
+    },
+    {
+      "name": "customers.",
+      "type": "OTHER",
+      "salience": 0.003669,
+      "mentions": 1
+    },
+    {
+      "name": "and COD support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003447,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.003372,
+      "mentions": 1
+    },
+    {
+      "name": "SMS or WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003291,
+      "mentions": 1
+    },
+    {
+      "name": "address checks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003277,
+      "mentions": 1
+    },
+    {
+      "name": "Dashboards",
+      "type": "PERSON",
+      "salience": 0.003156,
+      "mentions": 1
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "salience": 0.00312,
+      "mentions": 3
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003078,
+      "mentions": 1
+    },
+    {
+      "name": "RTO reduction",
+      "type": "OTHER",
+      "salience": 0.002936,
+      "mentions": 1
+    },
+    {
+      "name": "reliability",
+      "type": "OTHER",
+      "salience": 0.002884,
+      "mentions": 1
+    },
+    {
+      "name": "reduce costs",
+      "type": "OTHER",
+      "salience": 0.002869,
+      "mentions": 1
+    },
+    {
+      "name": "Tools to verify or auto-correct customer addresses/phones at checkout",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002816,
+      "mentions": 1
+    },
+    {
+      "name": "real-time tracking",
+      "type": "OTHER",
+      "salience": 0.002697,
+      "mentions": 1
+    },
+    {
+      "name": "WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002697,
+      "mentions": 1
+    },
+    {
+      "name": "and automated notifications",
+      "type": "OTHER",
+      "salience": 0.002697,
+      "mentions": 1
+    },
+    {
+      "name": "which speed up cash flow and customer service.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002655,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics and reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00264,
+      "mentions": 1
+    },
+    {
+      "name": "help",
+      "type": "OTHER",
+      "salience": 0.002615,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.002427,
+      "mentions": 1
+    },
+    {
+      "name": "Pickrr",
+      "type": "OTHER",
+      "salience": 0.002341,
+      "mentions": 2
+    },
+    {
+      "name": "Shiprocket's tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002188,
+      "mentions": 1
+    },
+    {
+      "name": "some apps even offer next-day COD settlement",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002141,
+      "mentions": 1
+    },
+    {
+      "name": "destination",
+      "type": "OTHER",
+      "salience": 0.002136,
+      "mentions": 1
+    },
+    {
+      "name": "It connects to 250+ carriers worldwide and automatically calculates duties and taxes at checkout.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002049,
+      "mentions": 1
+    },
+    {
+      "name": "destination",
+      "type": "OTHER",
+      "salience": 0.002025,
+      "mentions": 1
+    },
+    {
+      "name": "COD support",
+      "type": "OTHER",
+      "salience": 0.002016,
+      "mentions": 1
+    },
+    {
+      "name": "batch label printing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002004,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001976,
+      "mentions": 1
+    },
+    {
+      "name": "significantly",
+      "type": "OTHER",
+      "salience": 0.001738,
+      "mentions": 1
+    },
+    {
+      "name": "such as WhatsApp alerts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001738,
+      "mentions": 1
+    },
+    {
+      "name": "from 20+ courier partners",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001736,
+      "mentions": 1
+    },
+    {
+      "name": "and analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001714,
+      "mentions": 1
+    },
+    {
+      "name": "OrderzUp provides an all-in-one dashboard with automated courier selection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001714,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.001671,
+      "mentions": 1
+    },
+    {
+      "name": "automation rules",
+      "type": "OTHER",
+      "salience": 0.001661,
+      "mentions": 1
+    },
+    {
+      "name": "reliably",
+      "type": "OTHER",
+      "salience": 0.001649,
+      "mentions": 1
+    },
+    {
+      "name": "aggregates many EU carriers and streamlines returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00162,
+      "mentions": 1
+    },
+    {
+      "name": "marked",
+      "type": "OTHER",
+      "salience": 0.001613,
+      "mentions": 1
+    },
+    {
+      "name": "Comment",
+      "type": "OTHER",
+      "salience": 0.001602,
+      "mentions": 1
+    },
+    {
+      "name": "via email",
+      "type": "OTHER",
+      "salience": 0.001582,
+      "mentions": 1
+    },
+    {
+      "name": "beyond",
+      "type": "OTHER",
+      "salience": 0.001495,
+      "mentions": 1
+    },
+    {
+      "name": "DHL",
+      "type": "ORGANIZATION",
+      "salience": 0.001479,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.001479,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.001479,
+      "mentions": 1
+    },
+    {
+      "name": "or date",
+      "type": "OTHER",
+      "salience": 0.001464,
+      "mentions": 1
+    },
+    {
+      "name": "pay-as-you-go",
+      "type": "OTHER",
+      "salience": 0.001435,
+      "mentions": 1
+    },
+    {
+      "name": "etc",
+      "type": "OTHER",
+      "salience": 0.001379,
+      "mentions": 1
+    },
+    {
+      "name": "pricing",
+      "type": "OTHER",
+      "salience": 0.00132,
+      "mentions": 1
+    },
+    {
+      "name": "compare 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001284,
+      "mentions": 1
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "salience": 0.001264,
+      "mentions": 1
+    },
+    {
+      "name": "Website",
+      "type": "OTHER",
+      "salience": 0.001162,
+      "mentions": 1
+    },
+    {
+      "name": "large courier network",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000969,
+      "mentions": 1
+    },
+    {
+      "name": "When choosing",
+      "type": "OTHER",
+      "salience": 0.000954,
+      "mentions": 1
+    },
+    {
+      "name": "Bottom of Form",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00094,
+      "mentions": 1
+    },
+    {
+      "name": "like 24",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000939,
+      "mentions": 1
+    },
+    {
+      "name": "published.Required",
+      "type": "OTHER",
+      "salience": 0.000927,
+      "mentions": 1
+    },
+    {
+      "name": "landed cost",
+      "type": "OTHER",
+      "salience": 0.00061,
+      "mentions": 1
+    },
+    {
+      "name": "transparency",
+      "type": "OTHER",
+      "salience": 0.00061,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "220",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "48",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "PERSON": 6,
+    "CONSUMER_GOOD": 55,
+    "ORGANIZATION": 4,
+    "OTHER": 61,
+    "NUMBER": 17
+  },
+  "type_salience": {
+    "PERSON": 0.14083199999999998,
+    "CONSUMER_GOOD": 0.4399850000000001,
+    "ORGANIZATION": 0.034201,
+    "OTHER": 0.36898,
+    "NUMBER": 0.0
+  }
+}

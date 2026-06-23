@@ -1,0 +1,163 @@
+{
+  "file": "non_cited_postbest-shopify-shipping-delivery-apps.txt",
+  "word_count": 61,
+  "entity_count": 24,
+  "entities": [
+    {
+      "name": "mystore.myshopify.com",
+      "type": "OTHER",
+      "salience": 0.081305,
+      "mentions": 1
+    },
+    {
+      "name": "Example",
+      "type": "OTHER",
+      "salience": 0.081305,
+      "mentions": 1
+    },
+    {
+      "name": "MyShopify Domain",
+      "type": "OTHER",
+      "salience": 0.071211,
+      "mentions": 1
+    },
+    {
+      "name": "Powered by NativeForms",
+      "type": "OTHER",
+      "salience": 0.056197,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Links",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.05234,
+      "mentions": 1
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "salience": 0.049431,
+      "mentions": 1
+    },
+    {
+      "name": "Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.049214,
+      "mentions": 1
+    },
+    {
+      "name": "Twitter",
+      "type": "OTHER",
+      "salience": 0.048068,
+      "mentions": 1
+    },
+    {
+      "name": "Youtube",
+      "type": "OTHER",
+      "salience": 0.046817,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.046611,
+      "mentions": 1
+    },
+    {
+      "name": "© Copyright 2023",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.045663,
+      "mentions": 1
+    },
+    {
+      "name": "All Rights Reserved",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.045663,
+      "mentions": 1
+    },
+    {
+      "name": "Affiliates",
+      "type": "OTHER",
+      "salience": 0.044399,
+      "mentions": 1
+    },
+    {
+      "name": "Partners",
+      "type": "OTHER",
+      "salience": 0.036129,
+      "mentions": 1
+    },
+    {
+      "name": "Help Desk",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.033448,
+      "mentions": 1
+    },
+    {
+      "name": "Terms of Service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.032728,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.032359,
+      "mentions": 1
+    },
+    {
+      "name": "Contact Us",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.032323,
+      "mentions": 1
+    },
+    {
+      "name": "Cookie Policy",
+      "type": "OTHER",
+      "salience": 0.032032,
+      "mentions": 1
+    },
+    {
+      "name": "Site Map",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.031382,
+      "mentions": 1
+    },
+    {
+      "name": "Follow us",
+      "type": "OTHER",
+      "salience": 0.031309,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020067,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 13,
+    "CONSUMER_GOOD": 9,
+    "DATE": 1,
+    "NUMBER": 1
+  },
+  "type_salience": {
+    "OTHER": 0.657173,
+    "CONSUMER_GOOD": 0.342828,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "cited_metrics": {
+    "NUMBER": {
+      "total_mentions": 2412,
+      "density_per_1k": 50.5735,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.0
+    },
+    "OTHER": {
+      "total_mentions": 2273,
+      "density_per_1k": 47.659,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.441401
+    },
+    "CONSUMER_GOOD": {
+      "total_mentions": 2462,
+      "density_per_1k": 51.6218,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.423019
+    },
+    "PRICE": {
+      "total_mentions": 177,
+      "density_per_1k": 3.7112,
+      "coverage_rate": 0.7647,
+      "avg_salience": 0.0
+    },
+    "DATE": {
+      "total_mentions": 100,
+      "density_per_1k": 2.0967,
+      "coverage_rate": 0.9412,
+      "avg_salience": 0.0
+    },
+    "ORGANIZATION": {
+      "total_mentions": 140,
+      "density_per_1k": 2.9354,
+      "coverage_rate": 0.8824,
+      "avg_salience": 0.027473
+    },
+    "LOCATION": {
+      "total_mentions": 599,
+      "density_per_1k": 12.5595,
+      "coverage_rate": 0.8235,
+      "avg_salience": 0.011733
+    },
+    "PHONE_NUMBER": {
+      "total_mentions": 5,
+      "density_per_1k": 0.1048,
+      "coverage_rate": 0.0588,
+      "avg_salience": 0.0
+    },
+    "PERSON": {
+      "total_mentions": 707,
+      "density_per_1k": 14.824,
+      "coverage_rate": 0.8824,
+      "avg_salience": 0.051285
+    }
+  },
+  "non_cited_metrics": {
+    "NUMBER": {
+      "total_mentions": 2830,
+      "density_per_1k": 26.2277,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.0
+    },
+    "OTHER": {
+      "total_mentions": 4681,
+      "density_per_1k": 43.3824,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.41011
+    },
+    "CONSUMER_GOOD": {
+      "total_mentions": 4791,
+      "density_per_1k": 44.4018,
+      "coverage_rate": 1.0,
+      "avg_salience": 0.433422
+    },
+    "PRICE": {
+      "total_mentions": 253,
+      "density_per_1k": 2.3447,
+      "coverage_rate": 0.6279,
+      "avg_salience": 0.0
+    },
+    "DATE": {
+      "total_mentions": 254,
+      "density_per_1k": 2.354,
+      "coverage_rate": 0.814,
+      "avg_salience": 0.0
+    },
+    "ORGANIZATION": {
+      "total_mentions": 324,
+      "density_per_1k": 3.0028,
+      "coverage_rate": 0.8605,
+      "avg_salience": 0.033359
+    },
+    "LOCATION": {
+      "total_mentions": 99,
+      "density_per_1k": 0.9175,
+      "coverage_rate": 0.7209,
+      "avg_salience": 0.00988
+    },
+    "WORK_OF_ART": {
+      "total_mentions": 3,
+      "density_per_1k": 0.0278,
+      "coverage_rate": 0.0465,
+      "avg_salience": 0.042954
+    },
+    "PERSON": {
+      "total_mentions": 588,
+      "density_per_1k": 5.4494,
+      "coverage_rate": 0.9302,
+      "avg_salience": 0.066689
+    }
+  },
+  "lift": {
+    "NUMBER": {
+      "density_lift": 1.9282,
+      "coverage_lift": 1.0,
+      "cited_density": 50.5735,
+      "non_cited_density": 26.2277,
+      "cited_coverage": 1.0,
+      "non_cited_coverage": 1.0
+    },
+    "OTHER": {
+      "density_lift": 1.0986,
+      "coverage_lift": 1.0,
+      "cited_density": 47.659,
+      "non_cited_density": 43.3824,
+      "cited_coverage": 1.0,
+      "non_cited_coverage": 1.0
+    },
+    "CONSUMER_GOOD": {
+      "density_lift": 1.1626,
+      "coverage_lift": 1.0,
+      "cited_density": 51.6218,
+      "non_cited_density": 44.4018,
+      "cited_coverage": 1.0,
+      "non_cited_coverage": 1.0
+    },
+    "PRICE": {
+      "density_lift": 1.5828,
+      "coverage_lift": 1.2179,
+      "cited_density": 3.7112,
+      "non_cited_density": 2.3447,
+      "cited_coverage": 0.7647,
+      "non_cited_coverage": 0.6279
+    },
+    "DATE": {
+      "density_lift": 0.8907,
+      "coverage_lift": 1.1563,
+      "cited_density": 2.0967,
+      "non_cited_density": 2.354,
+      "cited_coverage": 0.9412,
+      "non_cited_coverage": 0.814
+    },
+    "ORGANIZATION": {
+      "density_lift": 0.9776,
+      "coverage_lift": 1.0255,
+      "cited_density": 2.9354,
+      "non_cited_density": 3.0028,
+      "cited_coverage": 0.8824,
+      "non_cited_coverage": 0.8605
+    },
+    "LOCATION": {
+      "density_lift": 13.6888,
+      "coverage_lift": 1.1423,
+      "cited_density": 12.5595,
+      "non_cited_density": 0.9175,
+      "cited_coverage": 0.8235,
+      "non_cited_coverage": 0.7209
+    },
+    "WORK_OF_ART": {
+      "density_lift": 0.0,
+      "coverage_lift": 0.0,
+      "cited_density": 0,
+      "non_cited_density": 0.0278,
+      "cited_coverage": 0,
+      "non_cited_coverage": 0.0465
+    },
+    "PHONE_NUMBER": {
+      "density_lift": 0,
+      "coverage_lift": 0,
+      "cited_density": 0.1048,
+      "non_cited_density": 0,
+      "cited_coverage": 0.0588,
+      "non_cited_coverage": 0
+    },
+    "PERSON": {
+      "density_lift": 2.7203,
+      "coverage_lift": 0.9486,
+      "cited_density": 14.824,
+      "non_cited_density": 5.4494,
+      "cited_coverage": 0.8824,
+      "non_cited_coverage": 0.9302
+    }
+  },
+  "cited_doc_count": 17,
+  "non_cited_doc_count": 43,
+  "top_named_entity_gaps": [
+    {
+      "name": "155",
+      "type": "NUMBER",
+      "cited_rate": 0.1765,
+      "non_cited_rate": 0.0233,
+      "lift": 7.5882
+    },
+    {
+      "name": "geography",
+      "type": "OTHER",
+      "cited_rate": 0.1765,
+      "non_cited_rate": 0.0233,
+      "lift": 7.5882
+    },
+    {
+      "name": "e-commerce",
+      "type": "OTHER",
+      "cited_rate": 0.1765,
+      "non_cited_rate": 0.0233,
+      "lift": 7.5882
+    },
+    {
+      "name": "whatsapp",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1765,
+      "non_cited_rate": 0.0233,
+      "lift": 7.5882
+    },
+    {
+      "name": "pricing",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1765,
+      "non_cited_rate": 0.0233,
+      "lift": 7.5882
+    },
+    {
+      "name": "2,000",
+      "type": "NUMBER",
+      "cited_rate": 0.1765,
+      "non_cited_rate": 0.0233,
+      "lift": 7.5882
+    },
+    {
+      "name": "$155",
+      "type": "PRICE",
+      "cited_rate": 0.1765,
+      "non_cited_rate": 0.0233,
+      "lift": 7.5882
+    },
+    {
+      "name": "best for",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.2941,
+      "non_cited_rate": 0.0465,
+      "lift": 6.3235
+    },
+    {
+      "name": "store credits",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "tl",
+      "type": "OTHER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "best",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "rules",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "customer",
+      "type": "OTHER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "developers",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "labels",
+      "type": "OTHER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "$75",
+      "type": "PRICE",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "cited_rate": 0.2353,
+      "non_cited_rate": 0.0465,
+      "lift": 5.0588
+    },
+    {
+      "name": "store credits",
+      "type": "OTHER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "support",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "premium",
+      "type": "PERSON",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "refunds",
+      "type": "OTHER",
+      "cited_rate": 0.2353,
+      "non_cited_rate": 0.0465,
+      "lift": 5.0588
+    },
+    {
+      "name": "dr",
+      "type": "OTHER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "reporting",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "copy link",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "$297",
+      "type": "PRICE",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "narvar",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.2353,
+      "non_cited_rate": 0.0465,
+      "lift": 5.0588
+    },
+    {
+      "name": "shipstation",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "zip code",
+      "type": "CONSUMER_GOOD",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "cited_rate": 0.3529,
+      "non_cited_rate": 0.0698,
+      "lift": 5.0588
+    },
+    {
+      "name": "2025",
+      "type": "ORGANIZATION",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "enterprise retailers",
+      "type": "OTHER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "fraud detection",
+      "type": "OTHER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "loop returns",
+      "type": "PERSON",
+      "cited_rate": 0.2353,
+      "non_cited_rate": 0.0465,
+      "lift": 5.0588
+    },
+    {
+      "name": "walmart",
+      "type": "ORGANIZATION",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "businesses",
+      "type": "PERSON",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "stolen",
+      "type": "OTHER",
+      "cited_rate": 0.1176,
+      "non_cited_rate": 0.0233,
+      "lift": 5.0588
+    },
+    {
+      "name": "customer support",
+      "type": "OTHER",
+      "cited_rate": 0.2353,
+      "non_cited_rate": 0.0465,
+      "lift": 5.0588
+    }
+  ]
+}

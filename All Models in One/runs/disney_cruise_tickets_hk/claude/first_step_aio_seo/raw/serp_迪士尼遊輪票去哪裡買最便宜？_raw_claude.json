@@ -1,0 +1,266 @@
+{
+  "version": "0.1.20260420",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "29.7661 sec.",
+  "cost": 0.085288,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "04211111-1310-0612-0000-012c9e96ccaf",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "29.5910 sec.",
+      "cost": 0.085288,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "claude",
+        "llm_responses",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "llm_responses",
+        "se": "claude",
+        "user_prompt": "迪士尼遊輪票去哪裡買最便宜？",
+        "model_name": "claude-sonnet-4-0",
+        "web_search": true,
+        "force_web_search": true,
+        "system_message": "Please respond in English."
+      },
+      "result": [
+        {
+          "model_name": "claude-sonnet-4-20250514",
+          "input_tokens": 18506,
+          "output_tokens": 1278,
+          "reasoning_tokens": 0,
+          "web_search": true,
+          "money_spent": 0.084688,
+          "datetime": "2026-04-21 11:11:34 +00:00",
+          "items": [
+            {
+              "type": "message",
+              "sections": [
+                {
+                  "type": "text",
+                  "text": "根據我的搜索結果，以下是購買迪士尼遊輪票最便宜的幾個管道和策略：\n\n## 最便宜的購買管道\n\n### 1. 授權旅行社\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "授權迪士尼度假規劃師提供$50-$200以上的船上消費額度，根據艙房類別而定",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Prices 2026: What to Save Before You Sail - NerdWallet",
+                      "url": "https://www.nerdwallet.com/travel/learn/disney-cruise-prices"
+                    },
+                    {
+                      "title": "Disney Cruise Prices 2026: What to Save Before You Sail - NerdWallet",
+                      "url": "https://www.nerdwallet.com/travel/learn/disney-cruise-prices"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "，而且",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "他們會監控您的預訂是否有降價，如果價格下降會為您重新預訂",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Prices 2026: What to Save Before You Sail - NerdWallet",
+                      "url": "https://www.nerdwallet.com/travel/learn/disney-cruise-prices"
+                    },
+                    {
+                      "title": "Disney Cruise Prices 2026: What to Save Before You Sail - NerdWallet",
+                      "url": "https://www.nerdwallet.com/travel/learn/disney-cruise-prices"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "。\n\n### 2. Undercover Tourist\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "有時提供促銷船上消費額度或與樂園門票的套裝優惠，如果您將遊輪與迪士尼樂園參觀結合的話",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Prices 2026: What to Save Before You Sail - NerdWallet",
+                      "url": "https://www.nerdwallet.com/travel/learn/disney-cruise-prices"
+                    },
+                    {
+                      "title": "Disney Cruise Prices 2026: What to Save Before You Sail - NerdWallet",
+                      "url": "https://www.nerdwallet.com/travel/learn/disney-cruise-prices"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "。",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "迪士尼遊輪線優惠：精選航程最多省25%，還可獲得免費$100迪士尼禮品卡",
+                  "annotations": [
+                    {
+                      "title": "Disney tickets, Disneyland tickets, Disney Cruises 2026 Discount Packages | Undercover Tourist",
+                      "url": "https://www.undercovertourist.com/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "！\n\n### 3. Small World Vacations\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Small World Vacations根據您的遊輪費用提供$50-$1000船上消費額度",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Line - Save on Select 2026 Sail Dates - Small World Vacations",
+                      "url": "https://smallworldvacations.com/save-up-to-35-on-restricted-rates-on-a-disney-cruise-2-2-2-2/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "。\n\n## 省錢策略\n\n### 1. 限制艙房優惠 (Restricted Rate Staterooms)\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "如果您對艙房位置有彈性，可以在精選航期和行程中找到很棒的限制艙房，直到2026年7月。這些是特定類別（內艙、海景或陽台）的未售完剩餘艙房，數量非常有限，價格低到幾乎令人難以置信",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Line - Save on Select 2026 Sail Dates - Small World Vacations",
+                      "url": "https://smallworldvacations.com/save-up-to-35-on-restricted-rates-on-a-disney-cruise-2-2-2-2/"
+                    },
+                    {
+                      "title": "Disney Cruise Line - Save on Select 2026 Sail Dates - Small World Vacations",
+                      "url": "https://smallworldvacations.com/save-up-to-35-on-restricted-rates-on-a-disney-cruise-2-2-2-2/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "。\n\n### 2. 提前預訂\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "提前6個月到12個月預訂更有機會找到更便宜的迪士尼遊輪價格",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Deals (2026 / 2027) - Expedia.com",
+                      "url": "https://www.expedia.com/Disney-Cruise-Line.cDS.Cruise-Line-Info"
+                    },
+                    {
+                      "title": "Disney Cruise Deals (2026 / 2027) - Expedia.com",
+                      "url": "https://www.expedia.com/Disney-Cruise-Line.cDS.Cruise-Line-Info"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "。\n\n### 3. 特殊折扣\n- **軍人優惠**：",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "為紀念美國建國250周年，符合條件的美軍成員在精選2026年迪士尼Wish和迪士尼Dream佛羅里達出發航程中，每次預訂可獲得$250船上消費額度",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Discounts and Deals - MouseSavers.com",
+                      "url": "https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- **佛羅里達居民**：",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "佛羅里達公民可以在這趟令人驚嘆的加勒比海迪士尼遊輪之旅中節省高達25%",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Deals 2026: Cheap Disney Cruise Offers & Discounts",
+                      "url": "https://www.cruisebooking.com/cruise-deals/disney"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- **迪士尼世界酒店住客**：",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "精選華特迪士尼世界豪華和豪華別墅度假村酒店的住客可以在精選遊輪上節省高達25%的航程費用！如果您入住華特迪士尼世界豪華或豪華別墅度假村，並在退房日期7天內預訂迪士尼遊輪，可以在2026年4月至2027年2月間的精選迪士尼遊輪上節省20%或25%的航程費用",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Discounts and Deals - MouseSavers.com",
+                      "url": "https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 4. 2026年特殊優惠\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "迪士尼遊輪線正在為2026年前往阿拉斯加、歐洲、加勒比海和巴哈馬的航程提供高達25%的折扣",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Deals 2026: Alaska, Europe, Caribbean & Bahamas (Save Up to 25%)| Practically Perfect Pixie Dust",
+                      "url": "https://www.practicallyperfectpixiedust.com/post/disney-cruise-deals-2026-alaska-europe-caribbean-bahamas"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "。",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "這個限時迪士尼遊輪線優惠包括精選航程20%折扣加上$250船上消費額度，適用於2026年4月至7月間精選航程",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Line Deals 2026: 20% Off + $250 Credit",
+                      "url": "https://laughandgear.com/disney-cruise-line-deals-2026/"
+                    },
+                    {
+                      "title": "Disney Cruise Line Deals 2026: 20% Off + $250 Credit",
+                      "url": "https://laughandgear.com/disney-cruise-line-deals-2026/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "。\n\n## 建議\n最便宜的選擇通常是通過授權旅行社預訂，特別是那些提供額外船上消費額度並監控價格變動的代理商。如果您符合特殊折扣條件（如軍人、佛羅里達居民等），可以獲得更大的節省。",
+                  "annotations": null
+                }
+              ]
+            }
+          ],
+          "fan_out_queries": [
+            "Disney cruise tickets cheapest where to buy 2026"
+          ]
+        }
+      ]
+    }
+  ]
+}

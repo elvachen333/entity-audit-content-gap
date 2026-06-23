@@ -1,0 +1,1213 @@
+{
+  "file": "cited_postAUZIYQE5_tu0FRt4MYZDGglD2g4MHjoqKV3JdexKyqqPjpliQRJWxIAkjXhjCmq3kjCJkZXQ1JKpUClW.txt",
+  "word_count": 1856,
+  "entity_count": 198,
+  "entities": [
+    {
+      "name": "Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.144496,
+      "mentions": 2
+    },
+    {
+      "name": "Fulfillment",
+      "type": "OTHER",
+      "salience": 0.040603,
+      "mentions": 3
+    },
+    {
+      "name": "ShipStation's",
+      "type": "OTHER",
+      "salience": 0.04023,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation provides 400+ integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.038691,
+      "mentions": 1
+    },
+    {
+      "name": "The result is reduced shipping expenses",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.028696,
+      "mentions": 1
+    },
+    {
+      "name": "improve delivery speed and delight customers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.027461,
+      "mentions": 1
+    },
+    {
+      "name": "real‐time tracking and painless returns.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.027417,
+      "mentions": 1
+    },
+    {
+      "name": "Logistics Aggregator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.027314,
+      "mentions": 1
+    },
+    {
+      "name": "customers receive real‐time updates and branded tracking pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018176,
+      "mentions": 1
+    },
+    {
+      "name": "The more carrier options available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017979,
+      "mentions": 1
+    },
+    {
+      "name": "access many carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017476,
+      "mentions": 1
+    },
+    {
+      "name": "meeting those expectations can be overwhelming.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01698,
+      "mentions": 1
+    },
+    {
+      "name": "Platforms like Easyship advertise up to 550+ courier services and over 100 tech integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015599,
+      "mentions": 1
+    },
+    {
+      "name": "Automated workflows",
+      "type": "OTHER",
+      "salience": 0.0145,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.014363,
+      "mentions": 3
+    },
+    {
+      "name": "ShipStation's",
+      "type": "OTHER",
+      "salience": 0.013293,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Rate Comparison",
+      "type": "OTHER",
+      "salience": 0.012448,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.012379,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.012278,
+      "mentions": 1
+    },
+    {
+      "name": "An ecommerce shipping solution",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011941,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo",
+      "type": "PERSON",
+      "salience": 0.011811,
+      "mentions": 2
+    },
+    {
+      "name": "faster deliveries and streamlined operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011591,
+      "mentions": 1
+    },
+    {
+      "name": "Centralized tracking",
+      "type": "OTHER",
+      "salience": 0.010884,
+      "mentions": 1
+    },
+    {
+      "name": "Contents",
+      "type": "OTHER",
+      "salience": 0.010416,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier Support",
+      "type": "PERSON",
+      "salience": 0.010209,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009769,
+      "mentions": 1
+    },
+    {
+      "name": "DHL or regional couriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009745,
+      "mentions": 1
+    },
+    {
+      "name": "Modern shoppers expect fast shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009538,
+      "mentions": 1
+    },
+    {
+      "name": "Leading platforms offer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009516,
+      "mentions": 1
+    },
+    {
+      "name": "Multi",
+      "type": "OTHER",
+      "salience": 0.008933,
+      "mentions": 1
+    },
+    {
+      "name": "ShipBob",
+      "type": "OTHER",
+      "salience": 0.00796,
+      "mentions": 1
+    },
+    {
+      "name": "shipping costs",
+      "type": "OTHER",
+      "salience": 0.007616,
+      "mentions": 1
+    },
+    {
+      "name": "ship",
+      "type": "OTHER",
+      "salience": 0.007527,
+      "mentions": 1
+    },
+    {
+      "name": "access",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007393,
+      "mentions": 1
+    },
+    {
+      "name": "also called a logistics aggregator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006862,
+      "mentions": 1
+    },
+    {
+      "name": "International Shipping Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006823,
+      "mentions": 1
+    },
+    {
+      "name": "UPS and hundreds of regional couriers.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006814,
+      "mentions": 1
+    },
+    {
+      "name": "internationally",
+      "type": "OTHER",
+      "salience": 0.006761,
+      "mentions": 1
+    },
+    {
+      "name": "Roghi Eghbali",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006611,
+      "mentions": 1
+    },
+    {
+      "name": "label automation and 400+ integrations.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006422,
+      "mentions": 1
+    },
+    {
+      "name": "ecommerce.",
+      "type": "OTHER",
+      "salience": 0.006154,
+      "mentions": 1
+    },
+    {
+      "name": "friendly API and simple interface.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006132,
+      "mentions": 1
+    },
+    {
+      "name": "international shipping tools and automated workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006112,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications",
+      "type": "OTHER",
+      "salience": 0.006014,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00569,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.005593,
+      "mentions": 1
+    },
+    {
+      "name": "for direct carrier solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005415,
+      "mentions": 1
+    },
+    {
+      "name": "Consolidated carrier options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005347,
+      "mentions": 1
+    },
+    {
+      "name": "pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005278,
+      "mentions": 1
+    },
+    {
+      "name": "Scalability",
+      "type": "PERSON",
+      "salience": 0.005108,
+      "mentions": 2
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.005056,
+      "mentions": 1
+    },
+    {
+      "name": "including marketplace and shopping‐cart platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004838,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.004814,
+      "mentions": 1
+    },
+    {
+      "name": "Toggle",
+      "type": "OTHER",
+      "salience": 0.004142,
+      "mentions": 1
+    },
+    {
+      "name": "Intermodal Shipping",
+      "type": "OTHER",
+      "salience": 0.003936,
+      "mentions": 1
+    },
+    {
+      "name": "Intermodal",
+      "type": "OTHER",
+      "salience": 0.003936,
+      "mentions": 1
+    },
+    {
+      "name": "slow delivery and operational inefficiencies.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003834,
+      "mentions": 1
+    },
+    {
+      "name": "Automation",
+      "type": "OTHER",
+      "salience": 0.003695,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management",
+      "type": "OTHER",
+      "salience": 0.003673,
+      "mentions": 1
+    },
+    {
+      "name": "batch label creation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003463,
+      "mentions": 1
+    },
+    {
+      "name": "The company also offers day‐definite domestic services",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003458,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003378,
+      "mentions": 1
+    },
+    {
+      "name": "carrier efficiency and fulfillment costs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0033,
+      "mentions": 1
+    },
+    {
+      "name": "The Smart",
+      "type": "PERSON",
+      "salience": 0.00322,
+      "mentions": 1
+    },
+    {
+      "name": "access discounted rates and calculate duties and taxes automatically.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003192,
+      "mentions": 1
+    },
+    {
+      "name": "OLIMP Warehousing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003171,
+      "mentions": 1
+    },
+    {
+      "name": "DHL",
+      "type": "ORGANIZATION",
+      "salience": 0.003111,
+      "mentions": 1
+    },
+    {
+      "name": "USPS",
+      "type": "ORGANIZATION",
+      "salience": 0.003111,
+      "mentions": 1
+    },
+    {
+      "name": "proactive notifications and smooth returns management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002932,
+      "mentions": 1
+    },
+    {
+      "name": "With so many options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002872,
+      "mentions": 1
+    },
+    {
+      "name": "Seamless Platform Integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002852,
+      "mentions": 1
+    },
+    {
+      "name": "can",
+      "type": "ORGANIZATION",
+      "salience": 0.002775,
+      "mentions": 1
+    },
+    {
+      "name": "automated notifications and centralized shipment monitoring.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002681,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.002647,
+      "mentions": 2
+    },
+    {
+      "name": "integrations",
+      "type": "OTHER",
+      "salience": 0.002569,
+      "mentions": 1
+    },
+    {
+      "name": "integrations",
+      "type": "OTHER",
+      "salience": 0.002543,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.002409,
+      "mentions": 1
+    },
+    {
+      "name": "Aggregators",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002365,
+      "mentions": 1
+    },
+    {
+      "name": "Centralizing shipping",
+      "type": "OTHER",
+      "salience": 0.002299,
+      "mentions": 1
+    },
+    {
+      "name": "Merchants can print labels 15× faster than manual processes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002288,
+      "mentions": 1
+    },
+    {
+      "name": "manage orders across all stores and access deep carrier discounts.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002288,
+      "mentions": 1
+    },
+    {
+      "name": "transit",
+      "type": "OTHER",
+      "salience": 0.002274,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx provides a range of domestic and international shipping services with predictable pricing.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002238,
+      "mentions": 1
+    },
+    {
+      "name": "Brands seeking a fulfillment partner who can store inventory",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002134,
+      "mentions": 1
+    },
+    {
+      "name": "shipping logistics and ecommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002132,
+      "mentions": 1
+    },
+    {
+      "name": "inventory",
+      "type": "OTHER",
+      "salience": 0.002114,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce Warehouse",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002051,
+      "mentions": 1
+    },
+    {
+      "name": "WooCommerce",
+      "type": "OTHER",
+      "salience": 0.002036,
+      "mentions": 1
+    },
+    {
+      "name": "BigCommerce",
+      "type": "OTHER",
+      "salience": 0.002036,
+      "mentions": 1
+    },
+    {
+      "name": "multi‐carrier support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002013,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001985,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics",
+      "type": "OTHER",
+      "salience": 0.001915,
+      "mentions": 2
+    },
+    {
+      "name": "Cost optimization",
+      "type": "OTHER",
+      "salience": 0.001891,
+      "mentions": 1
+    },
+    {
+      "name": "Businesses",
+      "type": "PERSON",
+      "salience": 0.001885,
+      "mentions": 2
+    },
+    {
+      "name": "FedEx One Rate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001882,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001878,
+      "mentions": 1
+    },
+    {
+      "name": "duties and tax calculations.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001826,
+      "mentions": 1
+    },
+    {
+      "name": "easy ecommerce platform integrations and real‐time tracking notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00174,
+      "mentions": 1
+    },
+    {
+      "name": "same‐day delivery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001712,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001707,
+      "mentions": 1
+    },
+    {
+      "name": "It lets merchants compare 550+ courier services",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0015,
+      "mentions": 1
+    },
+    {
+      "name": "Flat‐rate shipping options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001496,
+      "mentions": 1
+    },
+    {
+      "name": "Priority Overnight",
+      "type": "PERSON",
+      "salience": 0.001395,
+      "mentions": 1
+    },
+    {
+      "name": "Standard Overnight",
+      "type": "OTHER",
+      "salience": 0.001395,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001387,
+      "mentions": 1
+    },
+    {
+      "name": "In today's fast-paced digital marketplace",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001339,
+      "mentions": 1
+    },
+    {
+      "name": "Faster delivery",
+      "type": "OTHER",
+      "salience": 0.001316,
+      "mentions": 1
+    },
+    {
+      "name": "Select solutions that offer branded tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001287,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouses",
+      "type": "OTHER",
+      "salience": 0.001279,
+      "mentions": 2
+    },
+    {
+      "name": "online retailers can reduce costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001261,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship offers extensive courier options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001243,
+      "mentions": 1
+    },
+    {
+      "name": "Logistics",
+      "type": "OTHER",
+      "salience": 0.001186,
+      "mentions": 1
+    },
+    {
+      "name": "while FedEx offers predictable flat‐rate international shipping and services to 195 countries.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001157,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip",
+      "type": "OTHER",
+      "salience": 0.00111,
+      "mentions": 1
+    },
+    {
+      "name": "Simplified operations",
+      "type": "OTHER",
+      "salience": 0.001105,
+      "mentions": 1
+    },
+    {
+      "name": "Ordoro",
+      "type": "OTHER",
+      "salience": 0.001084,
+      "mentions": 1
+    },
+    {
+      "name": "Prioritize customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001077,
+      "mentions": 1
+    },
+    {
+      "name": "One",
+      "type": "OTHER",
+      "salience": 0.001024,
+      "mentions": 1
+    },
+    {
+      "name": "based on our research",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000993,
+      "mentions": 1
+    },
+    {
+      "name": "Access",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000952,
+      "mentions": 1
+    },
+    {
+      "name": "using standardized containers.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00094,
+      "mentions": 1
+    },
+    {
+      "name": "Reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000907,
+      "mentions": 1
+    },
+    {
+      "name": "Ordoro and AfterShip are leading aggregators.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000904,
+      "mentions": 1
+    },
+    {
+      "name": "Top Ecommerce Shipping Solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "What ecommerce integrations streamline shipping and carrier management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000845,
+      "mentions": 1
+    },
+    {
+      "name": "satisfaction.",
+      "type": "OTHER",
+      "salience": 0.000837,
+      "mentions": 1
+    },
+    {
+      "name": "and customer satisfaction.",
+      "type": "OTHER",
+      "salience": 0.000822,
+      "mentions": 1
+    },
+    {
+      "name": "®",
+      "type": "OTHER",
+      "salience": 0.000801,
+      "mentions": 1
+    },
+    {
+      "name": "bulk label printing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000794,
+      "mentions": 1
+    },
+    {
+      "name": "see original research",
+      "type": "LOCATION",
+      "salience": 0.000794,
+      "mentions": 1
+    },
+    {
+      "name": "and international options to 195 countries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00073,
+      "mentions": 1
+    },
+    {
+      "name": "packaging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000708,
+      "mentions": 1
+    },
+    {
+      "name": "from local facilities to nationwide 3PL networks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000685,
+      "mentions": 1
+    },
+    {
+      "name": "Register Your Warehouse",
+      "type": "OTHER",
+      "salience": 0.000666,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "ORGANIZATION",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "Additional features include inventory and warehouse management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000627,
+      "mentions": 1
+    },
+    {
+      "name": "e.g., FedEx One Rate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000621,
+      "mentions": 1
+    },
+    {
+      "name": "Conclusion",
+      "type": "OTHER",
+      "salience": 0.000611,
+      "mentions": 1
+    },
+    {
+      "name": "FAQ",
+      "type": "OTHER",
+      "salience": 0.000601,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "type": "ORGANIZATION",
+      "salience": 0.000601,
+      "mentions": 1
+    },
+    {
+      "name": "overnight and international options-to reduce cart abandonment.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000565,
+      "mentions": 1
+    },
+    {
+      "name": "Improved customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000544,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation supports 400+ marketplaces and shopping carts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000525,
+      "mentions": 1
+    },
+    {
+      "name": "inventory management and dropshipping.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000518,
+      "mentions": 1
+    },
+    {
+      "name": "Express Saver",
+      "type": "PERSON",
+      "salience": 0.000419,
+      "mentions": 1
+    },
+    {
+      "name": "Ground",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000419,
+      "mentions": 1
+    },
+    {
+      "name": "OMS + IMS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000411,
+      "mentions": 1
+    },
+    {
+      "name": "pick",
+      "type": "OTHER",
+      "salience": 0.000405,
+      "mentions": 1
+    },
+    {
+      "name": "understanding",
+      "type": "OTHER",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "profitability:",
+      "type": "OTHER",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "offer 2",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000395,
+      "mentions": 1
+    },
+    {
+      "name": "truck",
+      "type": "OTHER",
+      "salience": 0.00039,
+      "mentions": 1
+    },
+    {
+      "name": "rail",
+      "type": "OTHER",
+      "salience": 0.00039,
+      "mentions": 1
+    },
+    {
+      "name": "etc.",
+      "type": "OTHER",
+      "salience": 0.00039,
+      "mentions": 1
+    },
+    {
+      "name": "RMS",
+      "type": "OTHER",
+      "salience": 0.000383,
+      "mentions": 1
+    },
+    {
+      "name": "LinkedIn0",
+      "type": "OTHER",
+      "salience": 0.000248,
+      "mentions": 1
+    },
+    {
+      "name": "Share171",
+      "type": "OTHER",
+      "salience": 0.000247,
+      "mentions": 1
+    },
+    {
+      "name": "Tweet0",
+      "type": "OTHER",
+      "salience": 0.000246,
+      "mentions": 1
+    },
+    {
+      "name": "Email0",
+      "type": "OTHER",
+      "salience": 0.000245,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "550",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10/07/2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "195",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "550",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "195",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "195",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "150",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11/19/2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 86,
+    "OTHER": 65,
+    "ORGANIZATION": 8,
+    "PERSON": 10,
+    "LOCATION": 1,
+    "NUMBER": 37,
+    "DATE": 2
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.6132270000000001,
+    "OTHER": 0.2951569999999999,
+    "ORGANIZATION": 0.024614,
+    "PERSON": 0.034047,
+    "LOCATION": 0.000794,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

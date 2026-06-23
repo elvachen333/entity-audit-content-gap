@@ -1,0 +1,1045 @@
+{
+  "file": "non_cited_postreturn-platforms.txt",
+  "word_count": 1711,
+  "entity_count": 170,
+  "entities": [
+    {
+      "name": "label-free returns.",
+      "type": "OTHER",
+      "salience": 0.129889,
+      "mentions": 1
+    },
+    {
+      "name": "The Cahoot Angle",
+      "type": "ORGANIZATION",
+      "salience": 0.099517,
+      "mentions": 1
+    },
+    {
+      "name": "the last mile of returns is consolidating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.06782,
+      "mentions": 1
+    },
+    {
+      "name": "Join 27,952+ Readers of the Cahoot Newsletter",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.032646,
+      "mentions": 1
+    },
+    {
+      "name": "Subscription Form",
+      "type": "OTHER",
+      "salience": 0.02981,
+      "mentions": 1
+    },
+    {
+      "name": "positions connected returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02713,
+      "mentions": 1
+    },
+    {
+      "name": "How I Vet Return Platforms In 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026138,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.024721,
+      "mentions": 1
+    },
+    {
+      "name": "exchange rate",
+      "type": "OTHER",
+      "salience": 0.023423,
+      "mentions": 2
+    },
+    {
+      "name": "returnless",
+      "type": "OTHER",
+      "salience": 0.023363,
+      "mentions": 1
+    },
+    {
+      "name": "My Shortlist Criteria",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023274,
+      "mentions": 1
+    },
+    {
+      "name": "and",
+      "type": "OTHER",
+      "salience": 0.021625,
+      "mentions": 1
+    },
+    {
+      "name": "restocking",
+      "type": "OTHER",
+      "salience": 0.019304,
+      "mentions": 1
+    },
+    {
+      "name": "Returns",
+      "type": "OTHER",
+      "salience": 0.017922,
+      "mentions": 1
+    },
+    {
+      "name": "The Cahoot Angle",
+      "type": "ORGANIZATION",
+      "salience": 0.014856,
+      "mentions": 1
+    },
+    {
+      "name": "The magic is the shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014656,
+      "mentions": 1
+    },
+    {
+      "name": "instant exchanges",
+      "type": "OTHER",
+      "salience": 0.014646,
+      "mentions": 1
+    },
+    {
+      "name": "Otherwise",
+      "type": "OTHER",
+      "salience": 0.014505,
+      "mentions": 1
+    },
+    {
+      "name": "Consolidated",
+      "type": "PERSON",
+      "salience": 0.014424,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip",
+      "type": "OTHER",
+      "salience": 0.01432,
+      "mentions": 4
+    },
+    {
+      "name": "How I Vet Return Platforms In 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011913,
+      "mentions": 1
+    },
+    {
+      "name": "and others.",
+      "type": "OTHER",
+      "salience": 0.011771,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.011714,
+      "mentions": 1
+    },
+    {
+      "name": "Make Returns Profitable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011308,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01078,
+      "mentions": 1
+    },
+    {
+      "name": "The Economics of Peer-to-Peer Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009782,
+      "mentions": 1
+    },
+    {
+      "name": "Translation",
+      "type": "OTHER",
+      "salience": 0.009649,
+      "mentions": 1
+    },
+    {
+      "name": "Meanwhile",
+      "type": "OTHER",
+      "salience": 0.008374,
+      "mentions": 1
+    },
+    {
+      "name": "actionable insights",
+      "type": "OTHER",
+      "salience": 0.008298,
+      "mentions": 1
+    },
+    {
+      "name": "claim is hand-waving.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008298,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.007826,
+      "mentions": 1
+    },
+    {
+      "name": "Kohl's",
+      "type": "OTHER",
+      "salience": 0.007826,
+      "mentions": 1
+    },
+    {
+      "name": "decoration.",
+      "type": "OTHER",
+      "salience": 0.007489,
+      "mentions": 1
+    },
+    {
+      "name": "Instant Exchanges",
+      "type": "PERSON",
+      "salience": 0.007312,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.007121,
+      "mentions": 1
+    },
+    {
+      "name": "not handled ad hoc by customer support.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006151,
+      "mentions": 1
+    },
+    {
+      "name": "Measure Net Revenue Saved",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005678,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.005436,
+      "mentions": 1
+    },
+    {
+      "name": "Cut shipping and processing costs by",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005335,
+      "mentions": 1
+    },
+    {
+      "name": "Verify Real Reverse Logistics Levers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005299,
+      "mentions": 1
+    },
+    {
+      "name": "NRF's 2025 report",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00478,
+      "mentions": 1
+    },
+    {
+      "name": "Instant exchanges are useful",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00453,
+      "mentions": 1
+    },
+    {
+      "name": "fraud prevention",
+      "type": "OTHER",
+      "salience": 0.00428,
+      "mentions": 1
+    },
+    {
+      "name": "International",
+      "type": "OTHER",
+      "salience": 0.004195,
+      "mentions": 1
+    },
+    {
+      "name": "local consolidation",
+      "type": "OTHER",
+      "salience": 0.004136,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.004108,
+      "mentions": 1
+    },
+    {
+      "name": "fraud flags and serial returner policies I can tune without engineering",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00407,
+      "mentions": 1
+    },
+    {
+      "name": "store credit adoption",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004046,
+      "mentions": 1
+    },
+    {
+      "name": "first-scan refunds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003999,
+      "mentions": 1
+    },
+    {
+      "name": "If",
+      "type": "PERSON",
+      "salience": 0.00399,
+      "mentions": 1
+    },
+    {
+      "name": "refund",
+      "type": "ORGANIZATION",
+      "salience": 0.003961,
+      "mentions": 1
+    },
+    {
+      "name": "store credit",
+      "type": "OTHER",
+      "salience": 0.003637,
+      "mentions": 1
+    },
+    {
+      "name": "happier customers",
+      "type": "OTHER",
+      "salience": 0.003387,
+      "mentions": 1
+    },
+    {
+      "name": "and carriers",
+      "type": "OTHER",
+      "salience": 0.003226,
+      "mentions": 1
+    },
+    {
+      "name": "Retailers report significant exploitation.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003155,
+      "mentions": 1
+    },
+    {
+      "name": "Peer-to-peer returns work by changing one decision",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003065,
+      "mentions": 1
+    },
+    {
+      "name": "offering exchanges",
+      "type": "OTHER",
+      "salience": 0.002996,
+      "mentions": 1
+    },
+    {
+      "name": "instead",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002859,
+      "mentions": 1
+    },
+    {
+      "name": "By continuing",
+      "type": "OTHER",
+      "salience": 0.002821,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002698,
+      "mentions": 1
+    },
+    {
+      "name": "Cahoot Returns.",
+      "type": "OTHER",
+      "salience": 0.002536,
+      "mentions": 1
+    },
+    {
+      "name": "Otherwise",
+      "type": "OTHER",
+      "salience": 0.002532,
+      "mentions": 1
+    },
+    {
+      "name": "If I were buying returns management software tomorrow",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002501,
+      "mentions": 1
+    },
+    {
+      "name": "automation rules",
+      "type": "OTHER",
+      "salience": 0.002442,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns by UPS.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002378,
+      "mentions": 1
+    },
+    {
+      "name": "Priority Mail",
+      "type": "PERSON",
+      "salience": 0.002249,
+      "mentions": 1
+    },
+    {
+      "name": "2026 through January 17",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002249,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping and Logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00221,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar.",
+      "type": "OTHER",
+      "salience": 0.002171,
+      "mentions": 1
+    },
+    {
+      "name": "boosts customer loyalty",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002071,
+      "mentions": 1
+    },
+    {
+      "name": "exchange-first rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002065,
+      "mentions": 1
+    },
+    {
+      "name": "real-time order tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002062,
+      "mentions": 1
+    },
+    {
+      "name": "My Shortlist Criteria",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002055,
+      "mentions": 1
+    },
+    {
+      "name": "Make sure you consider seasonality",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002053,
+      "mentions": 1
+    },
+    {
+      "name": "Consolidating box-free drop-offs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002046,
+      "mentions": 1
+    },
+    {
+      "name": "grading",
+      "type": "OTHER",
+      "salience": 0.002023,
+      "mentions": 1
+    },
+    {
+      "name": "International",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001981,
+      "mentions": 1
+    },
+    {
+      "name": "Model International Returns And Landed Cost",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001895,
+      "mentions": 1
+    },
+    {
+      "name": "transportation-related",
+      "type": "OTHER",
+      "salience": 0.001882,
+      "mentions": 1
+    },
+    {
+      "name": "global brand",
+      "type": "OTHER",
+      "salience": 0.00183,
+      "mentions": 1
+    },
+    {
+      "name": "serial returner controls",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001795,
+      "mentions": 1
+    },
+    {
+      "name": "consolidated flows.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001782,
+      "mentions": 1
+    },
+    {
+      "name": "and convenient drop-offs.",
+      "type": "OTHER",
+      "salience": 0.001721,
+      "mentions": 1
+    },
+    {
+      "name": "helping merchants achieve high-performance logistics through smart technology and process optimization.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001707,
+      "mentions": 1
+    },
+    {
+      "name": "clean integrations with my OMS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001691,
+      "mentions": 1
+    },
+    {
+      "name": "Convert returns into second-chance sales and new customers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001677,
+      "mentions": 1
+    },
+    {
+      "name": "speeds resale",
+      "type": "OTHER",
+      "salience": 0.001646,
+      "mentions": 1
+    },
+    {
+      "name": "ecommerce",
+      "type": "OTHER",
+      "salience": 0.001643,
+      "mentions": 1
+    },
+    {
+      "name": "USPS Ground Advantage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001495,
+      "mentions": 1
+    },
+    {
+      "name": "no warehouse processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001443,
+      "mentions": 1
+    },
+    {
+      "name": "Jeremy Stewart",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001434,
+      "mentions": 1
+    },
+    {
+      "name": "Jeremy Stewart leads customer success at Cahoot",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001428,
+      "mentions": 1
+    },
+    {
+      "name": "Check Price Transparency And Volume Tiers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001389,
+      "mentions": 1
+    },
+    {
+      "name": "lower miles",
+      "type": "OTHER",
+      "salience": 0.00132,
+      "mentions": 1
+    },
+    {
+      "name": "blacklists",
+      "type": "OTHER",
+      "salience": 0.001298,
+      "mentions": 1
+    },
+    {
+      "name": "store credit rate",
+      "type": "OTHER",
+      "salience": 0.00123,
+      "mentions": 1
+    },
+    {
+      "name": "and 5",
+      "type": "OTHER",
+      "salience": 0.001223,
+      "mentions": 1
+    },
+    {
+      "name": "not warehouse boomerangs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001206,
+      "mentions": 1
+    },
+    {
+      "name": "triage",
+      "type": "OTHER",
+      "salience": 0.001189,
+      "mentions": 1
+    },
+    {
+      "name": "RMA codes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00118,
+      "mentions": 1
+    },
+    {
+      "name": "inspection",
+      "type": "OTHER",
+      "salience": 0.001162,
+      "mentions": 1
+    },
+    {
+      "name": "March 2025, FedEx launched Easy Returns with approximately 3,000 drop-off locations at FedEx Office and Kohl's",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001127,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.001127,
+      "mentions": 1
+    },
+    {
+      "name": "Turn Returns Into New Revenue",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001119,
+      "mentions": 1
+    },
+    {
+      "name": "Learn More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001111,
+      "mentions": 1
+    },
+    {
+      "name": "Traditional returns management has one fundamental flaw",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001099,
+      "mentions": 1
+    },
+    {
+      "name": "and Parcel Select by 8 percent from April 26",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001081,
+      "mentions": 1
+    },
+    {
+      "name": "cookies",
+      "type": "OTHER",
+      "salience": 0.001077,
+      "mentions": 1
+    },
+    {
+      "name": "Learn More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001074,
+      "mentions": 1
+    },
+    {
+      "name": "Accept",
+      "type": "OTHER",
+      "salience": 0.00107,
+      "mentions": 1
+    },
+    {
+      "name": "faster resale",
+      "type": "OTHER",
+      "salience": 0.001049,
+      "mentions": 1
+    },
+    {
+      "name": "first scan",
+      "type": "OTHER",
+      "salience": 0.000911,
+      "mentions": 1
+    },
+    {
+      "name": "bonus credit",
+      "type": "OTHER",
+      "salience": 0.0009,
+      "mentions": 1
+    },
+    {
+      "name": "Written By:",
+      "type": "OTHER",
+      "salience": 0.000827,
+      "mentions": 1
+    },
+    {
+      "name": "Uncategorized",
+      "type": "OTHER",
+      "salience": 0.000815,
+      "mentions": 1
+    },
+    {
+      "name": "Strategy",
+      "type": "OTHER",
+      "salience": 0.000812,
+      "mentions": 1
+    },
+    {
+      "name": "Related Articles",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "Momentum with UPS footprint",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000777,
+      "mentions": 1
+    },
+    {
+      "name": "more eco-friendly",
+      "type": "OTHER",
+      "salience": 0.000758,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00073,
+      "mentions": 1
+    },
+    {
+      "name": "Most vendors can support this",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000695,
+      "mentions": 1
+    },
+    {
+      "name": "refund share",
+      "type": "OTHER",
+      "salience": 0.000511,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 25, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 26, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "January 17, 2027",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$890",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27,952",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27,952",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "890",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "70",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "64",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "85",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 60,
+    "ORGANIZATION": 4,
+    "CONSUMER_GOOD": 58,
+    "PERSON": 4,
+    "NUMBER": 38,
+    "DATE": 8,
+    "PRICE": 2
+  },
+  "type_salience": {
+    "OTHER": 0.4816969999999998,
+    "ORGANIZATION": 0.12616,
+    "CONSUMER_GOOD": 0.3528159999999999,
+    "PERSON": 0.027975,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

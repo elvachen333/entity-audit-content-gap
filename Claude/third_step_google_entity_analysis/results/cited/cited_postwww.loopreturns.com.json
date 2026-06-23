@@ -1,0 +1,1645 @@
+{
+  "file": "cited_postwww.loopreturns.com.txt",
+  "word_count": 2350,
+  "entity_count": 270,
+  "entities": [
+    {
+      "name": "Loop Launches: Vision",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.09923,
+      "mentions": 1
+    },
+    {
+      "name": "and more.",
+      "type": "OTHER",
+      "salience": 0.035377,
+      "mentions": 1
+    },
+    {
+      "name": "Loop's AI-powered platform unites tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.034244,
+      "mentions": 1
+    },
+    {
+      "name": "Control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02846,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.026008,
+      "mentions": 1
+    },
+    {
+      "name": "The combination of clear policies",
+      "type": "ORGANIZATION",
+      "salience": 0.024427,
+      "mentions": 1
+    },
+    {
+      "name": "Loop",
+      "type": "PERSON",
+      "salience": 0.018496,
+      "mentions": 1
+    },
+    {
+      "name": "The combination of clear policies",
+      "type": "ORGANIZATION",
+      "salience": 0.017183,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.014247,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014014,
+      "mentions": 1
+    },
+    {
+      "name": "Loop",
+      "type": "PERSON",
+      "salience": 0.01395,
+      "mentions": 1
+    },
+    {
+      "name": "The combination of clear policies",
+      "type": "ORGANIZATION",
+      "salience": 0.013449,
+      "mentions": 1
+    },
+    {
+      "name": "shipping",
+      "type": "OTHER",
+      "salience": 0.012806,
+      "mentions": 3
+    },
+    {
+      "name": "Loop Launches: Vision",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012685,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012642,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011621,
+      "mentions": 1
+    },
+    {
+      "name": "Customers can",
+      "type": "OTHER",
+      "salience": 0.011558,
+      "mentions": 1
+    },
+    {
+      "name": "Loop",
+      "type": "PERSON",
+      "salience": 0.011228,
+      "mentions": 1
+    },
+    {
+      "name": "Spring",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010882,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010823,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010175,
+      "mentions": 1
+    },
+    {
+      "name": "The combination of clear policies",
+      "type": "ORGANIZATION",
+      "salience": 0.010081,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009806,
+      "mentions": 1
+    },
+    {
+      "name": "without",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009581,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009476,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009041,
+      "mentions": 1
+    },
+    {
+      "name": "Customers can",
+      "type": "OTHER",
+      "salience": 0.008979,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008663,
+      "mentions": 1
+    },
+    {
+      "name": "Loop",
+      "type": "PERSON",
+      "salience": 0.0085,
+      "mentions": 1
+    },
+    {
+      "name": "and more.",
+      "type": "OTHER",
+      "salience": 0.008364,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008331,
+      "mentions": 1
+    },
+    {
+      "name": "Shop",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008244,
+      "mentions": 1
+    },
+    {
+      "name": "Loop's AI-powered platform unites tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008096,
+      "mentions": 1
+    },
+    {
+      "name": "Can",
+      "type": "ORGANIZATION",
+      "salience": 0.008072,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008036,
+      "mentions": 1
+    },
+    {
+      "name": "they",
+      "type": "OTHER",
+      "salience": 0.007896,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007857,
+      "mentions": 1
+    },
+    {
+      "name": "Customers can",
+      "type": "OTHER",
+      "salience": 0.007328,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007317,
+      "mentions": 1
+    },
+    {
+      "name": "without",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007225,
+      "mentions": 1
+    },
+    {
+      "name": "Explore the latest releases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007186,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007119,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006937,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006769,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006613,
+      "mentions": 1
+    },
+    {
+      "name": "editing",
+      "type": "OTHER",
+      "salience": 0.006507,
+      "mentions": 3
+    },
+    {
+      "name": "Shop",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006405,
+      "mentions": 1
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "salience": 0.006307,
+      "mentions": 1
+    },
+    {
+      "name": "retention",
+      "type": "OTHER",
+      "salience": 0.006235,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.006146,
+      "mentions": 1
+    },
+    {
+      "name": "they",
+      "type": "OTHER",
+      "salience": 0.006134,
+      "mentions": 1
+    },
+    {
+      "name": "Can",
+      "type": "ORGANIZATION",
+      "salience": 0.006087,
+      "mentions": 1
+    },
+    {
+      "name": "user-friendly tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006082,
+      "mentions": 1
+    },
+    {
+      "name": "without",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005815,
+      "mentions": 1
+    },
+    {
+      "name": "Return",
+      "type": "OTHER",
+      "salience": 0.005649,
+      "mentions": 1
+    },
+    {
+      "name": "fraud prevention",
+      "type": "OTHER",
+      "salience": 0.005625,
+      "mentions": 1
+    },
+    {
+      "name": "Customers can",
+      "type": "OTHER",
+      "salience": 0.005576,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005539,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005459,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005347,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005241,
+      "mentions": 1
+    },
+    {
+      "name": "Shop",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005226,
+      "mentions": 1
+    },
+    {
+      "name": "Return",
+      "type": "OTHER",
+      "salience": 0.005176,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005142,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005048,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.005038,
+      "mentions": 1
+    },
+    {
+      "name": "they",
+      "type": "OTHER",
+      "salience": 0.005005,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004989,
+      "mentions": 1
+    },
+    {
+      "name": "Can",
+      "type": "ORGANIZATION",
+      "salience": 0.004898,
+      "mentions": 1
+    },
+    {
+      "name": "Theoperationsplatformbuiltforretention",
+      "type": "OTHER",
+      "salience": 0.004735,
+      "mentions": 1
+    },
+    {
+      "name": "Returns",
+      "type": "OTHER",
+      "salience": 0.004669,
+      "mentions": 1
+    },
+    {
+      "name": "chosen their items.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004537,
+      "mentions": 1
+    },
+    {
+      "name": "without",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004401,
+      "mentions": 1
+    },
+    {
+      "name": "user-friendly tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004277,
+      "mentions": 1
+    },
+    {
+      "name": "them",
+      "type": "OTHER",
+      "salience": 0.00413,
+      "mentions": 1
+    },
+    {
+      "name": "Shop",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003977,
+      "mentions": 1
+    },
+    {
+      "name": "they",
+      "type": "OTHER",
+      "salience": 0.003809,
+      "mentions": 1
+    },
+    {
+      "name": "Can",
+      "type": "ORGANIZATION",
+      "salience": 0.003708,
+      "mentions": 1
+    },
+    {
+      "name": "Control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003621,
+      "mentions": 1
+    },
+    {
+      "name": "says Jefferson.",
+      "type": "OTHER",
+      "salience": 0.003617,
+      "mentions": 1
+    },
+    {
+      "name": "brands",
+      "type": "OTHER",
+      "salience": 0.00357,
+      "mentions": 1
+    },
+    {
+      "name": "chosen their items.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003525,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.003364,
+      "mentions": 1
+    },
+    {
+      "name": "user-friendly tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003347,
+      "mentions": 1
+    },
+    {
+      "name": "them",
+      "type": "OTHER",
+      "salience": 0.003208,
+      "mentions": 1
+    },
+    {
+      "name": "chosen their items.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002876,
+      "mentions": 1
+    },
+    {
+      "name": "No problem",
+      "type": "OTHER",
+      "salience": 0.002821,
+      "mentions": 1
+    },
+    {
+      "name": "Checkout",
+      "type": "OTHER",
+      "salience": 0.002713,
+      "mentions": 2
+    },
+    {
+      "name": "it brings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002644,
+      "mentions": 1
+    },
+    {
+      "name": "them",
+      "type": "OTHER",
+      "salience": 0.002618,
+      "mentions": 1
+    },
+    {
+      "name": "No problem",
+      "type": "OTHER",
+      "salience": 0.002578,
+      "mentions": 1
+    },
+    {
+      "name": "Exchanges",
+      "type": "OTHER",
+      "salience": 0.002524,
+      "mentions": 1
+    },
+    {
+      "name": "user-friendly tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002508,
+      "mentions": 1
+    },
+    {
+      "name": "says Jefferson.",
+      "type": "OTHER",
+      "salience": 0.002496,
+      "mentions": 1
+    },
+    {
+      "name": "Checkout+",
+      "type": "OTHER",
+      "salience": 0.002327,
+      "mentions": 1
+    },
+    {
+      "name": "Operations products",
+      "type": "OTHER",
+      "salience": 0.002208,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking",
+      "type": "OTHER",
+      "salience": 0.0022,
+      "mentions": 1
+    },
+    {
+      "name": "chosen their items.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002188,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking sends automated",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002186,
+      "mentions": 1
+    },
+    {
+      "name": "Confirmation",
+      "type": "OTHER",
+      "salience": 0.002177,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.002159,
+      "mentions": 1
+    },
+    {
+      "name": "The difference",
+      "type": "OTHER",
+      "salience": 0.002143,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.002128,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.002099,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations",
+      "type": "OTHER",
+      "salience": 0.002087,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations connect your ecommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002075,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.002071,
+      "mentions": 1
+    },
+    {
+      "name": "it brings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002054,
+      "mentions": 1
+    },
+    {
+      "name": "which reduces",
+      "type": "OTHER",
+      "salience": 0.002051,
+      "mentions": 1
+    },
+    {
+      "name": "Intelligence",
+      "type": "OTHER",
+      "salience": 0.002045,
+      "mentions": 3
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.002037,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.002012,
+      "mentions": 1
+    },
+    {
+      "name": "them",
+      "type": "OTHER",
+      "salience": 0.001992,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.001987,
+      "mentions": 1
+    },
+    {
+      "name": "Confirmation",
+      "type": "OTHER",
+      "salience": 0.001986,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.001963,
+      "mentions": 1
+    },
+    {
+      "name": "says Jefferson.",
+      "type": "OTHER",
+      "salience": 0.001941,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.00194,
+      "mentions": 1
+    },
+    {
+      "name": "increasing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001873,
+      "mentions": 1
+    },
+    {
+      "name": "Protection",
+      "type": "OTHER",
+      "salience": 0.001859,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery",
+      "type": "OTHER",
+      "salience": 0.001794,
+      "mentions": 2
+    },
+    {
+      "name": "Explore the latest releases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001722,
+      "mentions": 1
+    },
+    {
+      "name": "it brings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001676,
+      "mentions": 1
+    },
+    {
+      "name": "and make smarter decisions automatically",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001663,
+      "mentions": 1
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "salience": 0.00161,
+      "mentions": 1
+    },
+    {
+      "name": "Manage delivery",
+      "type": "OTHER",
+      "salience": 0.001585,
+      "mentions": 1
+    },
+    {
+      "name": "and add-ons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001495,
+      "mentions": 1
+    },
+    {
+      "name": "Where's my order",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001483,
+      "mentions": 1
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "salience": 0.001482,
+      "mentions": 1
+    },
+    {
+      "name": "says Jefferson.",
+      "type": "OTHER",
+      "salience": 0.001451,
+      "mentions": 1
+    },
+    {
+      "name": "Spring",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001383,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Experience Manager",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001375,
+      "mentions": 1
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "salience": 0.001359,
+      "mentions": 1
+    },
+    {
+      "name": "Theoperationsplatformbuiltforretention",
+      "type": "OTHER",
+      "salience": 0.001354,
+      "mentions": 1
+    },
+    {
+      "name": "fraud prevention",
+      "type": "OTHER",
+      "salience": 0.001328,
+      "mentions": 1
+    },
+    {
+      "name": "This product usually arrives within 6 days",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001284,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Experience Manager",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001275,
+      "mentions": 1
+    },
+    {
+      "name": "it brings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001275,
+      "mentions": 1
+    },
+    {
+      "name": "Scale faster with artificial intelligence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001254,
+      "mentions": 1
+    },
+    {
+      "name": "Powered by robust data from shoppers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00125,
+      "mentions": 1
+    },
+    {
+      "name": "Editing allows customers to change orders after they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001194,
+      "mentions": 1
+    },
+    {
+      "name": "Pre-Purchase",
+      "type": "LOCATION",
+      "salience": 0.001192,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.001187,
+      "mentions": 1
+    },
+    {
+      "name": "loss",
+      "type": "OTHER",
+      "salience": 0.001184,
+      "mentions": 1
+    },
+    {
+      "name": "Pre-Purchase",
+      "type": "LOCATION",
+      "salience": 0.001181,
+      "mentions": 1
+    },
+    {
+      "name": "This product usually arrives within 6 days",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001171,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.001146,
+      "mentions": 1
+    },
+    {
+      "name": "controlEnterprise readiness",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00114,
+      "mentions": 1
+    },
+    {
+      "name": "and support systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001118,
+      "mentions": 1
+    },
+    {
+      "name": "new",
+      "type": "OTHER",
+      "salience": 0.001116,
+      "mentions": 1
+    },
+    {
+      "name": "loss",
+      "type": "OTHER",
+      "salience": 0.001082,
+      "mentions": 1
+    },
+    {
+      "name": "new",
+      "type": "OTHER",
+      "salience": 0.001026,
+      "mentions": 1
+    },
+    {
+      "name": "Loop supports the full post-purchase experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000971,
+      "mentions": 1
+    },
+    {
+      "name": "Data products",
+      "type": "OTHER",
+      "salience": 0.000961,
+      "mentions": 1
+    },
+    {
+      "name": "Promise",
+      "type": "OTHER",
+      "salience": 0.000881,
+      "mentions": 1
+    },
+    {
+      "name": "have 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000836,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.000835,
+      "mentions": 1
+    },
+    {
+      "name": "logistics",
+      "type": "OTHER",
+      "salience": 0.000809,
+      "mentions": 1
+    },
+    {
+      "name": "Repurchase",
+      "type": "OTHER",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "and carriers",
+      "type": "OTHER",
+      "salience": 0.000799,
+      "mentions": 1
+    },
+    {
+      "name": "carriers to predict outcomes and optimize policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000793,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.000778,
+      "mentions": 1
+    },
+    {
+      "name": "have 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000765,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.000736,
+      "mentions": 1
+    },
+    {
+      "name": "Repurchase",
+      "type": "OTHER",
+      "salience": 0.000734,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.000728,
+      "mentions": 1
+    },
+    {
+      "name": "200M+ shoppers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00063,
+      "mentions": 1
+    },
+    {
+      "name": "Take control of your operations experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000525,
+      "mentions": 1
+    },
+    {
+      "name": "more revenue",
+      "type": "OTHER",
+      "salience": 0.000523,
+      "mentions": 1
+    },
+    {
+      "name": "ve hit",
+      "type": "OTHER",
+      "salience": 0.000496,
+      "mentions": 1
+    },
+    {
+      "name": "branded delivery updates throughout fulfillment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000489,
+      "mentions": 1
+    },
+    {
+      "name": "uncover insights",
+      "type": "OTHER",
+      "salience": 0.000459,
+      "mentions": 1
+    },
+    {
+      "name": "brands, and 1K",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000455,
+      "mentions": 1
+    },
+    {
+      "name": "5K",
+      "type": "OTHER",
+      "salience": 0.000455,
+      "mentions": 1
+    },
+    {
+      "name": "SSO",
+      "type": "OTHER",
+      "salience": 0.000443,
+      "mentions": 1
+    },
+    {
+      "name": "SSO",
+      "type": "OTHER",
+      "salience": 0.000437,
+      "mentions": 1
+    },
+    {
+      "name": "SSO",
+      "type": "OTHER",
+      "salience": 0.000431,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise Security",
+      "type": "OTHER",
+      "salience": 0.000431,
+      "mentions": 1
+    },
+    {
+      "name": "SSO",
+      "type": "OTHER",
+      "salience": 0.000425,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise Security",
+      "type": "OTHER",
+      "salience": 0.000425,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise Security",
+      "type": "OTHER",
+      "salience": 0.000419,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise Security",
+      "type": "OTHER",
+      "salience": 0.000414,
+      "mentions": 1
+    },
+    {
+      "name": "often in 15 to 45 days.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000342,
+      "mentions": 1
+    },
+    {
+      "name": "and operations.",
+      "type": "OTHER",
+      "salience": 0.000321,
+      "mentions": 1
+    },
+    {
+      "name": "Cody Plofker",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000302,
+      "mentions": 3
+    },
+    {
+      "name": "access",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000296,
+      "mentions": 1
+    },
+    {
+      "name": "Authentication",
+      "type": "OTHER",
+      "salience": 0.000295,
+      "mentions": 4
+    },
+    {
+      "name": "access",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000292,
+      "mentions": 1
+    },
+    {
+      "name": "access",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000288,
+      "mentions": 1
+    },
+    {
+      "name": "access",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "Explore Loop Intelligence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000253,
+      "mentions": 1
+    },
+    {
+      "name": "Laurin Thompke",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000238,
+      "mentions": 1
+    },
+    {
+      "name": "Head of CS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000237,
+      "mentions": 1
+    },
+    {
+      "name": "CS agent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "mitigated fraud",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000225,
+      "mentions": 1
+    },
+    {
+      "name": "Jessica Connolly",
+      "type": "PERSON",
+      "salience": 0.000225,
+      "mentions": 1
+    },
+    {
+      "name": "Laurin Thompke",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000219,
+      "mentions": 1
+    },
+    {
+      "name": "Head of CS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "CS agent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000213,
+      "mentions": 1
+    },
+    {
+      "name": "k",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "mitigated fraud",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000209,
+      "mentions": 1
+    },
+    {
+      "name": "Jessica Connolly",
+      "type": "PERSON",
+      "salience": 0.000208,
+      "mentions": 1
+    },
+    {
+      "name": "Insight from 200,000,000+ shoppersThe largest integration networkMaximum flexibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000203,
+      "mentions": 1
+    },
+    {
+      "name": "k",
+      "type": "OTHER",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "Kulani Kinis",
+      "type": "PERSON",
+      "salience": 0.000186,
+      "mentions": 1
+    },
+    {
+      "name": "implementations",
+      "type": "OTHER",
+      "salience": 0.000149,
+      "mentions": 2
+    },
+    {
+      "name": "Why5,000brandschooseloop",
+      "type": "PERSON",
+      "salience": 0.000147,
+      "mentions": 1
+    },
+    {
+      "name": "stabilityPurpose",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000147,
+      "mentions": 1
+    },
+    {
+      "name": "We'rebuiltforbrandswithhighexpectations",
+      "type": "OTHER",
+      "salience": 0.000145,
+      "mentions": 1
+    },
+    {
+      "name": "Reebok",
+      "type": "ORGANIZATION",
+      "salience": 0.000145,
+      "mentions": 1
+    },
+    {
+      "name": "boosted loyalty",
+      "type": "OTHER",
+      "salience": 0.000145,
+      "mentions": 1
+    },
+    {
+      "name": "Case studies",
+      "type": "OTHER",
+      "salience": 0.000144,
+      "mentions": 1
+    },
+    {
+      "name": "uptime guarantee",
+      "type": "OTHER",
+      "salience": 0.000143,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently asked questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000135,
+      "mentions": 1
+    },
+    {
+      "name": "including Princess Polly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000135,
+      "mentions": 1
+    },
+    {
+      "name": "like address changes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000134,
+      "mentions": 1
+    },
+    {
+      "name": "risk",
+      "type": "OTHER",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "businesses of all sizes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000125,
+      "mentions": 1
+    },
+    {
+      "name": "happier customers from day one.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000125,
+      "mentions": 1
+    },
+    {
+      "name": "including Represent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "Oh Polly",
+      "type": "PERSON",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "and Alohas.",
+      "type": "OTHER",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "and LSKD.",
+      "type": "OTHER",
+      "salience": 7.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "cancellations",
+      "type": "OTHER",
+      "salience": 7.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "45",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$\n\n3.1\n\nM",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$\n\n35\n\nk",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$\n\n3.13\n\nAUD",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$\n\n3.1\n\nM",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$\n\n35\n\nk",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$\n\n3.13\n\nAUD",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "76",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.1\n\nM",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35\n\nk",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "76",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.1\n\nM",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35\n\nk",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200,000,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "99.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 102,
+    "OTHER": 116,
+    "ORGANIZATION": 9,
+    "PERSON": 9,
+    "LOCATION": 2,
+    "NUMBER": 38,
+    "PRICE": 8
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.5196359999999999,
+    "OTHER": 0.32048900000000025,
+    "ORGANIZATION": 0.08805,
+    "PERSON": 0.05304700000000001,
+    "LOCATION": 0.002373,
+    "NUMBER": 0.0,
+    "PRICE": 0.0
+  }
+}

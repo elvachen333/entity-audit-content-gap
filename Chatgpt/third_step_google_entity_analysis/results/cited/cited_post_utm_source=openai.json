@@ -1,0 +1,497 @@
+{
+  "file": "cited_post_utm_source=openai.txt",
+  "word_count": 993,
+  "entity_count": 79,
+  "entities": [
+    {
+      "name": "and returns",
+      "type": "OTHER",
+      "salience": 0.111546,
+      "mentions": 1
+    },
+    {
+      "name": "The average number of returns each month.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.108985,
+      "mentions": 1
+    },
+    {
+      "name": "Business Email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.067046,
+      "mentions": 1
+    },
+    {
+      "name": "Company Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.066086,
+      "mentions": 1
+    },
+    {
+      "name": "First Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.044415,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Automation",
+      "type": "OTHER",
+      "salience": 0.039755,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Optimization",
+      "type": "OTHER",
+      "salience": 0.036277,
+      "mentions": 1
+    },
+    {
+      "name": "Last Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.034175,
+      "mentions": 2
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.033894,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Visibility",
+      "type": "OTHER",
+      "salience": 0.033309,
+      "mentions": 1
+    },
+    {
+      "name": "reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029967,
+      "mentions": 2
+    },
+    {
+      "name": "Recaptcha requires verification",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02933,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.025764,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.023388,
+      "mentions": 1
+    },
+    {
+      "name": "The average number of returns each month.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01997,
+      "mentions": 1
+    },
+    {
+      "name": "PlusBigCommerceOther",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019725,
+      "mentions": 1
+    },
+    {
+      "name": "SelectShopifyShopify",
+      "type": "OTHER",
+      "salience": 0.019725,
+      "mentions": 1
+    },
+    {
+      "name": "protected by reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01838,
+      "mentions": 1
+    },
+    {
+      "name": "The ability to accept",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018216,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.015529,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.015056,
+      "mentions": 1
+    },
+    {
+      "name": "A customizable",
+      "type": "OTHER",
+      "salience": 0.011068,
+      "mentions": 1
+    },
+    {
+      "name": "Instead of 40 hours a week",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010367,
+      "mentions": 1
+    },
+    {
+      "name": "Trusted by 1000+ Ecommerce Merchants:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010359,
+      "mentions": 1
+    },
+    {
+      "name": "Business Email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00977,
+      "mentions": 1
+    },
+    {
+      "name": "Company Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009103,
+      "mentions": 1
+    },
+    {
+      "name": "View Case Study",
+      "type": "OTHER",
+      "salience": 0.007302,
+      "mentions": 1
+    },
+    {
+      "name": "First Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00529,
+      "mentions": 1
+    },
+    {
+      "name": "See all our reviews from G2 here",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005071,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.00456,
+      "mentions": 1
+    },
+    {
+      "name": "sales@returnlogic.com",
+      "type": "OTHER",
+      "salience": 0.004515,
+      "mentions": 1
+    },
+    {
+      "name": "shipping.",
+      "type": "OTHER",
+      "salience": 0.004348,
+      "mentions": 1
+    },
+    {
+      "name": "individual products",
+      "type": "OTHER",
+      "salience": 0.004186,
+      "mentions": 1
+    },
+    {
+      "name": "Lead Company Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003959,
+      "mentions": 1
+    },
+    {
+      "name": "Lead First Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003943,
+      "mentions": 1
+    },
+    {
+      "name": "Lead Last Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003927,
+      "mentions": 1
+    },
+    {
+      "name": "Lead Email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003911,
+      "mentions": 1
+    },
+    {
+      "name": "Have any questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003793,
+      "mentions": 1
+    },
+    {
+      "name": "Logistics",
+      "type": "OTHER",
+      "salience": 0.00349,
+      "mentions": 2
+    },
+    {
+      "name": "Distribution",
+      "type": "OTHER",
+      "salience": 0.00349,
+      "mentions": 1
+    },
+    {
+      "name": "SelectShopifyShopify",
+      "type": "OTHER",
+      "salience": 0.003386,
+      "mentions": 1
+    },
+    {
+      "name": "PlusBigCommerceOther",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003386,
+      "mentions": 1
+    },
+    {
+      "name": "Track the status and condition of all your returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003031,
+      "mentions": 1
+    },
+    {
+      "name": "Distribution",
+      "type": "OTHER",
+      "salience": 0.002959,
+      "mentions": 1
+    },
+    {
+      "name": "Recaptcha requires verification",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002853,
+      "mentions": 1
+    },
+    {
+      "name": "Referring Partner Company Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002817,
+      "mentions": 1
+    },
+    {
+      "name": "Referring Partner Company Website",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002806,
+      "mentions": 1
+    },
+    {
+      "name": "Contact Sales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002763,
+      "mentions": 1
+    },
+    {
+      "name": "Contact Sales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002753,
+      "mentions": 1
+    },
+    {
+      "name": "I love looking at analytics and love that all the information is at my fingertips.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002713,
+      "mentions": 1
+    },
+    {
+      "name": "Director of Operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002693,
+      "mentions": 1
+    },
+    {
+      "name": "Deal Registration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002284,
+      "mentions": 1
+    },
+    {
+      "name": "user-friendly",
+      "type": "OTHER",
+      "salience": 0.002251,
+      "mentions": 1
+    },
+    {
+      "name": "track all return types",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00221,
+      "mentions": 1
+    },
+    {
+      "name": "eBay",
+      "type": "ORGANIZATION",
+      "salience": 0.002174,
+      "mentions": 1
+    },
+    {
+      "name": "Amanda Schermerhorn",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002147,
+      "mentions": 1
+    },
+    {
+      "name": "protected by reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001815,
+      "mentions": 1
+    },
+    {
+      "name": "I love looking at analytics and love that all the information is at my fingertips.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001799,
+      "mentions": 1
+    },
+    {
+      "name": "Director of Operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001783,
+      "mentions": 1
+    },
+    {
+      "name": "Britney N.Head of Customer Service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001765,
+      "mentions": 1
+    },
+    {
+      "name": "Great support and strong reporting.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001752,
+      "mentions": 1
+    },
+    {
+      "name": "product category",
+      "type": "OTHER",
+      "salience": 0.001739,
+      "mentions": 1
+    },
+    {
+      "name": "Peter J.Operations Manager",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001715,
+      "mentions": 1
+    },
+    {
+      "name": "Kerry C",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001681,
+      "mentions": 1
+    },
+    {
+      "name": "CEO",
+      "type": "PERSON",
+      "salience": 0.00167,
+      "mentions": 1
+    },
+    {
+      "name": "CX Project Manager",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001638,
+      "mentions": 1
+    },
+    {
+      "name": "Crash K.Customer Support Manager",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001618,
+      "mentions": 1
+    },
+    {
+      "name": "Comments",
+      "type": "OTHER",
+      "salience": 0.001606,
+      "mentions": 1
+    },
+    {
+      "name": "Founder",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001557,
+      "mentions": 1
+    },
+    {
+      "name": "Amanda Schermerhorn",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001423,
+      "mentions": 1
+    },
+    {
+      "name": "$5",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 24,
+    "CONSUMER_GOOD": 47,
+    "ORGANIZATION": 1,
+    "PERSON": 1,
+    "PRICE": 1,
+    "NUMBER": 8
+  },
+  "type_salience": {
+    "OTHER": 0.4091430000000001,
+    "CONSUMER_GOOD": 0.5767900000000001,
+    "ORGANIZATION": 0.002174,
+    "PERSON": 0.00167,
+    "PRICE": 0.0,
+    "NUMBER": 0.0
+  }
+}

@@ -1,0 +1,2743 @@
+{
+  "file": "non_cited_postapp-to-track-deliveries-the-7-best-options-for-businesses.txt",
+  "word_count": 3118,
+  "entity_count": 453,
+  "entities": [
+    {
+      "name": "The cookies that are categorized as",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02904,
+      "mentions": 1
+    },
+    {
+      "name": "cookies",
+      "type": "OTHER",
+      "salience": 0.026121,
+      "mentions": 51
+    },
+    {
+      "name": "cookieyes-consent",
+      "type": "OTHER",
+      "salience": 0.023733,
+      "mentions": 1
+    },
+    {
+      "name": "The website's WordPress theme uses this cookie.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014499,
+      "mentions": 1
+    },
+    {
+      "name": "The __hssrc cookie set to 1",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013443,
+      "mentions": 1
+    },
+    {
+      "name": "Customize Consent Preferences",
+      "type": "OTHER",
+      "salience": 0.012344,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.012027,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.011432,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.010405,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.009748,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.009453,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.008793,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.008731,
+      "mentions": 1
+    },
+    {
+      "name": "intercom-id-",
+      "type": "OTHER",
+      "salience": 0.008468,
+      "mentions": 2
+    },
+    {
+      "name": "The cookie ytidb",
+      "type": "ORGANIZATION",
+      "salience": 0.008191,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.008159,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.008083,
+      "mentions": 1
+    },
+    {
+      "name": "The yt-remote-session-name cookie is used by YouTube to store the user's video player preferences using embedded YouTube video",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007775,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.007621,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.007527,
+      "mentions": 1
+    },
+    {
+      "name": "The yt-remote-session-app cookie is used by YouTube to store user preferences and information about the interface of the embedded YouTube video player",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007445,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.007181,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.007009,
+      "mentions": 1
+    },
+    {
+      "name": "intercom-device-id-",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006975,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.006862,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.00659,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.006584,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.006287,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.006024,
+      "mentions": 1
+    },
+    {
+      "name": "Accept All",
+      "type": "PERSON",
+      "salience": 0.005711,
+      "mentions": 1
+    },
+    {
+      "name": "months 26 days 1 hour",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005696,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.005388,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.005202,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.004983,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.004925,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.004837,
+      "mentions": 1
+    },
+    {
+      "name": "months 26 days 1 hour",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004752,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.004751,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.004703,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.004581,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.004546,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.004449,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.004419,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.00441,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.004346,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.004285,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.00425,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.004171,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.00416,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.004076,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.00405,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.003997,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.003972,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.003954,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.003888,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.003865,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.003782,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.003705,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.003632,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.003531,
+      "mentions": 1
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003424,
+      "mentions": 1
+    },
+    {
+      "name": "VISITOR",
+      "type": "OTHER",
+      "salience": 0.003175,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.003115,
+      "mentions": 1
+    },
+    {
+      "name": "year",
+      "type": "OTHER",
+      "salience": 0.002657,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.002507,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.002451,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.002399,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.00235,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.002304,
+      "mentions": 1
+    },
+    {
+      "name": "YouTube",
+      "type": "OTHER",
+      "salience": 0.002286,
+      "mentions": 3
+    },
+    {
+      "name": "The cookie retains the session ID",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002263,
+      "mentions": 1
+    },
+    {
+      "name": "Reject AllAccept All",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002162,
+      "mentions": 1
+    },
+    {
+      "name": "Necessary",
+      "type": "OTHER",
+      "salience": 0.002148,
+      "mentions": 1
+    },
+    {
+      "name": "NecessaryAlways Active",
+      "type": "OTHER",
+      "salience": 0.001975,
+      "mentions": 1
+    },
+    {
+      "name": "Necessary",
+      "type": "OTHER",
+      "salience": 0.001903,
+      "mentions": 1
+    },
+    {
+      "name": "conversations they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001877,
+      "mentions": 1
+    },
+    {
+      "name": "Functional",
+      "type": "OTHER",
+      "salience": 0.001752,
+      "mentions": 1
+    },
+    {
+      "name": "Functional",
+      "type": "PERSON",
+      "salience": 0.001743,
+      "mentions": 1
+    },
+    {
+      "name": "conversations they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001711,
+      "mentions": 1
+    },
+    {
+      "name": "yt-remote-connected-devices",
+      "type": "OTHER",
+      "salience": 0.001624,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics",
+      "type": "OTHER",
+      "salience": 0.001597,
+      "mentions": 1
+    },
+    {
+      "name": "Analytical",
+      "type": "OTHER",
+      "salience": 0.001592,
+      "mentions": 1
+    },
+    {
+      "name": "conversations they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001584,
+      "mentions": 1
+    },
+    {
+      "name": "yt-remote-device-id",
+      "type": "OTHER",
+      "salience": 0.001534,
+      "mentions": 1
+    },
+    {
+      "name": "YouTube video",
+      "type": "OTHER",
+      "salience": 0.001522,
+      "mentions": 1
+    },
+    {
+      "name": "Never Expires",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001514,
+      "mentions": 1
+    },
+    {
+      "name": "yt-remote-session-name",
+      "type": "OTHER",
+      "salience": 0.001498,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001478,
+      "mentions": 1
+    },
+    {
+      "name": "yt-remote-fast-check-period",
+      "type": "OTHER",
+      "salience": 0.001464,
+      "mentions": 2
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001453,
+      "mentions": 1
+    },
+    {
+      "name": "__hssrc",
+      "type": "OTHER",
+      "salience": 0.001439,
+      "mentions": 1
+    },
+    {
+      "name": "yt-remote-session-app",
+      "type": "OTHER",
+      "salience": 0.001432,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001429,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001407,
+      "mentions": 1
+    },
+    {
+      "name": "yt-remote-cast-available",
+      "type": "OTHER",
+      "salience": 0.001403,
+      "mentions": 1
+    },
+    {
+      "name": "yt-remote-cast-available",
+      "type": "OTHER",
+      "salience": 0.001384,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001382,
+      "mentions": 1
+    },
+    {
+      "name": "yt-remote-cast-installed",
+      "type": "OTHER",
+      "salience": 0.001375,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001359,
+      "mentions": 1
+    },
+    {
+      "name": "yt-remote-cast-installed",
+      "type": "OTHER",
+      "salience": 0.001357,
+      "mentions": 1
+    },
+    {
+      "name": "__hssc",
+      "type": "OTHER",
+      "salience": 0.001351,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001342,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001339,
+      "mentions": 1
+    },
+    {
+      "name": "and a tailored experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001334,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001321,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001319,
+      "mentions": 1
+    },
+    {
+      "name": "User-friendly interface",
+      "type": "OTHER",
+      "salience": 0.001302,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001301,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001298,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001281,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001277,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001265,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001254,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001233,
+      "mentions": 1
+    },
+    {
+      "name": "Never Expires",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001217,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001215,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001198,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001187,
+      "mentions": 1
+    },
+    {
+      "name": "Show more",
+      "type": "OTHER",
+      "salience": 0.001181,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001179,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001173,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001162,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001155,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001147,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001138,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001121,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "PERSON",
+      "salience": 0.001119,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.00111,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001098,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "PERSON",
+      "salience": 0.001096,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001087,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "PERSON",
+      "salience": 0.001086,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001077,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001076,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "PERSON",
+      "salience": 0.001075,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.001066,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "PERSON",
+      "salience": 0.001065,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001063,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001046,
+      "mentions": 1
+    },
+    {
+      "name": "this visit",
+      "type": "OTHER",
+      "salience": 0.001034,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001031,
+      "mentions": 1
+    },
+    {
+      "name": "International",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001027,
+      "mentions": 1
+    },
+    {
+      "name": "International delivery tracking capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001022,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001016,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.001005,
+      "mentions": 1
+    },
+    {
+      "name": "Interface design could be improved",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000998,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.000995,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.000985,
+      "mentions": 1
+    },
+    {
+      "name": "Integration with various e-commerce platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000983,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.000975,
+      "mentions": 1
+    },
+    {
+      "name": "Integration options with major e-commerce platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000966,
+      "mentions": 1
+    },
+    {
+      "name": "Duration",
+      "type": "OTHER",
+      "salience": 0.000966,
+      "mentions": 1
+    },
+    {
+      "name": "collecting feedback",
+      "type": "OTHER",
+      "salience": 0.000939,
+      "mentions": 1
+    },
+    {
+      "name": "to 500 shipments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000905,
+      "mentions": 1
+    },
+    {
+      "name": "shipments",
+      "type": "OTHER",
+      "salience": 0.000904,
+      "mentions": 2
+    },
+    {
+      "name": "Shippo",
+      "type": "PERSON",
+      "salience": 0.000901,
+      "mentions": 1
+    },
+    {
+      "name": "Google",
+      "type": "ORGANIZATION",
+      "salience": 0.000896,
+      "mentions": 4
+    },
+    {
+      "name": "ShippyPro",
+      "type": "OTHER",
+      "salience": 0.000885,
+      "mentions": 1
+    },
+    {
+      "name": "User-Friendly Interface: The app boasts an intuitive and user-friendly interface",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000879,
+      "mentions": 1
+    },
+    {
+      "name": "Never Expires",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000867,
+      "mentions": 1
+    },
+    {
+      "name": "User-friendly interface",
+      "type": "OTHER",
+      "salience": 0.000861,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable driver and recipient communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000858,
+      "mentions": 1
+    },
+    {
+      "name": "Never Expires",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000844,
+      "mentions": 1
+    },
+    {
+      "name": "YouTube video player",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000844,
+      "mentions": 1
+    },
+    {
+      "name": "Customized",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00082,
+      "mentions": 1
+    },
+    {
+      "name": "Never Expires",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00082,
+      "mentions": 1
+    },
+    {
+      "name": "Customer-centric features",
+      "type": "OTHER",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing model",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00078,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.000771,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing model",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00074,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.000728,
+      "mentions": 1
+    },
+    {
+      "name": "Order Tracker",
+      "type": "PERSON",
+      "salience": 0.000721,
+      "mentions": 1
+    },
+    {
+      "name": "This platform goes beyond basic tracking features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000689,
+      "mentions": 1
+    },
+    {
+      "name": "This feature offers transparency and peace of mind",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000685,
+      "mentions": 1
+    },
+    {
+      "name": "session",
+      "type": "OTHER",
+      "salience": 0.000683,
+      "mentions": 1
+    },
+    {
+      "name": "This includes capturing signatures",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000683,
+      "mentions": 1
+    },
+    {
+      "name": "Complexity",
+      "type": "PERSON",
+      "salience": 0.000674,
+      "mentions": 1
+    },
+    {
+      "name": "rc",
+      "type": "OTHER",
+      "salience": 0.000661,
+      "mentions": 1
+    },
+    {
+      "name": "elementor",
+      "type": "OTHER",
+      "salience": 0.000643,
+      "mentions": 1
+    },
+    {
+      "name": "Free trial",
+      "type": "OTHER",
+      "salience": 0.000619,
+      "mentions": 1
+    },
+    {
+      "name": "Free version",
+      "type": "OTHER",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "LAST_RESULT_ENTRY_KEY",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000616,
+      "mentions": 1
+    },
+    {
+      "name": "Free Trial",
+      "type": "PERSON",
+      "salience": 0.000606,
+      "mentions": 1
+    },
+    {
+      "name": "Available",
+      "type": "OTHER",
+      "salience": 0.000592,
+      "mentions": 1
+    },
+    {
+      "name": "Available",
+      "type": "OTHER",
+      "salience": 0.000592,
+      "mentions": 1
+    },
+    {
+      "name": "Available",
+      "type": "OTHER",
+      "salience": 0.000581,
+      "mentions": 1
+    },
+    {
+      "name": "Free Trial",
+      "type": "PERSON",
+      "salience": 0.000575,
+      "mentions": 1
+    },
+    {
+      "name": "Customization Options",
+      "type": "PERSON",
+      "salience": 0.000561,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable",
+      "type": "OTHER",
+      "salience": 0.000555,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable alerts and notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000553,
+      "mentions": 1
+    },
+    {
+      "name": "Available",
+      "type": "LOCATION",
+      "salience": 0.000551,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable notifications",
+      "type": "OTHER",
+      "salience": 0.000547,
+      "mentions": 1
+    },
+    {
+      "name": "rc",
+      "type": "OTHER",
+      "salience": 0.00054,
+      "mentions": 1
+    },
+    {
+      "name": "_cfuvid",
+      "type": "OTHER",
+      "salience": 0.000535,
+      "mentions": 1
+    },
+    {
+      "name": "User-friendly mobile interface",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000534,
+      "mentions": 1
+    },
+    {
+      "name": "Efficient route optimization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000534,
+      "mentions": 1
+    },
+    {
+      "name": "With an array of options available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000521,
+      "mentions": 1
+    },
+    {
+      "name": "and notes and providing solid evidence of successful deliveries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000515,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.00051,
+      "mentions": 15
+    },
+    {
+      "name": "Pricing model",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000498,
+      "mentions": 1
+    },
+    {
+      "name": "their source",
+      "type": "OTHER",
+      "salience": 0.000497,
+      "mentions": 1
+    },
+    {
+      "name": "ytidb",
+      "type": "PERSON",
+      "salience": 0.000489,
+      "mentions": 1
+    },
+    {
+      "name": "LIVE",
+      "type": "OTHER",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "Comprehensive shipping and logistics tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000456,
+      "mentions": 1
+    },
+    {
+      "name": "Comprehensive reporting and analytics tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000454,
+      "mentions": 1
+    },
+    {
+      "name": "Complexity",
+      "type": "PERSON",
+      "salience": 0.000453,
+      "mentions": 1
+    },
+    {
+      "name": "With efficient search functions and reporting tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000424,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "OTHER",
+      "salience": 0.000421,
+      "mentions": 1
+    },
+    {
+      "name": "bounce rate",
+      "type": "OTHER",
+      "salience": 0.000416,
+      "mentions": 1
+    },
+    {
+      "name": "traffic source",
+      "type": "OTHER",
+      "salience": 0.000416,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations with multiple sales channels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000416,
+      "mentions": 1
+    },
+    {
+      "name": "Business",
+      "type": "PERSON",
+      "salience": 0.000412,
+      "mentions": 1
+    },
+    {
+      "name": "Some of the collected data includes the number of visitors",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00041,
+      "mentions": 1
+    },
+    {
+      "name": "it provides detailed insights into packages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000408,
+      "mentions": 1
+    },
+    {
+      "name": "Started",
+      "type": "ORGANIZATION",
+      "salience": 0.000406,
+      "mentions": 1
+    },
+    {
+      "name": "Starts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000406,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from: €59.00/month",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000399,
+      "mentions": 1
+    },
+    {
+      "name": "Integration with various shopping platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000399,
+      "mentions": 1
+    },
+    {
+      "name": "Free 14 day trial",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000396,
+      "mentions": 1
+    },
+    {
+      "name": "Some users reported occasional glitches",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000394,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-language tracking support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000389,
+      "mentions": 1
+    },
+    {
+      "name": "__cf_bm",
+      "type": "OTHER",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "ShipWell",
+      "type": "PERSON",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000381,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time tracking capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "Not Available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000364,
+      "mentions": 1
+    },
+    {
+      "name": "Customization",
+      "type": "OTHER",
+      "salience": 0.000353,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable tracking and reporting features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000344,
+      "mentions": 1
+    },
+    {
+      "name": "Seamless integration possibilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000341,
+      "mentions": 1
+    },
+    {
+      "name": "Efficient search and retrieval functionalities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00034,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable notifications and delivery updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00034,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics and reporting features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000334,
+      "mentions": 1
+    },
+    {
+      "name": "optimize routes",
+      "type": "OTHER",
+      "salience": 0.000332,
+      "mentions": 1
+    },
+    {
+      "name": "year 1 month 4 days",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000331,
+      "mentions": 1
+    },
+    {
+      "name": "Limited functionalities compared to comprehensive tracking platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000329,
+      "mentions": 1
+    },
+    {
+      "name": "Limited Free Plan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000329,
+      "mentions": 1
+    },
+    {
+      "name": "year 1 month 4 days",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000326,
+      "mentions": 1
+    },
+    {
+      "name": "Google Analytics sets this cookie to calculate visitor",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000324,
+      "mentions": 1
+    },
+    {
+      "name": "year",
+      "type": "OTHER",
+      "salience": 0.000319,
+      "mentions": 1
+    },
+    {
+      "name": "Deliveries:",
+      "type": "PERSON",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "current timestamp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000304,
+      "mentions": 1
+    },
+    {
+      "name": "Platinum at",
+      "type": "OTHER",
+      "salience": 0.000303,
+      "mentions": 1
+    },
+    {
+      "name": "hubspotutk",
+      "type": "OTHER",
+      "salience": 0.000302,
+      "mentions": 1
+    },
+    {
+      "name": "Detrack",
+      "type": "OTHER",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "_gcl_au",
+      "type": "OTHER",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "Complexity",
+      "type": "PERSON",
+      "salience": 0.00029,
+      "mentions": 1
+    },
+    {
+      "name": "Functionality",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "year",
+      "type": "OTHER",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "year 1 month 4 days",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000271,
+      "mentions": 1
+    },
+    {
+      "name": "Performance",
+      "type": "OTHER",
+      "salience": 0.00027,
+      "mentions": 1
+    },
+    {
+      "name": "Performance",
+      "type": "PERSON",
+      "salience": 0.000269,
+      "mentions": 1
+    },
+    {
+      "name": "optimize routes",
+      "type": "OTHER",
+      "salience": 0.000266,
+      "mentions": 1
+    },
+    {
+      "name": "Starting price",
+      "type": "OTHER",
+      "salience": 0.000263,
+      "mentions": 1
+    },
+    {
+      "name": "With its mobile-centric approach",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000263,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00026,
+      "mentions": 1
+    },
+    {
+      "name": "It offers customizable tracking features and detailed reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000257,
+      "mentions": 1
+    },
+    {
+      "name": "__hstc",
+      "type": "OTHER",
+      "salience": 0.000244,
+      "mentions": 1
+    },
+    {
+      "name": "Free Version",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000244,
+      "mentions": 1
+    },
+    {
+      "name": "Content Specialist",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "last timestamp",
+      "type": "OTHER",
+      "salience": 0.000241,
+      "mentions": 1
+    },
+    {
+      "name": "last visit",
+      "type": "OTHER",
+      "salience": 0.000241,
+      "mentions": 1
+    },
+    {
+      "name": "and session number",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000241,
+      "mentions": 1
+    },
+    {
+      "name": "Detrack provides real-time tracking capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000241,
+      "mentions": 1
+    },
+    {
+      "name": "year",
+      "type": "OTHER",
+      "salience": 0.000239,
+      "mentions": 1
+    },
+    {
+      "name": "Advertisement",
+      "type": "OTHER",
+      "salience": 0.000239,
+      "mentions": 2
+    },
+    {
+      "name": "_hjSessionUser_",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000237,
+      "mentions": 1
+    },
+    {
+      "name": "Potential issues with customer support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000234,
+      "mentions": 1
+    },
+    {
+      "name": "Not Available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000234,
+      "mentions": 1
+    },
+    {
+      "name": "Not Available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000233,
+      "mentions": 1
+    },
+    {
+      "name": "_hjSession_",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000232,
+      "mentions": 1
+    },
+    {
+      "name": "notifications.",
+      "type": "OTHER",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "Not Available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00023,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications",
+      "type": "OTHER",
+      "salience": 0.00023,
+      "mentions": 1
+    },
+    {
+      "name": "Improved post-purchase tracking and communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000227,
+      "mentions": 1
+    },
+    {
+      "name": "Not Available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00022,
+      "mentions": 1
+    },
+    {
+      "name": "ParcelTrack",
+      "type": "OTHER",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "ParcelTrack centralizes parcel tracking from multiple carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "we",
+      "type": "OTHER",
+      "salience": 0.000217,
+      "mentions": 1
+    },
+    {
+      "name": "_hjTLDTest",
+      "type": "OTHER",
+      "salience": 0.000214,
+      "mentions": 1
+    },
+    {
+      "name": "Subscription",
+      "type": "OTHER",
+      "salience": 0.000213,
+      "mentions": 3
+    },
+    {
+      "name": "Premier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000201,
+      "mentions": 1
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000198,
+      "mentions": 1
+    },
+    {
+      "name": "having the right package tracking app can make all the difference",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "Get real-time updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000191,
+      "mentions": 1
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "offering efficient route optimization and customizable communication between drivers and recipients.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000177,
+      "mentions": 1
+    },
+    {
+      "name": "Reporting",
+      "type": "PERSON",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "Essentials",
+      "type": "PERSON",
+      "salience": 0.000172,
+      "mentions": 1
+    },
+    {
+      "name": "Starting Price",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "Detailed shipment history and delivery predictions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000157,
+      "mentions": 1
+    },
+    {
+      "name": "Potential syncing issues with carrier information",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000157,
+      "mentions": 1
+    },
+    {
+      "name": "Get real-time updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000153,
+      "mentions": 1
+    },
+    {
+      "name": "__Secure-YNID",
+      "type": "OTHER",
+      "salience": 0.000147,
+      "mentions": 1
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "type": "OTHER",
+      "salience": 0.000145,
+      "mentions": 1
+    },
+    {
+      "name": "and the pages they visit anonymously",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000145,
+      "mentions": 1
+    },
+    {
+      "name": "__Secure-YEC",
+      "type": "OTHER",
+      "salience": 0.000144,
+      "mentions": 1
+    },
+    {
+      "name": "OnFleet specializes in international delivery tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000141,
+      "mentions": 1
+    },
+    {
+      "name": "occasional glitches",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00014,
+      "mentions": 1
+    },
+    {
+      "name": "increments for each subsequent session",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000139,
+      "mentions": 1
+    },
+    {
+      "name": "initial timestamp",
+      "type": "OTHER",
+      "salience": 0.000139,
+      "mentions": 1
+    },
+    {
+      "name": "Our exploration of the top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "No Credit Card required",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000131,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.000131,
+      "mentions": 1
+    },
+    {
+      "name": "Order processing and fulfillment features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000125,
+      "mentions": 1
+    },
+    {
+      "name": "Uncategorized",
+      "type": "OTHER",
+      "salience": 0.00012,
+      "mentions": 1
+    },
+    {
+      "name": "No description available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000117,
+      "mentions": 1
+    },
+    {
+      "name": "Proof of Delivery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000115,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced supply chain management features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "Centralized parcel tracking from multiple carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "Web-based package logging and tracking solution",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000112,
+      "mentions": 1
+    },
+    {
+      "name": "Reject AllSave My PreferencesAccept All",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000112,
+      "mentions": 1
+    },
+    {
+      "name": "Powered by",
+      "type": "OTHER",
+      "salience": 0.000112,
+      "mentions": 1
+    },
+    {
+      "name": "High Growth",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000112,
+      "mentions": 1
+    },
+    {
+      "name": "Rachelle Regua",
+      "type": "PERSON",
+      "salience": 0.000111,
+      "mentions": 1
+    },
+    {
+      "name": "Rachelle Regua",
+      "type": "PERSON",
+      "salience": 0.000111,
+      "mentions": 1
+    },
+    {
+      "name": "While each app offers unique strengths",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000111,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced real-time parcel tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000111,
+      "mentions": 1
+    },
+    {
+      "name": "Share this",
+      "type": "OTHER",
+      "salience": 0.000111,
+      "mentions": 1
+    },
+    {
+      "name": "Cross-carrier tracking functionality",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00011,
+      "mentions": 1
+    },
+    {
+      "name": "whereabouts",
+      "type": "OTHER",
+      "salience": 0.00011,
+      "mentions": 1
+    },
+    {
+      "name": "top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00011,
+      "mentions": 1
+    },
+    {
+      "name": "_ga_",
+      "type": "OTHER",
+      "salience": 0.00011,
+      "mentions": 1
+    },
+    {
+      "name": "first visit",
+      "type": "LOCATION",
+      "salience": 0.0001,
+      "mentions": 1
+    },
+    {
+      "name": "Wide carrier coverage",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Pro",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "mp_*_mixpanel",
+      "type": "OTHER",
+      "salience": 9.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "rack.session",
+      "type": "OTHER",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Professional",
+      "type": "PERSON",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "One time purchase",
+      "type": "CONSUMER_GOOD",
+      "salience": 9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "ranging between",
+      "type": "CONSUMER_GOOD",
+      "salience": 9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "movements and locations",
+      "type": "LOCATION",
+      "salience": 8.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Having the right package tracking app can make all the difference.",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "reliability",
+      "type": "OTHER",
+      "salience": 8.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Indeed",
+      "type": "OTHER",
+      "salience": 8.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Test drive all features",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "doubleclick.net",
+      "type": "OTHER",
+      "salience": 8.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "recent_write",
+      "type": "OTHER",
+      "salience": 8.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory management capabilities",
+      "type": "OTHER",
+      "salience": 8.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Premium",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "gtm_id",
+      "type": "OTHER",
+      "salience": 8.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Shop: Package",
+      "type": "OTHER",
+      "salience": 8.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Simplified",
+      "type": "PERSON",
+      "salience": 8.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "g_state",
+      "type": "OTHER",
+      "salience": 8.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Written by",
+      "type": "OTHER",
+      "salience": 8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Accelerator",
+      "type": "PERSON",
+      "salience": 7.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "photos",
+      "type": "OTHER",
+      "salience": 6.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "perpetual license",
+      "type": "OTHER",
+      "salience": 6.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Bronze at",
+      "type": "PERSON",
+      "salience": 6.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Silver at",
+      "type": "PERSON",
+      "salience": 6.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Gold at",
+      "type": "OTHER",
+      "salience": 6.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Veeqo",
+      "type": "PERSON",
+      "salience": 5.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "$20.00/month/user",
+      "type": "CONSUMER_GOOD",
+      "salience": 4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$500.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$28",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$48",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "€59.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "195 USD",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "253 USD",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "325 USD",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$20.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$95.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$195.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$295.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$395.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$300.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "48",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "59.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "195",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "253",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "325",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "195.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "295.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "395.00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$11.00",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 122,
+    "OTHER": 268,
+    "ORGANIZATION": 6,
+    "PERSON": 30,
+    "LOCATION": 3,
+    "NUMBER": 81,
+    "PRICE": 18
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.14481600000000008,
+    "OTHER": 0.4701040000000001,
+    "ORGANIZATION": 0.009493,
+    "PERSON": 0.020548999999999998,
+    "LOCATION": 0.00074,
+    "NUMBER": 0.0,
+    "PRICE": 0.0
+  }
+}

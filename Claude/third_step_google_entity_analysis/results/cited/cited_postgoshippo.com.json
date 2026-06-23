@@ -1,0 +1,445 @@
+{
+  "file": "cited_postgoshippo.com.txt",
+  "word_count": 463,
+  "entity_count": 70,
+  "entities": [
+    {
+      "name": "Get started",
+      "type": "OTHER",
+      "salience": 0.225097,
+      "mentions": 1
+    },
+    {
+      "name": "Get started",
+      "type": "OTHER",
+      "salience": 0.07789,
+      "mentions": 1
+    },
+    {
+      "name": "the best rates",
+      "type": "LOCATION",
+      "salience": 0.077609,
+      "mentions": 1
+    },
+    {
+      "name": "Contact sales",
+      "type": "OTHER",
+      "salience": 0.068382,
+      "mentions": 1
+    },
+    {
+      "name": "Get Started",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.048134,
+      "mentions": 1
+    },
+    {
+      "name": "Small businesses",
+      "type": "OTHER",
+      "salience": 0.030506,
+      "mentions": 2
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.026491,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.022956,
+      "mentions": 1
+    },
+    {
+      "name": "the post office.",
+      "type": "OTHER",
+      "salience": 0.021907,
+      "mentions": 1
+    },
+    {
+      "name": "and more time generating sales.",
+      "type": "ORGANIZATION",
+      "salience": 0.021315,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo is convenient and quick.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02011,
+      "mentions": 1
+    },
+    {
+      "name": "Shipments",
+      "type": "OTHER",
+      "salience": 0.019195,
+      "mentions": 1
+    },
+    {
+      "name": "Explore API docs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017708,
+      "mentions": 1
+    },
+    {
+      "name": "Software providers",
+      "type": "OTHER",
+      "salience": 0.017219,
+      "mentions": 1
+    },
+    {
+      "name": "and print.",
+      "type": "OTHER",
+      "salience": 0.014693,
+      "mentions": 1
+    },
+    {
+      "name": "High volume shippers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014628,
+      "mentions": 1
+    },
+    {
+      "name": "Read case study",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012952,
+      "mentions": 1
+    },
+    {
+      "name": "Read case study",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012707,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo's RESTful API",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012292,
+      "mentions": 1
+    },
+    {
+      "name": "Read case study",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01217,
+      "mentions": 1
+    },
+    {
+      "name": "Read case study",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011231,
+      "mentions": 1
+    },
+    {
+      "name": "Read case study",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008736,
+      "mentions": 1
+    },
+    {
+      "name": "Read case study",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008189,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.007782,
+      "mentions": 1
+    },
+    {
+      "name": "Get started",
+      "type": "OTHER",
+      "salience": 0.007174,
+      "mentions": 1
+    },
+    {
+      "name": "Get started today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00693,
+      "mentions": 1
+    },
+    {
+      "name": "Get started",
+      "type": "OTHER",
+      "salience": 0.006854,
+      "mentions": 1
+    },
+    {
+      "name": "I have Shippo integrated with my Square store.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006659,
+      "mentions": 1
+    },
+    {
+      "name": "CEO",
+      "type": "PERSON",
+      "salience": 0.006087,
+      "mentions": 1
+    },
+    {
+      "name": "Explore our network",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005917,
+      "mentions": 1
+    },
+    {
+      "name": "CEO",
+      "type": "PERSON",
+      "salience": 0.005839,
+      "mentions": 1
+    },
+    {
+      "name": "COO",
+      "type": "OTHER",
+      "salience": 0.005684,
+      "mentions": 2
+    },
+    {
+      "name": "Co-Founder",
+      "type": "OTHER",
+      "salience": 0.005684,
+      "mentions": 6
+    },
+    {
+      "name": "Read case study",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00526,
+      "mentions": 1
+    },
+    {
+      "name": "Read case study",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005037,
+      "mentions": 1
+    },
+    {
+      "name": "Wendy Webster",
+      "type": "PERSON",
+      "salience": 0.004192,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Hope Foundation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004034,
+      "mentions": 1
+    },
+    {
+      "name": "Scott Morris",
+      "type": "LOCATION",
+      "salience": 0.003828,
+      "mentions": 1
+    },
+    {
+      "name": "Nick Alt",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003785,
+      "mentions": 1
+    },
+    {
+      "name": "Roshambo",
+      "type": "OTHER",
+      "salience": 0.003708,
+      "mentions": 1
+    },
+    {
+      "name": "Leslie Voorhees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003628,
+      "mentions": 1
+    },
+    {
+      "name": "Anomalie",
+      "type": "OTHER",
+      "salience": 0.00357,
+      "mentions": 1
+    },
+    {
+      "name": "Haley Law",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003329,
+      "mentions": 1
+    },
+    {
+      "name": "Derek",
+      "type": "OTHER",
+      "salience": 0.003329,
+      "mentions": 1
+    },
+    {
+      "name": "annually",
+      "type": "OTHER",
+      "salience": 0.003295,
+      "mentions": 1
+    },
+    {
+      "name": "Platforms",
+      "type": "OTHER",
+      "salience": 0.003237,
+      "mentions": 1
+    },
+    {
+      "name": "Software providers",
+      "type": "OTHER",
+      "salience": 0.003181,
+      "mentions": 1
+    },
+    {
+      "name": "a24733290240.cdn.optimizely.com",
+      "type": "OTHER",
+      "salience": 0.003112,
+      "mentions": 2
+    },
+    {
+      "name": "Mat Hofma",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002595,
+      "mentions": 1
+    },
+    {
+      "name": "Erik Polumbo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002595,
+      "mentions": 1
+    },
+    {
+      "name": "Mini Materials",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002539,
+      "mentions": 1
+    },
+    {
+      "name": "Chris Cage",
+      "type": "PERSON",
+      "salience": 0.002436,
+      "mentions": 1
+    },
+    {
+      "name": "Greenbelly",
+      "type": "OTHER",
+      "salience": 0.00239,
+      "mentions": 1
+    },
+    {
+      "name": "Marketplaces",
+      "type": "PERSON",
+      "salience": 0.002327,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprises",
+      "type": "OTHER",
+      "salience": 0.002314,
+      "mentions": 1
+    },
+    {
+      "name": "professional-grade",
+      "type": "OTHER",
+      "salience": 0.002275,
+      "mentions": 1
+    },
+    {
+      "name": "ERR_BLOCKED_BY_CLIENT",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002204,
+      "mentions": 1
+    },
+    {
+      "name": "including shipping and fulfillment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002202,
+      "mentions": 1
+    },
+    {
+      "name": "Reload",
+      "type": "OTHER",
+      "salience": 0.002192,
+      "mentions": 1
+    },
+    {
+      "name": "intuitive docs",
+      "type": "OTHER",
+      "salience": 0.002122,
+      "mentions": 1
+    },
+    {
+      "name": "Louis-Felix Boulanger",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001569,
+      "mentions": 1
+    },
+    {
+      "name": "Bonlook",
+      "type": "OTHER",
+      "salience": 0.001546,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001524,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.001524,
+      "mentions": 1
+    },
+    {
+      "name": "$12",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 36,
+    "LOCATION": 2,
+    "CONSUMER_GOOD": 27,
+    "ORGANIZATION": 2,
+    "PERSON": 5,
+    "PRICE": 1,
+    "NUMBER": 5
+  },
+  "type_salience": {
+    "OTHER": 0.5937850000000001,
+    "LOCATION": 0.081437,
+    "CONSUMER_GOOD": 0.23866400000000007,
+    "ORGANIZATION": 0.022839,
+    "PERSON": 0.020881,
+    "PRICE": 0.0,
+    "NUMBER": 0.0
+  }
+}

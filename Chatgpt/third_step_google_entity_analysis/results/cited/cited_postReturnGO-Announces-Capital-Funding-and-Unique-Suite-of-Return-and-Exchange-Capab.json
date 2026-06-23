@@ -1,0 +1,227 @@
+{
+  "file": "cited_postReturnGO-Announces-Capital-Funding-and-Unique-Suite-of-Return-and-Exchange-Capab.txt",
+  "word_count": 356,
+  "entity_count": 34,
+  "entities": [
+    {
+      "name": "BUSINESS WIRE-RetrnGO",
+      "type": "OTHER",
+      "salience": 0.148853,
+      "mentions": 1
+    },
+    {
+      "name": "NE YORK-",
+      "type": "PERSON",
+      "salience": 0.148853,
+      "mentions": 1
+    },
+    {
+      "name": "Fulfilment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.126774,
+      "mentions": 1
+    },
+    {
+      "name": "CF",
+      "type": "OTHER",
+      "salience": 0.091939,
+      "mentions": 1
+    },
+    {
+      "name": "Good Company",
+      "type": "PERSON",
+      "salience": 0.053536,
+      "mentions": 1
+    },
+    {
+      "name": "SeedI",
+      "type": "OTHER",
+      "salience": 0.042574,
+      "mentions": 1
+    },
+    {
+      "name": "e an beemore sustainable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.040745,
+      "mentions": 1
+    },
+    {
+      "name": "more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.032379,
+      "mentions": 1
+    },
+    {
+      "name": "o-rha system",
+      "type": "OTHER",
+      "salience": 0.032248,
+      "mentions": 1
+    },
+    {
+      "name": "and Aristagroa",
+      "type": "OTHER",
+      "salience": 0.030815,
+      "mentions": 1
+    },
+    {
+      "name": "whe providig csters with n eve bette hopg eperience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02949,
+      "mentions": 1
+    },
+    {
+      "name": "ai Avi",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02949,
+      "mentions": 1
+    },
+    {
+      "name": "prntageungheneeorfuln",
+      "type": "OTHER",
+      "salience": 0.02627,
+      "mentions": 1
+    },
+    {
+      "name": "cutpl pel r deve cntamt n IThepay important market",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020496,
+      "mentions": 1
+    },
+    {
+      "name": "continumoentumoverhe",
+      "type": "OTHER",
+      "salience": 0.019893,
+      "mentions": 1
+    },
+    {
+      "name": "About ReturnGO",
+      "type": "OTHER",
+      "salience": 0.019807,
+      "mentions": 1
+    },
+    {
+      "name": "more than 2,500 merchants worldwide",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019186,
+      "mentions": 1
+    },
+    {
+      "name": "incding sale",
+      "type": "OTHER",
+      "salience": 0.019186,
+      "mentions": 1
+    },
+    {
+      "name": "million",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018949,
+      "mentions": 1
+    },
+    {
+      "name": "successful",
+      "type": "OTHER",
+      "salience": 0.018949,
+      "mentions": 1
+    },
+    {
+      "name": "Source: ReturnGO",
+      "type": "OTHER",
+      "salience": 0.018109,
+      "mentions": 1
+    },
+    {
+      "name": "Ronhal GM",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011457,
+      "mentions": 1
+    },
+    {
+      "name": "11/7/2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 6.5",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0,00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 11,
+    "PERSON": 2,
+    "CONSUMER_GOOD": 9,
+    "DATE": 1,
+    "PRICE": 2,
+    "NUMBER": 9
+  },
+  "type_salience": {
+    "OTHER": 0.468643,
+    "PERSON": 0.202389,
+    "CONSUMER_GOOD": 0.328966,
+    "DATE": 0.0,
+    "PRICE": 0.0,
+    "NUMBER": 0.0
+  }
+}

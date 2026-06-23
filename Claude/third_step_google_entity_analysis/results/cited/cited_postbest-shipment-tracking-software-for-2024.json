@@ -1,0 +1,1515 @@
+{
+  "file": "cited_postbest-shipment-tracking-software-for-2024.txt",
+  "word_count": 1812,
+  "entity_count": 248,
+  "entities": [
+    {
+      "name": "Track123",
+      "type": "OTHER",
+      "salience": 0.062686,
+      "mentions": 1
+    },
+    {
+      "name": "Tracktor",
+      "type": "OTHER",
+      "salience": 0.060903,
+      "mentions": 1
+    },
+    {
+      "name": "tracking pages",
+      "type": "OTHER",
+      "salience": 0.054488,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Platform Integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.034476,
+      "mentions": 1
+    },
+    {
+      "name": "reviews and features:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024527,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications",
+      "type": "OTHER",
+      "salience": 0.02246,
+      "mentions": 1
+    },
+    {
+      "name": "Consider the Advanced Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021801,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with 1,126 carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021478,
+      "mentions": 1
+    },
+    {
+      "name": "or more specifically",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021419,
+      "mentions": 1
+    },
+    {
+      "name": "Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020339,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.018253,
+      "mentions": 1
+    },
+    {
+      "name": "Tracktor",
+      "type": "OTHER",
+      "salience": 0.017582,
+      "mentions": 1
+    },
+    {
+      "name": "compare 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014824,
+      "mentions": 1
+    },
+    {
+      "name": "notifications",
+      "type": "OTHER",
+      "salience": 0.013958,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.013778,
+      "mentions": 1
+    },
+    {
+      "name": "Return items tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012001,
+      "mentions": 1
+    },
+    {
+      "name": "Price from",
+      "type": "OTHER",
+      "salience": 0.011953,
+      "mentions": 1
+    },
+    {
+      "name": "Track123",
+      "type": "OTHER",
+      "salience": 0.01188,
+      "mentions": 1
+    },
+    {
+      "name": "Track123",
+      "type": "OTHER",
+      "salience": 0.01182,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011378,
+      "mentions": 1
+    },
+    {
+      "name": "Parcel Panel",
+      "type": "OTHER",
+      "salience": 0.010945,
+      "mentions": 3
+    },
+    {
+      "name": "with 8 standardized order statuses",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01091,
+      "mentions": 1
+    },
+    {
+      "name": "postship",
+      "type": "OTHER",
+      "salience": 0.010667,
+      "mentions": 2
+    },
+    {
+      "name": "Ensure Carrier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010183,
+      "mentions": 1
+    },
+    {
+      "name": "parcelLab",
+      "type": "OTHER",
+      "salience": 0.010119,
+      "mentions": 1
+    },
+    {
+      "name": "Customization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009526,
+      "mentions": 1
+    },
+    {
+      "name": "organization.",
+      "type": "OTHER",
+      "salience": 0.009267,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.009243,
+      "mentions": 1
+    },
+    {
+      "name": "Shipment notifications via Email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009217,
+      "mentions": 1
+    },
+    {
+      "name": "being",
+      "type": "ORGANIZATION",
+      "salience": 0.008901,
+      "mentions": 1
+    },
+    {
+      "name": "carriers' transit time",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00802,
+      "mentions": 1
+    },
+    {
+      "name": "Well then",
+      "type": "OTHER",
+      "salience": 0.007932,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip",
+      "type": "OTHER",
+      "salience": 0.007649,
+      "mentions": 1
+    },
+    {
+      "name": "customer loyalty",
+      "type": "OTHER",
+      "salience": 0.007414,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with over 1,080 carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007344,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with 2,086 carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00671,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.006679,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with 1500+ carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006612,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Tracking",
+      "type": "OTHER",
+      "salience": 0.006498,
+      "mentions": 1
+    },
+    {
+      "name": "destination",
+      "type": "OTHER",
+      "salience": 0.006437,
+      "mentions": 1
+    },
+    {
+      "name": "Imagine",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006437,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with 1,194 carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006341,
+      "mentions": 1
+    },
+    {
+      "name": "WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006197,
+      "mentions": 1
+    },
+    {
+      "name": "Webhook access in Advanced feature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006007,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.00599,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with 1,300+ carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005919,
+      "mentions": 1
+    },
+    {
+      "name": "Check the Reviews",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005878,
+      "mentions": 1
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "salience": 0.005724,
+      "mentions": 1
+    },
+    {
+      "name": "Product recommendations widget in pro feature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005687,
+      "mentions": 1
+    },
+    {
+      "name": "Metapack",
+      "type": "OTHER",
+      "salience": 0.005653,
+      "mentions": 1
+    },
+    {
+      "name": "The above software can all help your business improve customer after-sales experience.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005489,
+      "mentions": 1
+    },
+    {
+      "name": "Pre-built email template only in growth feature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005307,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.004697,
+      "mentions": 1
+    },
+    {
+      "name": "Doesn't support many carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004568,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with 1,500+ carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004455,
+      "mentions": 1
+    },
+    {
+      "name": "Security",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004358,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-function integrations",
+      "type": "OTHER",
+      "salience": 0.004331,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.004285,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.004207,
+      "mentions": 1
+    },
+    {
+      "name": "Interfaces",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004192,
+      "mentions": 1
+    },
+    {
+      "name": "Price from",
+      "type": "OTHER",
+      "salience": 0.004181,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.004033,
+      "mentions": 1
+    },
+    {
+      "name": "Webhook access",
+      "type": "OTHER",
+      "salience": 0.00403,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10 shipment tracking software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003891,
+      "mentions": 1
+    },
+    {
+      "name": "Price from",
+      "type": "OTHER",
+      "salience": 0.003855,
+      "mentions": 1
+    },
+    {
+      "name": "Price from",
+      "type": "OTHER",
+      "salience": 0.003848,
+      "mentions": 1
+    },
+    {
+      "name": "notifications",
+      "type": "OTHER",
+      "salience": 0.003837,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.003775,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify Plus and WooCommerce businesses",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00374,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.003638,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.003535,
+      "mentions": 1
+    },
+    {
+      "name": "Price from",
+      "type": "OTHER",
+      "salience": 0.003412,
+      "mentions": 1
+    },
+    {
+      "name": "No 24/7 customer support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003246,
+      "mentions": 1
+    },
+    {
+      "name": "Customized Email Sender",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003244,
+      "mentions": 1
+    },
+    {
+      "name": "decrease operational cost and complexity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003211,
+      "mentions": 1
+    },
+    {
+      "name": "Price from",
+      "type": "OTHER",
+      "salience": 0.003211,
+      "mentions": 1
+    },
+    {
+      "name": "Customized SMS Templates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003206,
+      "mentions": 1
+    },
+    {
+      "name": "Expensive",
+      "type": "LOCATION",
+      "salience": 0.002952,
+      "mentions": 1
+    },
+    {
+      "name": "and customer feedback",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002946,
+      "mentions": 1
+    },
+    {
+      "name": "Open API",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002914,
+      "mentions": 1
+    },
+    {
+      "name": "Analysis",
+      "type": "OTHER",
+      "salience": 0.002889,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.002837,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with over 1,400 carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002771,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics dashboard to monitor carrier performance",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002761,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.002708,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics",
+      "type": "OTHER",
+      "salience": 0.002695,
+      "mentions": 2
+    },
+    {
+      "name": "incorrect estimated delivery times",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002695,
+      "mentions": 1
+    },
+    {
+      "name": "Fixed email sender",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002629,
+      "mentions": 1
+    },
+    {
+      "name": "Facebook Messenger and SMS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002592,
+      "mentions": 1
+    },
+    {
+      "name": "Price from",
+      "type": "OTHER",
+      "salience": 0.002586,
+      "mentions": 1
+    },
+    {
+      "name": "Price from",
+      "type": "OTHER",
+      "salience": 0.002475,
+      "mentions": 1
+    },
+    {
+      "name": "Multiple languages for email template",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002383,
+      "mentions": 1
+    },
+    {
+      "name": "Email Localization",
+      "type": "OTHER",
+      "salience": 0.002287,
+      "mentions": 1
+    },
+    {
+      "name": "Filter data by location",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002274,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking API",
+      "type": "OTHER",
+      "salience": 0.002206,
+      "mentions": 1
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "salience": 0.002195,
+      "mentions": 1
+    },
+    {
+      "name": "Analytical dashboard with search and filters",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002059,
+      "mentions": 1
+    },
+    {
+      "name": "Only email notification available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002059,
+      "mentions": 1
+    },
+    {
+      "name": "Perfect",
+      "type": "PERSON",
+      "salience": 0.002059,
+      "mentions": 1
+    },
+    {
+      "name": "dropshipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002059,
+      "mentions": 2
+    },
+    {
+      "name": "Google Analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002045,
+      "mentions": 1
+    },
+    {
+      "name": "Order lookup widget not available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001992,
+      "mentions": 1
+    },
+    {
+      "name": "Locations",
+      "type": "OTHER",
+      "salience": 0.001949,
+      "mentions": 1
+    },
+    {
+      "name": "Doesn't",
+      "type": "OTHER",
+      "salience": 0.001949,
+      "mentions": 1
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00192,
+      "mentions": 1
+    },
+    {
+      "name": "Slow customer support according to reviews",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001907,
+      "mentions": 1
+    },
+    {
+      "name": "Filter data by status and by alerts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001907,
+      "mentions": 1
+    },
+    {
+      "name": "Import",
+      "type": "OTHER",
+      "salience": 0.001902,
+      "mentions": 1
+    },
+    {
+      "name": "Automated shipping and branded order tracking system",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001902,
+      "mentions": 1
+    },
+    {
+      "name": "visits",
+      "type": "OTHER",
+      "salience": 0.001902,
+      "mentions": 1
+    },
+    {
+      "name": "Not transparent with its pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001861,
+      "mentions": 1
+    },
+    {
+      "name": "parcelLab",
+      "type": "OTHER",
+      "salience": 0.001853,
+      "mentions": 1
+    },
+    {
+      "name": "Automated shipping processes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001845,
+      "mentions": 1
+    },
+    {
+      "name": "Analytical dashboard with search and filters",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001845,
+      "mentions": 1
+    },
+    {
+      "name": "parcelLab is the global enterprise post-purchase software provider",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001845,
+      "mentions": 1
+    },
+    {
+      "name": "This involves extracting data from carriers' websites",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001812,
+      "mentions": 1
+    },
+    {
+      "name": "Notification Trigger",
+      "type": "OTHER",
+      "salience": 0.001809,
+      "mentions": 1
+    },
+    {
+      "name": "Upsell new products",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001806,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.001762,
+      "mentions": 1
+    },
+    {
+      "name": "This guide ensures timely deliveries and enhances customer satisfaction.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001736,
+      "mentions": 1
+    },
+    {
+      "name": "Price from",
+      "type": "OTHER",
+      "salience": 0.00162,
+      "mentions": 1
+    },
+    {
+      "name": "Metapack",
+      "type": "OTHER",
+      "salience": 0.001583,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001544,
+      "mentions": 1
+    },
+    {
+      "name": "High-value",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001511,
+      "mentions": 1
+    },
+    {
+      "name": "date",
+      "type": "OTHER",
+      "salience": 0.001511,
+      "mentions": 1
+    },
+    {
+      "name": "Doesn't support tracking info import",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001511,
+      "mentions": 1
+    },
+    {
+      "name": "API Integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001436,
+      "mentions": 1
+    },
+    {
+      "name": "Webhook Integration",
+      "type": "OTHER",
+      "salience": 0.00142,
+      "mentions": 1
+    },
+    {
+      "name": "Smart dashboard",
+      "type": "OTHER",
+      "salience": 0.001416,
+      "mentions": 1
+    },
+    {
+      "name": "Through this integration approach",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001412,
+      "mentions": 1
+    },
+    {
+      "name": "Oversea",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001409,
+      "mentions": 1
+    },
+    {
+      "name": "hide",
+      "type": "PERSON",
+      "salience": 0.001409,
+      "mentions": 1
+    },
+    {
+      "name": "Powerful Reports",
+      "type": "PERSON",
+      "salience": 0.001409,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.001393,
+      "mentions": 1
+    },
+    {
+      "name": "Errors occurred",
+      "type": "OTHER",
+      "salience": 0.001369,
+      "mentions": 1
+    },
+    {
+      "name": "Comprehensive insights into your shipping performance",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001348,
+      "mentions": 1
+    },
+    {
+      "name": "No free trial",
+      "type": "OTHER",
+      "salience": 0.001341,
+      "mentions": 1
+    },
+    {
+      "name": "code examples available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001309,
+      "mentions": 1
+    },
+    {
+      "name": "Simple shipment management dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001307,
+      "mentions": 1
+    },
+    {
+      "name": "font",
+      "type": "OTHER",
+      "salience": 0.001235,
+      "mentions": 2
+    },
+    {
+      "name": "logo",
+      "type": "OTHER",
+      "salience": 0.001235,
+      "mentions": 2
+    },
+    {
+      "name": "Potential data privacy concerns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001226,
+      "mentions": 1
+    },
+    {
+      "name": "Numerous carriers integrated",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0012,
+      "mentions": 1
+    },
+    {
+      "name": "Last-mile carrier updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00112,
+      "mentions": 1
+    },
+    {
+      "name": "Comments",
+      "type": "OTHER",
+      "salience": 0.001103,
+      "mentions": 1
+    },
+    {
+      "name": "AI-powered estimated delivery date",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001093,
+      "mentions": 1
+    },
+    {
+      "name": "Cross-selling section",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001069,
+      "mentions": 1
+    },
+    {
+      "name": "incorrect estimated delivery times",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001049,
+      "mentions": 1
+    },
+    {
+      "name": "Web Scraping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001047,
+      "mentions": 1
+    },
+    {
+      "name": "No free trail",
+      "type": "OTHER",
+      "salience": 0.001032,
+      "mentions": 1
+    },
+    {
+      "name": "easily hide any origin",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00099,
+      "mentions": 1
+    },
+    {
+      "name": "Need little IT resources",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000957,
+      "mentions": 1
+    },
+    {
+      "name": "Outstanding support team",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000957,
+      "mentions": 1
+    },
+    {
+      "name": "Unlimited order lookups",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000927,
+      "mentions": 1
+    },
+    {
+      "name": "Lack of cross-selling deals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000917,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced Notification Rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000916,
+      "mentions": 1
+    },
+    {
+      "name": "High visibility in tracking before the first transit scan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000896,
+      "mentions": 1
+    },
+    {
+      "name": "API",
+      "type": "OTHER",
+      "salience": 0.000872,
+      "mentions": 2
+    },
+    {
+      "name": "Dedicated CS manager for Enterprise feature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000862,
+      "mentions": 1
+    },
+    {
+      "name": "PayPal",
+      "type": "ORGANIZATION",
+      "salience": 0.00085,
+      "mentions": 1
+    },
+    {
+      "name": "Simple setup with less than 2 weeks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000827,
+      "mentions": 1
+    },
+    {
+      "name": "Visualization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000813,
+      "mentions": 1
+    },
+    {
+      "name": "Webhook.",
+      "type": "OTHER",
+      "salience": 0.000813,
+      "mentions": 1
+    },
+    {
+      "name": "HTML",
+      "type": "OTHER",
+      "salience": 0.000811,
+      "mentions": 1
+    },
+    {
+      "name": "Blacklist",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00081,
+      "mentions": 1
+    },
+    {
+      "name": "super",
+      "type": "OTHER",
+      "salience": 0.00081,
+      "mentions": 1
+    },
+    {
+      "name": "Conclusion",
+      "type": "OTHER",
+      "salience": 0.000809,
+      "mentions": 1
+    },
+    {
+      "name": "Automated shipping processes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000802,
+      "mentions": 1
+    },
+    {
+      "name": "Discover the key differences between FedEx and UPS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000788,
+      "mentions": 1
+    },
+    {
+      "name": "Personalized Email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000784,
+      "mentions": 1
+    },
+    {
+      "name": "One-click tracking and personalized recommendations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000783,
+      "mentions": 1
+    },
+    {
+      "name": "Powerful Reports",
+      "type": "PERSON",
+      "salience": 0.000671,
+      "mentions": 1
+    },
+    {
+      "name": "Built-in Email Sender",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00065,
+      "mentions": 1
+    },
+    {
+      "name": "Less integration with ecommerce platforms commonly used by SMBs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000648,
+      "mentions": 1
+    },
+    {
+      "name": "Built-in SMS Sender",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000646,
+      "mentions": 1
+    },
+    {
+      "name": "Built-in SMS Templates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000642,
+      "mentions": 1
+    },
+    {
+      "name": "Slack",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000614,
+      "mentions": 1
+    },
+    {
+      "name": "Emial & SMS shipment notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000601,
+      "mentions": 1
+    },
+    {
+      "name": "Exceptional approach to managing returns and exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000588,
+      "mentions": 1
+    },
+    {
+      "name": "web scraping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000588,
+      "mentions": 1
+    },
+    {
+      "name": "CSS",
+      "type": "OTHER",
+      "salience": 0.000586,
+      "mentions": 1
+    },
+    {
+      "name": "Read next",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000579,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.000567,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "Numerous carriers integrated",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000533,
+      "mentions": 1
+    },
+    {
+      "name": "Errors occurred",
+      "type": "OTHER",
+      "salience": 0.000533,
+      "mentions": 1
+    },
+    {
+      "name": "Lack of advanced notification rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000533,
+      "mentions": 1
+    },
+    {
+      "name": "Pre-Built Email Templates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000524,
+      "mentions": 1
+    },
+    {
+      "name": "Visualized Email Editor",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000519,
+      "mentions": 1
+    },
+    {
+      "name": "HTML Email Editor",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000518,
+      "mentions": 1
+    },
+    {
+      "name": "Dedicated SMS Sender",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000512,
+      "mentions": 1
+    },
+    {
+      "name": "FAQs",
+      "type": "OTHER",
+      "salience": 0.000384,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,126",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,126",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,080",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,080",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,086",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,086",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,194",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,194",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 84,
+    "CONSUMER_GOOD": 109,
+    "ORGANIZATION": 2,
+    "LOCATION": 1,
+    "PERSON": 4,
+    "NUMBER": 52,
+    "DATE": 3,
+    "PRICE": 1
+  },
+  "type_salience": {
+    "OTHER": 0.5272999999999997,
+    "CONSUMER_GOOD": 0.43955999999999984,
+    "ORGANIZATION": 0.009751,
+    "LOCATION": 0.002952,
+    "PERSON": 0.005548,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

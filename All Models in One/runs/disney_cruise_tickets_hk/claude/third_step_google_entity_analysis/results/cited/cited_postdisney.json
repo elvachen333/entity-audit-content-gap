@@ -1,0 +1,1773 @@
+{
+  "file": "cited_postdisney.txt",
+  "word_count": 1362,
+  "entity_count": 291,
+  "entities": [
+    {
+      "name": "Cruise Destination",
+      "type": "OTHER",
+      "salience": 0.167658,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Departure Ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.087426,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Month",
+      "type": "OTHER",
+      "salience": 0.065979,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Month",
+      "type": "OTHER",
+      "salience": 0.063275,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Length",
+      "type": "OTHER",
+      "salience": 0.033023,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Length",
+      "type": "OTHER",
+      "salience": 0.032644,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.030611,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Ship",
+      "type": "OTHER",
+      "salience": 0.029444,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Booking",
+      "type": "OTHER",
+      "salience": 0.028397,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Deals",
+      "type": "OTHER",
+      "salience": 0.028152,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Deals",
+      "type": "OTHER",
+      "salience": 0.027452,
+      "mentions": 1
+    },
+    {
+      "name": "Cruise Deals",
+      "type": "OTHER",
+      "salience": 0.02526,
+      "mentions": 1
+    },
+    {
+      "name": "All Cruise Destinations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01711,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Offers",
+      "type": "OTHER",
+      "salience": 0.014743,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Deals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014619,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Sailings",
+      "type": "OTHER",
+      "salience": 0.013937,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Sailings",
+      "type": "OTHER",
+      "salience": 0.013247,
+      "mentions": 1
+    },
+    {
+      "name": "All Departure Ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011174,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Adventure",
+      "type": "PERSON",
+      "salience": 0.00955,
+      "mentions": 4
+    },
+    {
+      "name": "Loading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009297,
+      "mentions": 1
+    },
+    {
+      "name": "Top Cruise Destinations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007924,
+      "mentions": 1
+    },
+    {
+      "name": "CruiseBooking.com.",
+      "type": "OTHER",
+      "salience": 0.00721,
+      "mentions": 1
+    },
+    {
+      "name": "CruiseBooking.com",
+      "type": "OTHER",
+      "salience": 0.006912,
+      "mentions": 1
+    },
+    {
+      "name": "Loading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006458,
+      "mentions": 1
+    },
+    {
+      "name": "Top Departure Ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004731,
+      "mentions": 1
+    },
+    {
+      "name": "All Cruise Lines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004399,
+      "mentions": 1
+    },
+    {
+      "name": "Offers",
+      "type": "OTHER",
+      "salience": 0.004303,
+      "mentions": 1
+    },
+    {
+      "name": "All Ships",
+      "type": "OTHER",
+      "salience": 0.004234,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.004223,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.004117,
+      "mentions": 1
+    },
+    {
+      "name": "Special Offer",
+      "type": "OTHER",
+      "salience": 0.003922,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line : Disney Dream",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003859,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line : Disney Fantasy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003731,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.003709,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line : Disney Treasure",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003615,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line",
+      "type": "OTHER",
+      "salience": 0.003578,
+      "mentions": 1
+    },
+    {
+      "name": "Destinations",
+      "type": "OTHER",
+      "salience": 0.003523,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line : Disney Treasure",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003509,
+      "mentions": 1
+    },
+    {
+      "name": "Destinations",
+      "type": "OTHER",
+      "salience": 0.003368,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.003343,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "PERSON",
+      "salience": 0.003317,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.003317,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003317,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003296,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from$230.74",
+      "type": "OTHER",
+      "salience": 0.003234,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.003234,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003234,
+      "mentions": 1
+    },
+    {
+      "name": "CruiseBooking.com.",
+      "type": "OTHER",
+      "salience": 0.003222,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003215,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line : Disney Wonder",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00317,
+      "mentions": 1
+    },
+    {
+      "name": "Departure Ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003125,
+      "mentions": 1
+    },
+    {
+      "name": "Aug-2026",
+      "type": "OTHER",
+      "salience": 0.003088,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line : Disney Wonder",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00304,
+      "mentions": 1
+    },
+    {
+      "name": "Ocean Cruises",
+      "type": "OTHER",
+      "salience": 0.003036,
+      "mentions": 2
+    },
+    {
+      "name": "Departure Ports",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002989,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line : Disney Magic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002925,
+      "mentions": 1
+    },
+    {
+      "name": "Nov-2026",
+      "type": "OTHER",
+      "salience": 0.002848,
+      "mentions": 1
+    },
+    {
+      "name": "Loading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00266,
+      "mentions": 1
+    },
+    {
+      "name": "Loading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002562,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002465,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002385,
+      "mentions": 1
+    },
+    {
+      "name": "Aug-2027",
+      "type": "OTHER",
+      "salience": 0.002361,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002313,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002246,
+      "mentions": 1
+    },
+    {
+      "name": "Nov-2027",
+      "type": "OTHER",
+      "salience": 0.002245,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.002205,
+      "mentions": 1
+    },
+    {
+      "name": "Singapore",
+      "type": "LOCATION",
+      "salience": 0.002163,
+      "mentions": 4
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.002134,
+      "mentions": 1
+    },
+    {
+      "name": "Search Cruises",
+      "type": "OTHER",
+      "salience": 0.002085,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.00207,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002018,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.002011,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001938,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001867,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.001804,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.001733,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.001669,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.001476,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced Search",
+      "type": "OTHER",
+      "salience": 0.001463,
+      "mentions": 1
+    },
+    {
+      "name": "Book Now",
+      "type": "OTHER",
+      "salience": 0.001442,
+      "mentions": 1
+    },
+    {
+      "name": "Click Here",
+      "type": "OTHER",
+      "salience": 0.001425,
+      "mentions": 1
+    },
+    {
+      "name": "River Cruises",
+      "type": "PERSON",
+      "salience": 0.001373,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "PERSON",
+      "salience": 0.001337,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.001337,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00132,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "PERSON",
+      "salience": 0.001294,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.001294,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001278,
+      "mentions": 1
+    },
+    {
+      "name": "Southeast Asia",
+      "type": "PERSON",
+      "salience": 0.001263,
+      "mentions": 2
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.001254,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "PERSON",
+      "salience": 0.001254,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00124,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "PERSON",
+      "salience": 0.001218,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.001218,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001205,
+      "mentions": 1
+    },
+    {
+      "name": "With Disney Cruise",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001193,
+      "mentions": 1
+    },
+    {
+      "name": "With Disney Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001166,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001159,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.001159,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "PERSON",
+      "salience": 0.001159,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001152,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from$245.65",
+      "type": "OTHER",
+      "salience": 0.001133,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.001133,
+      "mentions": 1
+    },
+    {
+      "name": "Includes taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001133,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001126,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "PERSON",
+      "salience": 0.001096,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.001096,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001079,
+      "mentions": 1
+    },
+    {
+      "name": "Disney cruise Line: Special Deals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00107,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "PERSON",
+      "salience": 0.001052,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.001052,
+      "mentions": 1
+    },
+    {
+      "name": "Offers",
+      "type": "OTHER",
+      "salience": 0.001049,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001037,
+      "mentions": 1
+    },
+    {
+      "name": "Starting from",
+      "type": "PERSON",
+      "salience": 0.001013,
+      "mentions": 1
+    },
+    {
+      "name": "/night",
+      "type": "OTHER",
+      "salience": 0.001013,
+      "mentions": 1
+    },
+    {
+      "name": "What's Included",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000999,
+      "mentions": 1
+    },
+    {
+      "name": "Save on 2026 European Cruises",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000935,
+      "mentions": 1
+    },
+    {
+      "name": "Caribbean Southern",
+      "type": "PERSON",
+      "salience": 0.000932,
+      "mentions": 1
+    },
+    {
+      "name": "Caribbean Eastern",
+      "type": "OTHER",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "Caribbean Western",
+      "type": "PERSON",
+      "salience": 0.000876,
+      "mentions": 1
+    },
+    {
+      "name": "May 28",
+      "type": "OTHER",
+      "salience": 0.000734,
+      "mentions": 1
+    },
+    {
+      "name": "Jun 15",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000706,
+      "mentions": 1
+    },
+    {
+      "name": "character interactions",
+      "type": "OTHER",
+      "salience": 0.000422,
+      "mentions": 1
+    },
+    {
+      "name": "themed bars",
+      "type": "OTHER",
+      "salience": 0.000422,
+      "mentions": 1
+    },
+    {
+      "name": "free upgrades",
+      "type": "OTHER",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "themed dining",
+      "type": "OTHER",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "September",
+      "type": "PERSON",
+      "salience": 0.000398,
+      "mentions": 1
+    },
+    {
+      "name": "magic",
+      "type": "OTHER",
+      "salience": 0.000391,
+      "mentions": 1
+    },
+    {
+      "name": "Line vacation.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000387,
+      "mentions": 1
+    },
+    {
+      "name": "more affordable.",
+      "type": "OTHER",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "September 19",
+      "type": "OTHER",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "Enter your Email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000371,
+      "mentions": 1
+    },
+    {
+      "name": "Statement Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000329,
+      "mentions": 1
+    },
+    {
+      "name": "first 3",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000329,
+      "mentions": 1
+    },
+    {
+      "name": "Family-friendly Cruise Deals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000324,
+      "mentions": 1
+    },
+    {
+      "name": "Mediterranean",
+      "type": "OTHER",
+      "salience": 0.000301,
+      "mentions": 1
+    },
+    {
+      "name": "play areas.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "fitness",
+      "type": "OTHER",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "Photo Courtesy",
+      "type": "PERSON",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "*Terms and Conditions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000267,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe Our Newsletter",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000266,
+      "mentions": 1
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "salience": 0.000265,
+      "mentions": 1
+    },
+    {
+      "name": "Re-enter Email",
+      "type": "OTHER",
+      "salience": 0.000263,
+      "mentions": 1
+    },
+    {
+      "name": "I agree",
+      "type": "OTHER",
+      "salience": 0.000263,
+      "mentions": 1
+    },
+    {
+      "name": "Aug 17",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000253,
+      "mentions": 1
+    },
+    {
+      "name": "Terms & Conditions and Disclaimer",
+      "type": "OTHER",
+      "salience": 0.000234,
+      "mentions": 1
+    },
+    {
+      "name": "Freepik",
+      "type": "OTHER",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "Depositphotos",
+      "type": "OTHER",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "Price Drop",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Halloween Cruise Deal",
+      "type": "OTHER",
+      "salience": 0.000131,
+      "mentions": 1
+    },
+    {
+      "name": "statement credit after paying",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000131,
+      "mentions": 1
+    },
+    {
+      "name": "Crystal Cruise Deals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "Holiday Cruise Deal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "Image Source",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000124,
+      "mentions": 1
+    },
+    {
+      "name": "120-Day Tracker",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Jun 15, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Aug 17, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 11, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 25, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 28, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 24, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 12, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 12, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 19, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$187.65",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$562.95",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$230.74",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$922.95",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$254.65",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$763.95",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$245.65",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$736.95",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$302.61",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,118.25",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$293.61",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,055.25",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$282.80",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,979.63",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$402.30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4,827.58",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$437.32",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4,373.22",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$306.94",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,148.57",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$288.96",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,022.69",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2028",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2028",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2028",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 11, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 21, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "187.65",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "562.95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "230.74",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "922.95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "254.65",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "763.95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "245.65",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "736.95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "302.61",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,118.25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "293.61",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,055.25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "282.80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,979.63",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "402.30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,827.58",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "437.32",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,373.22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "306.94",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,148.57",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "288.96",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,022.69",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 75,
+    "CONSUMER_GOOD": 62,
+    "PERSON": 20,
+    "ORGANIZATION": 2,
+    "LOCATION": 4,
+    "NUMBER": 99,
+    "DATE": 12,
+    "PRICE": 25
+  },
+  "type_salience": {
+    "OTHER": 0.6560960000000001,
+    "CONSUMER_GOOD": 0.2785350000000002,
+    "PERSON": 0.027409999999999993,
+    "ORGANIZATION": 0.007052,
+    "LOCATION": 0.002163,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

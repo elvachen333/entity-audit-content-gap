@@ -1,0 +1,1457 @@
+{
+  "file": "cited_posthow-to-save-on-booking-a-cruise_utm_source=openai.txt",
+  "word_count": 2150,
+  "entity_count": 238,
+  "entities": [
+    {
+      "name": "Kiplinger",
+      "type": "OTHER",
+      "salience": 0.173308,
+      "mentions": 3
+    },
+    {
+      "name": "From",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.051128,
+      "mentions": 1
+    },
+    {
+      "name": "Retirement",
+      "type": "OTHER",
+      "salience": 0.04044,
+      "mentions": 9
+    },
+    {
+      "name": "Retirement Plans",
+      "type": "OTHER",
+      "salience": 0.025,
+      "mentions": 1
+    },
+    {
+      "name": "The Kiplinger Letter",
+      "type": "LOCATION",
+      "salience": 0.023541,
+      "mentions": 1
+    },
+    {
+      "name": "Investing",
+      "type": "OTHER",
+      "salience": 0.02091,
+      "mentions": 4
+    },
+    {
+      "name": "Kiplinger Puzzles",
+      "type": "OTHER",
+      "salience": 0.016945,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Economic Forecasts",
+      "type": "OTHER",
+      "salience": 0.016471,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Personal Finance",
+      "type": "OTHER",
+      "salience": 0.015129,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Retirement Report",
+      "type": "OTHER",
+      "salience": 0.014675,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Retirement Planning",
+      "type": "OTHER",
+      "salience": 0.014568,
+      "mentions": 1
+    },
+    {
+      "name": "Personal Finance",
+      "type": "OTHER",
+      "salience": 0.011366,
+      "mentions": 5
+    },
+    {
+      "name": "Credit Cards",
+      "type": "PERSON",
+      "salience": 0.010384,
+      "mentions": 2
+    },
+    {
+      "name": "Taxes",
+      "type": "OTHER",
+      "salience": 0.010334,
+      "mentions": 6
+    },
+    {
+      "name": "Subscriptions",
+      "type": "OTHER",
+      "salience": 0.009882,
+      "mentions": 1
+    },
+    {
+      "name": "Subscriptions Store",
+      "type": "OTHER",
+      "salience": 0.009801,
+      "mentions": 1
+    },
+    {
+      "name": "Subscriptions Help",
+      "type": "OTHER",
+      "salience": 0.009643,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Today",
+      "type": "OTHER",
+      "salience": 0.008358,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Adviser Intel",
+      "type": "OTHER",
+      "salience": 0.007908,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Tax Tips",
+      "type": "OTHER",
+      "salience": 0.007782,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Retirement Tips",
+      "type": "OTHER",
+      "salience": 0.007663,
+      "mentions": 1
+    },
+    {
+      "name": "Newsletters",
+      "type": "OTHER",
+      "salience": 0.007485,
+      "mentions": 2
+    },
+    {
+      "name": "Newsletter sign-up",
+      "type": "OTHER",
+      "salience": 0.007418,
+      "mentions": 1
+    },
+    {
+      "name": "Annuities",
+      "type": "OTHER",
+      "salience": 0.007,
+      "mentions": 1
+    },
+    {
+      "name": "NewsletterNewsletter",
+      "type": "OTHER",
+      "salience": 0.006633,
+      "mentions": 1
+    },
+    {
+      "name": "Adviser Intel",
+      "type": "OTHER",
+      "salience": 0.006575,
+      "mentions": 1
+    },
+    {
+      "name": "Social Security",
+      "type": "OTHER",
+      "salience": 0.005921,
+      "mentions": 1
+    },
+    {
+      "name": "Tax Returns",
+      "type": "OTHER",
+      "salience": 0.005904,
+      "mentions": 1
+    },
+    {
+      "name": "Tax Deductions",
+      "type": "OTHER",
+      "salience": 0.005793,
+      "mentions": 1
+    },
+    {
+      "name": "The annual fee is",
+      "type": "LOCATION",
+      "salience": 0.005641,
+      "mentions": 1
+    },
+    {
+      "name": "More",
+      "type": "OTHER",
+      "salience": 0.005586,
+      "mentions": 1
+    },
+    {
+      "name": "Tax Planning",
+      "type": "OTHER",
+      "salience": 0.005491,
+      "mentions": 1
+    },
+    {
+      "name": "The Chase Sapphire Preferred",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00522,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.005214,
+      "mentions": 1
+    },
+    {
+      "name": "Estate Planning",
+      "type": "OTHER",
+      "salience": 0.005169,
+      "mentions": 1
+    },
+    {
+      "name": "The annual fee is",
+      "type": "LOCATION",
+      "salience": 0.005146,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.005125,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.00504,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.004959,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.004882,
+      "mentions": 1
+    },
+    {
+      "name": "Money-saving",
+      "type": "OTHER",
+      "salience": 0.004802,
+      "mentions": 1
+    },
+    {
+      "name": "Get Kiplinger Today newsletter",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004589,
+      "mentions": 1
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "salience": 0.004406,
+      "mentions": 1
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "salience": 0.004352,
+      "mentions": 1
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "salience": 0.004299,
+      "mentions": 1
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "salience": 0.004299,
+      "mentions": 1
+    },
+    {
+      "name": "Wealth Management",
+      "type": "OTHER",
+      "salience": 0.004214,
+      "mentions": 1
+    },
+    {
+      "name": "State Taxes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003493,
+      "mentions": 1
+    },
+    {
+      "name": "Mutual Funds",
+      "type": "OTHER",
+      "salience": 0.003489,
+      "mentions": 1
+    },
+    {
+      "name": "Capital One Travel.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002957,
+      "mentions": 1
+    },
+    {
+      "name": "Delivered daily.",
+      "type": "OTHER",
+      "salience": 0.002887,
+      "mentions": 1
+    },
+    {
+      "name": "My Subscriptions",
+      "type": "OTHER",
+      "salience": 0.002805,
+      "mentions": 1
+    },
+    {
+      "name": "Delivered daily",
+      "type": "OTHER",
+      "salience": 0.002739,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Investing Weekly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002732,
+      "mentions": 1
+    },
+    {
+      "name": "Delivered daily",
+      "type": "OTHER",
+      "salience": 0.002634,
+      "mentions": 1
+    },
+    {
+      "name": "Delivered weekly",
+      "type": "OTHER",
+      "salience": 0.002549,
+      "mentions": 1
+    },
+    {
+      "name": "Tools and Calculators",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002516,
+      "mentions": 1
+    },
+    {
+      "name": "Insurance",
+      "type": "OTHER",
+      "salience": 0.00239,
+      "mentions": 1
+    },
+    {
+      "name": "The",
+      "type": "PERSON",
+      "salience": 0.002176,
+      "mentions": 1
+    },
+    {
+      "name": "Real Estate",
+      "type": "OTHER",
+      "salience": 0.002167,
+      "mentions": 1
+    },
+    {
+      "name": "AI",
+      "type": "OTHER",
+      "salience": 0.001934,
+      "mentions": 1
+    },
+    {
+      "name": "at $1,485 per person",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001901,
+      "mentions": 1
+    },
+    {
+      "name": "Latest issue of Kiplinger Today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001889,
+      "mentions": 1
+    },
+    {
+      "name": "Share this article",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001884,
+      "mentions": 1
+    },
+    {
+      "name": "free",
+      "type": "OTHER",
+      "salience": 0.001853,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.001766,
+      "mentions": 1
+    },
+    {
+      "name": "personal finance and more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001756,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.00174,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.001715,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.001691,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe from just",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001609,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger App",
+      "type": "OTHER",
+      "salience": 0.001606,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Newsletters",
+      "type": "OTHER",
+      "salience": 0.001603,
+      "mentions": 1
+    },
+    {
+      "name": "Kiplinger Puzzles",
+      "type": "OTHER",
+      "salience": 0.00159,
+      "mentions": 1
+    },
+    {
+      "name": "last updated 6 days ago",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00154,
+      "mentions": 1
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "salience": 0.001496,
+      "mentions": 1
+    },
+    {
+      "name": "better informed investor.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00149,
+      "mentions": 1
+    },
+    {
+      "name": "Best yet",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001485,
+      "mentions": 1
+    },
+    {
+      "name": "Costco",
+      "type": "ORGANIZATION",
+      "salience": 0.001455,
+      "mentions": 1
+    },
+    {
+      "name": "Costco cruise packages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001448,
+      "mentions": 1
+    },
+    {
+      "name": "From just",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001368,
+      "mentions": 1
+    },
+    {
+      "name": "Live",
+      "type": "OTHER",
+      "salience": 0.001312,
+      "mentions": 1
+    },
+    {
+      "name": "expert advice",
+      "type": "OTHER",
+      "salience": 0.001307,
+      "mentions": 1
+    },
+    {
+      "name": "An entry-level Costco membership costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001236,
+      "mentions": 1
+    },
+    {
+      "name": "interior rooms only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001215,
+      "mentions": 1
+    },
+    {
+      "name": "Highest-Yielding",
+      "type": "OTHER",
+      "salience": 0.001206,
+      "mentions": 1
+    },
+    {
+      "name": "S&P 500",
+      "type": "OTHER",
+      "salience": 0.001206,
+      "mentions": 1
+    },
+    {
+      "name": "Sign up",
+      "type": "OTHER",
+      "salience": 0.001118,
+      "mentions": 1
+    },
+    {
+      "name": "Copy link",
+      "type": "OTHER",
+      "salience": 0.001071,
+      "mentions": 1
+    },
+    {
+      "name": "Follow us",
+      "type": "OTHER",
+      "salience": 0.001036,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.001022,
+      "mentions": 1
+    },
+    {
+      "name": "Subscriptions Store",
+      "type": "OTHER",
+      "salience": 0.00102,
+      "mentions": 1
+    },
+    {
+      "name": "Retirement Editor",
+      "type": "OTHER",
+      "salience": 0.000997,
+      "mentions": 1
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "salience": 0.000981,
+      "mentions": 1
+    },
+    {
+      "name": "Read Capital One Venture Rewards Credit Card",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "straight",
+      "type": "OTHER",
+      "salience": 0.000834,
+      "mentions": 1
+    },
+    {
+      "name": "straight",
+      "type": "OTHER",
+      "salience": 0.000831,
+      "mentions": 1
+    },
+    {
+      "name": "interest rate.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000764,
+      "mentions": 1
+    },
+    {
+      "name": "Rates are 18.24% to 28.24% variable APR.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000742,
+      "mentions": 1
+    },
+    {
+      "name": "Get Kiplinger Today newsletter",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000622,
+      "mentions": 1
+    },
+    {
+      "name": "Chase offers",
+      "type": "OTHER",
+      "salience": 0.0006,
+      "mentions": 1
+    },
+    {
+      "name": "Adviser Intel",
+      "type": "OTHER",
+      "salience": 0.000599,
+      "mentions": 1
+    },
+    {
+      "name": "including taxes and fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000564,
+      "mentions": 1
+    },
+    {
+      "name": "Disclaimer",
+      "type": "OTHER",
+      "salience": 0.000562,
+      "mentions": 1
+    },
+    {
+      "name": "Travel Agents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000552,
+      "mentions": 1
+    },
+    {
+      "name": "Delivered daily.",
+      "type": "OTHER",
+      "salience": 0.000545,
+      "mentions": 1
+    },
+    {
+      "name": "variable",
+      "type": "OTHER",
+      "salience": 0.000544,
+      "mentions": 1
+    },
+    {
+      "name": "BJ's",
+      "type": "OTHER",
+      "salience": 0.000449,
+      "mentions": 1
+    },
+    {
+      "name": "funds",
+      "type": "OTHER",
+      "salience": 0.000412,
+      "mentions": 1
+    },
+    {
+      "name": "Image credit: Getty Images",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000403,
+      "mentions": 1
+    },
+    {
+      "name": "simple and flexible,",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "Read More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0004,
+      "mentions": 1
+    },
+    {
+      "name": "Instead",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000399,
+      "mentions": 1
+    },
+    {
+      "name": "Stock Market Today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000382,
+      "mentions": 1
+    },
+    {
+      "name": "LINKEDIN",
+      "type": "OTHER",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "EMAIL",
+      "type": "OTHER",
+      "salience": 0.000374,
+      "mentions": 1
+    },
+    {
+      "name": "consumer site",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00036,
+      "mentions": 1
+    },
+    {
+      "name": "Other considerations",
+      "type": "OTHER",
+      "salience": 0.000359,
+      "mentions": 1
+    },
+    {
+      "name": "Disclaimer",
+      "type": "OTHER",
+      "salience": 0.000354,
+      "mentions": 1
+    },
+    {
+      "name": "Cash ®",
+      "type": "OTHER",
+      "salience": 0.000354,
+      "mentions": 1
+    },
+    {
+      "name": "Contact Future's experts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000332,
+      "mentions": 1
+    },
+    {
+      "name": "such as airfare",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000318,
+      "mentions": 1
+    },
+    {
+      "name": "However",
+      "type": "OTHER",
+      "salience": 0.00031,
+      "mentions": 1
+    },
+    {
+      "name": "however",
+      "type": "OTHER",
+      "salience": 0.000309,
+      "mentions": 1
+    },
+    {
+      "name": "hotel",
+      "type": "OTHER",
+      "salience": 0.000303,
+      "mentions": 1
+    },
+    {
+      "name": "within 3",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000303,
+      "mentions": 1
+    },
+    {
+      "name": "rate of 1",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000296,
+      "mentions": 1
+    },
+    {
+      "name": "My Subscriptions",
+      "type": "OTHER",
+      "salience": 0.000293,
+      "mentions": 1
+    },
+    {
+      "name": "Future US",
+      "type": "OTHER",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "and 2",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000276,
+      "mentions": 1
+    },
+    {
+      "name": "those",
+      "type": "OTHER",
+      "salience": 0.000257,
+      "mentions": 1
+    },
+    {
+      "name": "free",
+      "type": "OTHER",
+      "salience": 0.000251,
+      "mentions": 1
+    },
+    {
+      "name": "Social Links Navigation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000249,
+      "mentions": 1
+    },
+    {
+      "name": "She joined Kiplinger in 2021",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000247,
+      "mentions": 1
+    },
+    {
+      "name": "She",
+      "type": "PERSON",
+      "salience": 0.000246,
+      "mentions": 1
+    },
+    {
+      "name": "She",
+      "type": "PERSON",
+      "salience": 0.000246,
+      "mentions": 1
+    },
+    {
+      "name": "Tools and Calculators",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000238,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000235,
+      "mentions": 1
+    },
+    {
+      "name": "plus get up to 4 Special Issues",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000215,
+      "mentions": 1
+    },
+    {
+      "name": "writer",
+      "type": "OTHER",
+      "salience": 0.000194,
+      "mentions": 1
+    },
+    {
+      "name": "About Kiplinger",
+      "type": "OTHER",
+      "salience": 0.00019,
+      "mentions": 1
+    },
+    {
+      "name": "Economic Forecasts",
+      "type": "OTHER",
+      "salience": 0.000187,
+      "mentions": 1
+    },
+    {
+      "name": "About Us",
+      "type": "OTHER",
+      "salience": 0.000186,
+      "mentions": 1
+    },
+    {
+      "name": "New York",
+      "type": "PERSON",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "think",
+      "type": "OTHER",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "Surprisingly",
+      "type": "OTHER",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "Prevention's",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000141,
+      "mentions": 1
+    },
+    {
+      "name": "CDC",
+      "type": "ORGANIZATION",
+      "salience": 0.000141,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000141,
+      "mentions": 1
+    },
+    {
+      "name": "airline",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000141,
+      "mentions": 1
+    },
+    {
+      "name": "Similarly",
+      "type": "OTHER",
+      "salience": 0.00014,
+      "mentions": 1
+    },
+    {
+      "name": "Useful links",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "Cookie Policy",
+      "type": "OTHER",
+      "salience": 0.000131,
+      "mentions": 1
+    },
+    {
+      "name": "GDPR consent",
+      "type": "OTHER",
+      "salience": 0.000131,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10036",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "130 West 42nd Street,\nNew York,\nNY 10036",
+      "type": "ADDRESS",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$107.88",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$24.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$107.88",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$24.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$107.88",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$24.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$95",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$95",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$750",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$200",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$65",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$55",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,485",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$244",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "107.88",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "APR. 2",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "107.88",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "107.88",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28.24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19.49",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28.49",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "750",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18.24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28.24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "65",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "55",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,485",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,485",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "244",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "130",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "42",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 123,
+    "CONSUMER_GOOD": 44,
+    "LOCATION": 3,
+    "PERSON": 6,
+    "ORGANIZATION": 2,
+    "NUMBER": 61,
+    "ADDRESS": 1,
+    "PRICE": 20,
+    "DATE": 2
+  },
+  "type_salience": {
+    "OTHER": 0.6024550000000005,
+    "CONSUMER_GOOD": 0.10103699999999999,
+    "LOCATION": 0.034328,
+    "PERSON": 0.013233999999999998,
+    "ORGANIZATION": 0.001596,
+    "NUMBER": 0.0,
+    "ADDRESS": 0.0,
+    "PRICE": 0.0,
+    "DATE": 0.0
+  }
+}

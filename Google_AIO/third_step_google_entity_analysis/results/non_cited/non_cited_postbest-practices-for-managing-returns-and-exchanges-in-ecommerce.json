@@ -1,0 +1,355 @@
+{
+  "file": "non_cited_postbest-practices-for-managing-returns-and-exchanges-in-ecommerce.txt",
+  "word_count": 624,
+  "entity_count": 56,
+  "entities": [
+    {
+      "name": "Marketplaces",
+      "type": "PERSON",
+      "salience": 0.087388,
+      "mentions": 1
+    },
+    {
+      "name": "Close",
+      "type": "OTHER",
+      "salience": 0.069054,
+      "mentions": 1
+    },
+    {
+      "name": "Advantage",
+      "type": "OTHER",
+      "salience": 0.052343,
+      "mentions": 1
+    },
+    {
+      "name": "Multichannel Repricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.049288,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Listing",
+      "type": "OTHER",
+      "salience": 0.046954,
+      "mentions": 1
+    },
+    {
+      "name": "Order Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.046023,
+      "mentions": 1
+    },
+    {
+      "name": "Marketplaces",
+      "type": "PERSON",
+      "salience": 0.042681,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.032892,
+      "mentions": 2
+    },
+    {
+      "name": "Multichannel Repricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.031366,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Listing",
+      "type": "OTHER",
+      "salience": 0.030782,
+      "mentions": 1
+    },
+    {
+      "name": "Services",
+      "type": "OTHER",
+      "salience": 0.03024,
+      "mentions": 2
+    },
+    {
+      "name": "return deadlines",
+      "type": "OTHER",
+      "salience": 0.029187,
+      "mentions": 1
+    },
+    {
+      "name": "World Class Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.028764,
+      "mentions": 1
+    },
+    {
+      "name": "Order Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.028287,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory Management",
+      "type": "PERSON",
+      "salience": 0.028165,
+      "mentions": 2
+    },
+    {
+      "name": "Insights",
+      "type": "OTHER",
+      "salience": 0.027633,
+      "mentions": 1
+    },
+    {
+      "name": "Advantage",
+      "type": "OTHER",
+      "salience": 0.022919,
+      "mentions": 1
+    },
+    {
+      "name": "Multichannel Order Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022715,
+      "mentions": 1
+    },
+    {
+      "name": "World Class Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019342,
+      "mentions": 1
+    },
+    {
+      "name": "Insights",
+      "type": "OTHER",
+      "salience": 0.019008,
+      "mentions": 1
+    },
+    {
+      "name": "satisfication.",
+      "type": "OTHER",
+      "salience": 0.014943,
+      "mentions": 1
+    },
+    {
+      "name": "Need help?",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014799,
+      "mentions": 1
+    },
+    {
+      "name": "Follow us",
+      "type": "OTHER",
+      "salience": 0.013914,
+      "mentions": 1
+    },
+    {
+      "name": "Customers",
+      "type": "OTHER",
+      "salience": 0.011937,
+      "mentions": 2
+    },
+    {
+      "name": "Flexible and Clear Return Policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011394,
+      "mentions": 1
+    },
+    {
+      "name": "Make sure the policy is clear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011105,
+      "mentions": 1
+    },
+    {
+      "name": "search here",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010572,
+      "mentions": 1
+    },
+    {
+      "name": "The process of managing returns is always challenging.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008521,
+      "mentions": 1
+    },
+    {
+      "name": "experiences",
+      "type": "OTHER",
+      "salience": 0.008099,
+      "mentions": 1
+    },
+    {
+      "name": "blog",
+      "type": "OTHER",
+      "salience": 0.007787,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.007354,
+      "mentions": 1
+    },
+    {
+      "name": "Consumers expect quick",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007273,
+      "mentions": 1
+    },
+    {
+      "name": "and automates return approvals.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00516,
+      "mentions": 1
+    },
+    {
+      "name": "transparent communication",
+      "type": "OTHER",
+      "salience": 0.004835,
+      "mentions": 1
+    },
+    {
+      "name": "convenience",
+      "type": "OTHER",
+      "salience": 0.004751,
+      "mentions": 1
+    },
+    {
+      "name": "This data can direct product enhancements",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004551,
+      "mentions": 1
+    },
+    {
+      "name": "including your website and marketplaces",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004246,
+      "mentions": 1
+    },
+    {
+      "name": "improvement",
+      "type": "OTHER",
+      "salience": 0.003514,
+      "mentions": 1
+    },
+    {
+      "name": "particularly",
+      "type": "OTHER",
+      "salience": 0.003497,
+      "mentions": 1
+    },
+    {
+      "name": "Conclusion",
+      "type": "OTHER",
+      "salience": 0.00332,
+      "mentions": 1
+    },
+    {
+      "name": "Through the integration of these best practices and the utilization of technologies like Marketplace Management Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003296,
+      "mentions": 1
+    },
+    {
+      "name": "notifications",
+      "type": "OTHER",
+      "salience": 0.003144,
+      "mentions": 1
+    },
+    {
+      "name": "and refund processing periods.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003109,
+      "mentions": 1
+    },
+    {
+      "name": "high-return products",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003053,
+      "mentions": 1
+    },
+    {
+      "name": "Communicate Transparently Throughout the Process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002998,
+      "mentions": 1
+    },
+    {
+      "name": "and at-home pickups",
+      "type": "OTHER",
+      "salience": 0.002702,
+      "mentions": 1
+    },
+    {
+      "name": "third-party return centers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002702,
+      "mentions": 1
+    },
+    {
+      "name": "Share on",
+      "type": "OTHER",
+      "salience": 0.00235,
+      "mentions": 1
+    },
+    {
+      "name": "purchase patterns",
+      "type": "OTHER",
+      "salience": 0.002229,
+      "mentions": 1
+    },
+    {
+      "name": "influence consumer choices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002188,
+      "mentions": 1
+    },
+    {
+      "name": "Analyze and Adapt",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002051,
+      "mentions": 1
+    },
+    {
+      "name": "client feedback",
+      "type": "OTHER",
+      "salience": 0.002019,
+      "mentions": 1
+    },
+    {
+      "name": "+1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "503",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "239",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10555",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "PERSON": 4,
+    "OTHER": 29,
+    "CONSUMER_GOOD": 23,
+    "NUMBER": 4
+  },
+  "type_salience": {
+    "PERSON": 0.15823399999999999,
+    "OTHER": 0.45740700000000006,
+    "CONSUMER_GOOD": 0.32280300000000006,
+    "NUMBER": 0.0
+  }
+}

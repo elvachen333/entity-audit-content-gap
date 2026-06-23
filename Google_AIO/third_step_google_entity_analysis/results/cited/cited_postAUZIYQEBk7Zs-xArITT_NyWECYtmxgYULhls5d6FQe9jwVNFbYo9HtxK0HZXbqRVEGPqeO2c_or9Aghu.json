@@ -1,0 +1,1713 @@
+{
+  "file": "cited_postAUZIYQEBk7Zs-xArITT_NyWECYtmxgYULhls5d6FQe9jwVNFbYo9HtxK0HZXbqRVEGPqeO2c_or9Aghu.txt",
+  "word_count": 2277,
+  "entity_count": 281,
+  "entities": [
+    {
+      "name": "Return requests",
+      "type": "OTHER",
+      "salience": 0.068043,
+      "mentions": 1
+    },
+    {
+      "name": "Return authorizations",
+      "type": "PERSON",
+      "salience": 0.066911,
+      "mentions": 1
+    },
+    {
+      "name": "Return request portals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.051335,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.045407,
+      "mentions": 3
+    },
+    {
+      "name": "Returnly",
+      "type": "OTHER",
+      "salience": 0.039429,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGo",
+      "type": "OTHER",
+      "salience": 0.036337,
+      "mentions": 1
+    },
+    {
+      "name": "automated approvals",
+      "type": "OTHER",
+      "salience": 0.028951,
+      "mentions": 1
+    },
+    {
+      "name": "Automated approvals",
+      "type": "OTHER",
+      "salience": 0.017186,
+      "mentions": 1
+    },
+    {
+      "name": "Claimlane",
+      "type": "PERSON",
+      "salience": 0.016299,
+      "mentions": 4
+    },
+    {
+      "name": "customers",
+      "type": "OTHER",
+      "salience": 0.01598,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce marketplaces",
+      "type": "OTHER",
+      "salience": 0.014241,
+      "mentions": 1
+    },
+    {
+      "name": "Automation",
+      "type": "OTHER",
+      "salience": 0.013343,
+      "mentions": 2
+    },
+    {
+      "name": "Returns software can automatically issue refunds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012921,
+      "mentions": 1
+    },
+    {
+      "name": "Refunds and exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012606,
+      "mentions": 1
+    },
+    {
+      "name": "Return Fraud Prevention",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011867,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.011796,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGo",
+      "type": "OTHER",
+      "salience": 0.010967,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGo",
+      "type": "OTHER",
+      "salience": 0.010859,
+      "mentions": 1
+    },
+    {
+      "name": "Return Fraud Detection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010533,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.010338,
+      "mentions": 1
+    },
+    {
+      "name": "Return analytics",
+      "type": "OTHER",
+      "salience": 0.009717,
+      "mentions": 1
+    },
+    {
+      "name": "Returns analytics and reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009215,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify stores",
+      "type": "OTHER",
+      "salience": 0.00898,
+      "mentions": 1
+    },
+    {
+      "name": "branded return portals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008568,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping labels",
+      "type": "OTHER",
+      "salience": 0.00825,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.007932,
+      "mentions": 1
+    },
+    {
+      "name": "Return analytics",
+      "type": "OTHER",
+      "salience": 0.007566,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify-focused",
+      "type": "OTHER",
+      "salience": 0.007446,
+      "mentions": 8
+    },
+    {
+      "name": "repairs and returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007095,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGo",
+      "type": "OTHER",
+      "salience": 0.007074,
+      "mentions": 1
+    },
+    {
+      "name": "Best Drop-Off Network",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007021,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise retailers managing high return volumes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006946,
+      "mentions": 1
+    },
+    {
+      "name": "warehouses",
+      "type": "OTHER",
+      "salience": 0.006769,
+      "mentions": 1
+    },
+    {
+      "name": "Exchange-first returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006738,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "PERSON",
+      "salience": 0.006738,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "OTHER",
+      "salience": 0.006738,
+      "mentions": 1
+    },
+    {
+      "name": "Returnly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006738,
+      "mentions": 1
+    },
+    {
+      "name": "All posts",
+      "type": "OTHER",
+      "salience": 0.006502,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.006233,
+      "mentions": 8
+    },
+    {
+      "name": "Content",
+      "type": "OTHER",
+      "salience": 0.005607,
+      "mentions": 1
+    },
+    {
+      "name": "fraud detection",
+      "type": "OTHER",
+      "salience": 0.005454,
+      "mentions": 1
+    },
+    {
+      "name": "Article",
+      "type": "OTHER",
+      "salience": 0.005135,
+      "mentions": 1
+    },
+    {
+      "name": "product damage claims",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005132,
+      "mentions": 1
+    },
+    {
+      "name": "Aftersales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004938,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouse return processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00484,
+      "mentions": 1
+    },
+    {
+      "name": "store credits",
+      "type": "OTHER",
+      "salience": 0.004822,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004571,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Software vs Manual Returns Processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00451,
+      "mentions": 1
+    },
+    {
+      "name": "Automate Refunds and Exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004457,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGo",
+      "type": "OTHER",
+      "salience": 0.004348,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Return Rules",
+      "type": "OTHER",
+      "salience": 0.004202,
+      "mentions": 1
+    },
+    {
+      "name": "Label generation",
+      "type": "OTHER",
+      "salience": 0.004065,
+      "mentions": 1
+    },
+    {
+      "name": "Automated replacement workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003566,
+      "mentions": 1
+    },
+    {
+      "name": "Automation and AI Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003537,
+      "mentions": 1
+    },
+    {
+      "name": "Automated return portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003366,
+      "mentions": 1
+    },
+    {
+      "name": "product defects",
+      "type": "OTHER",
+      "salience": 0.003302,
+      "mentions": 1
+    },
+    {
+      "name": "Automated return portals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00318,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce brands prioritizing exchanges over refunds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003175,
+      "mentions": 1
+    },
+    {
+      "name": "Definition of Returns Management Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00313,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003056,
+      "mentions": 1
+    },
+    {
+      "name": "March 26",
+      "type": "PERSON",
+      "salience": 0.002988,
+      "mentions": 1
+    },
+    {
+      "name": "replacement",
+      "type": "OTHER",
+      "salience": 0.002841,
+      "mentions": 1
+    },
+    {
+      "name": "Daniel Sfita",
+      "type": "PERSON",
+      "salience": 0.00283,
+      "mentions": 1
+    },
+    {
+      "name": "Integration With Ecommerce Platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00263,
+      "mentions": 1
+    },
+    {
+      "name": "Automated return approvals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00261,
+      "mentions": 1
+    },
+    {
+      "name": "Without automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002458,
+      "mentions": 1
+    },
+    {
+      "name": "Retail integrations",
+      "type": "OTHER",
+      "salience": 0.002451,
+      "mentions": 1
+    },
+    {
+      "name": "Automate refunds",
+      "type": "OTHER",
+      "salience": 0.002438,
+      "mentions": 1
+    },
+    {
+      "name": "Difference Between Returns Software and Reverse Logistics Platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002429,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.002388,
+      "mentions": 1
+    },
+    {
+      "name": "above 25 percent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002387,
+      "mentions": 1
+    },
+    {
+      "name": "Integration",
+      "type": "OTHER",
+      "salience": 0.00232,
+      "mentions": 1
+    },
+    {
+      "name": "RMA",
+      "type": "OTHER",
+      "salience": 0.002316,
+      "mentions": 1
+    },
+    {
+      "name": "Instant refund automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002312,
+      "mentions": 1
+    },
+    {
+      "name": "Branded self-service claim portals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002298,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.002274,
+      "mentions": 1
+    },
+    {
+      "name": "automation",
+      "type": "OTHER",
+      "salience": 0.002218,
+      "mentions": 1
+    },
+    {
+      "name": "ZigZag Global",
+      "type": "OTHER",
+      "salience": 0.002147,
+      "mentions": 1
+    },
+    {
+      "name": "Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0021,
+      "mentions": 1
+    },
+    {
+      "name": "Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002053,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify integrations",
+      "type": "OTHER",
+      "salience": 0.002008,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce platforms",
+      "type": "LOCATION",
+      "salience": 0.001992,
+      "mentions": 1
+    },
+    {
+      "name": "ecommerce platforms",
+      "type": "LOCATION",
+      "salience": 0.001992,
+      "mentions": 1
+    },
+    {
+      "name": "Reduce Operational Costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001942,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001926,
+      "mentions": 3
+    },
+    {
+      "name": "Common users include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001913,
+      "mentions": 1
+    },
+    {
+      "name": "Exchange and Store Credit Workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00191,
+      "mentions": 1
+    },
+    {
+      "name": "Cross-border returns logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001863,
+      "mentions": 1
+    },
+    {
+      "name": "Reduce Fraudulent Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001851,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.001795,
+      "mentions": 1
+    },
+    {
+      "name": "Best For",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001772,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.001757,
+      "mentions": 1
+    },
+    {
+      "name": "Brands managing international returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001727,
+      "mentions": 1
+    },
+    {
+      "name": "Reverse Logistics Automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001721,
+      "mentions": 1
+    },
+    {
+      "name": "Branded return portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001704,
+      "mentions": 1
+    },
+    {
+      "name": "store credits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001702,
+      "mentions": 1
+    },
+    {
+      "name": "Exchange-First Strategies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001671,
+      "mentions": 1
+    },
+    {
+      "name": "Provides automated return approvals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001667,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.001665,
+      "mentions": 9
+    },
+    {
+      "name": "Pricing typically starts around",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00166,
+      "mentions": 1
+    },
+    {
+      "name": "Customer experience tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001602,
+      "mentions": 1
+    },
+    {
+      "name": "transportation networks",
+      "type": "OTHER",
+      "salience": 0.001581,
+      "mentions": 1
+    },
+    {
+      "name": "Reverse Logistics Capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001563,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify stores",
+      "type": "OTHER",
+      "salience": 0.001543,
+      "mentions": 1
+    },
+    {
+      "name": "Exchange-first return workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001539,
+      "mentions": 1
+    },
+    {
+      "name": "International returns",
+      "type": "OTHER",
+      "salience": 0.001534,
+      "mentions": 1
+    },
+    {
+      "name": "Customer case",
+      "type": "OTHER",
+      "salience": 0.00152,
+      "mentions": 1
+    },
+    {
+      "name": "Customer case",
+      "type": "OTHER",
+      "salience": 0.001516,
+      "mentions": 1
+    },
+    {
+      "name": "Customer case",
+      "type": "OTHER",
+      "salience": 0.001512,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations",
+      "type": "OTHER",
+      "salience": 0.001506,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Label Automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001497,
+      "mentions": 1
+    },
+    {
+      "name": "Direct-to-consumer brands",
+      "type": "OTHER",
+      "salience": 0.001492,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce Returns Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001458,
+      "mentions": 1
+    },
+    {
+      "name": "Does returns software integrate with Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001449,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify integrations",
+      "type": "OTHER",
+      "salience": 0.001441,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify brands",
+      "type": "OTHER",
+      "salience": 0.001429,
+      "mentions": 1
+    },
+    {
+      "name": "warranty workflows",
+      "type": "OTHER",
+      "salience": 0.001428,
+      "mentions": 1
+    },
+    {
+      "name": "Global",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001372,
+      "mentions": 1
+    },
+    {
+      "name": "ZigZag Global",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001372,
+      "mentions": 1
+    },
+    {
+      "name": "Refund automation",
+      "type": "OTHER",
+      "salience": 0.001361,
+      "mentions": 1
+    },
+    {
+      "name": "Supplier claim forwarding",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001359,
+      "mentions": 1
+    },
+    {
+      "name": "product damage claims",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001329,
+      "mentions": 1
+    },
+    {
+      "name": "Refunds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001308,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001283,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics and Reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001281,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise retailers with cross-border shipping operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001261,
+      "mentions": 1
+    },
+    {
+      "name": "Capabilities",
+      "type": "OTHER",
+      "salience": 0.001244,
+      "mentions": 1
+    },
+    {
+      "name": "Aftersales analytics and reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001213,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise return management",
+      "type": "OTHER",
+      "salience": 0.001211,
+      "mentions": 1
+    },
+    {
+      "name": "Global returns network",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001169,
+      "mentions": 1
+    },
+    {
+      "name": "Capabilities",
+      "type": "OTHER",
+      "salience": 0.001165,
+      "mentions": 1
+    },
+    {
+      "name": "AI return rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001148,
+      "mentions": 1
+    },
+    {
+      "name": "Use Cases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001127,
+      "mentions": 8
+    },
+    {
+      "name": "Who Needs Returns Management Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00112,
+      "mentions": 1
+    },
+    {
+      "name": "Companies managing warranty programs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001116,
+      "mentions": 1
+    },
+    {
+      "name": "Reverse logistics network",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001115,
+      "mentions": 1
+    },
+    {
+      "name": "Capabilities",
+      "type": "OTHER",
+      "salience": 0.001109,
+      "mentions": 1
+    },
+    {
+      "name": "label generation",
+      "type": "OTHER",
+      "salience": 0.001103,
+      "mentions": 1
+    },
+    {
+      "name": "Box-free returns network",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00107,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery claims",
+      "type": "OTHER",
+      "salience": 0.001018,
+      "mentions": 1
+    },
+    {
+      "name": "warranty portal",
+      "type": "OTHER",
+      "salience": 0.000984,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Experience Differences",
+      "type": "OTHER",
+      "salience": 0.000975,
+      "mentions": 1
+    },
+    {
+      "name": "Global ecommerce retailers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000969,
+      "mentions": 1
+    },
+    {
+      "name": "warranty claims",
+      "type": "OTHER",
+      "salience": 0.000954,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty and repair management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000937,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00091,
+      "mentions": 1
+    },
+    {
+      "name": "Global brands",
+      "type": "OTHER",
+      "salience": 0.00091,
+      "mentions": 1
+    },
+    {
+      "name": "Capabilities",
+      "type": "OTHER",
+      "salience": 0.000905,
+      "mentions": 1
+    },
+    {
+      "name": "Improve Customer Experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000898,
+      "mentions": 1
+    },
+    {
+      "name": "Capabilities",
+      "type": "OTHER",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "This dramatically speeds up resolution times",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000874,
+      "mentions": 1
+    },
+    {
+      "name": "Global carrier integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000857,
+      "mentions": 1
+    },
+    {
+      "name": "Capabilities",
+      "type": "OTHER",
+      "salience": 0.000855,
+      "mentions": 1
+    },
+    {
+      "name": "Global ecommerce brands",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000848,
+      "mentions": 1
+    },
+    {
+      "name": "refunds",
+      "type": "OTHER",
+      "salience": 0.000847,
+      "mentions": 1
+    },
+    {
+      "name": "Return approvals",
+      "type": "OTHER",
+      "salience": 0.000843,
+      "mentions": 1
+    },
+    {
+      "name": "Capabilities",
+      "type": "OTHER",
+      "salience": 0.000834,
+      "mentions": 1
+    },
+    {
+      "name": "Global carriers",
+      "type": "OTHER",
+      "salience": 0.00083,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000823,
+      "mentions": 1
+    },
+    {
+      "name": "Capabilities",
+      "type": "OTHER",
+      "salience": 0.000814,
+      "mentions": 1
+    },
+    {
+      "name": "Aftersales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000797,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery issue claim automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000792,
+      "mentions": 1
+    },
+    {
+      "name": "Cross-border logistics management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000768,
+      "mentions": 1
+    },
+    {
+      "name": "Operational Efficiency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000759,
+      "mentions": 1
+    },
+    {
+      "name": "Comparison of the Best Ecommerce Returns Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000753,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000752,
+      "mentions": 1
+    },
+    {
+      "name": "Self-Service Return Portals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000743,
+      "mentions": 1
+    },
+    {
+      "name": "This includes damaged shipments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000717,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier integrations",
+      "type": "OTHER",
+      "salience": 0.000703,
+      "mentions": 1
+    },
+    {
+      "name": "WooCommerce",
+      "type": "OTHER",
+      "salience": 0.000699,
+      "mentions": 4
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.000686,
+      "mentions": 1
+    },
+    {
+      "name": "Reverse Logistics Automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000664,
+      "mentions": 1
+    },
+    {
+      "name": "Reverse logistics network",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "Data-Driven Product Improvements",
+      "type": "OTHER",
+      "salience": 0.000631,
+      "mentions": 1
+    },
+    {
+      "name": "warranties.",
+      "type": "OTHER",
+      "salience": 0.000626,
+      "mentions": 1
+    },
+    {
+      "name": "Connect Ecommerce Platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000613,
+      "mentions": 1
+    },
+    {
+      "name": "High-volume ecommerce operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000599,
+      "mentions": 1
+    },
+    {
+      "name": "Magento",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000599,
+      "mentions": 2
+    },
+    {
+      "name": "Carrier integrations",
+      "type": "OTHER",
+      "salience": 0.000574,
+      "mentions": 1
+    },
+    {
+      "name": "Cross-border logistics",
+      "type": "OTHER",
+      "salience": 0.000568,
+      "mentions": 1
+    },
+    {
+      "name": "Cross-border retailers",
+      "type": "OTHER",
+      "salience": 0.000562,
+      "mentions": 1
+    },
+    {
+      "name": "approvals",
+      "type": "OTHER",
+      "salience": 0.000545,
+      "mentions": 1
+    },
+    {
+      "name": "Drop-off locations",
+      "type": "OTHER",
+      "salience": 0.000544,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.000534,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.000534,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.000533,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000515,
+      "mentions": 1
+    },
+    {
+      "name": "Drop-Off",
+      "type": "OTHER",
+      "salience": 0.00051,
+      "mentions": 1
+    },
+    {
+      "name": "BigCommerce",
+      "type": "OTHER",
+      "salience": 0.000503,
+      "mentions": 2
+    },
+    {
+      "name": "ReBOUND Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000494,
+      "mentions": 1
+    },
+    {
+      "name": "Localized return hubs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000484,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise systems",
+      "type": "OTHER",
+      "salience": 0.000458,
+      "mentions": 1
+    },
+    {
+      "name": "Consider Order Volume",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000453,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.000448,
+      "mentions": 1
+    },
+    {
+      "name": "Implementation Guide: Setting Up Returns Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000445,
+      "mentions": 1
+    },
+    {
+      "name": "Implementing",
+      "type": "OTHER",
+      "salience": 0.000444,
+      "mentions": 1
+    },
+    {
+      "name": "@type",
+      "type": "OTHER",
+      "salience": 0.000423,
+      "mentions": 1
+    },
+    {
+      "name": "@type",
+      "type": "OTHER",
+      "salience": 0.000423,
+      "mentions": 1
+    },
+    {
+      "name": "@type",
+      "type": "OTHER",
+      "salience": 0.000423,
+      "mentions": 1
+    },
+    {
+      "name": "@type",
+      "type": "OTHER",
+      "salience": 0.000423,
+      "mentions": 1
+    },
+    {
+      "name": "@type",
+      "type": "OTHER",
+      "salience": 0.000423,
+      "mentions": 1
+    },
+    {
+      "name": "custom connections.",
+      "type": "OTHER",
+      "salience": 0.000422,
+      "mentions": 1
+    },
+    {
+      "name": "ZigZag Global",
+      "type": "OTHER",
+      "salience": 0.000415,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000405,
+      "mentions": 1
+    },
+    {
+      "name": "Popular options include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000377,
+      "mentions": 1
+    },
+    {
+      "name": "Cost Comparison",
+      "type": "OTHER",
+      "salience": 0.000374,
+      "mentions": 1
+    },
+    {
+      "name": "replacements and more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000369,
+      "mentions": 1
+    },
+    {
+      "name": "missing items",
+      "type": "OTHER",
+      "salience": 0.000364,
+      "mentions": 1
+    },
+    {
+      "name": "shipping labels",
+      "type": "OTHER",
+      "salience": 0.000362,
+      "mentions": 1
+    },
+    {
+      "name": "Subscription",
+      "type": "OTHER",
+      "salience": 0.000362,
+      "mentions": 3
+    },
+    {
+      "name": "Configure Return Policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000351,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00035,
+      "mentions": 1
+    },
+    {
+      "name": "Configure Exchange and Refund Workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000349,
+      "mentions": 1
+    },
+    {
+      "name": "Electronics and hardware retailers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "Apparel retailers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00033,
+      "mentions": 1
+    },
+    {
+      "name": "shipping carriers",
+      "type": "OTHER",
+      "salience": 0.000325,
+      "mentions": 1
+    },
+    {
+      "name": "warehouse systems",
+      "type": "OTHER",
+      "salience": 0.000325,
+      "mentions": 1
+    },
+    {
+      "name": "Gain Insights From Returns Data",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000316,
+      "mentions": 1
+    },
+    {
+      "name": "sizing problems",
+      "type": "OTHER",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "Fast refund processing",
+      "type": "OTHER",
+      "salience": 0.000312,
+      "mentions": 1
+    },
+    {
+      "name": "and time to implementation.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000306,
+      "mentions": 1
+    },
+    {
+      "name": "Key factors include ease of integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000306,
+      "mentions": 1
+    },
+    {
+      "name": "Encouraging",
+      "type": "OTHER",
+      "salience": 0.000265,
+      "mentions": 1
+    },
+    {
+      "name": "Smart Return Rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000264,
+      "mentions": 1
+    },
+    {
+      "name": "Visual damage verification",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00026,
+      "mentions": 1
+    },
+    {
+      "name": "Mid-market ecommerce brands",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000258,
+      "mentions": 1
+    },
+    {
+      "name": "Large ecommerce retailers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "Box-free returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000249,
+      "mentions": 1
+    },
+    {
+      "name": "Centralize all warranties",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000245,
+      "mentions": 1
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 2
+    },
+    {
+      "name": "acceptedAnswer",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "ORGANIZATION",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "text",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 2
+    },
+    {
+      "name": "pricing transparency",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "Question",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "Question",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "acceptedAnswer",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "tracking",
+      "type": "OTHER",
+      "salience": 0.000233,
+      "mentions": 1
+    },
+    {
+      "name": "Tiered",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000233,
+      "mentions": 1
+    },
+    {
+      "name": "geographic coverage",
+      "type": "OTHER",
+      "salience": 0.000229,
+      "mentions": 1
+    },
+    {
+      "name": "Technology",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000193,
+      "mentions": 1
+    },
+    {
+      "name": "Build best-in-class return",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000178,
+      "mentions": 1
+    },
+    {
+      "name": "View Demo",
+      "type": "OTHER",
+      "salience": 0.000177,
+      "mentions": 1
+    },
+    {
+      "name": "Related articles",
+      "type": "OTHER",
+      "salience": 0.000177,
+      "mentions": 1
+    },
+    {
+      "name": "workflow flexibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "@context",
+      "type": "OTHER",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "https://schema.org",
+      "type": "OTHER",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "mainEntity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "FAQPage",
+      "type": "ORGANIZATION",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "Leading platforms integrate with Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "and major ERPs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "data quality",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Monitor Returns Analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000113,
+      "mentions": 1
+    },
+    {
+      "name": "Sustainable Returns Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00011,
+      "mentions": 1
+    },
+    {
+      "name": "FAQ",
+      "type": "OTHER",
+      "salience": 0.000102,
+      "mentions": 1
+    },
+    {
+      "name": "March 26, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$499",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$499",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "499",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "499",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "77",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 151,
+    "PERSON": 8,
+    "CONSUMER_GOOD": 136,
+    "ORGANIZATION": 6,
+    "LOCATION": 2,
+    "DATE": 4,
+    "PRICE": 4,
+    "NUMBER": 16
+  },
+  "type_salience": {
+    "OTHER": 0.4694470000000001,
+    "PERSON": 0.095766,
+    "CONSUMER_GOOD": 0.3492619999999996,
+    "ORGANIZATION": 0.012358000000000001,
+    "LOCATION": 0.003984,
+    "DATE": 0.0,
+    "PRICE": 0.0,
+    "NUMBER": 0.0
+  }
+}

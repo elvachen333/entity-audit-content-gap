@@ -1,0 +1,1245 @@
+{
+  "file": "non_cited_posthow-to-manage-returns-in-your-e-commerce-business.txt",
+  "word_count": 2787,
+  "entity_count": 203,
+  "entities": [
+    {
+      "name": "Returns Management",
+      "type": "PERSON",
+      "salience": 0.21022,
+      "mentions": 1
+    },
+    {
+      "name": "The report continues:",
+      "type": "ORGANIZATION",
+      "salience": 0.071108,
+      "mentions": 1
+    },
+    {
+      "name": "2025 Ecommerce Industry",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.061343,
+      "mentions": 1
+    },
+    {
+      "name": "and books",
+      "type": "OTHER",
+      "salience": 0.043598,
+      "mentions": 1
+    },
+    {
+      "name": "and",
+      "type": "OTHER",
+      "salience": 0.042479,
+      "mentions": 1
+    },
+    {
+      "name": "Register Now",
+      "type": "PERSON",
+      "salience": 0.037812,
+      "mentions": 1
+    },
+    {
+      "name": "Orderback",
+      "type": "OTHER",
+      "salience": 0.034716,
+      "mentions": 1
+    },
+    {
+      "name": "Created",
+      "type": "OTHER",
+      "salience": 0.026331,
+      "mentions": 2
+    },
+    {
+      "name": "Orderback.io",
+      "type": "PERSON",
+      "salience": 0.026249,
+      "mentions": 1
+    },
+    {
+      "name": "with",
+      "type": "OTHER",
+      "salience": 0.021379,
+      "mentions": 1
+    },
+    {
+      "name": "The Maturity Moment: Scaling Beyond Spreadsheets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018199,
+      "mentions": 1
+    },
+    {
+      "name": "April 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018199,
+      "mentions": 1
+    },
+    {
+      "name": "WEBINAR",
+      "type": "OTHER",
+      "salience": 0.018199,
+      "mentions": 1
+    },
+    {
+      "name": "reducing their occurrence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014556,
+      "mentions": 1
+    },
+    {
+      "name": "As a percentage of sales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014272,
+      "mentions": 1
+    },
+    {
+      "name": "and special features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011123,
+      "mentions": 1
+    },
+    {
+      "name": "If anything",
+      "type": "OTHER",
+      "salience": 0.011,
+      "mentions": 1
+    },
+    {
+      "name": "2024 Updated",
+      "type": "OTHER",
+      "salience": 0.010951,
+      "mentions": 1
+    },
+    {
+      "name": "automating",
+      "type": "OTHER",
+      "salience": 0.010455,
+      "mentions": 1
+    },
+    {
+      "name": "According to a report by the National Retail Federation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009946,
+      "mentions": 1
+    },
+    {
+      "name": "significance.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009552,
+      "mentions": 1
+    },
+    {
+      "name": "improving customer satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009318,
+      "mentions": 1
+    },
+    {
+      "name": "Product cost",
+      "type": "OTHER",
+      "salience": 0.008627,
+      "mentions": 1
+    },
+    {
+      "name": "customers",
+      "type": "OTHER",
+      "salience": 0.008055,
+      "mentions": 2
+    },
+    {
+      "name": "June 18",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00792,
+      "mentions": 1
+    },
+    {
+      "name": "May 13",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00792,
+      "mentions": 1
+    },
+    {
+      "name": "for every",
+      "type": "OTHER",
+      "salience": 0.007391,
+      "mentions": 1
+    },
+    {
+      "name": "and correctly",
+      "type": "OTHER",
+      "salience": 0.007336,
+      "mentions": 1
+    },
+    {
+      "name": "increase customer satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007264,
+      "mentions": 1
+    },
+    {
+      "name": "While these figures are more significant than the 17.6% reported by the National Retail Federation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006561,
+      "mentions": 1
+    },
+    {
+      "name": "such as returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006373,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Communication",
+      "type": "OTHER",
+      "salience": 0.006239,
+      "mentions": 1
+    },
+    {
+      "name": "you",
+      "type": "OTHER",
+      "salience": 0.006227,
+      "mentions": 1
+    },
+    {
+      "name": "sometimes abbreviated to",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005938,
+      "mentions": 1
+    },
+    {
+      "name": "data",
+      "type": "OTHER",
+      "salience": 0.005295,
+      "mentions": 1
+    },
+    {
+      "name": "tied at",
+      "type": "OTHER",
+      "salience": 0.004833,
+      "mentions": 1
+    },
+    {
+      "name": "both at",
+      "type": "OTHER",
+      "salience": 0.004562,
+      "mentions": 1
+    },
+    {
+      "name": "increased operational costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004483,
+      "mentions": 1
+    },
+    {
+      "name": "that",
+      "type": "ORGANIZATION",
+      "salience": 0.004458,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.004044,
+      "mentions": 1
+    },
+    {
+      "name": "Customers won't see Orderback branding",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003811,
+      "mentions": 1
+    },
+    {
+      "name": "customizable.",
+      "type": "OTHER",
+      "salience": 0.003801,
+      "mentions": 1
+    },
+    {
+      "name": "Remember",
+      "type": "PERSON",
+      "salience": 0.003625,
+      "mentions": 1
+    },
+    {
+      "name": "the average retailer incurs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003553,
+      "mentions": 1
+    },
+    {
+      "name": "More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003341,
+      "mentions": 1
+    },
+    {
+      "name": "excluding online orders that are returned in-store",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003296,
+      "mentions": 1
+    },
+    {
+      "name": "Interestingly",
+      "type": "OTHER",
+      "salience": 0.003223,
+      "mentions": 1
+    },
+    {
+      "name": "Sellercloud Team",
+      "type": "PERSON",
+      "salience": 0.003126,
+      "mentions": 1
+    },
+    {
+      "name": "Sellercloud",
+      "type": "OTHER",
+      "salience": 0.003105,
+      "mentions": 1
+    },
+    {
+      "name": "music & games",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003074,
+      "mentions": 1
+    },
+    {
+      "name": "hobby supplies had the lowest response",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003032,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10 Tips",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002953,
+      "mentions": 1
+    },
+    {
+      "name": "Consider Using a Fulfillment Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002917,
+      "mentions": 1
+    },
+    {
+      "name": "or limitations",
+      "type": "OTHER",
+      "salience": 0.002834,
+      "mentions": 1
+    },
+    {
+      "name": "For starters",
+      "type": "OTHER",
+      "salience": 0.002684,
+      "mentions": 1
+    },
+    {
+      "name": "considering",
+      "type": "OTHER",
+      "salience": 0.002632,
+      "mentions": 1
+    },
+    {
+      "name": "If so",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "This way",
+      "type": "OTHER",
+      "salience": 0.002414,
+      "mentions": 1
+    },
+    {
+      "name": "with",
+      "type": "OTHER",
+      "salience": 0.002399,
+      "mentions": 1
+    },
+    {
+      "name": "Improve Product Descriptions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002386,
+      "mentions": 1
+    },
+    {
+      "name": "With",
+      "type": "PERSON",
+      "salience": 0.002326,
+      "mentions": 1
+    },
+    {
+      "name": "bags and accessories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002323,
+      "mentions": 1
+    },
+    {
+      "name": "shoes",
+      "type": "OTHER",
+      "salience": 0.002323,
+      "mentions": 1
+    },
+    {
+      "name": "If so",
+      "type": "OTHER",
+      "salience": 0.002314,
+      "mentions": 1
+    },
+    {
+      "name": "electronics",
+      "type": "OTHER",
+      "salience": 0.002223,
+      "mentions": 1
+    },
+    {
+      "name": "furniture and household goods",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002223,
+      "mentions": 1
+    },
+    {
+      "name": "movies",
+      "type": "OTHER",
+      "salience": 0.002223,
+      "mentions": 1
+    },
+    {
+      "name": "toys and baby products",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002223,
+      "mentions": 1
+    },
+    {
+      "name": "so customers can see the product well",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002198,
+      "mentions": 1
+    },
+    {
+      "name": "DIY & garden products and stationery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002193,
+      "mentions": 1
+    },
+    {
+      "name": "the serial number",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002054,
+      "mentions": 1
+    },
+    {
+      "name": "which usually includes an",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002017,
+      "mentions": 1
+    },
+    {
+      "name": "Sellers can implement fees",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001997,
+      "mentions": 1
+    },
+    {
+      "name": "Offer Exchanges",
+      "type": "OTHER",
+      "salience": 0.001873,
+      "mentions": 1
+    },
+    {
+      "name": "Fulfillment",
+      "type": "PERSON",
+      "salience": 0.001759,
+      "mentions": 1
+    },
+    {
+      "name": "Fulfilled By Amazon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001753,
+      "mentions": 1
+    },
+    {
+      "name": "Again",
+      "type": "OTHER",
+      "salience": 0.00174,
+      "mentions": 1
+    },
+    {
+      "name": "and it can take more time than it should.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001724,
+      "mentions": 1
+    },
+    {
+      "name": "retained revenue",
+      "type": "OTHER",
+      "salience": 0.001696,
+      "mentions": 1
+    },
+    {
+      "name": "According to a blog post by SimiCart",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001521,
+      "mentions": 1
+    },
+    {
+      "name": "Not all returns are honest.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001443,
+      "mentions": 1
+    },
+    {
+      "name": "Orderback",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00144,
+      "mentions": 1
+    },
+    {
+      "name": "now what",
+      "type": "OTHER",
+      "salience": 0.001337,
+      "mentions": 1
+    },
+    {
+      "name": "Others accept specific scenarios",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001299,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouse Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001265,
+      "mentions": 1
+    },
+    {
+      "name": "Read about serial numbers here",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001229,
+      "mentions": 1
+    },
+    {
+      "name": "also known as a 'returns management system",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001225,
+      "mentions": 1
+    },
+    {
+      "name": "RMAs are helpful",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00122,
+      "mentions": 1
+    },
+    {
+      "name": "communication",
+      "type": "OTHER",
+      "salience": 0.00117,
+      "mentions": 1
+    },
+    {
+      "name": "RMA stands for",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001164,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.001122,
+      "mentions": 1
+    },
+    {
+      "name": "Read this blog post next:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001034,
+      "mentions": 1
+    },
+    {
+      "name": "Check out",
+      "type": "OTHER",
+      "salience": 0.001018,
+      "mentions": 1
+    },
+    {
+      "name": "varieties",
+      "type": "OTHER",
+      "salience": 0.000985,
+      "mentions": 1
+    },
+    {
+      "name": "Often",
+      "type": "OTHER",
+      "salience": 0.000956,
+      "mentions": 1
+    },
+    {
+      "name": "marketplaces.",
+      "type": "OTHER",
+      "salience": 0.000934,
+      "mentions": 1
+    },
+    {
+      "name": "self-service returns portal.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000884,
+      "mentions": 1
+    },
+    {
+      "name": "background",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000866,
+      "mentions": 1
+    },
+    {
+      "name": "RMA label",
+      "type": "OTHER",
+      "salience": 0.000838,
+      "mentions": 1
+    },
+    {
+      "name": "Similarly",
+      "type": "OTHER",
+      "salience": 0.000837,
+      "mentions": 1
+    },
+    {
+      "name": "Simplicity is key",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00083,
+      "mentions": 1
+    },
+    {
+      "name": "and Walmart's WFS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "Amazon's FBA",
+      "type": "PERSON",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "Walmart Fulfillment Services",
+      "type": "LOCATION",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "Key Points",
+      "type": "OTHER",
+      "salience": 0.000795,
+      "mentions": 1
+    },
+    {
+      "name": "outsourcing",
+      "type": "OTHER",
+      "salience": 0.000793,
+      "mentions": 1
+    },
+    {
+      "name": "where possible and relevant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000783,
+      "mentions": 1
+    },
+    {
+      "name": "more importantly",
+      "type": "OTHER",
+      "salience": 0.000768,
+      "mentions": 1
+    },
+    {
+      "name": "at",
+      "type": "OTHER",
+      "salience": 0.000736,
+      "mentions": 1
+    },
+    {
+      "name": "Furthermore",
+      "type": "OTHER",
+      "salience": 0.000698,
+      "mentions": 1
+    },
+    {
+      "name": "Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000684,
+      "mentions": 1
+    },
+    {
+      "name": "Additionally",
+      "type": "OTHER",
+      "salience": 0.000675,
+      "mentions": 1
+    },
+    {
+      "name": "over",
+      "type": "OTHER",
+      "salience": 0.000674,
+      "mentions": 1
+    },
+    {
+      "name": "Always communicate graciously",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000669,
+      "mentions": 1
+    },
+    {
+      "name": "Return Merchandise Authorization.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000669,
+      "mentions": 1
+    },
+    {
+      "name": "Remember",
+      "type": "OTHER",
+      "salience": 0.000664,
+      "mentions": 1
+    },
+    {
+      "name": "Remember these key points",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000662,
+      "mentions": 1
+    },
+    {
+      "name": "The total return rate was 14.5% of sales in 2023",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00066,
+      "mentions": 1
+    },
+    {
+      "name": "Apparel is one of the most returned product categories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "Additionally",
+      "type": "OTHER",
+      "salience": 0.000657,
+      "mentions": 1
+    },
+    {
+      "name": "Related Posts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000651,
+      "mentions": 1
+    },
+    {
+      "name": "software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000621,
+      "mentions": 1
+    },
+    {
+      "name": "Ask yourself",
+      "type": "OTHER",
+      "salience": 0.000612,
+      "mentions": 1
+    },
+    {
+      "name": "Chapter 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000582,
+      "mentions": 1
+    },
+    {
+      "name": "Speed up Return Handling Times",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000571,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.000565,
+      "mentions": 1
+    },
+    {
+      "name": "Periodically",
+      "type": "PERSON",
+      "salience": 0.000557,
+      "mentions": 1
+    },
+    {
+      "name": "efficiently",
+      "type": "OTHER",
+      "salience": 0.000516,
+      "mentions": 1
+    },
+    {
+      "name": "Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000516,
+      "mentions": 1
+    },
+    {
+      "name": "Author",
+      "type": "OTHER",
+      "salience": 0.00051,
+      "mentions": 1
+    },
+    {
+      "name": "Scammers can send false returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000509,
+      "mentions": 1
+    },
+    {
+      "name": "It's functionally customizable.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000494,
+      "mentions": 1
+    },
+    {
+      "name": "point 1",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000486,
+      "mentions": 1
+    },
+    {
+      "name": "the future.",
+      "type": "OTHER",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "demo",
+      "type": "OTHER",
+      "salience": 0.000358,
+      "mentions": 1
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "salience": 0.000342,
+      "mentions": 1
+    },
+    {
+      "name": "Furthermore",
+      "type": "OTHER",
+      "salience": 0.000325,
+      "mentions": 1
+    },
+    {
+      "name": "icons",
+      "type": "OTHER",
+      "salience": 0.000239,
+      "mentions": 1
+    },
+    {
+      "name": "and replacements",
+      "type": "OTHER",
+      "salience": 0.000237,
+      "mentions": 1
+    },
+    {
+      "name": "RMS",
+      "type": "OTHER",
+      "salience": 0.000228,
+      "mentions": 1
+    },
+    {
+      "name": "10.02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 18, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2010",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$145",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$247",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$371",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "145",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "247",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 29",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "371",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "56",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "76",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2010",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 13, 2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "PERSON": 9,
+    "ORGANIZATION": 3,
+    "CONSUMER_GOOD": 64,
+    "OTHER": 65,
+    "LOCATION": 1,
+    "NUMBER": 52,
+    "DATE": 7,
+    "PRICE": 4
+  },
+  "type_salience": {
+    "PERSON": 0.286474,
+    "ORGANIZATION": 0.07961000000000001,
+    "CONSUMER_GOOD": 0.2874699999999999,
+    "OTHER": 0.337629,
+    "LOCATION": 0.0008,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

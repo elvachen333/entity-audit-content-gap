@@ -1,0 +1,11 @@
+﻿entity_type,entity_name,cited_doc_count,non_cited_doc_count,cited_coverage_rate,non_cited_coverage_rate,coverage_lift,cited_total_mentions,non_cited_total_mentions,avg_salience_cited,avg_salience_non_cited
+ADDRESS,"130 West 42nd Street,
+New York,
+NY 10036",1,0,0.1429,0.0,1.429,1,0,0.0,0.0
+PHONE_NUMBER,386-383-2472,1,0,0.1429,0.0,1.429,1,0,0.0,0.0
+PHONE_NUMBER,+852 2928 8882,0,1,0.0,0.0667,0.0,0,1,0.0,0.0
+PHONE_NUMBER,+852 2747 3338,0,1,0.0,0.0667,0.0,0,3,0.0,0.0
+ADDRESS,"61 Marina Coastal Dr, 018947",0,1,0.0,0.0667,0.0,0,1,0.0,0.0
+ADDRESS,香港鰂魚涌英皇道979號,0,1,0.0,0.0667,0.0,0,1,0.0,0.0
+ADDRESS,"17 
+烏節路",0,1,0.0,0.0667,0.0,0,1,0.0,0.0

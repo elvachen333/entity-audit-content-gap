@@ -1,0 +1,263 @@
+# Choosing a Returns Management System:
+
+5 Factors that will Transform your Reverse Supply Chain
+
+\]
+
+# Introduction
+
+Industry-leading enterprises have long prioritized improving their supply chain because they recognized it as a competitive advantage: They optimized it, digitized it and more sustainably sourced it. Huge investments have been made in inventory visibility, fulfillment and shipping.
+
+But once products leave a facility, most companies weren't thinking strategically about what happens if those products come back.
+
+That's changing. The huge increase in online purchases (in both B2C and B2B industries) coupled with the demand for "easy" returns have threatened to overwhelm companies with cost, waste and complexity.
+
+![](https://www.reverselogix.com/wp-content/uploads/images/f8663eb73fdca4f5acf4719fd0a280a38117c976d951c7e2fb0215266f0f33c1.jpg)
+
+![](https://www.reverselogix.com/wp-content/uploads/images/a4331127837fb468e2ea34397e34139fe9ca680b3bd7acceafb008803d856779.jpg)
+
+![](https://www.reverselogix.com/wp-content/uploads/images/8b032a2aaedb02bae8cfcfc770f392907d791a1fae2d30e24e11e110638ac3ba.jpg)
+
+$1 6 . 6 %$ of U.S. B2C sales were returned in 2021, up from $10 . 6 %$ in 2020.
+
+Up to $30 %$ of B2B sales may be returned.
+
+For every $$ 100$ in returned merchandise accepted, companies lose $$ 10.30$ to fraud.
+
+# Costs are the elephant in the room.
+
+Companies know return costs are high. They even know why they are high. In a returns management survey from ReverseLogix and conducted with Lead to Market, $80 %$ of respondents said product returns costs are "significant to severe." Nearly $75 %$ said that more automated returns management processes will help improve costs, employee productivity and the customer experience.
+
+And yet, costs aren't being addressed effectively. A whopping $94 %$ of respondents are trying to manage returns with the wrong tools, such as a warehouse management system, an ERP or a logistics management system.
+
+For forward-thinking companies committed to improving the returns process, technology that is purpose-built for returns is revolutionizing reverse logistics.
+
+A returns management system (RMS) offers B2C, B2B and hybrid environments a total, end-to-end management of returns. It's the final piece of the supply chain puzzle.
+
+In this white paper, we'l guide you through the top considerations when selecting an RMS and where it can have the most immediate and significant impact on your operations.
+
+# Supply Chain Disrupted
+
+New Reality Requires Purpose Built Solutions for eCommerce Fulfillment
+
+OMS WMS Order orchestration Order receiving Order updates Inventory tracking Order fulfillment routing Warehouse design & layout $\\cdot$ Back orders & cancellations Picking & order fulfillment Payment processing Dispatching goods Optimize the Omni Channel Fulfillment Journey RMS TMS Returns initiation Carrier management Returns processing Load & route optimization Receive, inspect, grade Freight execution Repairs management Freight settlement Restock, recycle, remarket Audit & payment
+
+An RMS fully integrates with other supply chain software. No need to rip and replace.
+
+What is a
+
+# Returns Management System?
+
+A returns management system coordinates and streamlines every aspect of the returns journey and after-sales care management. An RMS delivers two major functions :
+
+Manages the entire, end-to-end returns process based on an organization's specific needs.
+
+Centralizes and analyzes returns-related data from core supply chain software.
+
+# Fully manages the returns process
+
+From start to finish, an RMS manages everything that goes into the returns process, whether it's a B2C, B2B or hybrid environment. This includes returns processing, repairs, return-to-vendor, customer portals, returns merchandise authorization (RMA) initiation, and customer notifications. An RMS can be configured to your own unique processes and requirements - or your customer's - to drive an efficient returns process, standardized tasks and improved accuracy.
+
+# Centralizes and analyzes returns data
+
+Because an RMS tightly integrates with other supply chain technology and centralizes relevant data, it delivers game-changing insights into returns. It enables users to view analytics within every module, queue and order. Relevant data and business intelligence are easily accessible, as well as reports. No more point solutions or relying on warehouses and 3PLs for returns data!
+
+# The end result?
+
+00
+
+5% increase in profits.
+
+e
+
+15-25% increase in customer satisfaction.
+
+# An RMS relieves the biggest returns struggles
+
+An RMS confronts returns complexity wholly and head-on. No more disparate or patchworks of systems. Here are a few specific hurdles and the value an RMS delivers.
+
+# Employees spend too much time on returns processing
+
+If employees don't have standardized, digital workflows to help them efficiently receive and process returns, you're probably losing money. The same is true if there aren't clear rules and processes around managing warranties or repairs. An RMS allows you to create and automate rules that streamline or throttle returns decisions, and it will enforce policies consistently across a returns network.
+
+In a ReverseLogix survey, respondents specifically pointed to warehouse costs and labor costs as the two biggest factors when managing returns.
+
+A warehouse management system (WMs) is not architected to handle the complexity of reverse logistics, and it forces companies to rely on point solutions to manage returns. In contrast, an end-to-end RMS manages the entire process; whether a return location is in a store, mailed to a warehouse or managed by a 3PL, the RMS platform ensures everyone is working off the same workflows and rules for consistency and efficiency.
+
+An RMS improves labor costs by standardizing and automating rules and policies. Products are accepted, inspected and dispositioned consistently, anywhere in the world. It takes the guesswork out of return processes and empowers your labor force to work more efficiently.
+
+Hidden costs that add up Few companies have visibility into the true costs of their returns, despite the fact that they are sinking dollars into returns at every point of the process, including:
+
+Initial receipt, including postage or store
+
+handling costs
+
+Reverse transportation
+
+Reprocessing, such as reconditioning
+
+the item for resale
+
+Holding costs
+
+Disposal costs
+
+Picking, packing and dispatch
+
+Fulfillment transportation (when returned
+
+products are resold at full price, the cost
+
+of distributing that product to fulfill a
+
+customer order must be counted)
+
+Error rates drop when returns are automated and verified. For example: with an RMS to record an item count, a manufacturer will only credit dealers for actual received inventory, which is verified in the system prior to crediting.
+
+# No visibility into returns data
+
+Lots of companies ask customers why they returned an item, but few are able to synthesize and analyze that data into something. An RMS allows you to dive deeper and answer questions such as...
+
+• How many returns are employees processing per hour, per customer?
+
+• Is there a problem with a vendor?
+
+• Is there a customer expectation you're not meeting?
+
+• Why is a specific product being returned? E.g. are "Arrived Damaged" reason codes frequent and packaging should be adjusted?
+
+• Are all returns legitimate?
+
+• What is the status of RMAs by stage? (receiving, inspecting, grading, etc.)
+
+If you're using multiple solutions to manage returns, you don't have the full picture. Only an RMS can pull all the pieces together.
+
+A leading global appliance company replaced a spreadsheetheavy returns process with an RMS that standardized returns initiation for distributors. It quickly identified returns that were counterfeit products, found customers who abused the policy, and saved significant money.
+
+# Poor customer experience
+
+A remarkable customer experience isn't just for B2C companies; B2B customer expectations are just as high. An RMS makes returns initiation easy and seamless with a customer portal. Real-time tracking and alerts keep customers informed while freeing up your employees from return inquiries and admin tasks.
+
+④
+
+# Impacting the planet
+
+Do you want to prioritize recycling? Set strict parameters for disposal? An RMS supports sustainability goals with rules and standardized workflows across a network of return locations. Consolidate products from the same vendor and ship them back together to save on fuel and emissions. Back up sustainability claims with the right data and reports, and do right by your buyers and the planet.
+
+For 3PLs, a differentiator and a revenue stream A 3PL that offers returns management services will deliver better visibility, reporting, and processing - for itself and for its customers. This significantly improves profit margins and dramatically differentiates it from competitors.
+
+# Evaluating an RMS: 5 Key Capabilities
+
+An RMS is one of the most cost-effective supply chain software tools: It can be implemented in weeks, it integrates with other systems, and it has a near-immediate impact on costs, complexity and customer satisfaction.
+
+![](https://www.reverselogix.com/wp-content/uploads/images/6b938ffe29b0751009c99a17710e1ff72fed6338fca5cc4aff0a0e2d46d8a6fc.jpg)
+
+When evaluating a returns management system for your company's needs, prioritize these five capabilities. They'll give you the best route for truly transforming how you manage and maximize the value of returns.
+
+# . End-to-end capabilities
+
+A lot of solutions on the market only manage a slice of the returns process. An RMS that seamlessly integrates into your tech stack should reach across the entire ecosystem of returns, from start to finish. This includes:
+
+# B2C Returns
+
+Branded Portal, RMA Initiation, Reason Codes, Exchanges, Shipping Labels, Check Status, Notifications
+
+# B2B Returns
+
+Account Portals, RMA Initiation, Reason Codes, Validations, Approvals, History, Shipping, Check Status, Supporting Docs
+
+# Returns Processing
+
+Receiving, Inspection, Grading, Put-away, Discrepancy, Approvals, Tracking, Customer Communication, Reject Codes, Multi Role, Multi Location
+
+# Repair Management
+
+Warranty (IW/OW), Fault Analysis, ReSKU, Parts Consumption, Quote Approval, Safety Stock, Ticket Assignment
+
+# Easy Exchanges
+
+Enable customers to immediately repurchase or exchange an item.
+
+# Order Tracking
+
+Automated Notifications, Text/Email, Track Packages (WiSMo), Branded Page, Carrier integrations, Customer Service
+
+# In-Store Returns
+
+Store App, Online Returns in Store, Customer Credits, In-store Inspection, Shipping Labels, Stock Transfer
+
+# Return to Vendor (RTV)
+
+RTV Initiation, Policy Validations, Manage Contracts & Entitlements, Consolidation, Aging, Approval Chain, Vendor Portals, Smart Disposition
+
+# 2\. Configurable workflows
+
+Automated workflows must be flexible to address your specific needs and scenarios. RMS workflows can be configured by location, customer and product (for example, processing a returned shirt requires very different steps than processing a mobile phone). Set rules and policies for partners that standardize the returns process across a network.
+
+This is an especially important differentiator for 3PLs; with an RMS, 3PLs can orchestrate every aspect of returns, repairs and after-sales care. Deliver a high-value service that most customers haven't mastered themselves.….but that are willing to pay for!
+
+"The value proposition is simple for the 3PL. By offering returns management to an existing customer base, a 3PL can increase its revenues by $\\cdot$ which is basically the return rate." - Gaurav Saran, CEO, ReverseLogix
+
+# 3\. Data analytics and business intelligence
+
+An RMS opens up a whole new world of data and analysis. Access customized reporting based on departments, user roles or locations so that distributed teams can always stay in sync. Get metrics in every module, queue and order. Could more value be saved from repairing the return rather than replacing it? Is there a bottleneck in the returns processes at a particular location? Are certain types of items returned at a higher rate? An RMS centralizes and analyzes massive amounts of data, but the true value is delivered with accessible and actionable insights that make processes more efficient, identify problems faster and improve the customer experience.
+
+![](https://www.reverselogix.com/wp-content/uploads/images/c3b31ba3b9dcb655f5bd11c922bea31b43c22c4c6b3f1712cc414cf21131f564.jpg)
+
+Repairs have a special level of complexity: Inspection, grading, dispositioning, warranty checks, price quotes and more. An RMS tackles all of this so you can manage customer registrations, perform in-warranty and outof-warranty repairs, track parts and their value, and perform multi-level repairs.
+
+The very best retailers.. are increasingly active in preventing returns in the first place by developing a deep understanding of why consumers return, and where they, as retailers, operate and behave in ways that actually create reasons for consumers to return items. - Gartner
+
+# Complete shipping visibility
+
+Return shipment capabilities and forward tracking of order shipments should go hand-in-hand. By eliminating separate shipping and tracking systems, you gain analytics and functionality for easily capturing and reviewing orders, shipment performance information and consumer feedback in a single interface. Your customers receive ondemand tracking and communications right on your site, including automated updates at each stage of the returns process - which also helps reduce the number of customer service calls and emails! With complete shipping visibility, an RMS gives customers a fully branded experience and peace of mind.
+
+# 5\. An exceptional customer experience
+
+Customers prioritize their experience with a product return when weighing their loyalty to a brand. Whether you're in the B2B or B2C arena, the process should be branded, fast, easy, and have good communication. Online portals offer customer-centric features like self-service returns, easy exchanges and instant crediting that makes the whole experience hassle-free.
+
+By 2025, $9 0 %$ of all B2B interactions between suppliers and buyers will take place on digital channels. DHL
+
+# How These Companies
+
+# Achieved Smarter Returns for Better Business
+
+# Global Retailer Solves Complex B2B and B2C Returns Processing
+
+Amer Sports, an international sporting goods company with brands such as Salomon, Atomic, and Wilson, was leveraging the ReverseLogix returns management system for its B2B returns and had great success: Returns are faster, more automated, and the company has better visibility into returns data.
+
+Amer wanted to expand the use of the RMS to its B2C returns. "\[The returns\] need to be processed very fast...hours to process the return and enable the crediting to the consumer," said Kai Bahlman, vice president of warehousing at Amer Sports.
+
+Within days of the ReverseLogix RMS implementation, employees could expertly leverage the technology. Today, back-end returns processes are automated and require fewer steps. Item images ensure employees are working with the correct item, and an intuitive user experience helps Amer scale up during busy seasons.
+
+"I'd say \[ReverseLogix\] doubles the amount of returns we used to be able to do," said Hayden Rice, returns specialist at Amer Sports.
+
+# Replacing SAP with RMS Fuels More Efficient Returns
+
+A company's long-time SAP platform was struggling to keep up with return volumes and complexity. It was replaced with the ReverseLogix returns management system.
+
+One of the reasons we chose ReverseLogix was because we could use it in many of our facilities, whether that was with our 3PL partner, in our own warehouses, and potentially in other countries," said the director of distribution operations.
+
+The ReverseLogix RMS was integrated with 3PL partner systems, NetSuite, home-grown solutions and other supply chain software. The result is a clear-eyed view of the end-to-end returns process.
+
+There's much better visibility now…The retail side has its own portal to create returns. Customer service has their own portal. Our stores are integrated with UPS for better visibility and tracking," said the director.
+
+Returns processing and inventory accuracy have improved with the ability to receive and track every carton in the warehouse. "Before ReverseLogix, we sent everything to the pick module, sorted it, and sent it back to the storage location," explained the director. "So we've increased our throughput and accuracy because we're not handling an item as much."
+
+Returns processing is much faster. The company eliminated steps around product dispositioning, and greater visibility has allowed for better insight and tracking: Sales teams and digital teams track return reasons that are shared with the quality team for more informed decision making about products.
+
+![](https://www.reverselogix.com/wp-content/uploads/images/e4ed7b86a8f585b82890f15873aa0a7b78c4573c53766d90dab58340c1111c3b.jpg)
+
+The ReverseLogix returns management system (RMS) is the industry's only end-to-end, purpose-built RMS with configurable and flexible workflows that serve B2B, B2C and hybrid environments.
+
+# ReverseLogix
+
+reverselogix.com
+
+# About ReverseLogix
+
+ReverseLogix is the only end-to-end, centralized and fully integrated returns management system built specifically for retail, ecommerce, manufacturing and 3PL organizations. Whether B2B, B2C or hybrid, the ReverseLogix platform facilitates, manages and reports on the entire returns lifecycle. Organizations that rely on
+
+ReverseLogix deliver a vastly superior customer returns experience, save employee time
+
+with faster workflows, and increase profits with $3 6 0 ^ { \\circ }$ insight into returns data. For more information, visit [www.reverselogix.com](http://www.reverselogix.com/)

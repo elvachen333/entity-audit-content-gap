@@ -1,0 +1,2451 @@
+{
+  "file": "cited_postsave-up-to-35-on-restricted-rates-on-a-disney-cruise-2-2-2-2.txt",
+  "word_count": 1710,
+  "entity_count": 404,
+  "entities": [
+    {
+      "name": "Disney Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.13124,
+      "mentions": 1
+    },
+    {
+      "name": "Save on Select 2026 Sail Dates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.047452,
+      "mentions": 1
+    },
+    {
+      "name": "Oceanview or Verandah",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024527,
+      "mentions": 1
+    },
+    {
+      "name": "June 12, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011727,
+      "mentions": 1
+    },
+    {
+      "name": "May 22, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011727,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.01043,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01043,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.01043,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.01043,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.01043,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01043,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.009548,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.009548,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.009548,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.009548,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.009548,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.009548,
+      "mentions": 1
+    },
+    {
+      "name": "Inside",
+      "type": "OTHER",
+      "salience": 0.008311,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.007032,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Wonder",
+      "type": "PERSON",
+      "salience": 0.006174,
+      "mentions": 8
+    },
+    {
+      "name": "Small World Vacations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005675,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.005339,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.00511,
+      "mentions": 1
+    },
+    {
+      "name": "July 23, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005071,
+      "mentions": 1
+    },
+    {
+      "name": "July 27, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005071,
+      "mentions": 1
+    },
+    {
+      "name": "June 24, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005057,
+      "mentions": 1
+    },
+    {
+      "name": "July 11, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005035,
+      "mentions": 1
+    },
+    {
+      "name": "June 27, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005035,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Treasure",
+      "type": "PERSON",
+      "salience": 0.004832,
+      "mentions": 7
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004723,
+      "mentions": 1
+    },
+    {
+      "name": "exciting destinations",
+      "type": "OTHER",
+      "salience": 0.004681,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004607,
+      "mentions": 1
+    },
+    {
+      "name": "June 11, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004588,
+      "mentions": 1
+    },
+    {
+      "name": "June 25, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004588,
+      "mentions": 1
+    },
+    {
+      "name": "June 22, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004588,
+      "mentions": 1
+    },
+    {
+      "name": "Ship",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004581,
+      "mentions": 12
+    },
+    {
+      "name": "Verandah",
+      "type": "OTHER",
+      "salience": 0.00451,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.00451,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.00451,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004498,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004478,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004478,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004478,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004478,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004387,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004387,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004387,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004333,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.004324,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.004217,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.004201,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.004129,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.004129,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.004129,
+      "mentions": 1
+    },
+    {
+      "name": "June 22, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004123,
+      "mentions": 1
+    },
+    {
+      "name": "June 1, 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004123,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.004117,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.004099,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.004099,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.004099,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.004099,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.00407,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004063,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Wish",
+      "type": "PERSON",
+      "salience": 0.004063,
+      "mentions": 12
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.004016,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.004016,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.004016,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.003967,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.003846,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.003667,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.003667,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003667,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.003667,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003667,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.003667,
+      "mentions": 1
+    },
+    {
+      "name": "dreams come true",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003578,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.003521,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.003521,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.003391,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003391,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah",
+      "type": "PERSON",
+      "salience": 0.003391,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.003356,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.003356,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.003356,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.003356,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.003356,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.003356,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.003223,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.003223,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.003184,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.003105,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.003104,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.003104,
+      "mentions": 1
+    },
+    {
+      "name": "VGT",
+      "type": "OTHER",
+      "salience": 0.003104,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.003032,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.003019,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.002957,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.002921,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.002832,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.002751,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.002636,
+      "mentions": 1
+    },
+    {
+      "name": "aunts and uncles",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002546,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.002472,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.002417,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.002374,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.002357,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.002302,
+      "mentions": 1
+    },
+    {
+      "name": "Disney organized shore excursions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002292,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.002292,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.002286,
+      "mentions": 1
+    },
+    {
+      "name": "Restrictions",
+      "type": "OTHER",
+      "salience": 0.002275,
+      "mentions": 1
+    },
+    {
+      "name": "Restrictions",
+      "type": "OTHER",
+      "salience": 0.002275,
+      "mentions": 1
+    },
+    {
+      "name": "Restrictions",
+      "type": "OTHER",
+      "salience": 0.002275,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.002245,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.002217,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.00215,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.002088,
+      "mentions": 1
+    },
+    {
+      "name": "April 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001962,
+      "mentions": 1
+    },
+    {
+      "name": "real",
+      "type": "OTHER",
+      "salience": 0.001869,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001839,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.001802,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001794,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah Guaranteed",
+      "type": "PERSON",
+      "salience": 0.001785,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001752,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001744,
+      "mentions": 1
+    },
+    {
+      "name": "Date",
+      "type": "OTHER",
+      "salience": 0.001735,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001708,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001688,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001636,
+      "mentions": 1
+    },
+    {
+      "name": "over 600",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001607,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001589,
+      "mentions": 1
+    },
+    {
+      "name": "Inside",
+      "type": "PERSON",
+      "salience": 0.001527,
+      "mentions": 1
+    },
+    {
+      "name": "Inside",
+      "type": "OTHER",
+      "salience": 0.001527,
+      "mentions": 1
+    },
+    {
+      "name": "Inside",
+      "type": "PERSON",
+      "salience": 0.001527,
+      "mentions": 1
+    },
+    {
+      "name": "Inside",
+      "type": "OTHER",
+      "salience": 0.001527,
+      "mentions": 1
+    },
+    {
+      "name": "May 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001511,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001428,
+      "mentions": 1
+    },
+    {
+      "name": "Oceanview",
+      "type": "OTHER",
+      "salience": 0.001409,
+      "mentions": 1
+    },
+    {
+      "name": "Oceanview",
+      "type": "OTHER",
+      "salience": 0.001409,
+      "mentions": 1
+    },
+    {
+      "name": "Oceanview",
+      "type": "OTHER",
+      "salience": 0.001409,
+      "mentions": 1
+    },
+    {
+      "name": "Inside",
+      "type": "OTHER",
+      "salience": 0.001381,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001371,
+      "mentions": 1
+    },
+    {
+      "name": "Percentage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001321,
+      "mentions": 1
+    },
+    {
+      "name": "Oceanview",
+      "type": "OTHER",
+      "salience": 0.001275,
+      "mentions": 1
+    },
+    {
+      "name": "category IGT",
+      "type": "ORGANIZATION",
+      "salience": 0.001236,
+      "mentions": 1
+    },
+    {
+      "name": "category OGT",
+      "type": "ORGANIZATION",
+      "salience": 0.001225,
+      "mentions": 1
+    },
+    {
+      "name": "category VGT",
+      "type": "ORGANIZATION",
+      "salience": 0.001214,
+      "mentions": 1
+    },
+    {
+      "name": "staterooms",
+      "type": "ORGANIZATION",
+      "salience": 0.001203,
+      "mentions": 1
+    },
+    {
+      "name": "Category VGT",
+      "type": "PERSON",
+      "salience": 0.001203,
+      "mentions": 1
+    },
+    {
+      "name": "June 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001187,
+      "mentions": 1
+    },
+    {
+      "name": "IGT",
+      "type": "ORGANIZATION",
+      "salience": 0.001169,
+      "mentions": 1
+    },
+    {
+      "name": "IGT",
+      "type": "ORGANIZATION",
+      "salience": 0.001169,
+      "mentions": 1
+    },
+    {
+      "name": "IGT",
+      "type": "OTHER",
+      "salience": 0.001169,
+      "mentions": 1
+    },
+    {
+      "name": "IGT",
+      "type": "OTHER",
+      "salience": 0.001169,
+      "mentions": 1
+    },
+    {
+      "name": "IGT",
+      "type": "OTHER",
+      "salience": 0.001152,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Dream",
+      "type": "PERSON",
+      "salience": 0.001137,
+      "mentions": 6
+    },
+    {
+      "name": "IGT",
+      "type": "OTHER",
+      "salience": 0.001057,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Magic",
+      "type": "PERSON",
+      "salience": 0.001057,
+      "mentions": 6
+    },
+    {
+      "name": "OGT",
+      "type": "ORGANIZATION",
+      "salience": 0.001045,
+      "mentions": 1
+    },
+    {
+      "name": "OGT",
+      "type": "OTHER",
+      "salience": 0.001045,
+      "mentions": 1
+    },
+    {
+      "name": "OGT",
+      "type": "ORGANIZATION",
+      "salience": 0.001045,
+      "mentions": 1
+    },
+    {
+      "name": "OGT",
+      "type": "OTHER",
+      "salience": 0.00103,
+      "mentions": 1
+    },
+    {
+      "name": "Sail date",
+      "type": "OTHER",
+      "salience": 0.000956,
+      "mentions": 1
+    },
+    {
+      "name": "OGT",
+      "type": "OTHER",
+      "salience": 0.000945,
+      "mentions": 1
+    },
+    {
+      "name": "Restrictions",
+      "type": "OTHER",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "Restrictions",
+      "type": "OTHER",
+      "salience": 0.000921,
+      "mentions": 1
+    },
+    {
+      "name": "June 26",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000845,
+      "mentions": 1
+    },
+    {
+      "name": "June 5",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000845,
+      "mentions": 1
+    },
+    {
+      "name": "July 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000825,
+      "mentions": 1
+    },
+    {
+      "name": "July 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000788,
+      "mentions": 1
+    },
+    {
+      "name": "July 13",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "July 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "June 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "June 13",
+      "type": "OTHER",
+      "salience": 0.000649,
+      "mentions": 1
+    },
+    {
+      "name": "July 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "July 13",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "Inside",
+      "type": "OTHER",
+      "salience": 0.000632,
+      "mentions": 1
+    },
+    {
+      "name": "Inside Stateroom with Restrictions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000621,
+      "mentions": 1
+    },
+    {
+      "name": "June 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000592,
+      "mentions": 1
+    },
+    {
+      "name": "June 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000531,
+      "mentions": 1
+    },
+    {
+      "name": "June 8",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000524,
+      "mentions": 1
+    },
+    {
+      "name": "July 2",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000513,
+      "mentions": 1
+    },
+    {
+      "name": "July 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000513,
+      "mentions": 1
+    },
+    {
+      "name": "May 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000509,
+      "mentions": 1
+    },
+    {
+      "name": "May 4",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000493,
+      "mentions": 1
+    },
+    {
+      "name": "June 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000491,
+      "mentions": 1
+    },
+    {
+      "name": "Guarantees",
+      "type": "LOCATION",
+      "salience": 0.000475,
+      "mentions": 1
+    },
+    {
+      "name": "Guarantees",
+      "type": "LOCATION",
+      "salience": 0.000471,
+      "mentions": 1
+    },
+    {
+      "name": "Guarantees",
+      "type": "LOCATION",
+      "salience": 0.000467,
+      "mentions": 1
+    },
+    {
+      "name": "June 8",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "May 4",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "June 15",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "May 15",
+      "type": "OTHER",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Fantasy",
+      "type": "PERSON",
+      "salience": 0.000401,
+      "mentions": 2
+    },
+    {
+      "name": "June 19",
+      "type": "OTHER",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "July 9",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000365,
+      "mentions": 1
+    },
+    {
+      "name": "May 16",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000355,
+      "mentions": 1
+    },
+    {
+      "name": "May 7",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00034,
+      "mentions": 1
+    },
+    {
+      "name": "July 18",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000275,
+      "mentions": 1
+    },
+    {
+      "name": "At their discretion",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000268,
+      "mentions": 1
+    },
+    {
+      "name": "SpaUniversal OrlandoConsultation RequestContinue",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000267,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Resort",
+      "type": "PERSON",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "only 2 or 3",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "alcoholic beverages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00013,
+      "mentions": 1
+    },
+    {
+      "name": "photographs",
+      "type": "OTHER",
+      "salience": 0.00013,
+      "mentions": 1
+    },
+    {
+      "name": "Spoonful of Magictm BLOG",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000124,
+      "mentions": 1
+    },
+    {
+      "name": "etc",
+      "type": "OTHER",
+      "salience": 0.000117,
+      "mentions": 1
+    },
+    {
+      "name": "HOME",
+      "type": "OTHER",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 20, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 22, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 29, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 5, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 12, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 19, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 26, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 4, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 1, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 8, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 15, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 22, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 29, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 15, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 19, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 6, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 20, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 18, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 30, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 13, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 27, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 11, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 4, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 7, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 11, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 22, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 25, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 29, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 6, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 9, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 13, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 20, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 23, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 27, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 30, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 16, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 6, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 13, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 20, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 8, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 24, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "600",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 82,
+    "PERSON": 72,
+    "OTHER": 71,
+    "ORGANIZATION": 26,
+    "LOCATION": 3,
+    "NUMBER": 147,
+    "DATE": 45,
+    "PRICE": 4
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.36724499999999993,
+    "PERSON": 0.15654700000000005,
+    "OTHER": 0.19732699999999997,
+    "ORGANIZATION": 0.09213199999999999,
+    "LOCATION": 0.001413,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

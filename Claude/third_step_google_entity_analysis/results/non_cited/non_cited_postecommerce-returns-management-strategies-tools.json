@@ -1,0 +1,1025 @@
+{
+  "file": "non_cited_postecommerce-returns-management-strategies-tools.txt",
+  "word_count": 2375,
+  "entity_count": 167,
+  "entities": [
+    {
+      "name": "increased operational costs and",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.134201,
+      "mentions": 1
+    },
+    {
+      "name": "A well-managed returns process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.102111,
+      "mentions": 1
+    },
+    {
+      "name": "For retailers",
+      "type": "OTHER",
+      "salience": 0.048247,
+      "mentions": 1
+    },
+    {
+      "name": "retailers",
+      "type": "OTHER",
+      "salience": 0.041804,
+      "mentions": 1
+    },
+    {
+      "name": "and improve the customer experience.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.041137,
+      "mentions": 1
+    },
+    {
+      "name": "can",
+      "type": "ORGANIZATION",
+      "salience": 0.036387,
+      "mentions": 1
+    },
+    {
+      "name": "For retailers",
+      "type": "OTHER",
+      "salience": 0.032077,
+      "mentions": 1
+    },
+    {
+      "name": "retailers",
+      "type": "OTHER",
+      "salience": 0.031879,
+      "mentions": 1
+    },
+    {
+      "name": "A convenient",
+      "type": "OTHER",
+      "salience": 0.031061,
+      "mentions": 1
+    },
+    {
+      "name": "refunds",
+      "type": "OTHER",
+      "salience": 0.025007,
+      "mentions": 1
+    },
+    {
+      "name": "helping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024956,
+      "mentions": 1
+    },
+    {
+      "name": "Refundid",
+      "type": "OTHER",
+      "salience": 0.023513,
+      "mentions": 1
+    },
+    {
+      "name": "Strategies",
+      "type": "OTHER",
+      "salience": 0.022216,
+      "mentions": 1
+    },
+    {
+      "name": "overwhelmed",
+      "type": "OTHER",
+      "salience": 0.019283,
+      "mentions": 1
+    },
+    {
+      "name": "'regular refunds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018934,
+      "mentions": 1
+    },
+    {
+      "name": "experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018452,
+      "mentions": 1
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "salience": 0.014339,
+      "mentions": 1
+    },
+    {
+      "name": "one that is smooth and efficient",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014085,
+      "mentions": 1
+    },
+    {
+      "name": "reputation",
+      "type": "OTHER",
+      "salience": 0.013498,
+      "mentions": 1
+    },
+    {
+      "name": "Return",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012472,
+      "mentions": 1
+    },
+    {
+      "name": "The app helps to eliminate concerns around sizing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011944,
+      "mentions": 1
+    },
+    {
+      "name": "and",
+      "type": "OTHER",
+      "salience": 0.011559,
+      "mentions": 1
+    },
+    {
+      "name": "competitive advantage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011125,
+      "mentions": 1
+    },
+    {
+      "name": "and",
+      "type": "OTHER",
+      "salience": 0.010513,
+      "mentions": 1
+    },
+    {
+      "name": "returns methods",
+      "type": "OTHER",
+      "salience": 0.009582,
+      "mentions": 1
+    },
+    {
+      "name": "Image source",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009259,
+      "mentions": 1
+    },
+    {
+      "name": "Make returns management simple with a self-service portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008596,
+      "mentions": 1
+    },
+    {
+      "name": "For instance",
+      "type": "OTHER",
+      "salience": 0.00803,
+      "mentions": 1
+    },
+    {
+      "name": "ultimately",
+      "type": "OTHER",
+      "salience": 0.007088,
+      "mentions": 1
+    },
+    {
+      "name": "customers.",
+      "type": "OTHER",
+      "salience": 0.006906,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006271,
+      "mentions": 1
+    },
+    {
+      "name": "Meanwhile",
+      "type": "OTHER",
+      "salience": 0.005825,
+      "mentions": 1
+    },
+    {
+      "name": "This includes:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005726,
+      "mentions": 1
+    },
+    {
+      "name": "post-purchase and reverse logistics.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005547,
+      "mentions": 1
+    },
+    {
+      "name": "enquiries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005104,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.004791,
+      "mentions": 1
+    },
+    {
+      "name": "ecommerce platforms such as Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004654,
+      "mentions": 1
+    },
+    {
+      "name": "implementation",
+      "type": "OTHER",
+      "salience": 0.004198,
+      "mentions": 1
+    },
+    {
+      "name": "Matt Thurin",
+      "type": "PERSON",
+      "salience": 0.004158,
+      "mentions": 1
+    },
+    {
+      "name": "without",
+      "type": "OTHER",
+      "salience": 0.004103,
+      "mentions": 1
+    },
+    {
+      "name": "Retailers can efficiently sort",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004007,
+      "mentions": 1
+    },
+    {
+      "name": "For retailers",
+      "type": "OTHER",
+      "salience": 0.003802,
+      "mentions": 1
+    },
+    {
+      "name": "reducing uncertainty and enhancing online shoppers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003647,
+      "mentions": 1
+    },
+    {
+      "name": "speaking with Refundid's Head of Enterprise",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003537,
+      "mentions": 1
+    },
+    {
+      "name": "Indeed",
+      "type": "OTHER",
+      "salience": 0.003537,
+      "mentions": 1
+    },
+    {
+      "name": "It puts flexibility at shoppers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00336,
+      "mentions": 1
+    },
+    {
+      "name": "Consistent return policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003211,
+      "mentions": 1
+    },
+    {
+      "name": "Experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0032,
+      "mentions": 1
+    },
+    {
+      "name": "it integrates with",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003179,
+      "mentions": 1
+    },
+    {
+      "name": "Manage customer expectations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003148,
+      "mentions": 1
+    },
+    {
+      "name": "freeing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002933,
+      "mentions": 1
+    },
+    {
+      "name": "inspect and restock returned items",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002897,
+      "mentions": 1
+    },
+    {
+      "name": "ve been refunded.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002894,
+      "mentions": 1
+    },
+    {
+      "name": "Communicating",
+      "type": "OTHER",
+      "salience": 0.002679,
+      "mentions": 2
+    },
+    {
+      "name": "order editing software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002639,
+      "mentions": 1
+    },
+    {
+      "name": "Reverse logistics support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002628,
+      "mentions": 1
+    },
+    {
+      "name": "Integrated systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00251,
+      "mentions": 1
+    },
+    {
+      "name": "user-friendly",
+      "type": "OTHER",
+      "salience": 0.002452,
+      "mentions": 1
+    },
+    {
+      "name": "with inventory being updated instantly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002438,
+      "mentions": 1
+    },
+    {
+      "name": "integrations",
+      "type": "OTHER",
+      "salience": 0.002112,
+      "mentions": 1
+    },
+    {
+      "name": "returns processing timelines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002,
+      "mentions": 1
+    },
+    {
+      "name": "including with the likes of Loop and Refundid",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001922,
+      "mentions": 1
+    },
+    {
+      "name": "considering",
+      "type": "OTHER",
+      "salience": 0.001892,
+      "mentions": 1
+    },
+    {
+      "name": "retailers",
+      "type": "OTHER",
+      "salience": 0.001842,
+      "mentions": 1
+    },
+    {
+      "name": "Make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001828,
+      "mentions": 1
+    },
+    {
+      "name": "retail strategy",
+      "type": "OTHER",
+      "salience": 0.001816,
+      "mentions": 1
+    },
+    {
+      "name": "Self-service order editing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001749,
+      "mentions": 1
+    },
+    {
+      "name": "average increase",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001632,
+      "mentions": 1
+    },
+    {
+      "name": "Image source",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001624,
+      "mentions": 1
+    },
+    {
+      "name": "option is Harper Concierge",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00161,
+      "mentions": 1
+    },
+    {
+      "name": "Style Concierge",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001584,
+      "mentions": 1
+    },
+    {
+      "name": "Image source",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001558,
+      "mentions": 1
+    },
+    {
+      "name": "flexible and convenient returns process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001556,
+      "mentions": 1
+    },
+    {
+      "name": "Image source: Peoplevox",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001493,
+      "mentions": 1
+    },
+    {
+      "name": "Be at the forefront of industry trends",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001458,
+      "mentions": 1
+    },
+    {
+      "name": "Image source",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001404,
+      "mentions": 1
+    },
+    {
+      "name": "Linnworks Tutorials",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001395,
+      "mentions": 1
+    },
+    {
+      "name": "Harper Concierge",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001341,
+      "mentions": 1
+    },
+    {
+      "name": "at home",
+      "type": "OTHER",
+      "salience": 0.001332,
+      "mentions": 1
+    },
+    {
+      "name": "Key requirements include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001326,
+      "mentions": 1
+    },
+    {
+      "name": "commerce operations",
+      "type": "OTHER",
+      "salience": 0.001318,
+      "mentions": 1
+    },
+    {
+      "name": "Try before you buy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001315,
+      "mentions": 1
+    },
+    {
+      "name": "Here at Swanky",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0013,
+      "mentions": 1
+    },
+    {
+      "name": "at home",
+      "type": "OTHER",
+      "salience": 0.001287,
+      "mentions": 1
+    },
+    {
+      "name": "Read More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001275,
+      "mentions": 1
+    },
+    {
+      "name": "minimising",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001272,
+      "mentions": 1
+    },
+    {
+      "name": "Read More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001257,
+      "mentions": 1
+    },
+    {
+      "name": "consultation.",
+      "type": "OTHER",
+      "salience": 0.001251,
+      "mentions": 1
+    },
+    {
+      "name": "Read More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001236,
+      "mentions": 1
+    },
+    {
+      "name": "prioritising",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001189,
+      "mentions": 1
+    },
+    {
+      "name": "Another",
+      "type": "PERSON",
+      "salience": 0.001165,
+      "mentions": 1
+    },
+    {
+      "name": "try before you buy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001165,
+      "mentions": 1
+    },
+    {
+      "name": "transactional.",
+      "type": "OTHER",
+      "salience": 0.001133,
+      "mentions": 1
+    },
+    {
+      "name": "Peoplevox",
+      "type": "PERSON",
+      "salience": 0.001113,
+      "mentions": 1
+    },
+    {
+      "name": "which automates and optimises key processes within the returns workflow.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001072,
+      "mentions": 1
+    },
+    {
+      "name": "What's more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001057,
+      "mentions": 1
+    },
+    {
+      "name": "POS integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001023,
+      "mentions": 1
+    },
+    {
+      "name": "through Swanky's Integrated Retail Accelerator.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001016,
+      "mentions": 1
+    },
+    {
+      "name": "Establishing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001003,
+      "mentions": 1
+    },
+    {
+      "name": "Join Sean Clanchy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001002,
+      "mentions": 1
+    },
+    {
+      "name": "Streamline warehouse operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000977,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.000968,
+      "mentions": 1
+    },
+    {
+      "name": "when they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000955,
+      "mentions": 1
+    },
+    {
+      "name": "Integrating",
+      "type": "OTHER",
+      "salience": 0.000943,
+      "mentions": 1
+    },
+    {
+      "name": "Meanwhile",
+      "type": "OTHER",
+      "salience": 0.00089,
+      "mentions": 1
+    },
+    {
+      "name": "Digital Strategy",
+      "type": "PERSON",
+      "salience": 0.000889,
+      "mentions": 1
+    },
+    {
+      "name": "Digital Strategy",
+      "type": "PERSON",
+      "salience": 0.000873,
+      "mentions": 1
+    },
+    {
+      "name": "leading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000868,
+      "mentions": 1
+    },
+    {
+      "name": "lift revenue and deepen loyalty",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000866,
+      "mentions": 1
+    },
+    {
+      "name": "Digital Strategy",
+      "type": "PERSON",
+      "salience": 0.000861,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.000783,
+      "mentions": 1
+    },
+    {
+      "name": "self-service",
+      "type": "OTHER",
+      "salience": 0.000777,
+      "mentions": 1
+    },
+    {
+      "name": "Try before you buy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000755,
+      "mentions": 1
+    },
+    {
+      "name": "Synchronising",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000754,
+      "mentions": 1
+    },
+    {
+      "name": "Share",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000746,
+      "mentions": 1
+    },
+    {
+      "name": "reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000701,
+      "mentions": 1
+    },
+    {
+      "name": "Recaptcha requires verification",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000699,
+      "mentions": 1
+    },
+    {
+      "name": "protected by reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000697,
+      "mentions": 1
+    },
+    {
+      "name": "and less use of discounts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000697,
+      "mentions": 1
+    },
+    {
+      "name": "aesthetics and quality",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000681,
+      "mentions": 1
+    },
+    {
+      "name": "Pieces are delivered home by",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "Talk ecommerce with us",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000651,
+      "mentions": 1
+    },
+    {
+      "name": "where appropriate",
+      "type": "OTHER",
+      "salience": 0.00065,
+      "mentions": 1
+    },
+    {
+      "name": "WMS",
+      "type": "OTHER",
+      "salience": 0.000644,
+      "mentions": 1
+    },
+    {
+      "name": "Descartes Systems Group",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000639,
+      "mentions": 1
+    },
+    {
+      "name": "fingertips and improves the overall customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000637,
+      "mentions": 1
+    },
+    {
+      "name": "industry-leading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000604,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.0006,
+      "mentions": 1
+    },
+    {
+      "name": "AOV",
+      "type": "OTHER",
+      "salience": 0.000592,
+      "mentions": 1
+    },
+    {
+      "name": "altogether",
+      "type": "ORGANIZATION",
+      "salience": 0.000591,
+      "mentions": 1
+    },
+    {
+      "name": "Infrastructure",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000587,
+      "mentions": 1
+    },
+    {
+      "name": "Agentic Commerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000569,
+      "mentions": 1
+    },
+    {
+      "name": "AI Checkout: What Google",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000569,
+      "mentions": 1
+    },
+    {
+      "name": "He has extensive experience in the world of ecommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000566,
+      "mentions": 1
+    },
+    {
+      "name": "He loves connecting with new clients who are eager to learn and collaborate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000564,
+      "mentions": 1
+    },
+    {
+      "name": "Just checking",
+      "type": "PERSON",
+      "salience": 0.000563,
+      "mentions": 1
+    },
+    {
+      "name": "Best practices include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000559,
+      "mentions": 1
+    },
+    {
+      "name": "and any costs involved.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000552,
+      "mentions": 1
+    },
+    {
+      "name": "SIGN ME UP",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00055,
+      "mentions": 1
+    },
+    {
+      "name": "Here at Swanky",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000487,
+      "mentions": 1
+    },
+    {
+      "name": "Sean Clanchy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000477,
+      "mentions": 1
+    },
+    {
+      "name": "preferences",
+      "type": "OTHER",
+      "salience": 0.000457,
+      "mentions": 1
+    },
+    {
+      "name": "Alongside this",
+      "type": "OTHER",
+      "salience": 0.000438,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.000405,
+      "mentions": 1
+    },
+    {
+      "name": "crucially",
+      "type": "OTHER",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "CONTACT US",
+      "type": "OTHER",
+      "salience": 0.000268,
+      "mentions": 1
+    },
+    {
+      "name": "12 Mar 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5 Mar 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27 Jan 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "64",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 89,
+    "OTHER": 49,
+    "ORGANIZATION": 2,
+    "PERSON": 7,
+    "DATE": 3,
+    "NUMBER": 18
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.5405289999999999,
+    "OTHER": 0.4106719999999998,
+    "ORGANIZATION": 0.036978000000000004,
+    "PERSON": 0.009622,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

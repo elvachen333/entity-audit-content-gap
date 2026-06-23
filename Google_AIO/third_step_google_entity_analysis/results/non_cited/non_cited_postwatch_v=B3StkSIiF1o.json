@@ -1,0 +1,925 @@
+{
+  "file": "non_cited_postwatch_v=B3StkSIiF1o.txt",
+  "word_count": 3071,
+  "entity_count": 150,
+  "entities": [
+    {
+      "name": "Shippo vs ShipStation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.223925,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping software isn't just a nice-to-have anymore",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.054844,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo and ShipStation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0527,
+      "mentions": 1
+    },
+    {
+      "name": "ShippingAutomation",
+      "type": "OTHER",
+      "salience": 0.028995,
+      "mentions": 1
+    },
+    {
+      "name": "ShippoVsShipStation",
+      "type": "OTHER",
+      "salience": 0.028995,
+      "mentions": 1
+    },
+    {
+      "name": "ShippingSoftware",
+      "type": "OTHER",
+      "salience": 0.028995,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.028995,
+      "mentions": 3
+    },
+    {
+      "name": "Likes",
+      "type": "OTHER",
+      "salience": 0.023956,
+      "mentions": 1
+    },
+    {
+      "name": "Both offer solid integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023795,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation has more advanced automations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022456,
+      "mentions": 1
+    },
+    {
+      "name": "it's the backbone of every e-commerce business.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016931,
+      "mentions": 1
+    },
+    {
+      "name": "Automations: I walk through how Shippo's simple",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014638,
+      "mentions": 1
+    },
+    {
+      "name": "more side-by-side software comparisons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011189,
+      "mentions": 1
+    },
+    {
+      "name": "label creation",
+      "type": "OTHER",
+      "salience": 0.01111,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.010054,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.009281,
+      "mentions": 1
+    },
+    {
+      "name": "You",
+      "type": "OTHER",
+      "salience": 0.009254,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.009003,
+      "mentions": 1
+    },
+    {
+      "name": "reports of downtime",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008861,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.008831,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "PERSON",
+      "salience": 0.00863,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.008592,
+      "mentions": 1
+    },
+    {
+      "name": "automations",
+      "type": "OTHER",
+      "salience": 0.008448,
+      "mentions": 1
+    },
+    {
+      "name": "ve seen with ShipStation.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008169,
+      "mentions": 1
+    },
+    {
+      "name": "Public",
+      "type": "OTHER",
+      "salience": 0.007867,
+      "mentions": 1
+    },
+    {
+      "name": "You can see it goes up like more at 299 a month.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007734,
+      "mentions": 1
+    },
+    {
+      "name": "with Shipo",
+      "type": "OTHER",
+      "salience": 0.00683,
+      "mentions": 1
+    },
+    {
+      "name": "Uploaded by : The Digital Merchant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006523,
+      "mentions": 1
+    },
+    {
+      "name": "And also",
+      "type": "OTHER",
+      "salience": 0.006277,
+      "mentions": 1
+    },
+    {
+      "name": "make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006187,
+      "mentions": 1
+    },
+    {
+      "name": "You",
+      "type": "OTHER",
+      "salience": 0.006153,
+      "mentions": 1
+    },
+    {
+      "name": "video",
+      "type": "OTHER",
+      "salience": 0.006146,
+      "mentions": 1
+    },
+    {
+      "name": "if you",
+      "type": "OTHER",
+      "salience": 0.005963,
+      "mentions": 1
+    },
+    {
+      "name": "you",
+      "type": "OTHER",
+      "salience": 0.005764,
+      "mentions": 1
+    },
+    {
+      "name": "2025-11-01T10:51:28-07:00",
+      "type": "OTHER",
+      "salience": 0.005712,
+      "mentions": 2
+    },
+    {
+      "name": "Uploaded at",
+      "type": "OTHER",
+      "salience": 0.005712,
+      "mentions": 1
+    },
+    {
+      "name": "the end of this video",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00569,
+      "mentions": 1
+    },
+    {
+      "name": "Visibility",
+      "type": "PERSON",
+      "salience": 0.00569,
+      "mentions": 1
+    },
+    {
+      "name": "Ship Station",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005479,
+      "mentions": 1
+    },
+    {
+      "name": "you",
+      "type": "OTHER",
+      "salience": 0.005406,
+      "mentions": 1
+    },
+    {
+      "name": "and returns",
+      "type": "OTHER",
+      "salience": 0.005226,
+      "mentions": 1
+    },
+    {
+      "name": "simple",
+      "type": "OTHER",
+      "salience": 0.005197,
+      "mentions": 1
+    },
+    {
+      "name": "Published at",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005152,
+      "mentions": 1
+    },
+    {
+      "name": "pricing",
+      "type": "OTHER",
+      "salience": 0.004856,
+      "mentions": 1
+    },
+    {
+      "name": "integrations.",
+      "type": "OTHER",
+      "salience": 0.004492,
+      "mentions": 1
+    },
+    {
+      "name": "affordable,",
+      "type": "OTHER",
+      "salience": 0.00443,
+      "mentions": 1
+    },
+    {
+      "name": "Reliability: I discuss user feedback",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004403,
+      "mentions": 1
+    },
+    {
+      "name": "enterprise plans",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003588,
+      "mentions": 1
+    },
+    {
+      "name": "there are lots of people who are complaining about some of the things that they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003426,
+      "mentions": 1
+    },
+    {
+      "name": "Length",
+      "type": "PERSON",
+      "salience": 0.003425,
+      "mentions": 1
+    },
+    {
+      "name": "Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00336,
+      "mentions": 1
+    },
+    {
+      "name": "carrier integrations",
+      "type": "OTHER",
+      "salience": 0.003341,
+      "mentions": 1
+    },
+    {
+      "name": "Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003245,
+      "mentions": 1
+    },
+    {
+      "name": "Views",
+      "type": "OTHER",
+      "salience": 0.00319,
+      "mentions": 1
+    },
+    {
+      "name": "Now next section",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003114,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.003091,
+      "mentions": 1
+    },
+    {
+      "name": "feed and complimentary access.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002925,
+      "mentions": 1
+    },
+    {
+      "name": "but they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002897,
+      "mentions": 1
+    },
+    {
+      "name": "They",
+      "type": "OTHER",
+      "salience": 0.00288,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.002863,
+      "mentions": 1
+    },
+    {
+      "name": "affordability",
+      "type": "OTHER",
+      "salience": 0.002851,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.00284,
+      "mentions": 1
+    },
+    {
+      "name": "Education",
+      "type": "OTHER",
+      "salience": 0.00284,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.002809,
+      "mentions": 1
+    },
+    {
+      "name": "As far as I can see",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002763,
+      "mentions": 1
+    },
+    {
+      "name": "and it's got over 300,000 users.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002707,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.002705,
+      "mentions": 1
+    },
+    {
+      "name": "with ShipStation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00267,
+      "mentions": 1
+    },
+    {
+      "name": "key platforms.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002655,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.00264,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.002594,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.002564,
+      "mentions": 1
+    },
+    {
+      "name": "Choose ShipStation if you're managing large-scale shipping operations and need deep reporting and advanced automations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002496,
+      "mentions": 1
+    },
+    {
+      "name": "So overall",
+      "type": "OTHER",
+      "salience": 0.002465,
+      "mentions": 1
+    },
+    {
+      "name": "and real world use cases.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002412,
+      "mentions": 1
+    },
+    {
+      "name": "key areas: reliability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002412,
+      "mentions": 1
+    },
+    {
+      "name": "#EcommerceGrowth",
+      "type": "OTHER",
+      "salience": 0.002373,
+      "mentions": 1
+    },
+    {
+      "name": "#EcommerceTools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002373,
+      "mentions": 1
+    },
+    {
+      "name": "#EcommerceShipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002373,
+      "mentions": 1
+    },
+    {
+      "name": "https://thedigitalmerchant.com/shippo-vs-shipstation/",
+      "type": "OTHER",
+      "salience": 0.002325,
+      "mentions": 2
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "salience": 0.002318,
+      "mentions": 1
+    },
+    {
+      "name": "strong shipping partnerships",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002316,
+      "mentions": 1
+    },
+    {
+      "name": "FTC Disclaimer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002287,
+      "mentions": 1
+    },
+    {
+      "name": "With ShipStation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002087,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.002078,
+      "mentions": 1
+    },
+    {
+      "name": "Like with Shipo",
+      "type": "OTHER",
+      "salience": 0.002037,
+      "mentions": 1
+    },
+    {
+      "name": "if-then",
+      "type": "OTHER",
+      "salience": 0.002011,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.002008,
+      "mentions": 1
+    },
+    {
+      "name": "whether the automations work and integrations work.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001953,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.001936,
+      "mentions": 1
+    },
+    {
+      "name": "https://thedigitalmerchant.com/ftc-disclaimer/",
+      "type": "OTHER",
+      "salience": 0.001914,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.001881,
+      "mentions": 1
+    },
+    {
+      "name": "automation rules",
+      "type": "OTHER",
+      "salience": 0.001836,
+      "mentions": 1
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "salience": 0.001792,
+      "mentions": 1
+    },
+    {
+      "name": "But I think overall",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001774,
+      "mentions": 1
+    },
+    {
+      "name": "they look almost identical.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001737,
+      "mentions": 1
+    },
+    {
+      "name": "So again",
+      "type": "OTHER",
+      "salience": 0.001608,
+      "mentions": 1
+    },
+    {
+      "name": "They",
+      "type": "OTHER",
+      "salience": 0.001405,
+      "mentions": 1
+    },
+    {
+      "name": "#SmallBusiness",
+      "type": "OTHER",
+      "salience": 0.001363,
+      "mentions": 1
+    },
+    {
+      "name": "Transcript",
+      "type": "OTHER",
+      "salience": 0.001325,
+      "mentions": 1
+    },
+    {
+      "name": "straightforward.",
+      "type": "OTHER",
+      "salience": 0.001311,
+      "mentions": 1
+    },
+    {
+      "name": "with returns management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00127,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.001234,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.001199,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.001083,
+      "mentions": 1
+    },
+    {
+      "name": "straightforward.",
+      "type": "OTHER",
+      "salience": 0.000879,
+      "mentions": 1
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "salience": 0.000767,
+      "mentions": 1
+    },
+    {
+      "name": "ve got all of the main American ones.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000732,
+      "mentions": 1
+    },
+    {
+      "name": "here we",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000732,
+      "mentions": 1
+    },
+    {
+      "name": "affordable,",
+      "type": "OTHER",
+      "salience": 0.000574,
+      "mentions": 1
+    },
+    {
+      "name": "ve got thousands of orders already",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000571,
+      "mentions": 1
+    },
+    {
+      "name": "straightforward.",
+      "type": "OTHER",
+      "salience": 0.000545,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.000516,
+      "mentions": 1
+    },
+    {
+      "name": "Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000456,
+      "mentions": 1
+    },
+    {
+      "name": "crashes",
+      "type": "OTHER",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "outages",
+      "type": "OTHER",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "above 10 kg",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000261,
+      "mentions": 1
+    },
+    {
+      "name": "ve got order filters",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000241,
+      "mentions": 1
+    },
+    {
+      "name": "51",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$17",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025-11-01T10:51:28-07:00",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "51",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "45",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "182",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "299",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025-11-01T10:51:28-07:00",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 47,
+    "OTHER": 55,
+    "ORGANIZATION": 18,
+    "PERSON": 3,
+    "NUMBER": 26,
+    "DATE": 3,
+    "PRICE": 2
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.5407609999999996,
+    "OTHER": 0.3061290000000002,
+    "ORGANIZATION": 0.07317399999999999,
+    "PERSON": 0.017745,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

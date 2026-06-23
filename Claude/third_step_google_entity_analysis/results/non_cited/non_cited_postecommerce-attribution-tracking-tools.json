@@ -1,0 +1,109 @@
+{
+  "file": "non_cited_postecommerce-attribution-tracking-tools.txt",
+  "word_count": 67,
+  "entity_count": 15,
+  "entities": [
+    {
+      "name": "clear",
+      "type": "OTHER",
+      "salience": 0.19364,
+      "mentions": 1
+    },
+    {
+      "name": "accurate attribution",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.19364,
+      "mentions": 1
+    },
+    {
+      "name": "Get Started",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.143018,
+      "mentions": 1
+    },
+    {
+      "name": "Get Started",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.104241,
+      "mentions": 1
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "salience": 0.052752,
+      "mentions": 1
+    },
+    {
+      "name": "Open Form",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.052521,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 0.049971,
+      "mentions": 1
+    },
+    {
+      "name": "Orbit Form",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.047399,
+      "mentions": 1
+    },
+    {
+      "name": "Unify your marketing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.040601,
+      "mentions": 1
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "salience": 0.031691,
+      "mentions": 1
+    },
+    {
+      "name": "Powered by",
+      "type": "OTHER",
+      "salience": 0.0288,
+      "mentions": 1
+    },
+    {
+      "name": "Monthly Ad Spend",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02146,
+      "mentions": 1
+    },
+    {
+      "name": "Select an option...",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020537,
+      "mentions": 1
+    },
+    {
+      "name": "Phone Number",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019729,
+      "mentions": 1
+    },
+    {
+      "name": "+1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 4,
+    "CONSUMER_GOOD": 9,
+    "LOCATION": 1,
+    "NUMBER": 1
+  },
+  "type_salience": {
+    "OTHER": 0.325163,
+    "CONSUMER_GOOD": 0.6431460000000001,
+    "LOCATION": 0.031691,
+    "NUMBER": 0.0
+  }
+}

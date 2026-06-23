@@ -1,0 +1,2131 @@
+{
+  "file": "cited_postreturns-management-software.txt",
+  "word_count": 1921,
+  "entity_count": 351,
+  "entities": [
+    {
+      "name": "Integration Manager",
+      "type": "OTHER",
+      "salience": 0.02599,
+      "mentions": 1
+    },
+    {
+      "name": "‫المغرب‬‎",
+      "type": "LOCATION",
+      "salience": 0.019818,
+      "mentions": 1
+    },
+    {
+      "name": "Brand/MerchantRetailer",
+      "type": "OTHER",
+      "salience": 0.015692,
+      "mentions": 2
+    },
+    {
+      "name": "IslandsBruneiBulgaria",
+      "type": "OTHER",
+      "salience": 0.013488,
+      "mentions": 1
+    },
+    {
+      "name": "EthiopiaFalkland Islands",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013034,
+      "mentions": 1
+    },
+    {
+      "name": "Islas Malvinas",
+      "type": "PERSON",
+      "salience": 0.013034,
+      "mentions": 1
+    },
+    {
+      "name": "Faroe Islands",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013034,
+      "mentions": 2
+    },
+    {
+      "name": "Босна и Херцеговина",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012652,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Rabbit",
+      "type": "OTHER",
+      "salience": 0.011773,
+      "mentions": 1
+    },
+    {
+      "name": "‫ال",
+      "type": "LOCATION",
+      "salience": 0.011582,
+      "mentions": 1
+    },
+    {
+      "name": "‫ال",
+      "type": "LOCATION",
+      "salience": 0.011582,
+      "mentions": 1
+    },
+    {
+      "name": "IslandsMartiniqueMauritania",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010733,
+      "mentions": 1
+    },
+    {
+      "name": "Northern Mariana IslandsNorway",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010733,
+      "mentions": 1
+    },
+    {
+      "name": "improving profitability by reducing the cost of returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010367,
+      "mentions": 1
+    },
+    {
+      "name": "Republic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009149,
+      "mentions": 1
+    },
+    {
+      "name": "Republic",
+      "type": "OTHER",
+      "salience": 0.009149,
+      "mentions": 1
+    },
+    {
+      "name": "Caribbean NetherlandsCayman IslandsCentral African Republic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009149,
+      "mentions": 1
+    },
+    {
+      "name": "Czech Republic",
+      "type": "LOCATION",
+      "salience": 0.009149,
+      "mentions": 2
+    },
+    {
+      "name": "‫الب",
+      "type": "LOCATION",
+      "salience": 0.00853,
+      "mentions": 1
+    },
+    {
+      "name": "The Best Returns Management Software Solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008486,
+      "mentions": 1
+    },
+    {
+      "name": "Return Rabbit",
+      "type": "OTHER",
+      "salience": 0.008171,
+      "mentions": 1
+    },
+    {
+      "name": "Guinea Ecuatorial",
+      "type": "PERSON",
+      "salience": 0.007946,
+      "mentions": 1
+    },
+    {
+      "name": "ال",
+      "type": "OTHER",
+      "salience": 0.007666,
+      "mentions": 1
+    },
+    {
+      "name": "including sophisticated reporting and inventory management.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00764,
+      "mentions": 1
+    },
+    {
+      "name": "3PL",
+      "type": "OTHER",
+      "salience": 0.007544,
+      "mentions": 2
+    },
+    {
+      "name": "‫مو",
+      "type": "LOCATION",
+      "salience": 0.007457,
+      "mentions": 1
+    },
+    {
+      "name": "‫سوريا‬‎",
+      "type": "LOCATION",
+      "salience": 0.007445,
+      "mentions": 1
+    },
+    {
+      "name": "Republica Moldova",
+      "type": "PERSON",
+      "salience": 0.00728,
+      "mentions": 1
+    },
+    {
+      "name": "Guinée",
+      "type": "OTHER",
+      "salience": 0.006755,
+      "mentions": 1
+    },
+    {
+      "name": "Guinea-Bissau",
+      "type": "OTHER",
+      "salience": 0.006755,
+      "mentions": 2
+    },
+    {
+      "name": "The interrelationship between effective order",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005369,
+      "mentions": 1
+    },
+    {
+      "name": "Congo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005257,
+      "mentions": 3
+    },
+    {
+      "name": "Congo",
+      "type": "LOCATION",
+      "salience": 0.005257,
+      "mentions": 2
+    },
+    {
+      "name": "customers",
+      "type": "OTHER",
+      "salience": 0.005009,
+      "mentions": 1
+    },
+    {
+      "name": "the",
+      "type": "ORGANIZATION",
+      "salience": 0.004425,
+      "mentions": 1
+    },
+    {
+      "name": "With consumers returning nearly 30% of online purchases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004421,
+      "mentions": 1
+    },
+    {
+      "name": "With automated return approval workflows and real-time tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004245,
+      "mentions": 1
+    },
+    {
+      "name": "България",
+      "type": "OTHER",
+      "salience": 0.004177,
+      "mentions": 1
+    },
+    {
+      "name": "Cameroon",
+      "type": "LOCATION",
+      "salience": 0.004177,
+      "mentions": 2
+    },
+    {
+      "name": "CanadaCape Verde",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004177,
+      "mentions": 1
+    },
+    {
+      "name": "Belgium",
+      "type": "LOCATION",
+      "salience": 0.004177,
+      "mentions": 2
+    },
+    {
+      "name": "EcuadorEgypt",
+      "type": "OTHER",
+      "salience": 0.004177,
+      "mentions": 1
+    },
+    {
+      "name": "BarbadosBelarus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004177,
+      "mentions": 1
+    },
+    {
+      "name": "‫ال",
+      "type": "LOCATION",
+      "salience": 0.004097,
+      "mentions": 1
+    },
+    {
+      "name": "Solomon IslandsSomalia",
+      "type": "PERSON",
+      "salience": 0.004031,
+      "mentions": 1
+    },
+    {
+      "name": "IslandsUgandaUkraine",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00392,
+      "mentions": 1
+    },
+    {
+      "name": "inline",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00378,
+      "mentions": 1
+    },
+    {
+      "name": "Integration Manager",
+      "type": "OTHER",
+      "salience": 0.003731,
+      "mentions": 1
+    },
+    {
+      "name": "Madagasikara",
+      "type": "OTHER",
+      "salience": 0.003431,
+      "mentions": 1
+    },
+    {
+      "name": "Latvia",
+      "type": "LOCATION",
+      "salience": 0.003431,
+      "mentions": 2
+    },
+    {
+      "name": "Madagascar",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003431,
+      "mentions": 1
+    },
+    {
+      "name": "Italy",
+      "type": "LOCATION",
+      "salience": 0.003431,
+      "mentions": 2
+    },
+    {
+      "name": "India",
+      "type": "LOCATION",
+      "salience": 0.003431,
+      "mentions": 1
+    },
+    {
+      "name": "GuyanaHaitiHondurasHong",
+      "type": "OTHER",
+      "salience": 0.003431,
+      "mentions": 1
+    },
+    {
+      "name": "GrenadaGuadeloupeGuam",
+      "type": "LOCATION",
+      "salience": 0.003431,
+      "mentions": 1
+    },
+    {
+      "name": "Greenland",
+      "type": "LOCATION",
+      "salience": 0.003431,
+      "mentions": 2
+    },
+    {
+      "name": "Guyane française",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003431,
+      "mentions": 1
+    },
+    {
+      "name": "French Polynesia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003431,
+      "mentions": 2
+    },
+    {
+      "name": "GibraltarGreece",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003431,
+      "mentions": 1
+    },
+    {
+      "name": "MicronesiaMoldova",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003323,
+      "mentions": 1
+    },
+    {
+      "name": "Montenegro",
+      "type": "LOCATION",
+      "salience": 0.003323,
+      "mentions": 2
+    },
+    {
+      "name": "MontserratMorocco",
+      "type": "OTHER",
+      "salience": 0.003323,
+      "mentions": 1
+    },
+    {
+      "name": "Namibia",
+      "type": "ORGANIZATION",
+      "salience": 0.003323,
+      "mentions": 2
+    },
+    {
+      "name": "Netherlands",
+      "type": "LOCATION",
+      "salience": 0.003323,
+      "mentions": 2
+    },
+    {
+      "name": "complemented",
+      "type": "OTHER",
+      "salience": 0.003254,
+      "mentions": 1
+    },
+    {
+      "name": "Kong",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003199,
+      "mentions": 1
+    },
+    {
+      "name": "Managing Inventory From Reverse Logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003157,
+      "mentions": 1
+    },
+    {
+      "name": "affecting order fulfillment and inventory management.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003142,
+      "mentions": 1
+    },
+    {
+      "name": "Select oneThird-Party Logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003134,
+      "mentions": 1
+    },
+    {
+      "name": "it reduces manual intervention",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003022,
+      "mentions": 1
+    },
+    {
+      "name": "CubaCuraçaoCyprus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Albania",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 2
+    },
+    {
+      "name": "British",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Uburundi",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Brasil",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Cambodia",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Kabu Verdi",
+      "type": "PERSON",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "República Dominicana",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "BotswanaBrazil",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "BoliviaBosnia and Herzegovina",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "BermudaBhutan",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "République centrafricaine",
+      "type": "ORGANIZATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Chad",
+      "type": "PERSON",
+      "salience": 0.00302,
+      "mentions": 2
+    },
+    {
+      "name": "ChileChina",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Bénin",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Κύπρος",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "BelizeBenin",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Hrvatska",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "中國",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Беларусь",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Bangladesh",
+      "type": "ORGANIZATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "BahamasBahrain",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Afghanistan",
+      "type": "PERSON",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Azerbaijan",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 2
+    },
+    {
+      "name": "Österreich",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "ColombiaComoros",
+      "type": "PERSON",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "ArubaAustraliaAustria",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Cook IslandsCosta RicaCôte d'IvoireCroatia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Հայաստան",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "ArgentinaArmenia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "AndorraAngolaAnguillaAntigua",
+      "type": "OTHER",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "DjiboutiDominicaDominican",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Denmark",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 2
+    },
+    {
+      "name": "American",
+      "type": "ORGANIZATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Algeria",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "Burkina FasoBurundi",
+      "type": "LOCATION",
+      "salience": 0.00302,
+      "mentions": 1
+    },
+    {
+      "name": "El SalvadorEquatorial Guinea",
+      "type": "ORGANIZATION",
+      "salience": 0.002919,
+      "mentions": 1
+    },
+    {
+      "name": "EritreaEstonia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002919,
+      "mentions": 1
+    },
+    {
+      "name": "Eesti",
+      "type": "LOCATION",
+      "salience": 0.002919,
+      "mentions": 1
+    },
+    {
+      "name": "FijiFinland",
+      "type": "OTHER",
+      "salience": 0.002919,
+      "mentions": 1
+    },
+    {
+      "name": "Saint-Barthélemy",
+      "type": "OTHER",
+      "salience": 0.002532,
+      "mentions": 1
+    },
+    {
+      "name": "Saint-Martin",
+      "type": "OTHER",
+      "salience": 0.002532,
+      "mentions": 1
+    },
+    {
+      "name": "Papua New GuineaParaguayPeru",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002532,
+      "mentions": 1
+    },
+    {
+      "name": "PortugalPuerto",
+      "type": "OTHER",
+      "salience": 0.002532,
+      "mentions": 1
+    },
+    {
+      "name": "businesses",
+      "type": "OTHER",
+      "salience": 0.002495,
+      "mentions": 1
+    },
+    {
+      "name": "IrelandIsrael",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Македонија",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "LiechtensteinLithuania",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "LuxembourgMacau",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "LesothoLiberiaLibya",
+      "type": "ORGANIZATION",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Lebanon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Laos",
+      "type": "LOCATION",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Кыргызстан",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Kyrgyzstan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "KenyaKiribatiKosovoKuwait",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Kazakhstan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 2
+    },
+    {
+      "name": "Jordan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "日本",
+      "type": "LOCATION",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "JamaicaJapan",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "澳門",
+      "type": "LOCATION",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Iraq",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "IndonesiaIran",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Ísland",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Iceland",
+      "type": "LOCATION",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Hungary",
+      "type": "LOCATION",
+      "salience": 0.002481,
+      "mentions": 2
+    },
+    {
+      "name": "香港",
+      "type": "LOCATION",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "GuatemalaGuinea",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Macedonia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Ghana",
+      "type": "ORGANIZATION",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Germany",
+      "type": "LOCATION",
+      "salience": 0.002481,
+      "mentions": 2
+    },
+    {
+      "name": "საქართველო",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "GabonGambiaGeorgia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "FranceFrench Guiana",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Suomi",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "FYROM",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Ελλάδα",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Gaana",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Lietuva",
+      "type": "OTHER",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "Mauritius",
+      "type": "PERSON",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "MalawiMalaysia",
+      "type": "OTHER",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "MaldivesMaliMaltaMarshall",
+      "type": "PERSON",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Moris",
+      "type": "LOCATION",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "salience": 0.002403,
+      "mentions": 2
+    },
+    {
+      "name": "MonacoMongolia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Монгол",
+      "type": "OTHER",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Mozambique",
+      "type": "ORGANIZATION",
+      "salience": 0.002403,
+      "mentions": 2
+    },
+    {
+      "name": "Myanmar",
+      "type": "LOCATION",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Burma",
+      "type": "OTHER",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "NauruNepal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "New Caledonia",
+      "type": "LOCATION",
+      "salience": 0.002403,
+      "mentions": 2
+    },
+    {
+      "name": "New ZealandNicaraguaNiger",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Nijar",
+      "type": "OTHER",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "NigeriaNiueNorfolk",
+      "type": "OTHER",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Norge",
+      "type": "LOCATION",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Oman",
+      "type": "ORGANIZATION",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Pakistan",
+      "type": "ORGANIZATION",
+      "salience": 0.002403,
+      "mentions": 1
+    },
+    {
+      "name": "Street address",
+      "type": "OTHER",
+      "salience": 0.002283,
+      "mentions": 1
+    },
+    {
+      "name": "enhancing the brand experience with customizable interfaces.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002246,
+      "mentions": 1
+    },
+    {
+      "name": "inventory",
+      "type": "PERSON",
+      "salience": 0.002231,
+      "mentions": 3
+    },
+    {
+      "name": "ارات ال",
+      "type": "LOCATION",
+      "salience": 0.002228,
+      "mentions": 1
+    },
+    {
+      "name": "Order Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002165,
+      "mentions": 1
+    },
+    {
+      "name": "Its technology seamlessly integrates with existing systems via convenient APIs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002122,
+      "mentions": 1
+    },
+    {
+      "name": "Its customer portal is notably user-friendly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002073,
+      "mentions": 1
+    },
+    {
+      "name": "Extensiv's",
+      "type": "OTHER",
+      "salience": 0.00205,
+      "mentions": 1
+    },
+    {
+      "name": "ultimately enhancing the customer experience.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002036,
+      "mentions": 1
+    },
+    {
+      "name": "utm_campaign",
+      "type": "OTHER",
+      "salience": 0.002007,
+      "mentions": 1
+    },
+    {
+      "name": "consumers.",
+      "type": "OTHER",
+      "salience": 0.001969,
+      "mentions": 1
+    },
+    {
+      "name": "utm_term",
+      "type": "OTHER",
+      "salience": 0.00196,
+      "mentions": 1
+    },
+    {
+      "name": "utm_source",
+      "type": "OTHER",
+      "salience": 0.001916,
+      "mentions": 1
+    },
+    {
+      "name": "utm_content",
+      "type": "OTHER",
+      "salience": 0.001875,
+      "mentions": 1
+    },
+    {
+      "name": "utm_medium",
+      "type": "OTHER",
+      "salience": 0.001837,
+      "mentions": 1
+    },
+    {
+      "name": "and compliance",
+      "type": "OTHER",
+      "salience": 0.001798,
+      "mentions": 1
+    },
+    {
+      "name": "Best Returns Management Software Solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001725,
+      "mentions": 1
+    },
+    {
+      "name": "Solutions",
+      "type": "OTHER",
+      "salience": 0.001664,
+      "mentions": 1
+    },
+    {
+      "name": "warehouse",
+      "type": "OTHER",
+      "salience": 0.001647,
+      "mentions": 1
+    },
+    {
+      "name": "facilitates seamless communication and customer support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00164,
+      "mentions": 1
+    },
+    {
+      "name": "partie française",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001619,
+      "mentions": 1
+    },
+    {
+      "name": "Slovensko",
+      "type": "PERSON",
+      "salience": 0.001571,
+      "mentions": 1
+    },
+    {
+      "name": "Slovenia",
+      "type": "LOCATION",
+      "salience": 0.001571,
+      "mentions": 2
+    },
+    {
+      "name": "Ecommerce Technology",
+      "type": "PERSON",
+      "salience": 0.001569,
+      "mentions": 1
+    },
+    {
+      "name": "ZambiaZimbabwe",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001528,
+      "mentions": 1
+    },
+    {
+      "name": "directly influencing inventory",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001439,
+      "mentions": 1
+    },
+    {
+      "name": "Best Returns Management Software Solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001407,
+      "mentions": 1
+    },
+    {
+      "name": "Saudi Arabia",
+      "type": "PERSON",
+      "salience": 0.001286,
+      "mentions": 1
+    },
+    {
+      "name": "Réunion",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001286,
+      "mentions": 1
+    },
+    {
+      "name": "Panamá",
+      "type": "LOCATION",
+      "salience": 0.001286,
+      "mentions": 1
+    },
+    {
+      "name": "Saint Vincent and the GrenadinesSamoaSan MarinoSão Tomé and Príncipe",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001286,
+      "mentions": 1
+    },
+    {
+      "name": "Panama",
+      "type": "ORGANIZATION",
+      "salience": 0.001286,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouse Management and Logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001253,
+      "mentions": 1
+    },
+    {
+      "name": "complicating",
+      "type": "OTHER",
+      "salience": 0.001248,
+      "mentions": 1
+    },
+    {
+      "name": "South AfricaSouth Korea",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001248,
+      "mentions": 1
+    },
+    {
+      "name": "South Sudan",
+      "type": "PERSON",
+      "salience": 0.001248,
+      "mentions": 1
+    },
+    {
+      "name": "Turkey",
+      "type": "OTHER",
+      "salience": 0.001248,
+      "mentions": 2
+    },
+    {
+      "name": "Sudan",
+      "type": "LOCATION",
+      "salience": 0.001248,
+      "mentions": 1
+    },
+    {
+      "name": "TurkmenistanTurks",
+      "type": "OTHER",
+      "salience": 0.001248,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouse Management and Logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001226,
+      "mentions": 1
+    },
+    {
+      "name": "supporting various return options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001219,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001218,
+      "mentions": 1
+    },
+    {
+      "name": "Wallis and FutunaYemen",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001214,
+      "mentions": 1
+    },
+    {
+      "name": "StatesUruguayUzbekistan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001214,
+      "mentions": 1
+    },
+    {
+      "name": "United",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001214,
+      "mentions": 1
+    },
+    {
+      "name": "Comprehensive",
+      "type": "PERSON",
+      "salience": 0.001207,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouse Management and Logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001196,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.001182,
+      "mentions": 1
+    },
+    {
+      "name": "ClickPost",
+      "type": "OTHER",
+      "salience": 0.001148,
+      "mentions": 1
+    },
+    {
+      "name": "Moreover",
+      "type": "OTHER",
+      "salience": 0.001108,
+      "mentions": 1
+    },
+    {
+      "name": "satisfaction.",
+      "type": "OTHER",
+      "salience": 0.001047,
+      "mentions": 1
+    },
+    {
+      "name": "while the wrong one can confuse customer support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001028,
+      "mentions": 1
+    },
+    {
+      "name": "ultimately",
+      "type": "OTHER",
+      "salience": 0.001027,
+      "mentions": 1
+    },
+    {
+      "name": "supporting informed decision-making.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001012,
+      "mentions": 1
+    },
+    {
+      "name": "self-service",
+      "type": "OTHER",
+      "salience": 0.000956,
+      "mentions": 1
+    },
+    {
+      "name": "automated workflows",
+      "type": "OTHER",
+      "salience": 0.000954,
+      "mentions": 1
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00093,
+      "mentions": 2
+    },
+    {
+      "name": "Romania",
+      "type": "LOCATION",
+      "salience": 0.00093,
+      "mentions": 2
+    },
+    {
+      "name": "Russia",
+      "type": "LOCATION",
+      "salience": 0.00093,
+      "mentions": 2
+    },
+    {
+      "name": "RwandaSaint Barthélemy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "La Réunion",
+      "type": "OTHER",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "Perú",
+      "type": "OTHER",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "Saint HelenaSaint Kitts and NevisSaint LuciaSaint Martin",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "PhilippinesPoland",
+      "type": "OTHER",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "São Tomé e Príncipe",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "PalauPalestine",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "Polska",
+      "type": "OTHER",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "Efficiently",
+      "type": "PERSON",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "supply chain",
+      "type": "OTHER",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "Continue Reading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000925,
+      "mentions": 1
+    },
+    {
+      "name": "While its innovative approach promotes sustainability initiatives",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000919,
+      "mentions": 1
+    },
+    {
+      "name": "Spain",
+      "type": "LOCATION",
+      "salience": 0.000903,
+      "mentions": 2
+    },
+    {
+      "name": "Timor-LesteTogoTokelauTongaTrinidad",
+      "type": "OTHER",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "Senegal",
+      "type": "LOCATION",
+      "salience": 0.000903,
+      "mentions": 2
+    },
+    {
+      "name": "Serbia",
+      "type": "LOCATION",
+      "salience": 0.000903,
+      "mentions": 2
+    },
+    {
+      "name": "SeychellesSierra",
+      "type": "OTHER",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "LeoneSingaporeSint",
+      "type": "OTHER",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "MaartenSlovakia",
+      "type": "OTHER",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "Soomaaliya",
+      "type": "OTHER",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "Sri Lanka",
+      "type": "PERSON",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "SurinameSwazilandSweden",
+      "type": "PERSON",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "Sverige",
+      "type": "LOCATION",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "Switzerland",
+      "type": "LOCATION",
+      "salience": 0.000903,
+      "mentions": 2
+    },
+    {
+      "name": "Syria",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "Taiwan",
+      "type": "LOCATION",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "台灣",
+      "type": "LOCATION",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "TajikistanTanzaniaThailand",
+      "type": "LOCATION",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "TobagoTunisia",
+      "type": "OTHER",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "Continue Reading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000902,
+      "mentions": 1
+    },
+    {
+      "name": "Resources",
+      "type": "OTHER",
+      "salience": 0.000888,
+      "mentions": 1
+    },
+    {
+      "name": "Continue Reading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000885,
+      "mentions": 1
+    },
+    {
+      "name": "KingdomUnited",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "Città del Vaticano",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "VenezuelaVietnam",
+      "type": "PERSON",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "VanuatuVatican",
+      "type": "OTHER",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "Việt Nam",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "Україна",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "United Arab Emirates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "Oʻzbekiston",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "and Narvar",
+      "type": "OTHER",
+      "salience": 0.000873,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "OTHER",
+      "salience": 0.000873,
+      "mentions": 1
+    },
+    {
+      "name": "RicoQatar",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000867,
+      "mentions": 1
+    },
+    {
+      "name": "in-store",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000853,
+      "mentions": 1
+    },
+    {
+      "name": "and drop-off",
+      "type": "OTHER",
+      "salience": 0.000853,
+      "mentions": 1
+    },
+    {
+      "name": "including mail-in",
+      "type": "OTHER",
+      "salience": 0.000853,
+      "mentions": 1
+    },
+    {
+      "name": "retailers.",
+      "type": "OTHER",
+      "salience": 0.000837,
+      "mentions": 1
+    },
+    {
+      "name": "3PL Warehouse Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000833,
+      "mentions": 1
+    },
+    {
+      "name": "City",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000818,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.000815,
+      "mentions": 1
+    },
+    {
+      "name": "3PL Warehouse Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000815,
+      "mentions": 1
+    },
+    {
+      "name": "providing comprehensive order visibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000803,
+      "mentions": 1
+    },
+    {
+      "name": "Though it offers extensive capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "3PL Warehouse Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000795,
+      "mentions": 1
+    },
+    {
+      "name": "Strategy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000788,
+      "mentions": 1
+    },
+    {
+      "name": "and decision-makers",
+      "type": "OTHER",
+      "salience": 0.000743,
+      "mentions": 1
+    },
+    {
+      "name": "First Expired First Out",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000712,
+      "mentions": 1
+    },
+    {
+      "name": "facilitating",
+      "type": "OTHER",
+      "salience": 0.000639,
+      "mentions": 1
+    },
+    {
+      "name": "ultimately",
+      "type": "OTHER",
+      "salience": 0.000639,
+      "mentions": 1
+    },
+    {
+      "name": "Top 6 Returns Management Software for 2024",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000623,
+      "mentions": 1
+    },
+    {
+      "name": "Link Copied",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "Linkedin Twitter",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000616,
+      "mentions": 1
+    },
+    {
+      "name": "Feb 06",
+      "type": "OTHER",
+      "salience": 0.000606,
+      "mentions": 1
+    },
+    {
+      "name": "ensuring accurate",
+      "type": "OTHER",
+      "salience": 0.000604,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 24",
+      "type": "OTHER",
+      "salience": 0.0006,
+      "mentions": 1
+    },
+    {
+      "name": "Quick Summary",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000598,
+      "mentions": 1
+    },
+    {
+      "name": "service teams",
+      "type": "OTHER",
+      "salience": 0.000591,
+      "mentions": 1
+    },
+    {
+      "name": "potentially",
+      "type": "OTHER",
+      "salience": 0.000589,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 17",
+      "type": "OTHER",
+      "salience": 0.000587,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 11",
+      "type": "OTHER",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "waves",
+      "type": "OTHER",
+      "salience": 0.000567,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000536,
+      "mentions": 1
+    },
+    {
+      "name": "about:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000503,
+      "mentions": 1
+    },
+    {
+      "name": "Latest Insights",
+      "type": "OTHER",
+      "salience": 0.000482,
+      "mentions": 1
+    },
+    {
+      "name": "It's executing thousands of time-sensitive decisions every day",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00046,
+      "mentions": 1
+    },
+    {
+      "name": "Total visibility",
+      "type": "OTHER",
+      "salience": 0.000446,
+      "mentions": 1
+    },
+    {
+      "name": "Total control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000445,
+      "mentions": 1
+    },
+    {
+      "name": "Twitter Widget Iframe",
+      "type": "OTHER",
+      "salience": 0.000442,
+      "mentions": 1
+    },
+    {
+      "name": "and give customers more control and flexibility over how they make and monitor returns status with notifications and apps",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000427,
+      "mentions": 1
+    },
+    {
+      "name": "customer behavior",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000427,
+      "mentions": 1
+    },
+    {
+      "name": "real-time inventory management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "Share this article",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "Topics:",
+      "type": "OTHER",
+      "salience": 0.000353,
+      "mentions": 1
+    },
+    {
+      "name": "Merchant Blog",
+      "type": "OTHER",
+      "salience": 0.000351,
+      "mentions": 1
+    },
+    {
+      "name": "and marketplace sellers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00035,
+      "mentions": 1
+    },
+    {
+      "name": "View All",
+      "type": "OTHER",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "quality",
+      "type": "OTHER",
+      "salience": 0.000341,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.000341,
+      "mentions": 1
+    },
+    {
+      "name": "and real-time tracking and notifications.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000338,
+      "mentions": 1
+    },
+    {
+      "name": "WMS",
+      "type": "OTHER",
+      "salience": 0.000327,
+      "mentions": 1
+    },
+    {
+      "name": "Notably",
+      "type": "OTHER",
+      "salience": 0.000326,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "Most importantly",
+      "type": "OTHER",
+      "salience": 0.000242,
+      "mentions": 1
+    },
+    {
+      "name": "Inefficient",
+      "type": "PERSON",
+      "salience": 0.000232,
+      "mentions": 1
+    },
+    {
+      "name": "mitigating",
+      "type": "OTHER",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "Lack of Order Visibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00023,
+      "mentions": 1
+    },
+    {
+      "name": "customer preference.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000226,
+      "mentions": 1
+    },
+    {
+      "name": "packed",
+      "type": "OTHER",
+      "salience": 0.000225,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 24, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 17, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 11, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Feb 06, 2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 114,
+    "LOCATION": 78,
+    "CONSUMER_GOOD": 131,
+    "PERSON": 24,
+    "ORGANIZATION": 14,
+    "NUMBER": 23,
+    "DATE": 5
+  },
+  "type_salience": {
+    "OTHER": 0.2783519999999997,
+    "LOCATION": 0.19498999999999989,
+    "CONSUMER_GOOD": 0.31863199999999986,
+    "PERSON": 0.06213500000000002,
+    "ORGANIZATION": 0.033184000000000005,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

@@ -1,0 +1,1199 @@
+[MouseSavers.com](https://www.mousesavers.com/ "MouseSavers.com")
+
+[Sign up for the FREE MouseSavers Newsletter](https://www.mousesavers.com/sign-up-for-the-free-mousesavers-newsletter-and-optional-hot-deals-emails/) and get a monthly email with exclusive discounts!
+
+# Disney Cruise Discounts and Deals
+
+**LAST UPDATE:** 4/10/26
+
+**Disney Cruise discounts** can be hard to find, but this is the place to find them! Listed below is every known deal, offer, coupon, onboard credit or discount available for Disney Cruise Line (DCL), plus lots of FREE information about how to save money on a Disney cruise!
+
+**Jump to:**
+
+- [Easy Ways to Save on A Disney Cruise](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#savingadvice)
+- [Onboard Credit](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#onboard)
+- [Disney Cruise Line Offer for Select Walt Disney World Resort Hotel Guests](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#dcldeluxe)
+- New! [Last-Minute Restricted Stateroom Discounts](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#lastmindcl)
+- [Onboard Booking Discount](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#onboardbooking)
+- [Disney Cruise Line Guests Save on Adventures by Disney Vacations](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#dclabd)
+- New! [Discounts for Florida Residents](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#flres)
+- New! [Discounts for Military](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#militarysection)
+- [Discounts for Canadian Residents](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#canada)
+- [Discounts for European Residents](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#eea)
+- [Discounts for Annual Passholders](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#ap)
+- [Discounts for Southern California Residents](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#socal)
+- [Discounts for UK and Ireland Residents](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#uk)
+- [Discounts for Disney Visa Cardholders](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#dvdiscount)
+- [Discounts for Disney Vacation Club Members](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#dvc)
+- [Group Incentives](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#group)
+- [Costco Rebates](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#costco)
+- [Travelocity Deals on Disney Cruises](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#travelocity)
+- [Expedia Deals on Disney Cruises](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#expedia)
+
+#### Other useful Disney Cruise Line information pages:
+
+- For tips and tricks that will **help you plan your cruise**, [visit the Planning Tips & Tricks for Disney Cruises page](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/).
+- For advice that will help you **save time and get the most out of your cruise once you are onboard**, [visit the DCL Onboard Advice page](https://www.mousesavers.com/disney-cruise-line-onboard-tips-and-tricks/).
+- For advice that will help you with **excursions, tours and activities** while in port, [visit the Tips & Discounts for Port Excursions page](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-tips-and-discounts-on-port-excursions/).
+
+### Easy Ways to Save on A Disney Cruise
+
+**In our opinion,** **you should _always_ book a Disney cruise with a third-party** [travel agency](https://www.mousesavers.com/working-with-a-travel-agent/) **or site** **that provides a bonus or discount**. The extra onboard credit or discount is effectively FREE money. The primary question is whether you prefer to handle your bookings directly ( [self-service](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#selfservice)), or work with a personal agent ( [full-service](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#fullservice)). They’re both good options and they both offer essentially similar savings: one via their own extra-discounted fares and the other via FREE onboard credit.
+
+#### Booking a Disney Cruise With a Self-Service Site
+
+**Our pick for self-service booking is** [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line). We’ve recommended them for more than a decade as a fantastic source for tickets, but they also have impressive deals on Disney cruises. Unlike other self-booking options like Expedia or Priceline, Undercover Tourist **_adds an additional discount_** over and above any special pricing Disney offers (like [restricted guarantee](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#lastmindcl), [Military](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#military), or [Florida resident](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#flres) rates)! We know of no other site that adds their own discounts to the baseline fare for Disney cruises. Occasionally one of the big online travel sites will do a limited-time small onboard credit or in-room gift, but Undercover Tourist offers _extra discounts_, on every Disney cruise, every day. **Undercover Tourist further guarantees to MouseSavers readers that you will always get their lowest possible prices when booking through our links** here and through our monthly newsletter and Hot Deals emails.
+
+**Keep in mind that this is a self-service option**, for people who know exactly what cruise they want to take, what stateroom, how dining works, etc. If you like to handle your own bookings directly, [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line) is a great choice. If you would like to have a personal agent who can help guide you through the decision process and be available to answer questions, then the [full-service approach](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#fullservice) will be a better fit.
+
+- **Check out** [Undercover Tourist’s discounted cruise rates for Disney Cruise Lines](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line)! **Undercover Tourist _guarantees_ MouseSavers readers get their lowest rates!**
+
+#### Booking a Disney Cruise With a Full-Service Agent
+
+**The benefits of using a top travel agent are significant, both in convenience and price.** First off, the best travel agents give you onboard credit, which is effectively FREE money, since the cruise fare isn’t any higher than if you booked through Disney. Furthermore, Disney Cruise Line has lots of confusing options involving tradeoffs that aren’t always clear. Using an experienced travel agent is like getting a FREE expert who knows everything about the Disney Cruise Line and is happy to walk you through the process and offer advice.
+
+**The travel agency we personally recommend here on MouseSavers.com,** [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) **, has some of the most experienced agents in the industry**. The agents who handle cruise bookings for Small World have been on multiple Disney cruises, and know a truly astonishing amount about all four ships, the various Disney ports of call and all the common itineraries (and many uncommon ones). Many of them are Platinum members of Disney’s Castaway Club, meaning that they have personally been on 10 or more Disney cruises! They each have a direct phone number and email address they give out to their clients, so you can email them questions or requests any time.
+
+Small World Vacations offers an [onboard credit](https://www.smallworldvacations.com/disney-cruise-line-quote-form/disney-cruise-line-onboard-credit-promotion/) **of up to $1,000** when you book a Disney Cruise with them. (Credit depends on your total cruise fare; the minimum fare to get credit is $1000.) Your onboard credit is good toward anything you can charge to your room, such as spa treatments, special dining, shore excursions or even your bar tab! Plus, **this onboard credit offer is on top of any other discounts** for which you may qualify (like [restricted guarantee](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#lastmindcl), [Military](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#military), or [Florida resident](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#flres) rates). And perhaps most importantly, the **Small World Vacations agents know how to maximize value** by making use of tricks like [secret porthole rooms](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#porthole), [secret verandah rooms](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#secretverandah), [secret connecting rooms](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#secretconnectors), and other clever strategies.
+
+We pretty rarely encounter a deal that qualifies as a “no brainer,” but this is absolutely one, because it’s **effectively FREE money**. Small World Vacations’ fares are exactly the same as Disney’s; there are no other hidden markups or extra fees. The onboard credit is a bonus you won’t get booking with Disney.
+
+Finally, **if you’re going on a Disney cruise,** be sure you take advantage of the [onboard booking discount](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#onboardbooking) and list Small World Vacations as your preferred travel agent (or transfer the booking to Small World Vacations after your cruise is over), because it’s an essentially risk-free way to get **significant discounts from Disney plus onboard credit from Small World Vacations** in one fell swoop on a future cruise.
+
+If you have any questions about onboard booking, email your questions directly to Small World Vacations at [guestrelations@smallworldvacations.com](mailto:guestrelations@smallworldvacations.com?subject=DCL%20Transfer%20(MouseSavers%20offer)) before you leave on your cruise, and mention that you heard about onboard booking on MouseSavers.com. In our experience, the travel agents at [Small World Vacations](https://www.mousesavers.com/working-with-a-travel-agent/#sue) are great at finding the best fares. They know all the tricks that will save you money, and they know the Disney Cruise Line inside and out. We’re confident that once you work with a really great travel agent, you’ll never want to book a cruise any other way.
+
+- **Learn more about the** [Small World Vacations onboard credit offer](https://www.smallworldvacations.com/disney-cruise-line-quote-form/disney-cruise-line-onboard-credit-promotion/) and [request a price quote for your Disney cruise](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers).
+- **Small World Vacations gives you full service**, including a personal travel agent you can contact by email or direct phone number, and [we recommend them wholeheartedly](https://www.mousesavers.com/working-with-a-travel-agent/#sue)! Best of all, it costs you nothing to use them, PLUS they give you [FREE onboard credit](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) for any Disney Cruise Line booking of over $1000 total fare!
+
+### Onboard Credit
+
+Onboard credit is cash value linked to your stateroom account on the ship, which you can spend by using your room key to pay for pretty much anything on the ship or on Castaway Cay. Onboard credit can be used for merchandise, adult beverages, bottled water, spa treatments, shore excursions, Palo, Remy, Palo Steakhouse or Enchanté meals, and other onboard activities, or even applied to gratuities for your servers and stateroom attendant.
+
+#### Small World Vacations Onboard Credit
+
+The travel agency we personally recommend here on MouseSavers.com, [Small World Vacations](https://www.mousesavers.com/working-with-a-travel-agent/#sue), offers an **onboard credit of $50 – $1000** when you book through them. (Credit depends on your total cruise fare; the minimum fare to get credit is $1000.) To learn more, **visit the** [Small World Vacations website](https://www.smallworldvacations.com/disney-cruise-line-quote-form/disney-cruise-line-onboard-credit-promotion/), where you can see full details about the onboard credit offer and [request a quote on your cruise vacation](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers).
+
+### Disney Cruise Line Offer for Select Walt Disney World Resort Hotel Guests
+
+**Select Walt Disney World Deluxe and Deluxe Villa Resort Hotels guests can save up to 25% on the voyage fare on select cruises!** If you stay at a Walt Disney World Deluxe or Deluxe Villa Resort and **book your Disney cruise within 7 days of your check-out date**, you could save 20% or 25% on the voyage fare on select Disney cruises sailing between April 2026 and February 2027. Or you could save 10% on the voyage fare for most other sailings (blockout dates apply). This offer is valid on new bookings only.
+
+This offer _can_ be combined with the [Small World Vacations onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard)!
+
+The discount applies only to the voyage fare. Valid for stateroom categories 4A – 11C; excludes Concierge and suites. Taxes, fees, port expenses, Port Adventures and gratuities are not included. You cannot use Disney Vacation Club points to book this offer. The number of staterooms allocated for this offer is limited. At least 1 person of the original Resort Hotel party must sail on the cruise. Limit of 1 cruise reservation and 2 staterooms per household.
+
+Offer subject to end at any time.
+
+- **If you are interested in booking the Disney Cruise Line Offer for Walt Disney World Resort Hotel Guests**, we recommend either [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) or [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line). We have worked with both companies for over 15 years and can recommend them wholeheartedly. It’s really a question of whether you prefer full-service booking or self booking.
+- [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) **is a full service agency, offering a personal travel agent** you can contact by email or direct phone number. It costs you nothing to use them, _PLUS_ their [FREE onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) applies to these special fares (the total cruise fare for the stateroom must be at least $1000 to get their onboard credit).
+- [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line) **is a self-service booking site** similar to Expedia or Priceline, but with years of focus on the Disney travel market. They offer the special rates mentioned above _PLUS_ they add their own discounts. **Please note: to book this offer with Undercover Tourist you must call in** at [1(800) 846-1302](tel:+1-800-846-1302).
+
+### Last-Minute Restricted Stateroom Discounts
+
+Restricted Guarantee fares, when offered, are a great way to save if you are flexible about your stateroom location and willing to book “last minute,” usually meaning 21-75 days prior to departure. The savings can be very large, but you won’t know your exact stateroom at booking time. Disney _guarantees_ you will get at least the stateroom type specified, and you _could_ get assigned a higher level. You usually will get an actual stateroom assignment about 14 days before embarkation, but it could be assigned as late as the embarkation day.
+
+There are complicated [rules for Restricted Guarantee bookings](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#restricteddeets); be sure to read them if you’re not already familiar with them. The “Restricted Guarantee” room categories are offered on select sailings. The categories are:
+
+- **Guaranteed Inside Stateroom with Restrictions** (category IGT) – Guarantees an [inside or better stateroom](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#inside) (minimum category 11C)
+- **Guaranteed Oceanview Stateroom with Restrictions** (category OGT) – Guarantees an [oceanview or better stateroom](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#oceanview) (minimum category 9D)
+- **Guaranteed Verandah Stateroom with Restrictions** (category VGT) – Guarantees a [verandah or better stateroom](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#verandah) (minimum category 7A)
+
+**New!As of April 10, 2026, the following cruises had availability in the Restricted Guarantee categories**. Prices given are lowest available fares for a single stateroom, in US dollars, _including_ taxes, fees and port expenses, rounded to the nearest dollar. All sailings are from Port Canaveral unless noted otherwise.
+
+**General Notes:**
+
+- **A single guest gets charged essentially the same price as two guests.** (Cruises are generally priced for a minimum of two guests per cabin.)
+- **5-passenger rooms are not available with this discount**.
+- **These discounts come and go as room inventory for a cruise changes.** If you check for one and it doesn’t come up, it may come back. It’s worth checking back a few times over the next day or two to see if the discount becomes available again.
+- **If a price isn’t listed, that doesn’t mean the category is completely sold out**, just that it isn’t available with this discount.
+
+**Select number of guests to see total sailing price (for one stateroom):**
+
+234
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside (IGT)** | **Oceanview (OGT)** | **Verandah (VGT)** |
+| 4/13/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | $1,806 | $2,134 | — |
+| 4/13/26 | 4-Night Bahamian Cruise from Fort Lauderdale on Disney Dream | — | — | $2,278 |
+| 4/13/26 | 4-Night Bahamian Cruise on Disney Wish | $2,664 | $2,728 | — |
+| 4/18/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $4,502 | — |
+| 4/20/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | $1,814 | $2,078 | $2,534 |
+| 4/20/26 | 4-Night Bahamian Cruise from Fort Lauderdale on Disney Dream | — | — | $2,442 |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $2,748 | $2,644 | $2,988 |
+| 4/20/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | $2,636 | — | $3,246 |
+| 4/22/26 | 4-Night Bahamian Cruise on Disney Fantasy | — | — | $2,373 |
+| 4/24/26 | 7-Night Mexican Riviera Cruise from San Diego on Disney Wonder | $3,527 | $4,059 | $5,235 |
+| 4/25/26 | 5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | $2,777 | $3,157 |
+| 4/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | $2,637 | — | — |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | $1,599 | $1,727 | $2,223 |
+| 4/27/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Dream | — | $2,266 | $2,466 |
+| 5/1/26 | 5-Night Bahamian Cruise on Disney Fantasy | — | $2,697 | $2,977 |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | $3,744 | $4,080 | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $4,264 | $4,544 |
+| 5/4/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | $1,669 | $1,933 | $2,233 |
+| 5/4/26 | 4-Night Bahamian Cruise on Disney Wish | $2,604 | — | $2,732 |
+| 5/6/26 | New!4-Night Bahamian Cruise on Disney Fantasy | — | — | $2,349 |
+| 5/7/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | $1,507 | $1,787 | $2,379 |
+| 5/9/26 | 5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $3,237 |
+| 5/9/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $4,382 | — | $5,208 |
+| 5/10/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $3,247 |
+| 5/11/26 | 4-Night Bahamian Cruise on Disney Wish | $2,896 | $3,032 | $3,096 |
+| 5/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,299 | $3,845 | $5,721 |
+| 5/15/26 | 5-Night Bahamian Cruise on Disney Fantasy | — | — | $3,177 |
+| 5/16/26 | 5-Night Alaskan Cruise from Vancouver on Disney Magic | $2,951 | $3,441 | $4,671 |
+| 5/16/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $4,387 | $4,695 | $5,255 |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $4,236 | $4,852 |
+| 5/18/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | $3,106 | $3,436 |
+| 5/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,439 | $4,055 | $6,127 |
+| 5/21/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,371 | — | $5,891 |
+| 5/22/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | $2,654 |
+| 5/23/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $4,468 | $4,818 | $5,322 |
+| 5/23/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $5,054 | $5,544 | $5,880 |
+| 5/25/26 | 4-Night Bahamian Cruise on Disney Wish | $3,188 | — | — |
+| 5/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,257 | $3,887 | $6,407 |
+| 5/28/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,259 | $3,903 | $6,059 |
+| 5/29/26 | 3-Night Bahamian Cruise on Disney Wish | $2,324 | — | — |
+| 5/29/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $4,167 |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $5,440 |
+| 5/30/26 | 9-Night Mediterranean with Greek Isles Cruise from Barcelona ending in Civitavecchia (Rome) on Disney Dream | $6,733 | $7,201 | $7,921 |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $3,153 | $3,393 | $3,657 |
+| 6/1/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,593 | $4,391 | $6,771 |
+| 6/1/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | $4,030 | — | $4,890 |
+| 6/4/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,662 | $4,390 | $7,232 |
+| 6/5/26 | 3-Night Bahamian Cruise on Disney Wish | $2,444 | — | $2,744 |
+| 6/6/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | — | $5,711 | $6,131 |
+| 6/8/26 | 4-Night Bahamian Cruise on Disney Wish | $3,321 | $3,569 | $3,769 |
+| 6/8/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,523 | $4,433 | $7,163 |
+| 6/8/26 | 9-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) on Disney Dream | $6,864 | $7,278 | $8,196 |
+| 6/11/26 | New!4-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $3,986 |
+| 6/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,469 | — | $6,395 |
+| 6/12/26 | 3-Night Bahamian Cruise on Disney Wish | $2,408 | $2,552 | $2,738 |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $4,751 | $5,213 | $5,899 |
+| 6/15/26 | 4-Night Bahamian Cruise on Disney Wish | $3,169 | $3,409 | $3,665 |
+| 6/15/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,831 | $4,825 | $6,981 |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,704 | $4,502 | — |
+| 6/19/26 | 3-Night Bahamian Cruise on Disney Wish | $2,384 | $2,534 | $2,720 |
+| 6/19/26 | 5-Night Bahamian Cruise on Disney Fantasy | $3,514 | — | $3,984 |
+| 6/20/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $4,871 | $5,333 | $6,047 |
+| 6/20/26 | New!7-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $7,372 |
+| 6/22/26 | 4-Night Bahamian Cruise on Disney Wish | $3,321 | $3,537 | $3,793 |
+| 6/22/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,579 | $4,545 | — |
+| 6/24/26 | 12-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) ending in Barcelona on Disney Dream | $7,327 | $8,095 | $9,055 |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,441 | $4,365 | $6,283 |
+| 6/26/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,396 | — | $2,720 |
+| 6/27/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $5,045 | $5,535 | $5,913 |
+| 6/27/26 | New!7-Night Eastern Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $7,816 |
+| 6/28/26 | New!5-Night Bahamian Cruise on Disney Fantasy | $3,364 | $3,584 | $3,814 |
+| 6/29/26 | New!4-Night Bahamian Cruise on Disney Wish | $3,401 | $3,425 | $3,649 |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,719 | $4,979 | $7,177 |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,802 | $4,810 | $6,924 |
+| 7/4/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $5,053 | $5,557 | $6,313 |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,817 | $4,811 | $6,925 |
+| 7/6/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $4,808 | $5,116 | $5,662 |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,679 | $4,659 | $6,675 |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $4,947 | $5,423 | $6,151 |
+| 7/13/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,691 | $4,769 | $6,911 |
+| 7/13/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $5,156 | $5,450 | $6,094 |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,984 | $4,712 | $7,162 |
+| 7/18/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $5,011 | $5,501 | $6,257 |
+| 7/20/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,691 | $4,769 | — |
+| 7/20/26 | New!7-Night Western Europe Cruise from Barcelona ending in Southampton on Disney Dream | $4,725 | $5,061 | $5,719 |
+| 7/23/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,973 | $4,589 | $6,871 |
+| 7/25/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | $4,583 | $5,003 | $5,647 |
+| 7/27/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,691 | $4,755 | $6,911 |
+| 7/30/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,763 | $4,589 | $6,647 |
+| 8/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,819 | — | — |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside (IGT)** | **Oceanview (OGT)** | **Verandah (VGT)** |
+| 4/13/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | $2,413 | $2,785 | — |
+| 4/13/26 | 4-Night Bahamian Cruise from Fort Lauderdale on Disney Dream | — | — | $2,946 |
+| 4/13/26 | 4-Night Bahamian Cruise on Disney Wish | $3,463 | $3,543 | — |
+| 4/18/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $5,647 | — |
+| 4/20/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | $2,421 | $2,729 | $3,201 |
+| 4/20/26 | 4-Night Bahamian Cruise from Fort Lauderdale on Disney Dream | — | — | $3,143 |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $3,558 | $3,438 | $3,806 |
+| 4/20/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | $3,535 | — | $4,160 |
+| 4/22/26 | 4-Night Bahamian Cruise on Disney Fantasy | — | — | $3,068 |
+| 4/24/26 | 7-Night Mexican Riviera Cruise from San Diego on Disney Wonder | $4,541 | $5,136 | $6,340 |
+| 4/25/26 | 5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | $3,695 | $4,085 |
+| 4/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | $3,586 | — | — |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | $1,999 | $2,171 | $2,711 |
+| 4/27/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Dream | — | $2,970 | $3,170 |
+| 5/1/26 | 5-Night Bahamian Cruise on Disney Fantasy | — | $3,426 | $3,711 |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | $4,734 | $5,070 | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $5,409 | $5,738 |
+| 5/4/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | $2,168 | $2,468 | $2,780 |
+| 5/4/26 | 4-Night Bahamian Cruise on Disney Wish | $3,330 | — | $3,466 |
+| 5/6/26 | New!4-Night Bahamian Cruise on Disney Fantasy | — | — | $2,968 |
+| 5/7/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | $2,001 | $2,321 | $2,933 |
+| 5/9/26 | 5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $4,125 |
+| 5/9/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $5,530 | — | $6,440 |
+| 5/10/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $3,991 |
+| 5/11/26 | 4-Night Bahamian Cruise on Disney Wish | $3,635 | $3,775 | $3,847 |
+| 5/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,213 | $4,857 | $6,810 |
+| 5/15/26 | 5-Night Bahamian Cruise on Disney Fantasy | — | — | $3,956 |
+| 5/16/26 | 5-Night Alaskan Cruise from Vancouver on Disney Magic | $3,612 | $4,172 | $5,457 |
+| 5/16/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $5,363 | $5,671 | $6,231 |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $5,528 | $6,200 |
+| 5/18/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | $4,010 | $4,340 |
+| 5/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,353 | $5,074 | $7,286 |
+| 5/21/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,252 | — | $7,059 |
+| 5/22/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | $3,414 |
+| 5/23/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $5,541 | $5,891 | $6,395 |
+| 5/23/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $6,398 | $6,923 | $7,245 |
+| 5/25/26 | 4-Night Bahamian Cruise on Disney Wish | $4,169 | — | — |
+| 5/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,430 | $5,158 | $7,860 |
+| 5/28/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,441 | $5,190 | $7,458 |
+| 5/29/26 | 3-Night Bahamian Cruise on Disney Wish | $3,084 | — | — |
+| 5/29/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $5,106 |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $6,942 |
+| 5/30/26 | 9-Night Mediterranean with Greek Isles Cruise from Barcelona ending in Civitavecchia (Rome) on Disney Dream | $8,263 | $8,731 | $9,451 |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $4,178 | $4,422 | $4,694 |
+| 6/1/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,808 | $5,746 | $8,182 |
+| 6/1/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | $5,240 | — | $6,170 |
+| 6/4/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,891 | $5,766 | $8,664 |
+| 6/5/26 | 3-Night Bahamian Cruise on Disney Wish | $3,242 | — | $3,551 |
+| 6/6/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | — | $7,384 | $7,769 |
+| 6/8/26 | 4-Night Bahamian Cruise on Disney Wish | $4,373 | $4,629 | $4,837 |
+| 6/8/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,787 | $5,823 | $8,651 |
+| 6/8/26 | 9-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) on Disney Dream | $8,414 | $8,828 | $9,746 |
+| 6/11/26 | New!4-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $5,019 |
+| 6/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,742 | — | $7,899 |
+| 6/12/26 | 3-Night Bahamian Cruise on Disney Wish | $3,221 | $3,371 | $3,560 |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $6,357 | $6,854 | $7,603 |
+| 6/15/26 | 4-Night Bahamian Cruise on Disney Wish | $4,254 | $4,498 | $4,762 |
+| 6/15/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,102 | $6,222 | $8,483 |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,989 | $5,913 | — |
+| 6/19/26 | 3-Night Bahamian Cruise on Disney Wish | $3,209 | $3,365 | $3,557 |
+| 6/19/26 | 5-Night Bahamian Cruise on Disney Fantasy | $4,736 | — | $5,331 |
+| 6/20/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $6,502 | $6,999 | $7,790 |
+| 6/20/26 | New!7-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $9,104 |
+| 6/22/26 | 4-Night Bahamian Cruise on Disney Wish | $4,405 | $4,625 | $4,889 |
+| 6/22/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,885 | $6,019 | — |
+| 6/24/26 | 12-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) ending in Barcelona on Disney Dream | $9,479 | $10,247 | $11,207 |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,693 | $5,778 | $7,787 |
+| 6/26/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,221 | — | $3,560 |
+| 6/27/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $6,763 | $7,295 | $7,645 |
+| 6/27/26 | New!7-Night Eastern Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $9,561 |
+| 6/28/26 | New!5-Night Bahamian Cruise on Disney Fantasy | $4,536 | $4,756 | $5,121 |
+| 6/29/26 | New!4-Night Bahamian Cruise on Disney Wish | $4,526 | $4,558 | $4,786 |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,088 | $6,698 | $8,994 |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,192 | $6,459 | $8,664 |
+| 7/4/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $6,754 | $7,300 | $8,133 |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,221 | $6,481 | $8,679 |
+| 7/6/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $6,226 | $6,534 | $7,080 |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,022 | $6,254 | $8,361 |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $6,616 | $7,127 | $7,918 |
+| 7/13/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,088 | $6,397 | $8,602 |
+| 7/13/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $6,558 | $6,852 | $7,496 |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,472 | $6,277 | $8,881 |
+| 7/18/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $6,691 | $7,216 | $8,056 |
+| 7/20/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,088 | $6,397 | — |
+| 7/20/26 | New!7-Night Western Europe Cruise from Barcelona ending in Southampton on Disney Dream | $5,842 | $6,178 | $6,836 |
+| 7/23/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,456 | $6,149 | $8,494 |
+| 7/25/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | $6,126 | $6,581 | $7,288 |
+| 7/27/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,088 | $6,383 | $8,602 |
+| 7/30/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,169 | $6,149 | $8,263 |
+| 8/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,197 | — | — |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside (IGT)** | **Oceanview (OGT)** | **Verandah (VGT)** |
+| 4/13/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | — | — | — |
+| 4/13/26 | 4-Night Bahamian Cruise from Fort Lauderdale on Disney Dream | — | — | $3,613 |
+| 4/13/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 4/18/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+| 4/20/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | $3,028 | $3,380 | $3,868 |
+| 4/20/26 | 4-Night Bahamian Cruise from Fort Lauderdale on Disney Dream | — | — | $3,844 |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $4,368 | $4,232 | $4,624 |
+| 4/20/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $5,073 |
+| 4/22/26 | 4-Night Bahamian Cruise on Disney Fantasy | — | — | $3,762 |
+| 4/24/26 | 7-Night Mexican Riviera Cruise from San Diego on Disney Wonder | $5,556 | $6,214 | $7,446 |
+| 4/25/26 | 5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | $4,614 | $5,014 |
+| 4/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | $4,534 | — | — |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | $2,398 | $2,614 | $3,198 |
+| 4/27/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Dream | — | $3,673 | $3,873 |
+| 5/1/26 | 5-Night Bahamian Cruise on Disney Fantasy | — | $4,154 | $4,444 |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | $5,724 | $6,060 | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $6,554 | $6,932 |
+| 5/4/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | $2,667 | $3,003 | $3,327 |
+| 5/4/26 | 4-Night Bahamian Cruise on Disney Wish | $4,056 | — | $4,200 |
+| 5/6/26 | New!4-Night Bahamian Cruise on Disney Fantasy | — | — | $3,586 |
+| 5/7/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | $2,494 | $2,854 | — |
+| 5/9/26 | 5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $5,014 |
+| 5/9/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $6,678 | — | $7,672 |
+| 5/10/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $4,734 |
+| 5/11/26 | 4-Night Bahamian Cruise on Disney Wish | $4,375 | $4,519 | $4,599 |
+| 5/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,127 | $5,869 | $7,899 |
+| 5/15/26 | 5-Night Bahamian Cruise on Disney Fantasy | — | — | $4,734 |
+| 5/16/26 | 5-Night Alaskan Cruise from Vancouver on Disney Magic | $4,273 | $4,903 | $6,243 |
+| 5/16/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $6,339 | $6,647 | $7,207 |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $6,820 | $7,548 |
+| 5/18/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | $4,913 | $5,243 |
+| 5/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,267 | $6,093 | $8,445 |
+| 5/21/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,133 | — | $8,227 |
+| 5/22/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 5/23/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $6,613 | $6,963 | $7,467 |
+| 5/23/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $7,742 | $8,302 | $8,610 |
+| 5/25/26 | 4-Night Bahamian Cruise on Disney Wish | $5,151 | — | — |
+| 5/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,603 | — | $9,313 |
+| 5/28/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,623 | $6,477 | $8,857 |
+| 5/29/26 | 3-Night Bahamian Cruise on Disney Wish | $3,844 | — | — |
+| 5/29/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $6,044 |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $8,444 |
+| 5/30/26 | 9-Night Mediterranean with Greek Isles Cruise from Barcelona ending in Civitavecchia (Rome) on Disney Dream | $9,794 | $10,262 | $10,982 |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $5,203 | — | $5,731 |
+| 6/1/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,023 | $7,101 | — |
+| 6/1/26 | 5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $7,450 |
+| 6/4/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,120 | $7,142 | $10,096 |
+| 6/5/26 | 3-Night Bahamian Cruise on Disney Wish | $4,041 | — | $4,359 |
+| 6/6/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | — | $9,056 | $9,406 |
+| 6/8/26 | 4-Night Bahamian Cruise on Disney Wish | $5,426 | — | $5,906 |
+| 6/8/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,051 | $7,213 | $10,139 |
+| 6/8/26 | 9-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) on Disney Dream | $9,965 | $10,379 | $11,297 |
+| 6/11/26 | New!4-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $6,051 |
+| 6/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,015 | — | $9,403 |
+| 6/12/26 | 3-Night Bahamian Cruise on Disney Wish | $4,035 | — | $4,383 |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $7,963 | $8,495 | $9,307 |
+| 6/15/26 | 4-Night Bahamian Cruise on Disney Wish | $5,339 | $5,587 | $5,859 |
+| 6/15/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,373 | $7,619 | $9,985 |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,274 | $7,324 | — |
+| 6/19/26 | 3-Night Bahamian Cruise on Disney Wish | $4,035 | $4,197 | $4,395 |
+| 6/19/26 | 5-Night Bahamian Cruise on Disney Fantasy | $5,958 | — | $6,678 |
+| 6/20/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $8,132 | $8,664 | $9,532 |
+| 6/20/26 | New!7-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $10,837 |
+| 6/22/26 | 4-Night Bahamian Cruise on Disney Wish | $5,490 | $5,714 | $5,986 |
+| 6/22/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,191 | $7,493 | — |
+| 6/24/26 | 12-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) ending in Barcelona on Disney Dream | $11,630 | $12,398 | $13,358 |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | $7,191 | $9,291 |
+| 6/26/26 | New!3-Night Bahamian Cruise on Disney Wish | $4,047 | — | $4,401 |
+| 6/27/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $8,481 | $9,055 | $9,377 |
+| 6/27/26 | New!7-Night Eastern Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $11,306 |
+| 6/28/26 | New!5-Night Bahamian Cruise on Disney Fantasy | $5,707 | $5,927 | $6,427 |
+| 6/29/26 | New!4-Night Bahamian Cruise on Disney Wish | $5,651 | $5,691 | $5,923 |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,457 | $8,417 | $10,811 |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,582 | $8,108 | $10,404 |
+| 7/4/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $8,454 | $9,042 | $9,952 |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,625 | $8,151 | $10,433 |
+| 7/6/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $7,643 | $7,951 | $8,497 |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,365 | $7,849 | $10,047 |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $8,285 | $8,831 | $9,685 |
+| 7/13/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,485 | $8,025 | $10,293 |
+| 7/13/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $7,960 | $8,254 | $8,898 |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,960 | $7,842 | $10,600 |
+| 7/18/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $8,370 | $8,930 | $9,854 |
+| 7/20/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,485 | $8,025 | — |
+| 7/20/26 | New!7-Night Western Europe Cruise from Barcelona ending in Southampton on Disney Dream | $6,959 | $7,295 | $7,953 |
+| 7/23/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,939 | $7,709 | $10,117 |
+| 7/25/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | $7,669 | $8,159 | $8,929 |
+| 7/27/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,485 | $8,011 | $10,293 |
+| 7/30/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,575 | $7,709 | $9,879 |
+| 8/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,575 | — | — |
+
+- **If you are interested in booking one of these special restricted last-minute rates**, we recommend either [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) or [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line). We have worked with both companies for over 15 years and can recommend them wholeheartedly. It’s really a question of whether you prefer full-service booking or self booking. These staterooms often sell out fast, so if you see one you like, snag it quickly.
+- [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) **is a full service agency, offering a personal travel agent** you can contact by email or direct phone number. It costs you nothing to use them, _PLUS_ their [FREE onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) applies to these special fares (the total cruise fare for the stateroom must be at least $1000 to get their onboard credit).
+- [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line) **is a self-service booking site** similar to Expedia or Priceline, but with years of focus on the Disney travel market. They offer the special rates mentioned above _PLUS_ they add their own discounts.
+
+#### Important details you need to know about Restricted Guarantee fares:
+
+- **_Can_ be combined with the** [Small World Vacations onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) as well as Undercover Tourist’s own bonus discounts.
+- Cannot be combined with any other Disney discount or promotional offers.
+- The specific stateroom is assigned by Disney, generally within a week of cruise departure. You cannot select a stateroom number or make special requests as to stateroom location.
+- If you book two or more Restricted Guarantee staterooms, there is no way to ensure that they are near each other, or even on the same deck. Disney will put the rooms as close together as they can, but sometimes they just don’t have any rooms left that are near each other.
+- _**Applies to new bookings only.**_ Existing reservations cannot be modified to these new categories. (You can cancel your existing booking and make a new one with this offer, but check if there are cancellation penalties for your current booking before you do this.)
+- **_Full payment is due at time of booking._** Booking holds are not permitted.
+- Reservation is **_non-refundable_**. (This only applies to situations where **you** cancel the cruise. If Disney cancels the cruise, say for weather or mechanical issues, you will get a refund.)
+- Reservation and applied payment are _**non-transferable**_.
+- Full legal names and birthdates for all stateroom occupants are required at time of booking.
+- Name changes after booking are _not allowed_.
+- Sail date, stateroom category and cruise itinerary changes are _not allowed_.
+- You can book a maximum of four people per stateroom on a Restricted Guarantee booking.
+- There is typically more availability for three or fewer guests per room. All Disney Cruise staterooms can hold three guests, but only some can hold four.
+- If you’re looking for these cruise fares on Disney’s web site, look for fares labeled “Guaranteed Inside Stateroom with Restrictions” or similar for Oceanview or Verandah. The key words are “…with restrictions.”
+
+**The one major change that you can make after booking:** additional guests can be added to a stateroom, subject to space restrictions. Restrictions and booking rules are subject to change.
+
+### Onboard Booking Discount
+
+If you are going on a Disney cruise and think there is _any_ chance you or a friend or relative may want to go on another Disney cruise in the next 24 months, be sure to **book a future cruise placeholder while you are still onboard the ship**. Disney has one of the most generous onboard booking programs in the cruise industry, and it’s a great way to get a discount _and_ lower deposit on a future Disney cruise. When you book a future cruise while still onboard the ship you get all of the following benefits:
+
+- **A 10% – 25% discount** on the final cruise fare (with some [blackout dates](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#blackout); see below). The vast majority of sailings have a 10% discount, but there is a small list of sailings that get bonus discounts up to 25% (this list changes from time to time, but you can see the current list on Disney’s website: [Disney Cruise Onboard Booking Info](https://disneycruise.disney.go.com/special-offers/onboard-offer/)). Concierge staterooms have a few extra blackout dates where the discount doesn’t apply. Stateroom categories 2A and above are not eligible for a discount.
+- **A lower deposit requirement of only 10% on 7+ night cruises** (regular deposit requirement is 20%). Does not apply to Concierge bookings.
+- **If you booked your _current_ cruise with** [Small World Vacations](https://www.mousesavers.com/working-with-a-travel-agent/#sue) **and also use them as your agent for the future cruise**, you’ll also get half their normal [onboard credit](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard). (Note that if you _didn’t_ book your current cruise with Small World Vacations, the onboard booking agents may not let you add Small World as your agent while onboard. In that case, you would have to transfer your booking to Small World after you get home, but you would still be eligible for half their normal credit.)
+
+**You can book a specific cruise, but it’s usually easier to book a “placeholder” cruise.** A placeholder lets you make a booking without picking a specific cruise. It can be associated with a specific cruise later, after you get home and decide. To book a specific cruise onboard, you put down a deposit of 10% or 20% of the whole fare, depending on the length of the cruise. To book a placeholder, you put down a flat $250 deposit per future stateroom. When you change a placeholder to a specific cruise booking you’ll have to pay any increase in deposit. Keep in mind, there is an advantage to booking a specific cruise as early as possible: you lock in the rate. So, if there is a cruise you know you want to take, it might be a good idea to book that specific cruise rather than a placeholder. Even if you’re not 100% sure that’s your perfect cruise, remember you can change it later with no penalty. But if you don’t have a specific cruise in mind, don’t worry about it – just book the placeholder and figure out what you’ll use it for when you get off the ship.
+
+**If you ultimately decide not to take a cruise, Disney will refund 100% of your deposit or placeholder payment**. You always get a 100% refund, even if you have selected a specific cruise, as long as you haven’t passed the penalty date (120-75 days from sailing, depending on the cruise), and you didn’t book a concierge room or suite. There’s basically no risk, though it does tie up some deposit money while you think about your options.
+
+**You can change almost every aspect of your booking as many times as you need to and still keep the benefits**. The name of one adult in each stateroom must stay the same, but you can change the names of any of the other guests, or increase or reduce the number of guests. You can change the stateroom category. You can change the ship or the sailing as long as the sail date is within 24 months of the initial booking date. If you end up changing to a more expensive booking, you’ll need to make up the difference between your original deposit and the new deposit. Keep in mind that if you later add a guest to a stateroom, they will get added at current rates, not at your initial booking rates. For the lowest final price and most flexibility, it’s a good idea to make the initial booking with everyone who _might_ go, rather than only the people you _know_ are going to go.
+
+**You get the full discount for up to two future staterooms or placeholders per household** (i.e. per mailing address). Once you leave the ship, _you can’t book more_, so we recommend booking two (or more) every time, if you can afford to tie up the deposit money. If you later decide that you want to bring another family along, or put the kids in their own stateroom, you’ll be glad to have two rooms booked with the discount. If you decide not to use the second placeholder, you can cancel it and get your money back.
+
+**You can get the full discount for friends or relatives who are not sailing on your cruise.** Under the current rules, the _first_ stateroom or placeholder you book with this discount on the _future_ cruise needs to include at least one adult who is on the _current_ cruise, in addition to anyone else you want to add, and then the second stateroom can have anyone in it. For example, say you wanted to book a cruise for your friends, the Smith family. You could book one room for your own family, then book the second room (on the same cruise) for the Smith family. You don’t have to decide who the second room is for in order to book a second placeholder – just book the placeholder and then you have time to think about who will use it.
+
+**If you already have a future cruise booked, you can usually “re-shop” your existing booking** and get the discount. However, you basically have to make a new booking and cancel the old one, and the price might have gone up since you booked originally, potentially wiping out your discount. Be sure to compare the bottom-line price for both bookings.
+
+**A few other terms & conditions:**
+
+- There is no discount or lower deposit for 1- or 2-night sailings, IGT, OGT and VGT [Restricted Guarantee](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#lastmindcl) bookings, or stateroom categories 2A or higher (a handful of the most expensive concierge rooms).
+- You can get the 10% discount and reduced deposit on a maximum of two staterooms per household.
+- Onboard booking incentives CANNOT be combined with any [group discounts](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#group) organized by a travel agency.
+- Disney could change these rules and benefits at any time. Check onboard for the latest terms.
+
+#### Onboard Discount Blackout Dates:
+
+**Please note: there is no 10% discount when you book the following holiday and peak dates onboard (but you do get the smaller deposit):**
+
+**For 2026:**
+
+- **Disney Adventure**: ( _none announced yet_)
+- **Disney Destiny**: 4/2, 4/6, 11/25, 12/23, 2/28
+- **Disney Dream**: 4/3, 4/6, 11/23, 11/27
+- **Disney Fantasy**: 4/3, 11/25, 12/23, 12/27
+- **Disney Magic**: 11/25, 12/22, 12/27
+- **Disney Treasure:** 11/21, 12/19, 12/26
+- **Disney Wish**: 4/3, 4/6, 11/23, 11/27, 12/24, 12/31
+- **Disney Wonder**: 4/3, 11/22, 12/22, 12/29
+
+**For 2027:**
+
+- **Disney Adventure**: ( _none announced yet_)
+- **Disney Destiny**: 3/22, 3/27
+- **Disney Dream**: 3/22, 3/26
+- **Disney Fantasy**: 3/21, 3/26
+- **Disney Magic**: ( _none announced yet_)
+- **Disney Treasure:** 3/20, 3/27
+- **Disney Wish**: 3/22, 3/26, 3/29
+- **Disney Wonder**: 3/22, 3/26, 3/29
+
+- **To take advantage of the Onboard Booking offer**, follow these simple steps:
+
+
+
+  - **Before your cruise, download the Disney Cruise Line Navigator** app to your phone.
+  - **Once you’re on the cruise, get logged in** to the Navigator app.
+  - **On the home screen of the app is an icon near the center of the screen that says “10% Off a Future Cruise”** – tap that and work your way through the prompts to book one or two placeholders. One of the two placeholders needs to be used by one of the adults in your party who is sailing on the current cruise. The other placeholder can be used by anyone (but must be used for the same cruise as the first placeholder).
+  - **If you can’t or don’t want to use the the Navigator app,** or run into problems getting the booking completed, go to the Future Cruise desk and get a Future Cruise booking form and fill it out, or just ask the Future Cruise consultant to book you one or two placeholders. If there is no Future Cruise desk, you can just go to Guest Services and they can help you. You can also ask them to book you a specific cruise, if you know exactly what you want and have all the information about who is going to go. But you’re usually better off just booking the placeholder and then getting the booking modified to the actual cruise once you get home and have more time and fewer distractions.
+  - **Before you leave the ship, confirm that everything is correct**. You should have one or two emailed confirmations – one for each placeholder you booked.
+  - **That’s it!** You can start the process of finding your actual cruise. If you are using a [travel agent](https://www.mousesavers.com/working-with-a-travel-agent/), email them to let them know you booked onboard. Once you’ve settled on the cruise you _really_ want to take, **change the booking as soon as you can** to the actual sailing date to lock in the lowest possible fares and get the best choice of staterooms.
+
+### Disney Cruise Line Guests Save on Adventures by Disney Vacations
+
+Recent Disney Cruise Line guests can save up to $350 per person on select [Adventures by Disney](https://www.mousesavers.com/other-disney-vacations/adventures-by-disney/) itineraries when you book your Adventures by Disney vacation **within 45 days of returning from your most recent Disney cruise**.
+
+- Save $350 per person on all available River Cruises and Group Land departures (excluding Escapes)
+- Save $150 per person on all available Escapes
+
+Availability is limited. This offer can only be used for one booking. Excludes Suites and Category E staterooms. Valid on new bookings only. Offer cannot be combined with any other offers, discounts or promotions. Offer is subject to change without notice.
+
+Offer ends 1/8/27.
+
+- **If you would like to book the Adventures by Disney Offer for Disney Cruise Line Guests**, we recommend [filling out a quote form with Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=adventures&affiliate=mousesavers). They have actually experienced Adventures by Disney and can give you some great insights on the program and [we recommend them wholeheartedly](https://www.mousesavers.com/working-with-a-travel-agent/#sue)! Plus, you could **save up to $1,000!** [Read more about the Small World Vacations savings offer here](https://www.smallworldvacations.com/adventures-disney-quote-form/adventures-disney-promotion/).
+
+### Disney Cruise Discounts for Florida Residents
+
+**New!As of April 10, 2026, the following cruises had availability in the Florida Resident category**. Prices given are lowest available fares for a single stateroom, in US dollars, _including_ taxes, fees and port expenses, rounded to the nearest dollar. All sailings are from Port Canaveral unless noted otherwise. The [room category](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#categorycodes) available at that fare is in parentheses.
+
+**General Notes:**
+
+- **A single guest gets charged essentially the same price as two guests.** (Cruises are generally priced for a minimum of two guests per cabin.)
+- **5-passenger rooms are rarely discounted for Florida residents**, but they do show up occasionally.
+- **These discounts come and go as room inventory for a cruise changes.** If you check for one and it doesn’t come up, it may come back. It’s worth checking back a few times over the next day or two to see if the discount becomes available again.
+- **If a price isn’t listed, that doesn’t mean the category is completely sold out**, just that it isn’t available with this discount.
+
+**Select number of guests to see total sailing price (for one stateroom):**
+
+2345
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $2,492 (11C) | $2,588 (9D) | $2,812 (7A) |
+| 4/26/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $2,697 (7A) |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | $3,492 (11A) | $3,828 (9D) | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $4,264 (7A) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $2,961 (11C) | $3,185 (9D) | $3,433 (7A) |
+| 6/5/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,306 (11C) | — | $2,588 (7A) |
+| 6/12/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,276 (11C) | — | $2,582 (7A) |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $4,891 (9B) | $5,535 (5C) |
+| 6/15/26 | New!4-Night Bahamian Cruise on Disney Wish | $2,969 (11C) | $3,193 (9D) | $3,433 (7A) |
+| 6/19/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,252 (11C) | $2,390 (9D) | $2,564 (7A) |
+| 6/19/26 | New!5-Night Bahamian Cruise on Disney Fantasy | $3,304 (11C) | — | $3,754 (7A) |
+| 6/27/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | — | — | $5,913 (7A) |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $4,667 (11C) | $5,108 (9D) | $5,791 (7A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $3,218 (11C) | $3,330 (9D) | $3,558 (7A) |
+| 4/26/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $3,516 (7A) |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | $4,398 (11A) | $4,734 (9D) | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $5,353 (7A) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $3,890 (11C) | $4,122 (9D) | $4,374 (7A) |
+| 6/5/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,035 (11C) | — | $3,326 (7A) |
+| 6/12/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,020 (11C) | — | $3,335 (7A) |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $6,378 (9B) | $7,078 (5C) |
+| 6/15/26 | New!4-Night Bahamian Cruise on Disney Wish | $3,950 (11C) | $4,182 (9D) | $4,426 (7A) |
+| 6/19/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,008 (11C) | $3,149 (9D) | $3,329 (7A) |
+| 6/19/26 | New!5-Night Bahamian Cruise on Disney Fantasy | $4,416 (11C) | — | $4,981 (7A) |
+| 6/27/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | — | — | $7,582 (7A) |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $6,245 (11C) | $6,718 (9D) | $7,463 (7A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $3,944 (11C) | $4,072 (9D) | $4,304 (7A) |
+| 4/26/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $4,334 (7A) |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | $5,304 (11A) | $5,640 (9D) | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $6,442 (7A) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $4,819 (11C) | $5,059 (9D) | $5,315 (7A) |
+| 6/5/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,765 (11C) | — | $4,065 (7A) |
+| 6/12/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,765 (11C) | — | $4,089 (7A) |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $7,865 (9B) | — |
+| 6/15/26 | New!4-Night Bahamian Cruise on Disney Wish | $4,931 (11C) | $5,171 (9D) | $5,419 (7A) |
+| 6/19/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,765 (11C) | $3,909 (9D) | $4,095 (7A) |
+| 6/19/26 | New!5-Night Bahamian Cruise on Disney Fantasy | $5,528 (11C) | — | $6,208 (7A) |
+| 6/27/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | — | — | $9,251 (7A) |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $7,823 (11C) | $8,327 (9D) | $9,135 (7A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 4/26/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | — |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | — | — | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/5/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/12/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+| 6/15/26 | New!4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/19/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/19/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | — |
+| 6/27/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+
+Other stateroom categories may be available at other rates. Rates are per adult, based on double occupancy. Occupancy restrictions may apply. Excursions are not included. See Disney Cruise Line brochure for details and applicable terms and conditions. Other discounts do not apply. Only one discount may be used at a time. Rates in US dollars.
+
+A copy of a valid proof of Florida residency for at least one adult in each stateroom needs to be transmitted (via fax or email) within 48 hours when booking with the Florida rate, and the same proof will need to be produced at check-in. The other guests in each stateroom do not need to be Florida residents.
+
+- **If you are interested in booking one of these special Florida resident rates**, we recommend either [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) or [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line). We have worked with both companies for over 15 years and can recommend them wholeheartedly. It’s really a question of whether you prefer full-service booking or self booking. These staterooms often sell out fast, so if you see one you like, snag it quickly.
+- [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) **is a full service agency, offering a personal travel agent** you can contact by email or direct phone number. It costs you nothing to use them, _PLUS_ their [FREE onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) applies to these special fares (the total cruise fare for the stateroom must be at least $1000 to get their onboard credit).
+- [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line) **is a self-service booking site** similar to Expedia or Priceline, but with years of focus on the Disney travel market. They offer the special rates mentioned above _PLUS_ they add their own discounts.
+
+### Disney Cruise Discounts For Military
+
+Members of the US military and their families qualify for special cruise rates.
+
+**Jump to:**
+
+- [Special 2026 Disney Cruise Line Offer for US Military](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#military250)
+- [Table of Cruises With Military Rates](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#military)
+
+#### Special 2026 Disney Cruise Line Offer for US Military
+
+In honor of the 250th anniversary of the United States, eligible members of the US Military\* will receive $250 onboard credit per reservation on select 2026 Disney Wish and Disney Dream sailings out of Florida.
+
+This offer is valid on new and existing bookings for stateroom categories 04A – 11C, including [guaranteed staterooms with restrictions](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#militarygt). Offer excludes Concierge staterooms and suites. The eligible service member or spouse must sail in the stateroom and must provide valid identification at the time of check-in.
+
+You must sail by 12/31/26.
+
+\*Eligible Service Members are active or retired US military personnel, including active or retired members of the National Guard, Reservists, the US Coast Guard, the US Space Force, the Commissioned Corps of the Public Health Service (PHS) and the Commissioned Corps of the National Oceanic and Atmospheric Administration (NOAA). Spouses of Military Service Members also qualify if they are able to present valid and active US Military IDs in the absence of active or retired Military Personnel or Commissioned Corps Members.
+
+- **If you are interested in booking this special Military Offer**, we recommend either [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) or [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line). We have worked with both companies for over 15 years and can recommend them wholeheartedly. It’s really a question of whether you prefer full-service booking or self booking. These staterooms often sell out fast, so if you see one you like, snag it quickly.
+- [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) **is a full service agency, offering a personal travel agent** you can contact by email or direct phone number. It costs you nothing to use them, _PLUS_ their [FREE onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) applies to these special fares (the total cruise fare for the stateroom must be at least $1000 to get their onboard credit).
+- [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line) **is a self-service booking site** similar to Expedia or Priceline, but with years of focus on the Disney travel market. They offer the special rates mentioned above _PLUS_ they add their own discounts.
+
+#### Table of Cruises With Military Rates
+
+**New!As of April 10, 2026, the following cruises had availability in the Military category**. Prices given are lowest available fares for a single stateroom, in US dollars, _including_ taxes, fees and port expenses, rounded to the nearest dollar. All sailings are from Port Canaveral unless noted otherwise. The [room category](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#categorycodes) available at that fare is in parentheses.
+
+**General Notes:**
+
+- **A single guest gets charged essentially the same price as two guests.** (Cruises are generally priced for a minimum of two guests per cabin.)
+- **5-passenger rooms are rarely discounted for military members**, but they do show up occasionally.
+- **These discounts come and go as room inventory for a cruise changes.** If you check for one and it doesn’t come up, it may come back. It’s worth checking back a few times over the next day or two to see if the discount becomes available again.
+- **If a price isn’t listed, that doesn’t mean the category is completely sold out**, just that it isn’t available with this discount.
+
+**Select number of guests to see total sailing price (for one stateroom):**
+
+2345
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/13/26 | 4-Night Bahamian Cruise on Disney Wish | $2,360 (11B) | — | $2,736 (5C) |
+| 4/17/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | — | $1,628 (9A) | $1,994 (7A) |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $2,340 (11B) | $2,436 (9B) | $2,644 (5C) |
+| 4/25/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $2,807 (5B) |
+| 4/26/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $2,697 (5A) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | $1,431 (11A) | $1,631 (9B) | $2,095 (7A) |
+| 4/27/26 | 4-Night Bahamian Cruise on Disney Wish | $2,368 (11B) | $2,616 (9B) | $2,816 (5C) |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | — | $3,576 (9B) | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $4,264 (5B) |
+| 5/4/26 | New!3-Night Baja Cruise from San Diego on Disney Wonder | $1,495 (10B) | $1,729 (9B) | $1,993 (5A) |
+| 5/4/26 | 4-Night Bahamian Cruise on Disney Wish | $2,924 (11B) | — | $3,324 (5C) |
+| 5/7/26 | New!4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | $1,339 (10B) | $1,587 (9A) | $2,099 (5A) |
+| 5/9/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $2,877 (5B) |
+| 5/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,117 (10B) | — | $5,371 (7A) |
+| 5/15/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $2,807 (7A) |
+| 5/16/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | $4,149 (9B) | $4,639 (5A) |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $4,292 (5B) |
+| 5/18/26 | New!5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $3,036 (5B) |
+| 5/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,243 (11C) | — | $5,749 (7A) |
+| 5/23/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $3,897 (5B) |
+| 5/23/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | $4,258 (9B) | $4,692 (5A) |
+| 5/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,075 (10C) | $3,663 (9B) | $5,665 (7A) |
+| 5/28/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | $3,903 (9B) | $5,359 (7A) |
+| 5/29/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | $2,342 (5B) |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $5,104 (5B) |
+| 5/30/26 | 9-Night Mediterranean with Greek Isles Cruise from Barcelona ending in Civitavecchia (Rome) on Disney Dream | $6,301 (11C) | $6,751 (9D) | $7,417 (4E) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $2,761 (11B) | $2,969 (9B) | $3,201 (5B) |
+| 6/1/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,173 (10B) | $3,873 (9B) | — |
+| 6/4/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,662 (11C) | $4,138 (9B) | $5,972 (7A) |
+| 6/5/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,168 (11B) | — | $2,432 (5B) |
+| 6/6/26 | New!7-Night Eastern Caribbean Cruise on Disney Treasure | — | — | $5,739 (5B) |
+| 6/8/26 | 4-Night Bahamian Cruise on Disney Wish | $3,065 (11B) | $3,121 (9B) | $3,297 (5C) |
+| 6/8/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,117 (10B) | $3,901 (9B) | $6,281 (5B) |
+| 6/8/26 | 9-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) on Disney Dream | $6,432 (11C) | $6,810 (9B) | $7,674 (4E) |
+| 6/11/26 | New!4-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $3,522 (5B) |
+| 6/12/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,138 (11B) | — | $2,426 (5B) |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $4,569 (8C) | $5,157 (5C) |
+| 6/15/26 | 4-Night Bahamian Cruise on Disney Wish | $2,777 (11B) | $2,985 (9B) | $3,209 (5C) |
+| 6/15/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,383 (11A) | $4,251 (9B) | $6,113 (5B) |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,704 (11C) | — | — |
+| 6/19/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,114 (11B) | $2,246 (9B) | $2,408 (5B) |
+| 6/19/26 | New!5-Night Bahamian Cruise on Disney Fantasy | $3,104 (11C) | — | $3,514 (7A) |
+| 6/20/26 | New!7-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $6,910 (5B) |
+| 6/22/26 | New!4-Night Bahamian Cruise on Disney Wish | $2,913 (11B) | $3,089 (9B) | $3,313 (5B) |
+| 6/22/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,173 (11C) | $3,999 (9B) | — |
+| 6/24/26 | 12-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) ending in Barcelona on Disney Dream | $6,871 (11A) | $7,567 (9B) | $8,479 (4E) |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,049 (11A) | $3,847 (9B) | $5,513 (7A) |
+| 6/27/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | — | — | $5,535 (5B) |
+| 6/27/26 | New!7-Night Eastern Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $7,312 (5B) |
+| 6/29/26 | New!4-Night Bahamian Cruise on Disney Wish | $2,977 (11B) | $3,001 (9B) | $3,193 (5A) |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,495 (10A) | $4,391 (9A) | $6,295 (7A) |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,368 (11C) | $4,236 (9B) | $6,070 (7A) |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,402 (11B) | $4,248 (9D) | $6,078 (7A) |
+| 7/6/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $4,509 (11C) | $4,803 (9D) | $5,312 (7A) |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,469 (11C) | $4,099 (9B) | $5,849 (7A) |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $4,382 (11C) | $4,793 (9D) | $5,430 (7A) |
+| 7/13/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $4,831 (11C) | $5,115 (9D) | $5,713 (7A) |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,172 (11C) | $4,166 (9B) | $5,916 (7A) |
+| 7/23/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,163 (11C) | $4,055 (9D) | $6,030 (7A) |
+| 7/30/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,154 (11C) | $4,046 (9D) | $5,830 (7A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/13/26 | 4-Night Bahamian Cruise on Disney Wish | $3,047 (11B) | — | $3,443 (5C) |
+| 4/17/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | — | $2,154 (9A) | $2,529 (7A) |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $3,026 (11B) | $3,134 (9B) | $3,350 (5C) |
+| 4/25/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $3,610 (5B) |
+| 4/26/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $3,516 (5A) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | $1,799 (11A) | $2,055 (9B) | $2,559 (7A) |
+| 4/27/26 | 4-Night Bahamian Cruise on Disney Wish | $3,023 (11B) | $3,279 (9B) | $3,483 (5C) |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | — | $4,426 (9B) | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $5,353 (5B) |
+| 5/4/26 | New!3-Night Baja Cruise from San Diego on Disney Wonder | $1,940 (10B) | $2,201 (9B) | $2,477 (5A) |
+| 5/4/26 | 4-Night Bahamian Cruise on Disney Wish | $3,546 (11B) | — | $3,958 (5C) |
+| 5/7/26 | New!4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | $1,773 (10B) | $2,053 (9A) | $2,581 (5A) |
+| 5/9/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $3,650 (5B) |
+| 5/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,961 (10B) | — | $6,376 (7A) |
+| 5/15/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $3,481 (7A) |
+| 5/16/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | $4,999 (9B) | $5,489 (5A) |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $5,451 (5B) |
+| 5/18/26 | New!5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $3,820 (5B) |
+| 5/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,094 (11C) | — | $6,810 (7A) |
+| 5/23/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $4,820 (5B) |
+| 5/23/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | $5,184 (9B) | $5,618 (5A) |
+| 5/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,150 (10C) | $4,829 (9B) | $6,929 (7A) |
+| 5/28/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | $5,022 (9B) | $6,576 (7A) |
+| 5/29/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | $3,006 (5B) |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $6,466 (5B) |
+| 5/30/26 | 9-Night Mediterranean with Greek Isles Cruise from Barcelona ending in Civitavecchia (Rome) on Disney Dream | $7,696 (11C) | $8,146 (9D) | $8,812 (4E) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $3,634 (11B) | $3,846 (9B) | $4,082 (5B) |
+| 6/1/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,220 (10B) | $5,039 (9B) | — |
+| 6/4/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,674 (11C) | $5,269 (9B) | $7,145 (7A) |
+| 6/5/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,855 (11B) | — | $3,128 (5B) |
+| 6/6/26 | New!7-Night Eastern Caribbean Cruise on Disney Treasure | — | — | $7,223 (5B) |
+| 6/8/26 | 4-Night Bahamian Cruise on Disney Wish | $3,961 (11B) | $4,021 (9B) | $4,205 (5C) |
+| 6/8/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,213 (10B) | $5,102 (9B) | $7,566 (5B) |
+| 6/8/26 | 9-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) on Disney Dream | $7,838 (11C) | $8,216 (9B) | $9,080 (4E) |
+| 6/11/26 | New!4-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $4,411 (5B) |
+| 6/12/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,840 (11B) | — | $3,137 (5B) |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $5,965 (8C) | $6,602 (5C) |
+| 6/15/26 | 4-Night Bahamian Cruise on Disney Wish | $3,698 (11B) | $3,910 (9B) | $4,138 (5C) |
+| 6/15/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,479 (11A) | $5,459 (9B) | $7,405 (5B) |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,765 (11C) | — | — |
+| 6/19/26 | New!3-Night Bahamian Cruise on Disney Wish | $2,828 (11B) | $2,963 (9B) | $3,128 (5B) |
+| 6/19/26 | New!5-Night Bahamian Cruise on Disney Fantasy | $4,146 (11C) | — | $4,666 (7A) |
+| 6/20/26 | New!7-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $8,481 (5B) |
+| 6/22/26 | New!4-Night Bahamian Cruise on Disney Wish | $3,833 (11B) | $4,013 (9B) | $4,241 (5B) |
+| 6/22/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,304 (11C) | $5,270 (9B) | — |
+| 6/24/26 | 12-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) ending in Barcelona on Disney Dream | $8,819 (11A) | $9,515 (9B) | $10,427 (4E) |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,133 (11A) | $5,064 (9B) | $6,807 (7A) |
+| 6/27/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | — | — | $7,106 (5B) |
+| 6/27/26 | New!7-Night Eastern Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $8,889 (5B) |
+| 6/29/26 | New!4-Night Bahamian Cruise on Disney Wish | $3,934 (11B) | $3,962 (9B) | $4,162 (5A) |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,745 (10A) | $5,865 (9A) | $7,853 (7A) |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,569 (11C) | $5,654 (9B) | $7,558 (7A) |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,657 (11B) | $5,731 (9D) | $7,638 (7A) |
+| 7/6/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $5,842 (11C) | $6,136 (9D) | $6,646 (7A) |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,630 (11C) | $5,470 (9B) | $7,290 (7A) |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $5,867 (11C) | $6,308 (9D) | $7,004 (7A) |
+| 7/13/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $6,149 (11C) | $6,433 (9D) | $7,031 (7A) |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,331 (11C) | $5,514 (9B) | $7,313 (7A) |
+| 7/23/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,358 (11C) | $5,446 (9D) | $7,470 (7A) |
+| 7/30/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,349 (11C) | $5,432 (9D) | $7,266 (7A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/13/26 | 4-Night Bahamian Cruise on Disney Wish | $3,735 (11B) | — | $4,151 (5C) |
+| 4/17/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | — | $2,680 (9A) | $3,064 (5A) |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $3,712 (11B) | $3,832 (9B) | $4,056 (5C) |
+| 4/25/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $4,414 (5B) |
+| 4/26/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $4,334 (5A) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | $2,166 (11A) | $2,478 (9B) | $3,022 (5B) |
+| 4/27/26 | 4-Night Bahamian Cruise on Disney Wish | $3,679 (11B) | $3,943 (9B) | — |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | — | $5,276 (9B) | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $6,442 (5B) |
+| 5/4/26 | New!3-Night Baja Cruise from San Diego on Disney Wonder | $2,385 (10B) | $2,673 (9C) | $2,961 (5A) |
+| 5/4/26 | 4-Night Bahamian Cruise on Disney Wish | $4,168 (11B) | — | $4,592 (5C) |
+| 5/7/26 | New!4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | $2,206 (10B) | $2,518 (9A) | $3,062 (5A) |
+| 5/9/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $4,424 (5C) |
+| 5/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,805 (10B) | — | $7,381 (5A) |
+| 5/15/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | $4,154 (7A) |
+| 5/16/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | $5,849 (9B) | $6,339 (5A) |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $6,610 (5B) |
+| 5/18/26 | New!5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $4,603 (5B) |
+| 5/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $4,945 (10B) | — | $7,871 (6A) |
+| 5/23/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $5,744 (5B) |
+| 5/23/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | $6,109 (9B) | $6,543 (4E) |
+| 5/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,225 (10C) | $5,995 (9A) | $8,193 (5A) |
+| 5/28/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | $6,141 (9B) | $7,793 (5B) |
+| 5/29/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | $3,670 (5B) |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $7,828 (5B) |
+| 5/30/26 | 9-Night Mediterranean with Greek Isles Cruise from Barcelona ending in Civitavecchia (Rome) on Disney Dream | $9,092 (11C) | $9,542 (9D) | $10,208 (4E) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $4,507 (11B) | $4,723 (9B) | $4,963 (5B) |
+| 6/1/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,267 (10B) | $6,205 (9C) | — |
+| 6/4/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,686 (10B) | $6,400 (9B) | $8,318 (5B) |
+| 6/5/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,543 (11B) | — | $3,825 (5B) |
+| 6/6/26 | New!7-Night Eastern Caribbean Cruise on Disney Treasure | — | — | $8,706 (5B) |
+| 6/8/26 | 4-Night Bahamian Cruise on Disney Wish | $4,858 (11B) | $4,922 (9B) | $5,114 (5C) |
+| 6/8/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,309 (10B) | $6,303 (9B) | $8,851 (5B) |
+| 6/8/26 | 9-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) on Disney Dream | $9,245 (11C) | $9,623 (9B) | $10,487 (4E) |
+| 6/11/26 | New!4-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | $5,299 (5B) |
+| 6/12/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,543 (11B) | — | $3,849 (5B) |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $7,361 (8C) | $8,047 (5B) |
+| 6/15/26 | 4-Night Bahamian Cruise on Disney Wish | $4,619 (11B) | $4,835 (9B) | $5,067 (5C) |
+| 6/15/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,575 (10B) | $6,667 (9C) | $8,697 (5B) |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,826 (11A) | — | — |
+| 6/19/26 | New!3-Night Bahamian Cruise on Disney Wish | $3,543 (11B) | $3,681 (9B) | $3,849 (5B) |
+| 6/19/26 | New!5-Night Bahamian Cruise on Disney Fantasy | $5,188 (11C) | — | $5,818 (7A) |
+| 6/20/26 | New!7-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $10,053 (5B) |
+| 6/22/26 | New!4-Night Bahamian Cruise on Disney Wish | $4,754 (11B) | $4,938 (9B) | $5,170 (5B) |
+| 6/22/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,435 (10B) | $6,541 (9B) | — |
+| 6/24/26 | 12-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) ending in Barcelona on Disney Dream | $10,766 (11A) | $11,462 (9B) | $12,374 (4E) |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,217 (10B) | $6,281 (9B) | $8,101 (5B) |
+| 6/27/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | — | — | $8,677 (5B) |
+| 6/27/26 | New!7-Night Eastern Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | $10,466 (5B) |
+| 6/29/26 | New!4-Night Bahamian Cruise on Disney Wish | $4,891 (11B) | $4,923 (9B) | $5,131 (5A) |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,995 (10A) | $7,339 (9A) | $9,411 (5A) |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,770 (10B) | $7,072 (9C) | $9,046 (5B) |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,912 (11B) | $7,214 (9D) | $9,980 (6A) |
+| 7/6/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $7,175 (11C) | $7,469 (9D) | $8,273 (5B) |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,791 (10B) | $6,841 (9C) | $8,731 (5B) |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $7,352 (11C) | $7,823 (9D) | $8,577 (7A) |
+| 7/13/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | $7,467 (11C) | $7,751 (9D) | $8,408 (6B) |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,490 (10B) | $6,862 (9C) | $8,710 (5B) |
+| 7/23/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,562 (11B) | $6,836 (9D) | $9,484 (6A) |
+| 7/30/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,562 (11B) | $6,818 (9D) | $9,457 (6A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/13/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 4/17/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | — | — | — |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 4/25/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | — |
+| 4/26/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | — |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | — | — | — |
+| 4/27/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 5/2/26 | 14-Night Eastbound Transatlantic Cruise from Fort Lauderdale ending in Barcelona on Disney Dream | — | — | — |
+| 5/2/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+| 5/4/26 | New!3-Night Baja Cruise from San Diego on Disney Wonder | — | — | — |
+| 5/4/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 5/7/26 | New!4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | — | — | — |
+| 5/9/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | — |
+| 5/11/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | — |
+| 5/15/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | — |
+| 5/16/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | — | — |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+| 5/18/26 | New!5-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | — |
+| 5/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | — |
+| 5/23/26 | New!5-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | — |
+| 5/23/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | — | — |
+| 5/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | — |
+| 5/28/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 5/29/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+| 5/30/26 | 9-Night Mediterranean with Greek Isles Cruise from Barcelona ending in Civitavecchia (Rome) on Disney Dream | — | — | — |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/1/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | — |
+| 6/4/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 6/5/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/6/26 | New!7-Night Eastern Caribbean Cruise on Disney Treasure | — | — | — |
+| 6/8/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/8/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | — |
+| 6/8/26 | 9-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) on Disney Dream | — | — | — |
+| 6/11/26 | New!4-Night Bahamian Cruise from Fort Lauderdale on Disney Destiny | — | — | — |
+| 6/12/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/13/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+| 6/15/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/15/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | — |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 6/19/26 | New!3-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/19/26 | New!5-Night Bahamian Cruise on Disney Fantasy | — | — | — |
+| 6/20/26 | New!7-Night Western Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | — |
+| 6/22/26 | New!4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/22/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | — |
+| 6/24/26 | 12-Night Mediterranean with Greek Isles Cruise from Civitavecchia (Rome) ending in Barcelona on Disney Dream | — | — | — |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 6/27/26 | New!7-Night Western Caribbean Cruise on Disney Treasure | — | — | — |
+| 6/27/26 | New!7-Night Eastern Caribbean Cruise from Fort Lauderdale on Disney Destiny | — | — | — |
+| 6/29/26 | New!4-Night Bahamian Cruise on Disney Wish | — | — | — |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | — |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | — |
+| 7/6/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | $9,420 (8C) | $10,175 (4C) |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 7/11/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $9,739 (8C) | $10,749 (4C) |
+| 7/13/26 | 7-Night Mediterranean Cruise from Barcelona on Disney Dream | — | $9,711 (8C) | $10,711 (4B) |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 7/23/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 7/30/26 | New!7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+
+Valid for new bookings only. Other stateroom categories may be available at other rates. Rates based on double occupancy. Occupancy restrictions may apply. Excursions are not included. See Disney Cruise Line brochure for details and applicable terms and conditions. Other discounts do not apply. Only one discount may be used at a time. Rates in US dollars. The following are eligible for the Military rate: active duty or retired military; 100% disabled retired military; reservists for National Guard and Army Reserve with active duty orders (active duty papers must be dated as of January 1st of the previous year to qualify); Department of Defense personnel.
+
+Military personnel may book one stateroom under the military rates program. A second stateroom may be confirmed, if needed, to accommodate immediate family members only. For example, a family of two adults and four children may confirm two staterooms, based on availability, with the offer. Extended family (grandparents, aunts, uncles, cousins, etc.) do not qualify as immediate family members for the second stateroom. Active duty or retired military personnel and 100% permanently disabled veterans do not have to travel as long as their spouse has a valid military ID to show at the port. Reservists must be part of the travel party and must show ID at the port.
+
+- **If you are interested in booking one of these special Military rates**, we recommend either [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) or [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line). We have worked with both companies for over 15 years and can recommend them wholeheartedly. It’s really a question of whether you prefer full-service booking or self booking. These staterooms often sell out fast, so if you see one you like, snag it quickly.
+- [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) **is a full service agency, offering a personal travel agent** you can contact by email or direct phone number. It costs you nothing to use them, _PLUS_ their [FREE onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) applies to these special fares (the total cruise fare for the stateroom must be at least $1000 to get their onboard credit).
+- [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line) **is a self-service booking site** similar to Expedia or Priceline, but with years of focus on the Disney travel market. They offer the special rates mentioned above _PLUS_ they add their own discounts.
+
+### Disney Cruise Discounts for Canadian Residents
+
+Canadian residents sometimes qualify for special rates on select sailings on Disney Cruise Line.
+
+**As of April 10, 2026, the following cruises had availability in the Canadian Resident category**. Prices given are lowest available fares for a single stateroom, in US dollars, _including_ taxes, fees and port expenses, rounded to the nearest dollar. All sailings are from Port Canaveral unless noted otherwise. The [room category](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#categorycodes) available at that fare is in parentheses.
+
+**General Notes:**
+
+- **A single guest gets charged essentially the same price as two guests.** (Cruises are generally priced for a minimum of two guests per cabin.)
+- **5-passenger rooms are generally available with the Canadian resident discount!**
+- **These discounts come and go as room inventory for a cruise changes.** If you check for one and it doesn’t come up, it may come back. It’s worth checking back a few times over the next day or two to see if the discount becomes available again.
+- **If a price isn’t listed, that doesn’t mean the category is completely sold out**, just that it isn’t available with this discount.
+
+**Select number of guests to see total sailing price:**
+
+2345
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/17/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | — | $1,831 (9D) | $2,249 (7A) |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $2,528 (11B) | $2,594 (9D) | $2,816 (7A) |
+| 4/22/26 | 4-Night Bahamian Cruise on Disney Fantasy | — | — | $2,241 (7A) |
+| 4/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | $2,510 (11B) | $2,847 (8C) | $2,877 (7A) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | $1,535 (11B) | $1,727 (9D) | $2,225 (7A) |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $4,583 (7A) |
+| 5/22/26 | 3-Night Bahamian Cruise on Disney Wish | — | — | $2,504 (7A) |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $5,507 (6B) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $3,169 (11B) | $3,397 (9D) | $3,661 (7A) |
+| 6/10/26 | 4-Night Bahamian Cruise on Disney Fantasy | $2,535 (11B) | $2,655 (9D) | $2,829 (7A) |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,529 (11B) | $4,264 (9D) | — |
+| 6/19/26 | 3-Night Bahamian Cruise on Disney Wish | $2,262 (11B) | $2,411 (9B) | $2,568 (7A) |
+| 6/20/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $4,955 (11B) | $5,344 (9D) | $6,058 (7A) |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,497 (11B) | $4,369 (9D) | $6,290 (7A) |
+| 6/29/26 | 4-Night Bahamian Cruise on Disney Wish | $3,415 (11B) | $3,439 (9B) | $3,655 (7A) |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,971 (11B) | $4,989 (9D) | $7,184 (7A) |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,834 (11B) | $4,821 (9D) | $6,931 (7A) |
+| 7/4/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $4,850 (11B) | $5,239 (9D) | $5,942 (7A) |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $3,845 (11B) | $4,821 (9D) | $6,932 (7A) |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,707 (11B) | $4,652 (9D) | $6,679 (7A) |
+| 7/10/26 | 3-Night Bahamian Cruise on Disney Wish | $2,330 (11B) | $2,451 (9B) | $2,586 (7A) |
+| 7/13/26 | 4-Night Bahamian Cruise on Disney Wish | $3,187 (11B) | $3,541 (8C) | $3,673 (7A) |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,613 (11B) | $4,726 (9D) | $6,753 (7A) |
+| 7/20/26 | 4-Night Bahamian Cruise on Disney Wish | $3,123 (11B) | $3,339 (9B) | $3,603 (7A) |
+| 7/23/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,581 (11B) | $4,600 (9D) | $6,878 (7A) |
+| 7/25/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $4,657 (11B) | $5,077 (9B) | $5,654 (7A) |
+| 7/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | $3,281 (11B) | $3,476 (9D) | $3,701 (7A) |
+| 7/30/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $3,581 (11B) | $4,589 (9D) | $6,647 (7A) |
+| 7/31/26 | 3-Night Bahamian Cruise on Disney Wish | $2,213 (11B) | $2,339 (9B) | $2,501 (7A) |
+| 8/10/26 | 4-Night Bahamian Cruise on Disney Wish | $2,713 (11B) | — | $3,109 (7A) |
+| 9/17/26 | 4-Night Pacific Coast Cruise from Vancouver ending in San Diego on Disney Magic | $1,425 (11B) | $1,605 (9D) | $1,965 (7A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/17/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | — | $2,429 (9D) | $2,858 (7A) |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $3,285 (11B) | $3,366 (9D) | $3,594 (7A) |
+| 4/22/26 | 4-Night Bahamian Cruise on Disney Fantasy | — | — | $2,900 (7A) |
+| 4/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | $3,408 (11B) | $3,757 (8C) | $3,779 (7A) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | $1,922 (11B) | $2,174 (9D) | $2,714 (7A) |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $5,861 (7A) |
+| 5/22/26 | 3-Night Bahamian Cruise on Disney Wish | — | — | $3,225 (7A) |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $7,010 (6B) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $4,196 (11B) | $4,430 (9D) | $4,700 (7A) |
+| 6/10/26 | 4-Night Bahamian Cruise on Disney Fantasy | $3,398 (11B) | $3,518 (9D) | $3,731 (7A) |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,753 (11B) | $5,609 (9D) | — |
+| 6/19/26 | 3-Night Bahamian Cruise on Disney Wish | $3,047 (11B) | $3,200 (9B) | $3,362 (7A) |
+| 6/20/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $6,587 (11B) | $7,013 (9D) | $7,800 (7A) |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,752 (11B) | $5,781 (9D) | $7,797 (7A) |
+| 6/29/26 | 4-Night Bahamian Cruise on Disney Wish | $4,544 (11B) | $4,574 (9B) | $4,796 (7A) |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,420 (11B) | $6,712 (9D) | $9,006 (7A) |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,225 (11B) | $6,475 (9D) | $8,675 (7A) |
+| 7/4/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $6,456 (11B) | $6,881 (9D) | $7,658 (7A) |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $5,252 (11B) | $6,491 (9D) | $8,691 (7A) |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,052 (11B) | $6,249 (9D) | $8,364 (7A) |
+| 7/10/26 | 3-Night Bahamian Cruise on Disney Wish | $3,101 (11B) | $3,227 (9B) | $3,368 (7A) |
+| 7/13/26 | 4-Night Bahamian Cruise on Disney Wish | $4,295 (11B) | $4,667 (8C) | $4,793 (7A) |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,958 (11B) | $6,296 (9D) | $8,381 (7A) |
+| 7/20/26 | 4-Night Bahamian Cruise on Disney Wish | $4,192 (11B) | $4,414 (9B) | $4,684 (7A) |
+| 7/23/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,920 (11B) | $6,165 (9D) | $8,501 (7A) |
+| 7/25/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $6,203 (11B) | $6,655 (9B) | $7,295 (7A) |
+| 7/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | $4,419 (11B) | $4,614 (9D) | $4,978 (7A) |
+| 7/30/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $4,920 (11B) | $6,149 (9D) | $8,265 (7A) |
+| 7/31/26 | 3-Night Bahamian Cruise on Disney Wish | $2,930 (11B) | $3,060 (9B) | $3,227 (7A) |
+| 8/10/26 | 4-Night Bahamian Cruise on Disney Wish | $3,584 (11B) | — | $3,995 (7A) |
+| 9/17/26 | 4-Night Pacific Coast Cruise from Vancouver ending in San Diego on Disney Magic | $1,862 (11B) | $2,072 (9D) | $2,447 (7A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/17/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | — | $3,027 (9D) | $3,580 (5C) |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | $4,042 (11B) | $4,138 (9D) | $4,372 (7A) |
+| 4/22/26 | 4-Night Bahamian Cruise on Disney Fantasy | — | — | $3,558 (7A) |
+| 4/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | $4,307 (11B) | $4,667 (8C) | $4,682 (7A) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | $2,308 (11B) | $2,620 (9D) | $3,316 (6A) |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $7,139 (7A) |
+| 5/22/26 | 3-Night Bahamian Cruise on Disney Wish | — | — | $3,946 (7A) |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $8,514 (6B) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | $5,223 (11B) | $5,463 (9D) | $5,739 (7A) |
+| 6/10/26 | 4-Night Bahamian Cruise on Disney Fantasy | $4,260 (11B) | $4,380 (9D) | $4,644 (6B) |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $5,977 (11B) | $6,953 (9D) | — |
+| 6/19/26 | 3-Night Bahamian Cruise on Disney Wish | $3,831 (11B) | $3,989 (9B) | $4,155 (7A) |
+| 6/20/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $8,220 (11B) | $8,682 (9D) | $9,543 (7A) |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,092 (10C) | $7,194 (9D) | $9,977 (6A) |
+| 6/29/26 | 4-Night Bahamian Cruise on Disney Wish | $5,673 (11B) | $5,709 (9B) | $5,937 (7A) |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,870 (11B) | $8,435 (9D) | $11,585 (6A) |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,617 (11B) | $8,129 (9D) | $11,143 (6A) |
+| 7/4/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | $8,062 (11B) | $8,524 (9D) | $9,375 (7A) |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | $6,660 (11B) | $8,162 (9D) | $11,354 (6A) |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,396 (11B) | $7,845 (9D) | $10,743 (6A) |
+| 7/10/26 | 3-Night Bahamian Cruise on Disney Wish | $3,872 (11B) | $4,002 (9B) | $4,151 (7A) |
+| 7/13/26 | 4-Night Bahamian Cruise on Disney Wish | $5,403 (11B) | $5,793 (8C) | $5,913 (7A) |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,302 (11B) | $7,867 (9D) | $10,901 (6A) |
+| 7/20/26 | 4-Night Bahamian Cruise on Disney Wish | $5,262 (11B) | $5,490 (9B) | $5,766 (7A) |
+| 7/23/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,260 (11B) | $7,730 (9D) | $10,785 (6A) |
+| 7/25/26 | 7-Night Western Caribbean Cruise on Disney Treasure | $7,749 (11B) | $8,232 (9B) | $8,936 (7A) |
+| 7/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | $5,557 (11B) | $5,752 (9D) | $6,255 (7A) |
+| 7/30/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | $6,260 (11B) | $7,709 (9D) | $10,754 (6A) |
+| 7/31/26 | 3-Night Bahamian Cruise on Disney Wish | $3,647 (11B) | $3,782 (9B) | $3,953 (7A) |
+| 8/10/26 | 4-Night Bahamian Cruise on Disney Wish | $4,455 (11B) | — | $4,881 (7A) |
+| 9/17/26 | 4-Night Pacific Coast Cruise from Vancouver ending in San Diego on Disney Magic | $2,298 (11B) | $2,538 (9D) | $3,000 (6A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/17/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | — | — | $4,738 (4E) |
+| 4/20/26 | 4-Night Bahamian Cruise on Disney Wish | — | $5,075 (8C) | $5,579 (4C) |
+| 4/22/26 | 4-Night Bahamian Cruise on Disney Fantasy | — | — | $4,637 (4B) |
+| 4/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | — | — | $6,057 (4C) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | — | — | $4,498 (4E) |
+| 5/16/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $8,915 (4C) |
+| 5/22/26 | 3-Night Bahamian Cruise on Disney Wish | — | — | $4,930 (4C) |
+| 5/30/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | — | $10,564 (4C) |
+| 6/1/26 | 4-Night Bahamian Cruise on Disney Wish | — | $6,694 (8C) | $7,171 (4C) |
+| 6/10/26 | 4-Night Bahamian Cruise on Disney Fantasy | — | $5,441 (8B) | $5,942 (4B) |
+| 6/18/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 6/19/26 | 3-Night Bahamian Cruise on Disney Wish | — | $4,881 (8C) | $5,239 (4C) |
+| 6/20/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | — | $10,808 (8C) | $11,973 (4C) |
+| 6/25/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 6/29/26 | 4-Night Bahamian Cruise on Disney Wish | — | $6,982 (8C) | $7,549 (4C) |
+| 6/29/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | $17,534 (4E) |
+| 7/2/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 7/4/26 | 7-Night Eastern Caribbean Cruise on Disney Treasure | — | $10,697 (8B) | $11,758 (4C) |
+| 7/6/26 | 7-Night Alaskan Cruise from Vancouver on Disney Wonder | — | — | $16,825 (4E) |
+| 7/9/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 7/10/26 | 3-Night Bahamian Cruise on Disney Wish | — | $4,892 (8C) | $5,183 (4C) |
+| 7/13/26 | 4-Night Bahamian Cruise on Disney Wish | — | $6,919 (8C) | $7,438 (4C) |
+| 7/16/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 7/20/26 | 4-Night Bahamian Cruise on Disney Wish | — | $6,733 (8C) | $7,192 (4C) |
+| 7/23/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 7/25/26 | 7-Night Western Caribbean Cruise on Disney Treasure | — | $10,156 (8C) | $11,206 (4C) |
+| 7/26/26 | 5-Night Bahamian Cruise on Disney Fantasy | — | — | $7,967 (4C) |
+| 7/30/26 | 7-Night Alaskan Cruise from Vancouver on Disney Magic | — | — | — |
+| 7/31/26 | 3-Night Bahamian Cruise on Disney Wish | — | — | $4,928 (4C) |
+| 8/10/26 | 4-Night Bahamian Cruise on Disney Wish | — | — | $6,130 (4C) |
+| 9/17/26 | 4-Night Pacific Coast Cruise from Vancouver ending in San Diego on Disney Magic | — | — | $4,007 (4E) |
+
+Proof of Canadian residency will be required at time of check-in (your passport is fine).
+
+- **If you are interested in booking one of these special Canadian resident rates**, we recommend either [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) or [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line). We have worked with both companies for over 15 years and can recommend them wholeheartedly. It’s really a question of whether you prefer full-service booking or self booking. These staterooms often sell out fast, so if you see one you like, snag it quickly.
+- [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) **is a full service agency, offering a personal travel agent** you can contact by email or direct phone number. It costs you nothing to use them, _PLUS_ their [FREE onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) applies to these special fares (the total cruise fare for the stateroom must be at least $1000 to get their onboard credit).
+- [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line) **is a self-service booking site** similar to Expedia or Priceline, but with years of focus on the Disney travel market. They offer the special rates mentioned above _PLUS_ they add their own discounts.
+
+### Disney Cruise Discounts for European Residents
+
+European (EEA) residents sometimes qualify for special rates on select sailings on Disney Cruise Line. When they become available we list them below.
+
+No current offers.
+
+### Disney Cruise Discounts for Annual Passholders
+
+Walt Disney World Annual Passholders sometimes qualify for special rates on select sailings on Disney Cruise Line. When they become available we list them below.
+
+No current offers.
+
+### Disney Cruise Discounts for Southern California Residents
+
+Southern California residents (ZIP codes 90000 to 93599) sometimes qualify for special rates on select sailings on Disney Cruise Line.
+
+**As of April 10, 2026, the following cruises had availability in the Southern California Resident category**. Prices given are lowest available fares for a single stateroom, in US dollars, _including_ taxes, fees and port expenses, rounded to the nearest dollar. All sailings are from Port Canaveral unless noted otherwise. The [room category](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-planning-advice-tips-and-tricks/#categorycodes) available at that fare is in parentheses.
+
+**General Notes:**
+
+- **A single guest gets charged essentially the same price as two guests.** (Cruises are generally priced for a minimum of two guests per cabin.)
+- **5-passenger rooms are rarely discounted for Southern California residents**, but they do show up occasionally.
+- **These discounts come and go as room inventory for a cruise changes.** If you check for one and it doesn’t come up, it may come back. It’s worth checking back a few times over the next day or two to see if the discount becomes available again.
+- **If a price isn’t listed, that doesn’t mean the category is completely sold out**, just that it isn’t available with this discount.
+
+**Select number of guests to see total sailing price:**
+
+2345
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/13/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | — | $2,014 (9D) | — |
+| 4/20/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | $1,718 (11B) | $1,958 (9D) | $2,390 (6A) |
+| 4/24/26 | 7-Night Mexican Riviera Cruise from San Diego on Disney Wonder | $3,331 (11B) | $3,821 (9D) | $4,927 (6A) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | — | $1,631 (9D) | $2,095 (7A) |
+| 5/4/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | $1,579 (11B) | $1,831 (9D) | $2,113 (6A) |
+| 5/7/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | $1,427 (11B) | $1,691 (9D) | $2,235 (6A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/13/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | — | $2,613 (9D) | — |
+| 4/20/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | $2,277 (11B) | $2,557 (9D) | $3,005 (6A) |
+| 4/24/26 | 7-Night Mexican Riviera Cruise from San Diego on Disney Wonder | $4,261 (11B) | $4,807 (9D) | $5,934 (6A) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | — | $2,043 (9D) | $2,547 (7A) |
+| 5/4/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | $2,045 (11B) | $2,327 (9D) | $2,621 (6A) |
+| 5/7/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | $1,881 (11B) | $2,181 (9D) | $2,745 (6A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/13/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | — | $3,212 (9D) | — |
+| 4/20/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | $2,836 (11B) | $3,156 (9D) | $3,620 (6A) |
+| 4/24/26 | 7-Night Mexican Riviera Cruise from San Diego on Disney Wonder | $5,192 (11B) | $5,794 (9D) | $6,942 (6A) |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | — | $2,454 (9D) | $2,998 (6A) |
+| 5/4/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | $2,511 (11B) | $2,823 (9D) | $3,129 (6A) |
+| 5/7/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | $2,334 (11B) | $2,670 (9D) | $3,254 (6A) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+| 4/13/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | — | — | — |
+| 4/20/26 | 4-Night Baja Cruise from San Diego on Disney Wonder | — | — | — |
+| 4/24/26 | 7-Night Mexican Riviera Cruise from San Diego on Disney Wonder | — | — | — |
+| 4/27/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Magic | — | — | — |
+| 5/4/26 | 3-Night Baja Cruise from San Diego on Disney Wonder | — | — | — |
+| 5/7/26 | 4-Night Pacific Coast Cruise from San Diego ending in Vancouver on Disney Wonder | — | — | — |
+
+Other stateroom categories may be available at other rates. Rates are per adult, based on double occupancy. Occupancy restrictions may apply. Excursions are not included. See Disney Cruise Line brochure for details and applicable terms and conditions. Other discounts do not apply. Only one discount may be used at a time. Rates in US dollars.
+
+A copy of a valid proof of Southern California residency (ZIP codes 90000 to 93599) for at least one adult in each stateroom needs to be transmitted (via fax or email) within 48 hours when booking with the Southern California rate, and the same proof will need to be produced at check-in. The other guests in each stateroom do not need to be Southern California residents.
+
+- **If you are interested in booking one of these special Southern California resident rates**, we recommend either [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) or [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line). We have worked with both companies for over 15 years and can recommend them wholeheartedly. It’s really a question of whether you prefer full-service booking or self booking. These staterooms often sell out fast, so if you see one you like, snag it quickly.
+- [Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers) **is a full service agency, offering a personal travel agent** you can contact by email or direct phone number. It costs you nothing to use them, _PLUS_ their [FREE onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) applies to these special fares (the total cruise fare for the stateroom must be at least $1000 to get their onboard credit).
+- [Undercover Tourist](https://cruises.undercovertourist.com/swift/cruise?siid=1100477&searchcruise=1&destinationtype=All&sitepromocode=G0ODPLACE&cruiseline=4&cruises=disney-cruise-line) **is a self-service booking site** similar to Expedia or Priceline, but with years of focus on the Disney travel market. They offer the special rates mentioned above _PLUS_ they add their own discounts.
+
+### Disney Cruise Discounts for UK and Ireland Residents
+
+There’s a useful site listing the latest Disney Cruise Line deals for UK visitors, plus a FREE phone number you can call to learn more and book your cruise!
+
+- [Learn more about UK offers for Disney Cruise Line.](https://www.disneyholidays.co.uk/disney-cruise-line/disney-deals/)
+
+### Disney Cruise Discounts for Disney Visa Cardholders
+
+Disney Visa cardholders who use their card as their payment method onboard automatically get several discounts on purchases on the ship and on Castaway Cay. In order for this to happen, you have to register your Disney Visa card when you check in at the port. You do not need to charge the cruise fare on your Disney Visa to get the discounts.
+
+You should not need to ask at purchase time to get the discounts; if you have the card registered any discounts should automatically be applied when you make an eligible purchase.
+
+These discounts cannot be combined with any other discounts you might qualify for, such as Disney Vacation Club discounts.
+
+Discounts include:
+
+- 10% off selected merchandise purchases of $50 or more. Excludes sale merchandise, gift cards, Castaway Cay merchandise, DVDs, CDs, big-ticket items like art, jewelry, fragrances, cosmetics and watches, plus several vague catch-all categories like “selected special items.” Basically, ask first if you’ll get the 10% off, if it’s important to your purchase decision.
+- 10% off 10-photo, 15-photo, 20-photo or unlimited photo packages.
+- 10% off the Castaway Cay Getaway package (combination of snorkeling, bicycle and float or inner-tube rental).
+- 20% off full-priced massage or facial treatment in the onboard spa _while in port_. This does not include massages on Castaway Cay or treatments discounted as part of onboard specials.
+
+### Disney Cruise Discounts for Disney Vacation Club Members
+
+**Jump to:**
+
+- [DVC Onboard Spending Discounts](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#dvconboard)
+- [DVC Cruise Fare Discounts](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#dvcfare)
+
+#### DVC Onboard Spending Discounts
+
+Disney Vacation Club members get several discounts on purchases onboard any Disney Cruise. You need to ask for the discount and show your Disney Vacation Club card at time of purchase.
+
+This discount cannot be combined with any other discounts you might qualify for, such as Disney Visa discounts. DVC members who only own points purchased via resale after April 4, 2016 are not eligible for discounts, including this one.
+
+Discounts include:
+
+- 10% off selected merchandise purchases of $50 or more.
+- 10% off any digital photo package.
+- 20% off full-priced massage or facial treatment in the onboard spa _while in port_. This does not include massages on Castaway Cay or treatments discounted as part of onboard specials.
+
+#### DVC Cruise Fare Discounts
+
+**The following cruises have discounts available for Disney Vacation Club members** for up to 3 persons (some may also be available for 4 or 5). Prices given are base fares per person (Guest 1 & 2/Guest 3+). 3rd, 4th and 5th guest fares for children 12 and under will be lower. Taxes, fees and port expenses are not included. All sailings are from Port Canaveral unless noted otherwise.
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Date** | **Cruise itinerary** | **Inside Fare** | **Oceanview Fare** | **Verandah Fare** |
+|  | – No current offers – |  |  |  |
+
+Other stateroom categories may be available at other rates. Rates are per adult, based on double occupancy. Occupancy restrictions may apply. Taxes, fees, port expenses and excursions are not included. See Disney Cruise Line brochure for details and applicable terms and conditions. Other discounts do not apply. Only one discount may be used at a time. Rates in US dollars. Offer open only to Disney Vacation Club members.
+
+- **If you are interested in booking one of these special Disney Vacation Club rates**, we recommend [filling out a quote form with Small World Vacations](https://www.smallworldvacations.com/affiliates/?quoteform=cruise&affiliate=mousesavers). They give you full service, including a personal travel agent you can contact by email or direct phone number, and [we recommend them wholeheartedly](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swv)! Best of all, it costs you nothing to use them, PLUS their [FREE onboard credit offer](https://www.mousesavers.com/disney-cruise-tips/disney-cruise-line-discounts-and-deals/#swvonboard) applies to these special fares (though note that the total cruise fare must be at least $1000 to get their onboard credit). Be sure to tell them you want to book a Disney Vacation Club fare. You will need to fax or email proof of DVC membership to finalize the booking. Note that these staterooms often sell out fast, so if you see one you like, snag it quickly.
+
+### Group Incentives
+
+Organizing your own group? Disney Specialist [travel agents](https://www.mousesavers.com/working-with-a-travel-agent/) are adept at handling large groups and offer on-board credit and sometimes other incentives. Contact a Disney Specialist travel agency such as [Small World Vacations](https://www.mousesavers.com/working-with-a-travel-agent/#sue) for details. Remember, it costs you nothing to use them!
+
+### Costco Rebates
+
+Costco members can get rebates on Disney cruises, which come in the form of a Costco gift card. However, Costco Travel is _not_ a full-service travel agency: don’t expect much service or information.
+
+In our experience, Costco reps are very nice, but don’t know much about Disney Cruise Line. They almost certainly have never been on a Disney cruise, and may have never been on a cruise of any kind. If you choose to go this route, be prepared to spend time and energy doing your own research about what your package includes and how everything works. Heaven help you if you need to book something complicated like connecting rooms or want to know the pros and cons of different stateroom options. Costco Travel most definitely won’t be able to offer any insider tips on what to expect or help you take advantage of special booking tricks or “secret” room upgrades. Effectively you’re just booking the cruise yourself, but through Costco instead of Disney.
+
+In addition, we find the Costco reps are clueless about Disney’s promotional offers — they really only know about the Costco rebate. You will have to do your own monitoring to see if any specials or price drops come out, and then see if you can get them applied to your booking. A top-notch [Disney specialist agency](https://www.mousesavers.com/working-with-a-travel-agent/) will do this for you automatically, adjusting your reservation to reflect any current offers or discounts.
+
+### Travelocity Deals on Disney Cruises
+
+[Travelocity](http://www.dpbolvw.net/3q122mu2-u1HQNOJROHJIMJIQKQ?url=http%3A%2F%2Ftravel.travelocity.com%2Fecruise%2FCruise%2FDisney-Cruise-Line-Cruises) sometimes has special deals on Disney cruises. They are usually fairly last-minute offers, most typically no more than 6 months in advance. Travelocity also sometimes advertises “15% off shore excursions” but be aware that those are privately booked excursions through a company called Port Promotions, NOT the official Disney excursions.
+
+### Expedia Deals on Disney Cruises
+
+[Expedia](http://www.anrdoezrs.net/click-856196-12574973-1475018439000) has the same base prices as everyone else, but occasionally they will have their own additional offer, like onboard credit or extra Expedia rewards points. Be sure to read the terms and conditions carefully; in some cases there are sharp limits on the extra rewards or credit, or it will only apply to the cruise fare for the first two guests instead of the entire cruise fare.

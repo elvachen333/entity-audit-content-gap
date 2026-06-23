@@ -1,0 +1,1539 @@
+{
+  "file": "non_cited_postecommerce-returns-management-guide.txt",
+  "word_count": 3938,
+  "entity_count": 252,
+  "entities": [
+    {
+      "name": "Returns",
+      "type": "OTHER",
+      "salience": 0.122926,
+      "mentions": 1
+    },
+    {
+      "name": "The Redo Blog",
+      "type": "ORGANIZATION",
+      "salience": 0.068209,
+      "mentions": 1
+    },
+    {
+      "name": "The Redo Team",
+      "type": "ORGANIZATION",
+      "salience": 0.052949,
+      "mentions": 1
+    },
+    {
+      "name": "The Ecommerce Returns Lifecycle: End to End",
+      "type": "WORK_OF_ART",
+      "salience": 0.050351,
+      "mentions": 1
+    },
+    {
+      "name": "The loyalty case: The post-purchase experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.030864,
+      "mentions": 1
+    },
+    {
+      "name": "The margin case",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.030165,
+      "mentions": 1
+    },
+    {
+      "name": "Returns are no longer a back-office inconvenience.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029634,
+      "mentions": 1
+    },
+    {
+      "name": "The Ecommerce Returns Lifecycle: End to End",
+      "type": "WORK_OF_ART",
+      "salience": 0.028337,
+      "mentions": 1
+    },
+    {
+      "name": "the destination warehouse",
+      "type": "LOCATION",
+      "salience": 0.026515,
+      "mentions": 1
+    },
+    {
+      "name": "including returns",
+      "type": "OTHER",
+      "salience": 0.022008,
+      "mentions": 1
+    },
+    {
+      "name": "Return reasons",
+      "type": "OTHER",
+      "salience": 0.020612,
+      "mentions": 1
+    },
+    {
+      "name": "Order Editing",
+      "type": "PERSON",
+      "salience": 0.018336,
+      "mentions": 1
+    },
+    {
+      "name": "Support",
+      "type": "OTHER",
+      "salience": 0.018257,
+      "mentions": 1
+    },
+    {
+      "name": "Order Tracking",
+      "type": "PERSON",
+      "salience": 0.015206,
+      "mentions": 1
+    },
+    {
+      "name": "AI Sales",
+      "type": "OTHER",
+      "salience": 0.013453,
+      "mentions": 1
+    },
+    {
+      "name": "Operations",
+      "type": "OTHER",
+      "salience": 0.013113,
+      "mentions": 1
+    },
+    {
+      "name": "Conversion Optimization",
+      "type": "OTHER",
+      "salience": 0.012711,
+      "mentions": 2
+    },
+    {
+      "name": "Exchanges",
+      "type": "OTHER",
+      "salience": 0.010824,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations",
+      "type": "OTHER",
+      "salience": 0.010802,
+      "mentions": 1
+    },
+    {
+      "name": "Partner with Redo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009656,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouse Processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009373,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 0.00889,
+      "mentions": 4
+    },
+    {
+      "name": "recommendations",
+      "type": "OTHER",
+      "salience": 0.00864,
+      "mentions": 1
+    },
+    {
+      "name": "Tools\\ \\ See what you can save",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00856,
+      "mentions": 1
+    },
+    {
+      "name": "home",
+      "type": "OTHER",
+      "salience": 0.008545,
+      "mentions": 1
+    },
+    {
+      "name": "The downstream impact of routing errors: Beyond the immediate delay",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007896,
+      "mentions": 1
+    },
+    {
+      "name": "the portal experience",
+      "type": "LOCATION",
+      "salience": 0.007682,
+      "mentions": 1
+    },
+    {
+      "name": "The warehouse processing step gets less attention",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007656,
+      "mentions": 1
+    },
+    {
+      "name": "Without that communication layer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00764,
+      "mentions": 1
+    },
+    {
+      "name": "Refunds",
+      "type": "OTHER",
+      "salience": 0.007626,
+      "mentions": 1
+    },
+    {
+      "name": "customer-friendly",
+      "type": "OTHER",
+      "salience": 0.007495,
+      "mentions": 2
+    },
+    {
+      "name": "Return reason trends by channel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006842,
+      "mentions": 1
+    },
+    {
+      "name": "AI Return Review Agent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006603,
+      "mentions": 1
+    },
+    {
+      "name": "and operational intelligence.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006441,
+      "mentions": 1
+    },
+    {
+      "name": "Latest posts and updates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006396,
+      "mentions": 1
+    },
+    {
+      "name": "exchange",
+      "type": "OTHER",
+      "salience": 0.006385,
+      "mentions": 1
+    },
+    {
+      "name": "processing time",
+      "type": "OTHER",
+      "salience": 0.006302,
+      "mentions": 1
+    },
+    {
+      "name": "The ones still managing returns manually are leaving margin",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006286,
+      "mentions": 1
+    },
+    {
+      "name": "The expected benefit goes beyond individual item decisions.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006284,
+      "mentions": 1
+    },
+    {
+      "name": "Discover",
+      "type": "OTHER",
+      "salience": 0.00607,
+      "mentions": 1
+    },
+    {
+      "name": "The AI model powering return reason categorization",
+      "type": "ORGANIZATION",
+      "salience": 0.006064,
+      "mentions": 1
+    },
+    {
+      "name": "The downstream benefit is more reliable decision-making",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006013,
+      "mentions": 1
+    },
+    {
+      "name": "Claims",
+      "type": "OTHER",
+      "salience": 0.005779,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.005693,
+      "mentions": 1
+    },
+    {
+      "name": "and operational cost",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005351,
+      "mentions": 1
+    },
+    {
+      "name": "destination warehouse.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005249,
+      "mentions": 1
+    },
+    {
+      "name": "And underneath all of it",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005113,
+      "mentions": 1
+    },
+    {
+      "name": "highest-frequency",
+      "type": "OTHER",
+      "salience": 0.005038,
+      "mentions": 2
+    },
+    {
+      "name": "they are one of the highest-cost",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004748,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory Management",
+      "type": "PERSON",
+      "salience": 0.004714,
+      "mentions": 1
+    },
+    {
+      "name": "Agentic Catalog",
+      "type": "PERSON",
+      "salience": 0.004542,
+      "mentions": 1
+    },
+    {
+      "name": "reason",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004317,
+      "mentions": 1
+    },
+    {
+      "name": "Returns",
+      "type": "OTHER",
+      "salience": 0.004295,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004111,
+      "mentions": 1
+    },
+    {
+      "name": "more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004057,
+      "mentions": 1
+    },
+    {
+      "name": "The key is presenting the option clearly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004045,
+      "mentions": 1
+    },
+    {
+      "name": "clear",
+      "type": "OTHER",
+      "salience": 0.004015,
+      "mentions": 1
+    },
+    {
+      "name": "Partners",
+      "type": "OTHER",
+      "salience": 0.004013,
+      "mentions": 1
+    },
+    {
+      "name": "The migration burden is significant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003989,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-Warehouse and 3PL Routing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003826,
+      "mentions": 1
+    },
+    {
+      "name": "revenue recovery",
+      "type": "OTHER",
+      "salience": 0.003701,
+      "mentions": 1
+    },
+    {
+      "name": "Thank you.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003401,
+      "mentions": 1
+    },
+    {
+      "name": "Fulfillment",
+      "type": "OTHER",
+      "salience": 0.003267,
+      "mentions": 1
+    },
+    {
+      "name": "over",
+      "type": "OTHER",
+      "salience": 0.003266,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.003072,
+      "mentions": 1
+    },
+    {
+      "name": "Warranties",
+      "type": "OTHER",
+      "salience": 0.002947,
+      "mentions": 2
+    },
+    {
+      "name": "underperforming.",
+      "type": "OTHER",
+      "salience": 0.002918,
+      "mentions": 1
+    },
+    {
+      "name": "Understanding",
+      "type": "PERSON",
+      "salience": 0.002842,
+      "mentions": 1
+    },
+    {
+      "name": "Chargebacks",
+      "type": "OTHER",
+      "salience": 0.00282,
+      "mentions": 1
+    },
+    {
+      "name": "Without automated enforcement",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00245,
+      "mentions": 1
+    },
+    {
+      "name": "Exchanges",
+      "type": "OTHER",
+      "salience": 0.002199,
+      "mentions": 1
+    },
+    {
+      "name": "exchanges",
+      "type": "OTHER",
+      "salience": 0.002193,
+      "mentions": 1
+    },
+    {
+      "name": "customer segment",
+      "type": "OTHER",
+      "salience": 0.002123,
+      "mentions": 1
+    },
+    {
+      "name": "Key Insight",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002052,
+      "mentions": 1
+    },
+    {
+      "name": "communication",
+      "type": "OTHER",
+      "salience": 0.002041,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouse receipt and inspection: The item arrives.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001943,
+      "mentions": 1
+    },
+    {
+      "name": "Label generation and routing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001897,
+      "mentions": 1
+    },
+    {
+      "name": "Without a standardized process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001872,
+      "mentions": 1
+    },
+    {
+      "name": "when captured accurately",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001797,
+      "mentions": 1
+    },
+    {
+      "name": "the policy",
+      "type": "OTHER",
+      "salience": 0.001681,
+      "mentions": 1
+    },
+    {
+      "name": "creating a new order",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001646,
+      "mentions": 1
+    },
+    {
+      "name": "international orders",
+      "type": "OTHER",
+      "salience": 0.00163,
+      "mentions": 1
+    },
+    {
+      "name": "Order Created Date Condition Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001594,
+      "mentions": 1
+    },
+    {
+      "name": "managing inventory holds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001585,
+      "mentions": 1
+    },
+    {
+      "name": "order date",
+      "type": "OTHER",
+      "salience": 0.001574,
+      "mentions": 1
+    },
+    {
+      "name": "Refunds",
+      "type": "OTHER",
+      "salience": 0.001549,
+      "mentions": 1
+    },
+    {
+      "name": "Warehouse Processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001498,
+      "mentions": 1
+    },
+    {
+      "name": "March 17",
+      "type": "PERSON",
+      "salience": 0.00148,
+      "mentions": 1
+    },
+    {
+      "name": "intervention.",
+      "type": "OTHER",
+      "salience": 0.001471,
+      "mentions": 1
+    },
+    {
+      "name": "regional 3PL relationships",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001433,
+      "mentions": 1
+    },
+    {
+      "name": "charging",
+      "type": "OTHER",
+      "salience": 0.00134,
+      "mentions": 1
+    },
+    {
+      "name": "intervention.",
+      "type": "OTHER",
+      "salience": 0.001298,
+      "mentions": 1
+    },
+    {
+      "name": "Operations",
+      "type": "OTHER",
+      "salience": 0.001296,
+      "mentions": 1
+    },
+    {
+      "name": "connecting",
+      "type": "OTHER",
+      "salience": 0.001282,
+      "mentions": 1
+    },
+    {
+      "name": "When return windows change",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001249,
+      "mentions": 1
+    },
+    {
+      "name": "Clear visibility into variant availability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001244,
+      "mentions": 1
+    },
+    {
+      "name": "Complexity compounds quickly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001194,
+      "mentions": 1
+    },
+    {
+      "name": "When routing errors delay processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001164,
+      "mentions": 1
+    },
+    {
+      "name": "Take 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00115,
+      "mentions": 1
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "salience": 0.001104,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.001086,
+      "mentions": 1
+    },
+    {
+      "name": "with apparel and footwear consistently at the higher end.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001052,
+      "mentions": 1
+    },
+    {
+      "name": "Order Managment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001052,
+      "mentions": 1
+    },
+    {
+      "name": "labor",
+      "type": "OTHER",
+      "salience": 0.001042,
+      "mentions": 1
+    },
+    {
+      "name": "which descriptions are misleading",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001033,
+      "mentions": 1
+    },
+    {
+      "name": "done well",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001032,
+      "mentions": 1
+    },
+    {
+      "name": "product type",
+      "type": "OTHER",
+      "salience": 0.001031,
+      "mentions": 2
+    },
+    {
+      "name": "and 3PL account",
+      "type": "OTHER",
+      "salience": 0.001031,
+      "mentions": 1
+    },
+    {
+      "name": "real money",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000976,
+      "mentions": 1
+    },
+    {
+      "name": "conversion",
+      "type": "OTHER",
+      "salience": 0.000963,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations",
+      "type": "OTHER",
+      "salience": 0.000953,
+      "mentions": 1
+    },
+    {
+      "name": "exchange mechanics",
+      "type": "OTHER",
+      "salience": 0.000925,
+      "mentions": 1
+    },
+    {
+      "name": "misrouted returns create inventory reconciliation problems.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00091,
+      "mentions": 1
+    },
+    {
+      "name": "Condition",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000904,
+      "mentions": 1
+    },
+    {
+      "name": "Automated enforcement at the portal level.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0009,
+      "mentions": 1
+    },
+    {
+      "name": "Support",
+      "type": "OTHER",
+      "salience": 0.000817,
+      "mentions": 1
+    },
+    {
+      "name": "Restocking fees discourage returns but can reduce purchase confidence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000809,
+      "mentions": 1
+    },
+    {
+      "name": "Support",
+      "type": "OTHER",
+      "salience": 0.000804,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000802,
+      "mentions": 1
+    },
+    {
+      "name": "Product",
+      "type": "OTHER",
+      "salience": 0.00078,
+      "mentions": 1
+    },
+    {
+      "name": "Unoptimized",
+      "type": "PERSON",
+      "salience": 0.000779,
+      "mentions": 1
+    },
+    {
+      "name": "records notes",
+      "type": "OTHER",
+      "salience": 0.000773,
+      "mentions": 1
+    },
+    {
+      "name": "Recommended Blogs",
+      "type": "OTHER",
+      "salience": 0.000761,
+      "mentions": 1
+    },
+    {
+      "name": "Company",
+      "type": "OTHER",
+      "salience": 0.000749,
+      "mentions": 1
+    },
+    {
+      "name": "Initiation",
+      "type": "OTHER",
+      "salience": 0.000718,
+      "mentions": 1
+    },
+    {
+      "name": "Most brands collect return reason data.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000671,
+      "mentions": 1
+    },
+    {
+      "name": "Routing intelligence",
+      "type": "OTHER",
+      "salience": 0.000667,
+      "mentions": 1
+    },
+    {
+      "name": "windows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "restock",
+      "type": "OTHER",
+      "salience": 0.000655,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.000652,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-Warehouse and 3PL Routing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000645,
+      "mentions": 1
+    },
+    {
+      "name": "windows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000644,
+      "mentions": 1
+    },
+    {
+      "name": "3PL relationships",
+      "type": "OTHER",
+      "salience": 0.000638,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics depth and accuracy: How does the platform categorize return reasons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000636,
+      "mentions": 1
+    },
+    {
+      "name": "windows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000633,
+      "mentions": 1
+    },
+    {
+      "name": "and return reason",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "Making returns easier doesn't increase return rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000611,
+      "mentions": 1
+    },
+    {
+      "name": "Resolution",
+      "type": "OTHER",
+      "salience": 0.000605,
+      "mentions": 1
+    },
+    {
+      "name": "Standardized Analytics Filter Naming (RETCO-9009) solved a quieter but persistent problem",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000603,
+      "mentions": 1
+    },
+    {
+      "name": "Standardizing",
+      "type": "PERSON",
+      "salience": 0.000601,
+      "mentions": 1
+    },
+    {
+      "name": "Correlation between return reason and item condition grade.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000595,
+      "mentions": 1
+    },
+    {
+      "name": "over time",
+      "type": "OTHER",
+      "salience": 0.000589,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000578,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000575,
+      "mentions": 1
+    },
+    {
+      "name": "with distinct warehouse locations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "and EU storefronts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000571,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000568,
+      "mentions": 1
+    },
+    {
+      "name": "AI Return Reason Bucketing Accuracy Improvement",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000568,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000567,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000565,
+      "mentions": 1
+    },
+    {
+      "name": "destination",
+      "type": "OTHER",
+      "salience": 0.000561,
+      "mentions": 1
+    },
+    {
+      "name": "AI Agents",
+      "type": "OTHER",
+      "salience": 0.00055,
+      "mentions": 1
+    },
+    {
+      "name": "support tickets arrive.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000545,
+      "mentions": 1
+    },
+    {
+      "name": "Conditions",
+      "type": "OTHER",
+      "salience": 0.000543,
+      "mentions": 1
+    },
+    {
+      "name": "exchange-first logic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000537,
+      "mentions": 1
+    },
+    {
+      "name": "Something went wrong",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000528,
+      "mentions": 1
+    },
+    {
+      "name": "Depending",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000523,
+      "mentions": 1
+    },
+    {
+      "name": "over time",
+      "type": "OTHER",
+      "salience": 0.000522,
+      "mentions": 1
+    },
+    {
+      "name": "inconsistent",
+      "type": "OTHER",
+      "salience": 0.000521,
+      "mentions": 1
+    },
+    {
+      "name": "region",
+      "type": "OTHER",
+      "salience": 0.000515,
+      "mentions": 1
+    },
+    {
+      "name": "Does",
+      "type": "ORGANIZATION",
+      "salience": 0.00051,
+      "mentions": 1
+    },
+    {
+      "name": "Does it auto-import bundle and child SKUs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000497,
+      "mentions": 1
+    },
+    {
+      "name": "origin",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000496,
+      "mentions": 1
+    },
+    {
+      "name": "Email vs SMS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000485,
+      "mentions": 1
+    },
+    {
+      "name": "Build Loyalty with Post‐Purchase Communication and Order Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "liquidation",
+      "type": "OTHER",
+      "salience": 0.000474,
+      "mentions": 2
+    },
+    {
+      "name": "Thank you",
+      "type": "PERSON",
+      "salience": 0.000449,
+      "mentions": 1
+    },
+    {
+      "name": "and confirms the item next destination.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000444,
+      "mentions": 1
+    },
+    {
+      "name": "Disposition",
+      "type": "OTHER",
+      "salience": 0.000442,
+      "mentions": 1
+    },
+    {
+      "name": "Getting it right means balancing customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000429,
+      "mentions": 1
+    },
+    {
+      "name": "their revenue does not leave.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000425,
+      "mentions": 1
+    },
+    {
+      "name": "Help Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00041,
+      "mentions": 1
+    },
+    {
+      "name": "underestimated.",
+      "type": "OTHER",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "loyalty",
+      "type": "OTHER",
+      "salience": 0.00039,
+      "mentions": 1
+    },
+    {
+      "name": "Standardized",
+      "type": "PERSON",
+      "salience": 0.000389,
+      "mentions": 1
+    },
+    {
+      "name": "instant credit",
+      "type": "OTHER",
+      "salience": 0.000388,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking",
+      "type": "OTHER",
+      "salience": 0.000374,
+      "mentions": 1
+    },
+    {
+      "name": "Resources",
+      "type": "OTHER",
+      "salience": 0.000365,
+      "mentions": 1
+    },
+    {
+      "name": "Partners",
+      "type": "OTHER",
+      "salience": 0.000363,
+      "mentions": 1
+    },
+    {
+      "name": "My Personal Information",
+      "type": "LOCATION",
+      "salience": 0.000361,
+      "mentions": 1
+    },
+    {
+      "name": "refund timelines extend.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00035,
+      "mentions": 1
+    },
+    {
+      "name": "outlet",
+      "type": "OTHER",
+      "salience": 0.000343,
+      "mentions": 1
+    },
+    {
+      "name": "easy variant selection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000337,
+      "mentions": 1
+    },
+    {
+      "name": "About Redo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000337,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.000336,
+      "mentions": 1
+    },
+    {
+      "name": "retention",
+      "type": "OTHER",
+      "salience": 0.000333,
+      "mentions": 1
+    },
+    {
+      "name": "Discoverability",
+      "type": "OTHER",
+      "salience": 0.000329,
+      "mentions": 1
+    },
+    {
+      "name": "Checkout Optimization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000321,
+      "mentions": 1
+    },
+    {
+      "name": "3PL relationships",
+      "type": "OTHER",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "Events",
+      "type": "OTHER",
+      "salience": 0.000309,
+      "mentions": 1
+    },
+    {
+      "name": "I accept the Terms of Service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000304,
+      "mentions": 1
+    },
+    {
+      "name": "Submit",
+      "type": "OTHER",
+      "salience": 0.000304,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.000298,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.000294,
+      "mentions": 1
+    },
+    {
+      "name": "Key Insight",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "and repeat purchases.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "and destination",
+      "type": "OTHER",
+      "salience": 0.000276,
+      "mentions": 1
+    },
+    {
+      "name": "implications.",
+      "type": "OTHER",
+      "salience": 0.000272,
+      "mentions": 1
+    },
+    {
+      "name": "Marketing",
+      "type": "OTHER",
+      "salience": 0.000266,
+      "mentions": 1
+    },
+    {
+      "name": "Terms",
+      "type": "OTHER",
+      "salience": 0.000259,
+      "mentions": 1
+    },
+    {
+      "name": "data rates may apply",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "order date",
+      "type": "OTHER",
+      "salience": 0.000246,
+      "mentions": 1
+    },
+    {
+      "name": "origin",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000244,
+      "mentions": 1
+    },
+    {
+      "name": "shorter windows reduce processing backlog but can frustrate shoppers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000242,
+      "mentions": 1
+    },
+    {
+      "name": "limited-edition drops",
+      "type": "OTHER",
+      "salience": 0.00024,
+      "mentions": 1
+    },
+    {
+      "name": "repeatable",
+      "type": "OTHER",
+      "salience": 0.000226,
+      "mentions": 1
+    },
+    {
+      "name": "Explore Redo",
+      "type": "PERSON",
+      "salience": 0.000222,
+      "mentions": 1
+    },
+    {
+      "name": "addressed this directly.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000217,
+      "mentions": 1
+    },
+    {
+      "name": "region",
+      "type": "OTHER",
+      "salience": 0.000213,
+      "mentions": 1
+    },
+    {
+      "name": "Claims",
+      "type": "OTHER",
+      "salience": 0.000212,
+      "mentions": 1
+    },
+    {
+      "name": "Solutions",
+      "type": "OTHER",
+      "salience": 0.000212,
+      "mentions": 1
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "salience": 0.000211,
+      "mentions": 1
+    },
+    {
+      "name": "combinations.",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "Careers",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000206,
+      "mentions": 2
+    },
+    {
+      "name": "Last Name",
+      "type": "OTHER",
+      "salience": 0.000204,
+      "mentions": 1
+    },
+    {
+      "name": "Phone Number",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000203,
+      "mentions": 1
+    },
+    {
+      "name": "the refund speed.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000198,
+      "mentions": 1
+    },
+    {
+      "name": "delight customers",
+      "type": "OTHER",
+      "salience": 0.000164,
+      "mentions": 1
+    },
+    {
+      "name": "RMR-140",
+      "type": "OTHER",
+      "salience": 0.000164,
+      "mentions": 1
+    },
+    {
+      "name": "automated flow boosts satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00016,
+      "mentions": 1
+    },
+    {
+      "name": "Far fewer use it effectively.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00016,
+      "mentions": 1
+    },
+    {
+      "name": "Rethinking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000158,
+      "mentions": 1
+    },
+    {
+      "name": "RET1-1296",
+      "type": "OTHER",
+      "salience": 0.000157,
+      "mentions": 1
+    },
+    {
+      "name": "Crafting",
+      "type": "OTHER",
+      "salience": 0.000157,
+      "mentions": 1
+    },
+    {
+      "name": "the data and our experience prove it.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000156,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000156,
+      "mentions": 1
+    },
+    {
+      "name": "Equally important is the usability of the analytics tools themselves.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000154,
+      "mentions": 1
+    },
+    {
+      "name": "We",
+      "type": "OTHER",
+      "salience": 0.000148,
+      "mentions": 1
+    },
+    {
+      "name": "First Name",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000148,
+      "mentions": 1
+    },
+    {
+      "name": "Msg",
+      "type": "OTHER",
+      "salience": 0.000145,
+      "mentions": 1
+    },
+    {
+      "name": "customer segment",
+      "type": "OTHER",
+      "salience": 0.000141,
+      "mentions": 1
+    },
+    {
+      "name": "onboarding",
+      "type": "OTHER",
+      "salience": 0.000103,
+      "mentions": 1
+    },
+    {
+      "name": "March 17, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "140",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1296",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9009",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 117,
+    "ORGANIZATION": 4,
+    "WORK_OF_ART": 2,
+    "CONSUMER_GOOD": 106,
+    "LOCATION": 4,
+    "PERSON": 11,
+    "DATE": 1,
+    "NUMBER": 17
+  },
+  "type_salience": {
+    "OTHER": 0.4079910000000002,
+    "ORGANIZATION": 0.127732,
+    "WORK_OF_ART": 0.07868800000000001,
+    "CONSUMER_GOOD": 0.291874,
+    "LOCATION": 0.034769,
+    "PERSON": 0.04956,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

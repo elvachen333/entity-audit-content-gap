@@ -1,0 +1,3615 @@
+{
+  "file": "non_cited_postpost-purchase-experience-software.txt",
+  "word_count": 4283,
+  "entity_count": 598,
+  "entities": [
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.155606,
+      "mentions": 1
+    },
+    {
+      "name": "and shipping insurance",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.030399,
+      "mentions": 1
+    },
+    {
+      "name": "and USPS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029831,
+      "mentions": 1
+    },
+    {
+      "name": "and Easyship",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029296,
+      "mentions": 1
+    },
+    {
+      "name": "Best Post-Purchase Experience Software in 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025575,
+      "mentions": 1
+    },
+    {
+      "name": "E-Commerce Businesses",
+      "type": "OTHER",
+      "salience": 0.023682,
+      "mentions": 4
+    },
+    {
+      "name": "The",
+      "type": "ORGANIZATION",
+      "salience": 0.019738,
+      "mentions": 1
+    },
+    {
+      "name": "experience software of 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018569,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.017504,
+      "mentions": 1
+    },
+    {
+      "name": "post-purchase experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015397,
+      "mentions": 1
+    },
+    {
+      "name": "experience",
+      "type": "OTHER",
+      "salience": 0.014869,
+      "mentions": 1
+    },
+    {
+      "name": "their customers",
+      "type": "OTHER",
+      "salience": 0.014198,
+      "mentions": 1
+    },
+    {
+      "name": "experiences",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014175,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01248,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Lifetime Value",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012107,
+      "mentions": 1
+    },
+    {
+      "name": "customized discounts",
+      "type": "OTHER",
+      "salience": 0.01188,
+      "mentions": 1
+    },
+    {
+      "name": "order management",
+      "type": "OTHER",
+      "salience": 0.011131,
+      "mentions": 1
+    },
+    {
+      "name": "Best Post-Purchase Experience Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010697,
+      "mentions": 1
+    },
+    {
+      "name": "returns management",
+      "type": "OTHER",
+      "salience": 0.010663,
+      "mentions": 1
+    },
+    {
+      "name": "delivery experience management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010438,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.00993,
+      "mentions": 1
+    },
+    {
+      "name": "With post-purchase experience software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009673,
+      "mentions": 1
+    },
+    {
+      "name": "tracking and EDD",
+      "type": "ORGANIZATION",
+      "salience": 0.009402,
+      "mentions": 1
+    },
+    {
+      "name": "With",
+      "type": "PERSON",
+      "salience": 0.00928,
+      "mentions": 1
+    },
+    {
+      "name": "branded notifications",
+      "type": "OTHER",
+      "salience": 0.00918,
+      "mentions": 1
+    },
+    {
+      "name": "With a post-purchase experience platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008758,
+      "mentions": 1
+    },
+    {
+      "name": "and insurance in one platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008655,
+      "mentions": 1
+    },
+    {
+      "name": "branded",
+      "type": "OTHER",
+      "salience": 0.008593,
+      "mentions": 1
+    },
+    {
+      "name": "It integrates with 1,200+ carriers including all major U.S. carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007654,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com.",
+      "type": "OTHER",
+      "salience": 0.007532,
+      "mentions": 1
+    },
+    {
+      "name": "Share",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007499,
+      "mentions": 1
+    },
+    {
+      "name": "experience software",
+      "type": "OTHER",
+      "salience": 0.007298,
+      "mentions": 1
+    },
+    {
+      "name": "Contents",
+      "type": "OTHER",
+      "salience": 0.006884,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.006877,
+      "mentions": 1
+    },
+    {
+      "name": "That's what post-purchase experience software facilitates.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006405,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.006287,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.006123,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.005972,
+      "mentions": 1
+    },
+    {
+      "name": "and WhatsApp.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005501,
+      "mentions": 1
+    },
+    {
+      "name": "automated delivery notifications via email and SMS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004817,
+      "mentions": 1
+    },
+    {
+      "name": "post-purchase",
+      "type": "OTHER",
+      "salience": 0.004747,
+      "mentions": 1
+    },
+    {
+      "name": "Key Takeaways",
+      "type": "OTHER",
+      "salience": 0.004546,
+      "mentions": 1
+    },
+    {
+      "name": "And so",
+      "type": "OTHER",
+      "salience": 0.004395,
+      "mentions": 1
+    },
+    {
+      "name": "the non-negotiables are",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004329,
+      "mentions": 1
+    },
+    {
+      "name": "And so",
+      "type": "OTHER",
+      "salience": 0.004304,
+      "mentions": 1
+    },
+    {
+      "name": "as offerings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003959,
+      "mentions": 1
+    },
+    {
+      "name": "Post-purchase",
+      "type": "PERSON",
+      "salience": 0.003858,
+      "mentions": 1
+    },
+    {
+      "name": "post-purchase experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003832,
+      "mentions": 1
+    },
+    {
+      "name": "branded post-shipping experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003803,
+      "mentions": 1
+    },
+    {
+      "name": "parcel audit and shipping refunds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003668,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip",
+      "type": "OTHER",
+      "salience": 0.003518,
+      "mentions": 2
+    },
+    {
+      "name": "shipping refunds",
+      "type": "OTHER",
+      "salience": 0.003416,
+      "mentions": 1
+    },
+    {
+      "name": "What is Post-Purchase Experience Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003276,
+      "mentions": 1
+    },
+    {
+      "name": "simplified",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003206,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.003041,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo",
+      "type": "OTHER",
+      "salience": 0.003008,
+      "mentions": 2
+    },
+    {
+      "name": "The Estimated Delivery Date",
+      "type": "ORGANIZATION",
+      "salience": 0.002996,
+      "mentions": 1
+    },
+    {
+      "name": "multi-carrier rate shopping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002957,
+      "mentions": 1
+    },
+    {
+      "name": "Last updated: April 13",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002892,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Insurance",
+      "type": "OTHER",
+      "salience": 0.00279,
+      "mentions": 2
+    },
+    {
+      "name": "Benefits of Using Post-Purchase Experience Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00274,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.002734,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.002723,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.002713,
+      "mentions": 1
+    },
+    {
+      "name": "shipping label creation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002692,
+      "mentions": 1
+    },
+    {
+      "name": "Sashank Ravindranath",
+      "type": "PERSON",
+      "salience": 0.002659,
+      "mentions": 1
+    },
+    {
+      "name": "post purchase experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002528,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002525,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Dispatch",
+      "type": "OTHER",
+      "salience": 0.002502,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.00246,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002431,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase Experience",
+      "type": "OTHER",
+      "salience": 0.002428,
+      "mentions": 1
+    },
+    {
+      "name": "post-purchase",
+      "type": "OTHER",
+      "salience": 0.002426,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002419,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase Engagement: Strategies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002415,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002406,
+      "mentions": 1
+    },
+    {
+      "name": "supports Shopify and Magento",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002392,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.002392,
+      "mentions": 5
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002391,
+      "mentions": 1
+    },
+    {
+      "name": "Post-purchase",
+      "type": "OTHER",
+      "salience": 0.002384,
+      "mentions": 1
+    },
+    {
+      "name": "shipping",
+      "type": "OTHER",
+      "salience": 0.00238,
+      "mentions": 2
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002376,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.00235,
+      "mentions": 1
+    },
+    {
+      "name": "Other strong options include AfterShip",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002349,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase Experience",
+      "type": "OTHER",
+      "salience": 0.002347,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002339,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase Engagement: Strategies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002336,
+      "mentions": 1
+    },
+    {
+      "name": "top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002333,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002328,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002314,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Experience",
+      "type": "PERSON",
+      "salience": 0.002306,
+      "mentions": 1
+    },
+    {
+      "name": "Post-Purchase",
+      "type": "OTHER",
+      "salience": 0.002301,
+      "mentions": 1
+    },
+    {
+      "name": "communication",
+      "type": "OTHER",
+      "salience": 0.00226,
+      "mentions": 2
+    },
+    {
+      "name": "and WhatsApp to ensure steady and prompt customer communication.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002244,
+      "mentions": 1
+    },
+    {
+      "name": "The leading post-purchase experience solutions include Lateshipment.com",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002242,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.00223,
+      "mentions": 1
+    },
+    {
+      "name": "WISMO",
+      "type": "OTHER",
+      "salience": 0.002229,
+      "mentions": 1
+    },
+    {
+      "name": "Reduce Delivery Exception Incidents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002214,
+      "mentions": 1
+    },
+    {
+      "name": "Salesforce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002203,
+      "mentions": 2
+    },
+    {
+      "name": "Narvar",
+      "type": "PERSON",
+      "salience": 0.002031,
+      "mentions": 1
+    },
+    {
+      "name": "Helps streamline order management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001999,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery Experience Management:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001995,
+      "mentions": 1
+    },
+    {
+      "name": "personalized",
+      "type": "OTHER",
+      "salience": 0.001937,
+      "mentions": 1
+    },
+    {
+      "name": "For instance",
+      "type": "OTHER",
+      "salience": 0.001929,
+      "mentions": 1
+    },
+    {
+      "name": "Further",
+      "type": "OTHER",
+      "salience": 0.001903,
+      "mentions": 1
+    },
+    {
+      "name": "Quick answer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001835,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.001791,
+      "mentions": 1
+    },
+    {
+      "name": "optimizing shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001783,
+      "mentions": 1
+    },
+    {
+      "name": "and USPS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001772,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Experience Management:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001736,
+      "mentions": 1
+    },
+    {
+      "name": "Improve Delivery Experience by resolving delivery issues ahead of customer impact",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001682,
+      "mentions": 1
+    },
+    {
+      "name": "such as next-day delivery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001674,
+      "mentions": 1
+    },
+    {
+      "name": "inquiries",
+      "type": "OTHER",
+      "salience": 0.001612,
+      "mentions": 1
+    },
+    {
+      "name": "Canada Post",
+      "type": "ORGANIZATION",
+      "salience": 0.001591,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Portal",
+      "type": "PERSON",
+      "salience": 0.001581,
+      "mentions": 1
+    },
+    {
+      "name": "Enhance Customer Lifetime Value",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00158,
+      "mentions": 1
+    },
+    {
+      "name": "Post",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001484,
+      "mentions": 1
+    },
+    {
+      "name": "customer-facing",
+      "type": "OTHER",
+      "salience": 0.001475,
+      "mentions": 1
+    },
+    {
+      "name": "discussing",
+      "type": "OTHER",
+      "salience": 0.001437,
+      "mentions": 1
+    },
+    {
+      "name": "OneTrack",
+      "type": "OTHER",
+      "salience": 0.001401,
+      "mentions": 1
+    },
+    {
+      "name": "The combination of proactive notifications",
+      "type": "ORGANIZATION",
+      "salience": 0.001399,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.001397,
+      "mentions": 1
+    },
+    {
+      "name": "1Key Takeaways",
+      "type": "OTHER",
+      "salience": 0.001395,
+      "mentions": 1
+    },
+    {
+      "name": "tracking",
+      "type": "OTHER",
+      "salience": 0.001278,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.001262,
+      "mentions": 1
+    },
+    {
+      "name": "4Top 10 Post-Purchase Experience Software Providers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001259,
+      "mentions": 1
+    },
+    {
+      "name": "Helps personalize your customers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001258,
+      "mentions": 1
+    },
+    {
+      "name": "notifying",
+      "type": "OTHER",
+      "salience": 0.001252,
+      "mentions": 1
+    },
+    {
+      "name": "The 2026 Guide to Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001239,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.001223,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.",
+      "type": "OTHER",
+      "salience": 0.001212,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.001202,
+      "mentions": 1
+    },
+    {
+      "name": "The 2026 Guide to Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001198,
+      "mentions": 1
+    },
+    {
+      "name": "B2B parcel shippers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001192,
+      "mentions": 1
+    },
+    {
+      "name": "delivery experience management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001191,
+      "mentions": 1
+    },
+    {
+      "name": "inquiries by",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001161,
+      "mentions": 1
+    },
+    {
+      "name": "This way",
+      "type": "OTHER",
+      "salience": 0.001149,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery Experience Management",
+      "type": "OTHER",
+      "salience": 0.001146,
+      "mentions": 1
+    },
+    {
+      "name": "experience software",
+      "type": "OTHER",
+      "salience": 0.001141,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery Experience Management",
+      "type": "OTHER",
+      "salience": 0.001123,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery ETA: Post-purchase experience solutions provide customers with accurate and updated details regarding their packages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001122,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.001121,
+      "mentions": 1
+    },
+    {
+      "name": "delivery workload",
+      "type": "OTHER",
+      "salience": 0.00112,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.00112,
+      "mentions": 1
+    },
+    {
+      "name": "notifications",
+      "type": "OTHER",
+      "salience": 0.001119,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Carriers and E-Commerce Platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001113,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery Experience Management",
+      "type": "OTHER",
+      "salience": 0.001108,
+      "mentions": 1
+    },
+    {
+      "name": "8Conclusion",
+      "type": "OTHER",
+      "salience": 0.001102,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery Experience Management",
+      "type": "OTHER",
+      "salience": 0.001087,
+      "mentions": 1
+    },
+    {
+      "name": "with better CX",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001085,
+      "mentions": 1
+    },
+    {
+      "name": "CLV",
+      "type": "OTHER",
+      "salience": 0.001085,
+      "mentions": 2
+    },
+    {
+      "name": "Delivery Experience Management",
+      "type": "OTHER",
+      "salience": 0.001073,
+      "mentions": 1
+    },
+    {
+      "name": "Order Tracking",
+      "type": "PERSON",
+      "salience": 0.001058,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.001034,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnsPro",
+      "type": "OTHER",
+      "salience": 0.001023,
+      "mentions": 1
+    },
+    {
+      "name": "simple",
+      "type": "OTHER",
+      "salience": 0.001019,
+      "mentions": 1
+    },
+    {
+      "name": "OneReturn",
+      "type": "OTHER",
+      "salience": 0.001013,
+      "mentions": 1
+    },
+    {
+      "name": "OneProtect",
+      "type": "OTHER",
+      "salience": 0.001013,
+      "mentions": 1
+    },
+    {
+      "name": "OneAudit",
+      "type": "OTHER",
+      "salience": 0.001013,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.000924,
+      "mentions": 10
+    },
+    {
+      "name": "and leading carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000915,
+      "mentions": 1
+    },
+    {
+      "name": "shipping carrier",
+      "type": "OTHER",
+      "salience": 0.000913,
+      "mentions": 1
+    },
+    {
+      "name": "relationship.",
+      "type": "OTHER",
+      "salience": 0.000902,
+      "mentions": 1
+    },
+    {
+      "name": "Branded Tracking Page: What It Is",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000898,
+      "mentions": 1
+    },
+    {
+      "name": "automated refund recovery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000892,
+      "mentions": 1
+    },
+    {
+      "name": "Branded Tracking Page: What It Is",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000868,
+      "mentions": 1
+    },
+    {
+      "name": "Branded Tracking Page: What It Is",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "It provides 24×7 customer support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000817,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.000816,
+      "mentions": 1
+    },
+    {
+      "name": "Next Article Best Parcel Audit Software in 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000769,
+      "mentions": 1
+    },
+    {
+      "name": "from dispatch through delivery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000766,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.000753,
+      "mentions": 2
+    },
+    {
+      "name": "Parcel Audit and Shipping Refunds:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000733,
+      "mentions": 1
+    },
+    {
+      "name": "experience important",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000732,
+      "mentions": 1
+    },
+    {
+      "name": "Lateshipment.com.",
+      "type": "OTHER",
+      "salience": 0.000721,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.00072,
+      "mentions": 1
+    },
+    {
+      "name": "reducing WISMO",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000715,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.000714,
+      "mentions": 1
+    },
+    {
+      "name": "comprehensive",
+      "type": "OTHER",
+      "salience": 0.000706,
+      "mentions": 1
+    },
+    {
+      "name": "Best Solutions",
+      "type": "OTHER",
+      "salience": 0.000685,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.000681,
+      "mentions": 1
+    },
+    {
+      "name": "Contact sales",
+      "type": "OTHER",
+      "salience": 0.000671,
+      "mentions": 4
+    },
+    {
+      "name": "Best Solutions",
+      "type": "OTHER",
+      "salience": 0.000663,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.000656,
+      "mentions": 1
+    },
+    {
+      "name": "Salesforce",
+      "type": "OTHER",
+      "salience": 0.000655,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.000638,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10 Post-Purchase Experience Software Providers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000636,
+      "mentions": 1
+    },
+    {
+      "name": "share",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000628,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.000616,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.00061,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000605,
+      "mentions": 1
+    },
+    {
+      "name": "Contact Sales",
+      "type": "PERSON",
+      "salience": 0.000604,
+      "mentions": 1
+    },
+    {
+      "name": "worry not.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000602,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.000593,
+      "mentions": 1
+    },
+    {
+      "name": "All",
+      "type": "PERSON",
+      "salience": 0.000592,
+      "mentions": 1
+    },
+    {
+      "name": "branded tracking",
+      "type": "OTHER",
+      "salience": 0.000586,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000569,
+      "mentions": 1
+    },
+    {
+      "name": "eMarketer",
+      "type": "OTHER",
+      "salience": 0.000568,
+      "mentions": 1
+    },
+    {
+      "name": "Emplifi",
+      "type": "OTHER",
+      "salience": 0.000559,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.000554,
+      "mentions": 1
+    },
+    {
+      "name": "What are the leading post-purchase experience solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000553,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000552,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.000538,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.000535,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000533,
+      "mentions": 1
+    },
+    {
+      "name": "here are the top 10 post-purchase solutions to consider",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000529,
+      "mentions": 1
+    },
+    {
+      "name": "requesting delivery re-attempts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000525,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.000521,
+      "mentions": 1
+    },
+    {
+      "name": "An all-in-one post-purchase automation platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000521,
+      "mentions": 1
+    },
+    {
+      "name": "refers",
+      "type": "OTHER",
+      "salience": 0.000518,
+      "mentions": 1
+    },
+    {
+      "name": "Shopper Experience",
+      "type": "OTHER",
+      "salience": 0.000518,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000517,
+      "mentions": 1
+    },
+    {
+      "name": "Ascertaining",
+      "type": "OTHER",
+      "salience": 0.000515,
+      "mentions": 1
+    },
+    {
+      "name": "Automated APIs",
+      "type": "OTHER",
+      "salience": 0.00051,
+      "mentions": 1
+    },
+    {
+      "name": "incentives",
+      "type": "OTHER",
+      "salience": 0.000508,
+      "mentions": 1
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "salience": 0.000502,
+      "mentions": 2
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000497,
+      "mentions": 1
+    },
+    {
+      "name": "product improvements",
+      "type": "OTHER",
+      "salience": 0.000497,
+      "mentions": 1
+    },
+    {
+      "name": "How can I improve my post-purchase experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000496,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.000485,
+      "mentions": 1
+    },
+    {
+      "name": "feature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates with Major U.S.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "process",
+      "type": "OTHER",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "Personalization Capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000479,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.000468,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.000463,
+      "mentions": 1
+    },
+    {
+      "name": "facilitating",
+      "type": "OTHER",
+      "salience": 0.000459,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.000457,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.000457,
+      "mentions": 1
+    },
+    {
+      "name": "Seamless Integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000457,
+      "mentions": 1
+    },
+    {
+      "name": "engaged",
+      "type": "OTHER",
+      "salience": 0.000456,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.000454,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com",
+      "type": "OTHER",
+      "salience": 0.000452,
+      "mentions": 1
+    },
+    {
+      "name": "Key Benefits",
+      "type": "OTHER",
+      "salience": 0.00045,
+      "mentions": 1
+    },
+    {
+      "name": "LateShipment.com's pricing model scales with shipment volume",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000448,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.000443,
+      "mentions": 1
+    },
+    {
+      "name": "Make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000442,
+      "mentions": 1
+    },
+    {
+      "name": "Lateshipment.com.",
+      "type": "OTHER",
+      "salience": 0.000441,
+      "mentions": 1
+    },
+    {
+      "name": "create the",
+      "type": "OTHER",
+      "salience": 0.00044,
+      "mentions": 1
+    },
+    {
+      "name": "Parcel Perform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000427,
+      "mentions": 1
+    },
+    {
+      "name": "go with the best",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000426,
+      "mentions": 1
+    },
+    {
+      "name": "and AfterShip.",
+      "type": "OTHER",
+      "salience": 0.000418,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications",
+      "type": "OTHER",
+      "salience": 0.000416,
+      "mentions": 1
+    },
+    {
+      "name": "storefronts",
+      "type": "OTHER",
+      "salience": 0.000412,
+      "mentions": 1
+    },
+    {
+      "name": "self-serve order lookup",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000411,
+      "mentions": 1
+    },
+    {
+      "name": "Share This Article",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000408,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000406,
+      "mentions": 1
+    },
+    {
+      "name": "etc.",
+      "type": "OTHER",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "protection",
+      "type": "OTHER",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "High Volume",
+      "type": "OTHER",
+      "salience": 0.000398,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000392,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "and 1,200+ other carriers.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "and more.",
+      "type": "OTHER",
+      "salience": 0.000374,
+      "mentions": 1
+    },
+    {
+      "name": "March 26",
+      "type": "PERSON",
+      "salience": 0.000373,
+      "mentions": 1
+    },
+    {
+      "name": "March 16",
+      "type": "PERSON",
+      "salience": 0.000371,
+      "mentions": 1
+    },
+    {
+      "name": "March 26",
+      "type": "PERSON",
+      "salience": 0.000367,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000367,
+      "mentions": 1
+    },
+    {
+      "name": "March 24",
+      "type": "PERSON",
+      "salience": 0.000362,
+      "mentions": 1
+    },
+    {
+      "name": "March 26",
+      "type": "PERSON",
+      "salience": 0.00036,
+      "mentions": 1
+    },
+    {
+      "name": "partners",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00036,
+      "mentions": 1
+    },
+    {
+      "name": "March 16",
+      "type": "PERSON",
+      "salience": 0.000358,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify merchants specifically",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "smart incident alerts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000355,
+      "mentions": 1
+    },
+    {
+      "name": "Where Is My Order",
+      "type": "LOCATION",
+      "salience": 0.000355,
+      "mentions": 1
+    },
+    {
+      "name": "March 26",
+      "type": "PERSON",
+      "salience": 0.000355,
+      "mentions": 1
+    },
+    {
+      "name": "Scale",
+      "type": "PERSON",
+      "salience": 0.000353,
+      "mentions": 1
+    },
+    {
+      "name": "March 24",
+      "type": "PERSON",
+      "salience": 0.000351,
+      "mentions": 1
+    },
+    {
+      "name": "March 26",
+      "type": "PERSON",
+      "salience": 0.000349,
+      "mentions": 1
+    },
+    {
+      "name": "March 16",
+      "type": "PERSON",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "Leverages multiple channels to reach and notify customers regarding their orders",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000344,
+      "mentions": 1
+    },
+    {
+      "name": "and click-and-collect services",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000334,
+      "mentions": 1
+    },
+    {
+      "name": "access discounts",
+      "type": "OTHER",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "Further",
+      "type": "OTHER",
+      "salience": 0.000314,
+      "mentions": 1
+    },
+    {
+      "name": "parcel protection",
+      "type": "OTHER",
+      "salience": 0.000311,
+      "mentions": 1
+    },
+    {
+      "name": "Starter",
+      "type": "OTHER",
+      "salience": 0.000307,
+      "mentions": 1
+    },
+    {
+      "name": "Growth",
+      "type": "OTHER",
+      "salience": 0.000306,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.0003,
+      "mentions": 1
+    },
+    {
+      "name": "Further",
+      "type": "OTHER",
+      "salience": 0.0003,
+      "mentions": 1
+    },
+    {
+      "name": "Gorgias",
+      "type": "OTHER",
+      "salience": 0.000292,
+      "mentions": 1
+    },
+    {
+      "name": "Attentive",
+      "type": "OTHER",
+      "salience": 0.000292,
+      "mentions": 1
+    },
+    {
+      "name": "Pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000282,
+      "mentions": 1
+    },
+    {
+      "name": "warehouse location",
+      "type": "OTHER",
+      "salience": 0.000282,
+      "mentions": 1
+    },
+    {
+      "name": "returns and exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000279,
+      "mentions": 1
+    },
+    {
+      "name": "EDD",
+      "type": "OTHER",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "protected by reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000268,
+      "mentions": 1
+    },
+    {
+      "name": "Starter",
+      "type": "OTHER",
+      "salience": 0.000267,
+      "mentions": 1
+    },
+    {
+      "name": "effortlessly.",
+      "type": "PERSON",
+      "salience": 0.000264,
+      "mentions": 1
+    },
+    {
+      "name": "Strategies",
+      "type": "OTHER",
+      "salience": 0.000257,
+      "mentions": 2
+    },
+    {
+      "name": "Lastly",
+      "type": "OTHER",
+      "salience": 0.000255,
+      "mentions": 1
+    },
+    {
+      "name": "After all",
+      "type": "OTHER",
+      "salience": 0.000255,
+      "mentions": 1
+    },
+    {
+      "name": "Scale",
+      "type": "PERSON",
+      "salience": 0.00025,
+      "mentions": 1
+    },
+    {
+      "name": "MetaPack",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced",
+      "type": "PERSON",
+      "salience": 0.000242,
+      "mentions": 1
+    },
+    {
+      "name": "Monthly Newsletter",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000236,
+      "mentions": 1
+    },
+    {
+      "name": "and proactive issue resolution",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000236,
+      "mentions": 1
+    },
+    {
+      "name": "Instagram LinkedIn",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000232,
+      "mentions": 1
+    },
+    {
+      "name": "Klaviyo",
+      "type": "OTHER",
+      "salience": 0.000232,
+      "mentions": 2
+    },
+    {
+      "name": "Understanding FedEx Delivery Exceptions: Types",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000229,
+      "mentions": 1
+    },
+    {
+      "name": "with 50",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000228,
+      "mentions": 1
+    },
+    {
+      "name": "April 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000227,
+      "mentions": 1
+    },
+    {
+      "name": "April 9",
+      "type": "OTHER",
+      "salience": 0.000225,
+      "mentions": 1
+    },
+    {
+      "name": "Professional",
+      "type": "OTHER",
+      "salience": 0.000223,
+      "mentions": 1
+    },
+    {
+      "name": "Understanding FedEx Delivery Exceptions: Types",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000221,
+      "mentions": 1
+    },
+    {
+      "name": "they",
+      "type": "OTHER",
+      "salience": 0.00022,
+      "mentions": 1
+    },
+    {
+      "name": "April 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00022,
+      "mentions": 1
+    },
+    {
+      "name": "top 10 post-purchase experience tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000219,
+      "mentions": 1
+    },
+    {
+      "name": "April 9",
+      "type": "OTHER",
+      "salience": 0.000217,
+      "mentions": 1
+    },
+    {
+      "name": "Understanding FedEx Delivery Exceptions: Types",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000214,
+      "mentions": 1
+    },
+    {
+      "name": "delivery estimation and more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000213,
+      "mentions": 1
+    },
+    {
+      "name": "Growth",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "accounting service application developers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000209,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.000208,
+      "mentions": 1
+    },
+    {
+      "name": "ClickPost",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "Probably the most significant feature of a post-purchase experience platform is its reporting capabilities.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "Ability to send Omnichannel Notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000205,
+      "mentions": 1
+    },
+    {
+      "name": "over 400 logistics companies and 4,900 delivery service providers globally.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000193,
+      "mentions": 1
+    },
+    {
+      "name": "LinkedIn",
+      "type": "OTHER",
+      "salience": 0.000188,
+      "mentions": 1
+    },
+    {
+      "name": "billed annually",
+      "type": "OTHER",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "billed annually",
+      "type": "OTHER",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "billed annually",
+      "type": "OTHER",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "schedule pick-ups",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "fraud prevention",
+      "type": "OTHER",
+      "salience": 0.000178,
+      "mentions": 1
+    },
+    {
+      "name": "Premier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "over 50",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "MetaPack",
+      "type": "OTHER",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "dispatch",
+      "type": "OTHER",
+      "salience": 0.000172,
+      "mentions": 1
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "Canpar Express",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000168,
+      "mentions": 1
+    },
+    {
+      "name": "Previous Article E-Commerce Holiday Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "Fixes",
+      "type": "OTHER",
+      "salience": 0.000165,
+      "mentions": 1
+    },
+    {
+      "name": "Case Studies",
+      "type": "PERSON",
+      "salience": 0.000165,
+      "mentions": 3
+    },
+    {
+      "name": "Fixes",
+      "type": "OTHER",
+      "salience": 0.00016,
+      "mentions": 1
+    },
+    {
+      "name": "Fixes",
+      "type": "OTHER",
+      "salience": 0.000155,
+      "mentions": 1
+    },
+    {
+      "name": "reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000154,
+      "mentions": 1
+    },
+    {
+      "name": "Recaptcha requires verification",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000154,
+      "mentions": 1
+    },
+    {
+      "name": "fulfill",
+      "type": "OTHER",
+      "salience": 0.000152,
+      "mentions": 1
+    },
+    {
+      "name": "tracking IDs",
+      "type": "OTHER",
+      "salience": 0.000151,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics and Reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00015,
+      "mentions": 1
+    },
+    {
+      "name": "customer trends",
+      "type": "OTHER",
+      "salience": 0.000149,
+      "mentions": 1
+    },
+    {
+      "name": "Magento",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000149,
+      "mentions": 1
+    },
+    {
+      "name": "the integration is plug-and-play with no custom development required",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000148,
+      "mentions": 1
+    },
+    {
+      "name": "99.99/month",
+      "type": "OTHER",
+      "salience": 0.000147,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship's shipping prices are transparent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000146,
+      "mentions": 1
+    },
+    {
+      "name": "Premier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000144,
+      "mentions": 1
+    },
+    {
+      "name": "Remember",
+      "type": "PERSON",
+      "salience": 0.000144,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.000143,
+      "mentions": 1
+    },
+    {
+      "name": "WeSupply Labs",
+      "type": "OTHER",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "locker boxes",
+      "type": "OTHER",
+      "salience": 0.000139,
+      "mentions": 1
+    },
+    {
+      "name": "Coordinates with over 350,000",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "user-friendly tracking",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "Sashank Ravindranath",
+      "type": "PERSON",
+      "salience": 0.000134,
+      "mentions": 1
+    },
+    {
+      "name": "B2B Parcel Shippers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "warranty",
+      "type": "OTHER",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "including exception alerts.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000132,
+      "mentions": 1
+    },
+    {
+      "name": "How to Measure",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00013,
+      "mentions": 1
+    },
+    {
+      "name": "USPS",
+      "type": "ORGANIZATION",
+      "salience": 0.000129,
+      "mentions": 1
+    },
+    {
+      "name": "delivery schedule.",
+      "type": "OTHER",
+      "salience": 0.000129,
+      "mentions": 1
+    },
+    {
+      "name": "weather conditions",
+      "type": "OTHER",
+      "salience": 0.000129,
+      "mentions": 1
+    },
+    {
+      "name": "Small businesses with 500",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "How to Measure",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000126,
+      "mentions": 1
+    },
+    {
+      "name": "than 100",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000126,
+      "mentions": 1
+    },
+    {
+      "name": "Gorgias",
+      "type": "OTHER",
+      "salience": 0.000108,
+      "mentions": 1
+    },
+    {
+      "name": "and Attentive.",
+      "type": "OTHER",
+      "salience": 0.000108,
+      "mentions": 1
+    },
+    {
+      "name": "ERP tools",
+      "type": "OTHER",
+      "salience": 0.000105,
+      "mentions": 1
+    },
+    {
+      "name": "Etsy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000105,
+      "mentions": 1
+    },
+    {
+      "name": "eBay",
+      "type": "ORGANIZATION",
+      "salience": 0.000105,
+      "mentions": 1
+    },
+    {
+      "name": "RMA",
+      "type": "OTHER",
+      "salience": 0.000102,
+      "mentions": 1
+    },
+    {
+      "name": "Authorization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000102,
+      "mentions": 1
+    },
+    {
+      "name": "gathering customer feedback",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "TAGGED",
+      "type": "OTHER",
+      "salience": 9.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Airway Bill",
+      "type": "OTHER",
+      "salience": 9.8e-05,
+      "mentions": 2
+    },
+    {
+      "name": "print labels",
+      "type": "OTHER",
+      "salience": 9.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Pre-dispatch",
+      "type": "OTHER",
+      "salience": 9.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Copy Link",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "B2B/MPS",
+      "type": "OTHER",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Balancing Cost And Reliability",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "over 700",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "traffic",
+      "type": "OTHER",
+      "salience": 9.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "and WhatsApp at every key shipment milestone",
+      "type": "CONSUMER_GOOD",
+      "salience": 6.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Australia",
+      "type": "LOCATION",
+      "salience": 6.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "DHL",
+      "type": "ORGANIZATION",
+      "salience": 6.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Conclusion",
+      "type": "OTHER",
+      "salience": 6.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "FAQs",
+      "type": "OTHER",
+      "salience": 6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 26, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 16, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 10, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 26, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 9, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 24, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 26, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 16, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 10, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 26, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 9, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 24, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 26, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 16, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0.05",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0.35",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0.49",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$29.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$99.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$399.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$23",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$55",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$79",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$40",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0.05",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$25",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "70",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "79",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "93",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "86",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.49",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5/5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "99.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "399.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 13, 2026 12:21 pm",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,900",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "350,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "350,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "55",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "79",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4/5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "360",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "700",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "38",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "34",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "37",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "38",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "34",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "37",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,900",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 223,
+    "CONSUMER_GOOD": 152,
+    "ORGANIZATION": 15,
+    "PERSON": 28,
+    "LOCATION": 2,
+    "NUMBER": 170,
+    "DATE": 23,
+    "PRICE": 18
+  },
+  "type_salience": {
+    "OTHER": 0.5109029999999999,
+    "CONSUMER_GOOD": 0.39080400000000026,
+    "ORGANIZATION": 0.03856699999999999,
+    "PERSON": 0.02911399999999999,
+    "LOCATION": 0.000417,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "version": "0.1.20260420",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "7.3514 sec.",
+  "cost": 0.1079578,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "04211145-1310-0612-0000-32fff79988ca",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "7.2893 sec.",
+      "cost": 0.1079578,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "gemini",
+        "llm_responses",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "llm_responses",
+        "se": "gemini",
+        "user_prompt": "top shopify shipping software",
+        "model_name": "gemini-2.5-flash",
+        "web_search": true,
+        "system_message": "Please respond in English."
+      },
+      "result": [
+        {
+          "model_name": "gemini-2.5-flash",
+          "input_tokens": 51,
+          "output_tokens": 937,
+          "reasoning_tokens": 0,
+          "web_search": true,
+          "money_spent": 0.1073578,
+          "datetime": "2026-04-21 11:45:30 +00:00",
+          "items": [
+            {
+              "type": "message",
+              "sections": [
+                {
+                  "type": "text",
+                  "text": "Shopify offers a wide array of shipping software and apps to help businesses of all sizes streamline their fulfillment processes, save money, and enhance customer experience. These solutions range from Shopify's native shipping features to powerful third-party multi-carrier platforms.\n\nHere are some of the top Shopify shipping software options:\n\n**Multi-Carrier Shipping Solutions (for comprehensive management and automation):**\n*   **ReachShip** is a multi-carrier solution that centralizes order fulfillment, allowing merchants to sync orders from multiple Shopify stores, compare real-time rates, generate labels, schedule pickups, and track shipments with global carriers like UPS, FedEx, USPS, DHL, Australia Post, and Sendle.\n*   **AfterShip Shipping** offers multi-channel shipping and fulfillment, centralizing order processing across platforms including Shopify. It supports over 130 global carriers, enabling businesses to manage orders, generate labels, compare rates, and automate workflows.\n*   **Shopify Multi Carrier Shipping Label App** allows merchants to manage end-to-end shipping directly from their Shopify dashboard. It supports bulk label creation, automated tracking, carrier pickup requests, return label management, and various parcel packing methods for major carriers like UPS, USPS, FedEx, and DHL.\n*   **ShipStation** is a popular choice for businesses with high order volumes and complex shipping needs. It offers robust automation, multi-carrier support (USPS, UPS, FedEx, DHL, and more), bulk label printing, and multi-channel order management.\n*   **Shippo** is ideal for small to mid-sized businesses, offering a user-friendly interface, tools for generating shipping labels, managing carriers, and tracking shipments. Shippo also provides discounted rates from carriers like USPS, UPS, and FedEx.\n*   **Easyship** integrates with over 250 carriers globally, making it a strong option for international shipping. It helps with cross-border shipping compliance by providing templates for international shipping documents and HS code lookup.\n*   **Descartes ShipRush** is highly recommended for its automations, channel integration, and pricing, especially for businesses with multiple sales channels.\n*   **ShippingEasy** provides discounted USPS and UPS rates, robust shipping automation, and built-in customer marketing tools.\n*   **Ordoro** is an all-in-one platform that handles shipping, inventory, and order management.\n*   **SendCloud** integrates with Shopify to automate shipping, offer branded tracking and returns, and connect with a wide network of global carriers.\n*   **ShipperHQ** is designed for Shopify Advanced and Plus users, offering real-time, accurate shipping rates and customizable delivery options, especially for complex shipping requirements like dimensional weight or multi-origin shipping.\n\n**Single-Carrier Specific Apps:**\n*   **PH Ship, Rate, and Track for FedEx** specializes in FedEx shipping, allowing merchants to display accurate FedEx rates at checkout, generate labels, schedule pickups, and track shipments directly within Shopify.\n*   **UPS Shipping (UPS eCommerce Shipping Dashboard)** simplifies shipping operations by integrating directly with UPS services for managing orders, printing labels, and tracking shipments.\n\n**Shopify's Native Shipping:**\n*   **Shopify Shipping** is built into the platform and offers discounted rates with partners like USPS, UPS, DHL, and Canada Post, allowing you to print labels directly from your Shopify admin. It's a good option for new stores with basic shipping needs.\n\n**Key Features to Look for in a Shopify Shipping App:**\n*   **Real-time carrier rates:** Displays accurate shipping costs at checkout to reduce cart abandonment.\n*   **Multi-carrier support:** Allows you to compare and choose the best carrier for each shipment.\n*   **Shipping label automation:** Saves time and reduces manual errors.\n*   **Order tracking:** Improves customer experience and transparency.\n*   **International shipping capabilities:** Handles customs, duties, and global carriers.\n*   **Shipping rules and automation:** Applies logic-based rules to streamline workflows.\n*   **Bulk shipping label creation:** Essential for businesses with higher order volumes.\n*   **Carrier pickup requests and manifest generation:** Simplifies the handover process to carriers.\n*   **Return label management:** Streamlines the returns process.\n\nChoosing the best shipping app depends on your business's specific needs, such as order volume, shipping regions, budget, and desired level of automation.",
+                  "annotations": [
+                    {
+                      "title": "incartupsell.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGclvtcWykp52gMdter53IhkyqmuIYdDR-3dVa_00XENHqG4mONqLptBgRJXkfNt5aL6CtpIEUJBTpHzjWC6FSDbsS9VQQzQDRr5NLFkb9SMnbk3BD1fss6QT6FPChjsUml62YrPhQ6gH_2cxNtsywGiNunjtu7NwlplbXiq9bBXLbKkW6D"
+                    },
+                    {
+                      "title": "yuko.so",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZHE0F_QGdJW0pykiSzE_KyEWL_enAnrJ3MRDXVP-KmBHvewhWiTm6QB6RUf9SE1SBv-i2E9c5-6HK-r8Wisl0Q4F2VhlO8gLdJeW_fYiHszO2SzSXXztBEBCq0F9SC_h4RS6KCGtPoiQ5"
+                    },
+                    {
+                      "title": "goshippo.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp0wUhOACiJaxVyQfsIg_jHu_ZcMsbNTwA_53ekn7l68qrbNTAFGLze4uDvk-kGM8QHJ1yEfie6msPqyO5SdbIhQcx-2PeMm5rC5-mpyY2kA9RhzdRh2C1fZaBXU0aIvalSWqDhJpJfeKxBukz4YnKa4A42KLpRBdiGeY="
+                    },
+                    {
+                      "title": "goshippo.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgeGLnXGgZLegkIDuss20m-eW3mh2hGGZ0fo1vp-hxhzfbsnPlkawAXnJ0Wo6AkmJNCUTF28mMtB4XnWuO-tymN_eKLQwe2jFrIzVEPcunt_Z1haJwJBEwUp3DjAl9XlGYOVhMXCoB5J5Xars0fYsgoh4_JJ43jHwoYpR0Yd1RZyDg7UY6in5gRBCKS4pozM4NdCEn2Jr1_-O3"
+                    },
+                    {
+                      "title": "shiprush.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPZHZwxXJ-9IX7kzkoqr5qHLaYnVYEqDqDSOl3snozJEu_j91tDOpN0_8233RUZpgXFsRjX4kTVTPO-MQj7XoGP8Ldc4c4_pei9FtToywIj57djAmQdaERmJ_rNVEg7q8GNPzS6_mPMX8Q5Mtjyga5_kWGne6Ztwyzns1LBfg="
+                    },
+                    {
+                      "title": "easyship.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED9v2s9XTwBtTPg0vHlVpbVvhFrCY4dFsEoXvlJl8pDrrO4ZwYeb3VDpt3JsXGy_Ig6_reTWcnNOokslEzmqr4GPcPHKuFNMBkqLMGJSUGlMfWkT39rLfkYLiiTFKsYmu9Jz4PKA1JHn2ez81n4uwpfW_9bWI3mQ=="
+                    },
+                    {
+                      "title": "ordoro.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJB4ejqhfPB1BO95WClxdCjOv9WXKZ4d-edCecNN1UrbW0HI74zwdYcRlDeEZojNBb6GlBsJFiSyU0-cIAt6L_0OZYCe5Vs193av3twp16_5CK-qHOHLD59jVPE2fTbZQRHNSD_lbVq3OlzHrBUqmLjocepQ=="
+                    },
+                    {
+                      "title": "outvio.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq3wQt4uvl0ub2DW-G_kK3igZeWFX_7EcEkCN31BNGmFGCDsejjS7ng8KeacVXOJMK-0flyybxG2v_flFXgbMevwmLhFTcs7reEQfzbnKyd-b6T5MsNidKP2pYEcEHT11Ovm6jzIRi0VbhF2R5"
+                    },
+                    {
+                      "title": "shipexpert.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlocE3GOhnbCoRuN3oyjPei8zfIpLTI_-1lSeMhxWr8_4fYqSENblz6qfHCC520OohznhHO2YC52g-uH8JLHNkLjlUNuRvx2hlq7qtoV8hWtWSSDGvPxXs8rEFQWLcm3ga-G7FT3ad5eWtxCvSSinM"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "fan_out_queries": [
+            "best shopify shipping software",
+            "shopify shipping app comparison",
+            "shopify shipping solutions"
+          ]
+        }
+      ]
+    }
+  ]
+}

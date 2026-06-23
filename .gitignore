@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Secrets / credentials — NEVER commit
+.env
+.env.*
+!.env.example
+*service_account*.json
+*service-account*.json
+*-sa.json
+**/credentials/*.json
+gsc_service_account.json
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db

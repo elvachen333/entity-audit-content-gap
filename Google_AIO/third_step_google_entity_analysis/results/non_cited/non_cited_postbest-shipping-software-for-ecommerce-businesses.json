@@ -1,0 +1,993 @@
+{
+  "file": "non_cited_postbest-shipping-software-for-ecommerce-businesses.txt",
+  "word_count": 1238,
+  "entity_count": 161,
+  "entities": [
+    {
+      "name": "Shipping",
+      "type": "PERSON",
+      "salience": 0.152772,
+      "mentions": 1
+    },
+    {
+      "name": "to getting it manufactured",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.096932,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo shipping software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.088597,
+      "mentions": 1
+    },
+    {
+      "name": "Best practices",
+      "type": "OTHER",
+      "salience": 0.041364,
+      "mentions": 4
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "salience": 0.030677,
+      "mentions": 1
+    },
+    {
+      "name": "November 18",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.030217,
+      "mentions": 4
+    },
+    {
+      "name": "ShippingEasy shipping software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029497,
+      "mentions": 1
+    },
+    {
+      "name": "ShippingEasy doubles as data analytics software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.028683,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce Customer Service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021661,
+      "mentions": 1
+    },
+    {
+      "name": "Best shipping software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021178,
+      "mentions": 1
+    },
+    {
+      "name": "Features include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020171,
+      "mentions": 1
+    },
+    {
+      "name": "Cost:",
+      "type": "OTHER",
+      "salience": 0.018564,
+      "mentions": 1
+    },
+    {
+      "name": "Radically Personal Blog",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0184,
+      "mentions": 1
+    },
+    {
+      "name": "ShipperHQ shipping software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017846,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation shipping software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01673,
+      "mentions": 1
+    },
+    {
+      "name": "Shipstation",
+      "type": "OTHER",
+      "salience": 0.016405,
+      "mentions": 2
+    },
+    {
+      "name": "Read More",
+      "type": "PERSON",
+      "salience": 0.013542,
+      "mentions": 1
+    },
+    {
+      "name": "Custom shipping notifications",
+      "type": "OTHER",
+      "salience": 0.009964,
+      "mentions": 1
+    },
+    {
+      "name": "customizable",
+      "type": "OTHER",
+      "salience": 0.008153,
+      "mentions": 1
+    },
+    {
+      "name": "integrations",
+      "type": "OTHER",
+      "salience": 0.007899,
+      "mentions": 1
+    },
+    {
+      "name": "shopping carts",
+      "type": "OTHER",
+      "salience": 0.007895,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify shipping software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007849,
+      "mentions": 1
+    },
+    {
+      "name": "Customer support and customer service are not interchangeable terms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007696,
+      "mentions": 1
+    },
+    {
+      "name": "Features include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006865,
+      "mentions": 1
+    },
+    {
+      "name": "It integrates with all major online retail solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006838,
+      "mentions": 1
+    },
+    {
+      "name": "fast",
+      "type": "OTHER",
+      "salience": 0.006836,
+      "mentions": 1
+    },
+    {
+      "name": "Features include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006519,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.006402,
+      "mentions": 1
+    },
+    {
+      "name": "Cost:",
+      "type": "OTHER",
+      "salience": 0.006203,
+      "mentions": 1
+    },
+    {
+      "name": "Features include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006152,
+      "mentions": 1
+    },
+    {
+      "name": "Features include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005905,
+      "mentions": 1
+    },
+    {
+      "name": "platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005887,
+      "mentions": 1
+    },
+    {
+      "name": "under 200",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005767,
+      "mentions": 1
+    },
+    {
+      "name": "methods tailored to the way you do business.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005723,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Customer Service Guide",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005714,
+      "mentions": 1
+    },
+    {
+      "name": "Cost:",
+      "type": "OTHER",
+      "salience": 0.005548,
+      "mentions": 1
+    },
+    {
+      "name": "Cost:",
+      "type": "OTHER",
+      "salience": 0.005422,
+      "mentions": 1
+    },
+    {
+      "name": "Features include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005392,
+      "mentions": 1
+    },
+    {
+      "name": "accessibility",
+      "type": "OTHER",
+      "salience": 0.004703,
+      "mentions": 1
+    },
+    {
+      "name": "Customer service automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004671,
+      "mentions": 1
+    },
+    {
+      "name": "provides heavy discounts through most major shipping companies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004532,
+      "mentions": 1
+    },
+    {
+      "name": "Automatic address validation and correction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004404,
+      "mentions": 1
+    },
+    {
+      "name": "Features include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004279,
+      "mentions": 1
+    },
+    {
+      "name": "Cost:",
+      "type": "OTHER",
+      "salience": 0.003801,
+      "mentions": 1
+    },
+    {
+      "name": "Cost:",
+      "type": "OTHER",
+      "salience": 0.003776,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce integrations with Gladly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003669,
+      "mentions": 1
+    },
+    {
+      "name": "Automation",
+      "type": "OTHER",
+      "salience": 0.003554,
+      "mentions": 1
+    },
+    {
+      "name": "Automated CS is a purpose-built process which aids the customer experience by using AI driven modes of communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003472,
+      "mentions": 1
+    },
+    {
+      "name": "WooCommerce vs Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00334,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.003225,
+      "mentions": 1
+    },
+    {
+      "name": "Ordoro",
+      "type": "OTHER",
+      "salience": 0.003147,
+      "mentions": 1
+    },
+    {
+      "name": "Angie Tran",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002759,
+      "mentions": 1
+    },
+    {
+      "name": "Angie Tran",
+      "type": "PERSON",
+      "salience": 0.002735,
+      "mentions": 1
+    },
+    {
+      "name": "Pirate ship shipping software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002731,
+      "mentions": 1
+    },
+    {
+      "name": "put your data to work",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002726,
+      "mentions": 1
+    },
+    {
+      "name": "Angie Tran",
+      "type": "PERSON",
+      "salience": 0.002712,
+      "mentions": 1
+    },
+    {
+      "name": "including Shopify and Magento",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002655,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.002627,
+      "mentions": 1
+    },
+    {
+      "name": "Easy integrations with marketplaces",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002445,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-origin support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002408,
+      "mentions": 1
+    },
+    {
+      "name": "and affordability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002389,
+      "mentions": 1
+    },
+    {
+      "name": "Recommendation of inventory distribution",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002337,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory management",
+      "type": "OTHER",
+      "salience": 0.002233,
+      "mentions": 1
+    },
+    {
+      "name": "Dropshipping",
+      "type": "OTHER",
+      "salience": 0.002211,
+      "mentions": 1
+    },
+    {
+      "name": "DHL",
+      "type": "ORGANIZATION",
+      "salience": 0.002122,
+      "mentions": 1
+    },
+    {
+      "name": "Unlimited platform integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002089,
+      "mentions": 1
+    },
+    {
+      "name": "pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002058,
+      "mentions": 1
+    },
+    {
+      "name": "Updated",
+      "type": "PERSON",
+      "salience": 0.001995,
+      "mentions": 1
+    },
+    {
+      "name": "Published",
+      "type": "OTHER",
+      "salience": 0.001995,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.001995,
+      "mentions": 1
+    },
+    {
+      "name": "Published",
+      "type": "OTHER",
+      "salience": 0.001978,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.001978,
+      "mentions": 1
+    },
+    {
+      "name": "Updated",
+      "type": "PERSON",
+      "salience": 0.001978,
+      "mentions": 1
+    },
+    {
+      "name": "leveraging",
+      "type": "OTHER",
+      "salience": 0.001972,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.001961,
+      "mentions": 1
+    },
+    {
+      "name": "Updated",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001961,
+      "mentions": 1
+    },
+    {
+      "name": "Published",
+      "type": "OTHER",
+      "salience": 0.001961,
+      "mentions": 1
+    },
+    {
+      "name": "Advanced data reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001873,
+      "mentions": 1
+    },
+    {
+      "name": "Alexa",
+      "type": "ORGANIZATION",
+      "salience": 0.00185,
+      "mentions": 1
+    },
+    {
+      "name": "Android",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001812,
+      "mentions": 1
+    },
+    {
+      "name": "comprehensive ecommerce logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001769,
+      "mentions": 1
+    },
+    {
+      "name": "and internal resources.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001769,
+      "mentions": 1
+    },
+    {
+      "name": "brands can gain access to loyalty-fostering customer data",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001746,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.001728,
+      "mentions": 1
+    },
+    {
+      "name": "Angie Tran",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001698,
+      "mentions": 1
+    },
+    {
+      "name": "enterprise",
+      "type": "OTHER",
+      "salience": 0.001648,
+      "mentions": 1
+    },
+    {
+      "name": "organizations",
+      "type": "OTHER",
+      "salience": 0.001648,
+      "mentions": 1
+    },
+    {
+      "name": "scalable.",
+      "type": "OTHER",
+      "salience": 0.001569,
+      "mentions": 1
+    },
+    {
+      "name": "Read More",
+      "type": "PERSON",
+      "salience": 0.001556,
+      "mentions": 1
+    },
+    {
+      "name": "Communications Lead",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001461,
+      "mentions": 1
+    },
+    {
+      "name": "Communications Lead at Gladly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001454,
+      "mentions": 1
+    },
+    {
+      "name": "and thought leadership.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001448,
+      "mentions": 1
+    },
+    {
+      "name": "geographic location",
+      "type": "OTHER",
+      "salience": 0.001199,
+      "mentions": 1
+    },
+    {
+      "name": "Zippo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00119,
+      "mentions": 1
+    },
+    {
+      "name": "July 5",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001146,
+      "mentions": 1
+    },
+    {
+      "name": "March 7",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001136,
+      "mentions": 1
+    },
+    {
+      "name": "elegant",
+      "type": "OTHER",
+      "salience": 0.001134,
+      "mentions": 1
+    },
+    {
+      "name": "Simple",
+      "type": "OTHER",
+      "salience": 0.001134,
+      "mentions": 1
+    },
+    {
+      "name": "June 25,",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001127,
+      "mentions": 1
+    },
+    {
+      "name": "Download audio as mp3",
+      "type": "OTHER",
+      "salience": 0.001118,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.001003,
+      "mentions": 1
+    },
+    {
+      "name": "Magento",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000989,
+      "mentions": 1
+    },
+    {
+      "name": "Staff Content",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000971,
+      "mentions": 1
+    },
+    {
+      "name": "and analyst engagement.",
+      "type": "OTHER",
+      "salience": 0.000967,
+      "mentions": 1
+    },
+    {
+      "name": "where she oversees brand storytelling",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000967,
+      "mentions": 1
+    },
+    {
+      "name": "She helps shape how Gladly shows up across content",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000962,
+      "mentions": 1
+    },
+    {
+      "name": "Recommended reading",
+      "type": "OTHER",
+      "salience": 0.000954,
+      "mentions": 1
+    },
+    {
+      "name": "cancellations",
+      "type": "OTHER",
+      "salience": 0.000726,
+      "mentions": 1
+    },
+    {
+      "name": "get deeper access into customer insights",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000726,
+      "mentions": 1
+    },
+    {
+      "name": "enjoy more efficient order management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000726,
+      "mentions": 1
+    },
+    {
+      "name": "Big Commerce",
+      "type": "LOCATION",
+      "salience": 0.000719,
+      "mentions": 1
+    },
+    {
+      "name": "media relations",
+      "type": "OTHER",
+      "salience": 0.000699,
+      "mentions": 1
+    },
+    {
+      "name": "PR",
+      "type": "OTHER",
+      "salience": 0.000696,
+      "mentions": 1
+    },
+    {
+      "name": "Author LinkedIn Profile",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000693,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 18, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 7, 2017",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 18, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 25, 2018",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 18, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$0",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$59",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 18, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "125",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "59",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "499",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "159",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 5, 2018",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "PERSON": 7,
+    "CONSUMER_GOOD": 64,
+    "OTHER": 47,
+    "ORGANIZATION": 2,
+    "LOCATION": 1,
+    "NUMBER": 34,
+    "DATE": 7,
+    "PRICE": 6
+  },
+  "type_salience": {
+    "PERSON": 0.17728999999999998,
+    "CONSUMER_GOOD": 0.5468070000000003,
+    "OTHER": 0.23067200000000002,
+    "ORGANIZATION": 0.003972,
+    "LOCATION": 0.000719,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

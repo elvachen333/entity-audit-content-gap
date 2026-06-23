@@ -1,0 +1,1264 @@
+[【Agoda快閃優惠】預訂酒店低至85折](https://hyperair.co/4jK0eqQ)
+
+# 【迪士尼郵輪最齊攻略】全新資訊重點推介，新加坡首航－迪士尼探險號 Disney Adventure
+
+![](https://www.hyperair.com/nuxt/icon-circle-guide.svg)
+
+攻略
+
+
+HyperAir 編輯・發佈於
+2025-08-29
+
+![](https://image.hyperair.com/Lyl7pttT_mhj0wsXZzCBn8UKX15Fj88Kx9wLmp9bnPI/rs:fit:1280:1280:1/g:no/aHR0cHM6Ly9mZWVkLmh5cGVyYWlyLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8xMC9EaXNuZXlfQ3J1aXNlX-W3peS9nOWNgOWfny0xLnBuZw.webp)
+
+[Agoda快閃優惠🏨\\
+\\
+\\
+預訂酒店享低至85折\\
+\\
+\\
+立即領取 →](https://hyperair.co/4kBhjo2)
+
+迪士尼即將推出全新的郵輪——迪士尼探險號（Disney Adventure），以Marvel超級英雄、反斗奇兵、大英雄聯盟及公主系列劃分成7大主題，並以新加坡作為母港運營5年！今次 HyperAir 編輯部將迪士尼旗下所有郵輪都進了分析，逐一介紹給大家，方便大家選擇不同的迪士尼郵輪（Disney Cruise），重點推介最新亞洲首航－迪士尼探險號！
+
+**新加坡迪士尼探險號 Disney Adventure 全新船期開賣！2026年4月至9月出發！**
+
+[Klook｜供應數量及選擇最多](https://hyperair.co/3EEfV4h)
+
+[KKday｜預訂即送新加坡碼頭接送](https://hyperair.co/3Qm4qRj)
+
+## **迪士尼郵輪（Disney Cruise）最齊全攻略目錄**
+
+## **1\. 迪士尼郵輪全航線級別**
+
+迪士尼郵輪一共分為5個級別，最高級為 Global 系列，而全新的迪士尼探險號就是在 Global 系列之中！
+
+|     |     |
+| --- | --- |
+| **級別** | **船型** |
+| **Magic** | ．迪士尼魔法號 (Disney Magic)<br>．迪士尼奇觀號 (Disney Wonder) |
+| **Dream** | ．迪士尼夢想號 (Disney Dream)<br>．迪士尼幻想號 (Disney Fantasy) |
+| **Triton** | ．迪士尼願望號 (Disney Wish)<br>．迪士尼寶藏號 (Disney Treasure)<br>．迪士尼命運號 (Disney Destiny) |
+| **Global** | ✨重點推介✨<br>．迪士尼探險號（Disney Adventure） |
+
+## **2\. 全新新加坡首航｜迪士尼探險號 (Disney Adventure)**
+
+準備好體驗一場盛大而迷人的海上郵輪假期了嗎？充滿歡樂與放鬆、世界級的娛樂表演、主題餐飲體驗和卓越的賓客服務，迪士尼奇幻之旅號（Disney Adventure）本身就是旅程，也是目的地。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Navigator_s-Club_Disney-Cruise-Line-1.png)Disney Adventure Navigator’s Club (圖片來源：Disney Cruise Line)
+
+迪士尼首條亞洲東南亞航線下年將登陸新加坡，成為全球最大、最高級的迪士尼郵輪（Disney Cruise）。一共有20層，可供6,700賓客乘坐。而這艘不設賭場，是純吃喝玩樂的航線。這艘郵輪以新加坡為母港，暫定提供 3 晚和 4 晚的航程，帶您開啟神奇的海上之旅。
+
+迪士尼奇幻之旅號上的客房經過精心設計，舒適宜人，是您放鬆身心、恢復活力並以時尚的方式航海的完美場所。您可以選擇各種房型，包括擁有壯麗海景或船內景觀的客房。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Concierge_Disney-Cruise-Line-1024x576.jpg)Disney Adventure Concierge (圖片來源：Disney Cruise Line)
+
+|     |     |
+| --- | --- |
+| 首航年份 | 2025年12月 |
+| 載客量 | 6,700賓客 + 2,500船員 |
+| 總噸位 | 208,000噸 |
+| 客艙數量 | 1,254間 |
+| 房型 | 內艙房 (Inside)、海景房 (Oceanview)、露台房 (Verandah)、禮賓房 (Concierge) |
+| 母港 | 新加坡 |
+
+### **2.1. 迪士尼探險號7大主題區介紹**
+
+迪士尼探險號（Disney Adventure）透過想像、探索、幻想，當然還有冒險的魔力，迪士尼、漫威和皮克斯最受歡迎故事中的奇思妙想和奇蹟將在此栩栩如生。您無需離開郵輪，即可沉浸在 7 個主題區域——迪士尼想像花園、迪士尼探索礁、舊京山街、漫威登陸點、玩具總動員天地、市鎮廣場和尋路灣。這艘令人興奮的新郵輪還將推出許多迪士尼郵輪航線的創新「首創」，包括專為東南亞打造的體驗。
+
+**1\. 迪士尼想像花園（Disney Imagination Garden）**
+
+在迪士尼想像花園開啟您難忘的旅程，其靈感源自迪士尼百年來英勇而溫馨的故事如《魔海奇緣》和《魔幻森林》等作背景。在這裡，您和您的親人可以在迷人的山谷中購物、用餐或觀賞精彩的表演，這裡有迷人的花園和雄偉的舞台，為您的下一次冒險做好準備。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Disney-Imagination-Garden_Disney-Cruise-Line.jpg) Disney Adventure Disney Imagination Garden (圖片來源：Disney Cruise Line)
+
+**2\. 迪士尼探索礁（Disney Discovery Reef）**
+
+以《小魚仙》、《海底奇兵》、《盛夏友晴天》作主題的購物、用餐及活動區域
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/DIsney-Adventure_Disney-Discovery-Reef_Disney-Cruise-Line.png)Disney Adventure Disney Discovery Reef (圖片來源：Disney Cruise Line)
+
+**3\. 舊京山街（San Fransokyo Street）**
+
+以《大英雄聯盟 Big Hero 6》裡三藩市和東京的融合世界為靈感，打造互動遊戲、店鋪、影院等
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_San-Fransokyo-Street_Disney-Cruise-Line.jpg) Disney Adventure San Fransokyo Street (圖片來源：Disney Cruise Line)
+
+**4\. 漫威登陸點（Marvel Landing）**
+
+超級英雄們在 Marvel Landing 集結，提供嶄新主題遊樂設施和體驗
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Marvel-Landing_Disney-Cruise-Line.png)Disney Adventure Marvel Landing (圖片來源：Disney Cruise Line)
+
+**5\. 反斗奇兵天地（Toy Story Place）**
+
+以Pixar《反斗奇兵》作主題美食餐廳和水上遊樂區
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Toy-Story-Place_Disney-Cruise-Line-1.png)Disney Adventure Toy Story Place (圖片來源：Disney Cruise Line)
+
+**6\. 市鎮廣場（Town Square）**
+
+集商店、酒廊、咖啡廳、餐廳區域，以經典電影《魔髮奇緣》《仙履奇緣》《魔雪奇緣》《雪姑七友》《公主與青蛙》作設計靈感
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Town-Square_Disney-Cruise-Line.png)Disney Adventure Town Square (圖片來源：Disney Cruise Line)
+
+**7\. 尋路灣（Wayfinder Bay）**
+
+以《魔海奇緣》太平洋島嶼風情為靈感的泳池休憩區，飽覽海天景觀的打卡點之一
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Wayfinder-Bay_Disney-Cruise-Line.png)Disney Adventure Wayfinder Bay (圖片來源：Disney Cruise Line)
+
+### **2.2. 迪士尼探險號餐廳簡介**
+
+盡情享用各種各樣的迪士尼主題餐廳，從高檔餐廳到豐盛的自助餐和快捷小吃，應有盡有。菜單融合了誘人的國際風味，包括亞洲地區特色菜餚和迪士尼主題美食。迪士尼郵輪航線致力於滿足特殊的飲食要求和多樣化的飲食需求，力求提供真正卓越的用餐體驗。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Animator_s-Palate_Disney-Cruise-Line.jpg)Disney Adventure Animator’s Palate (圖片來源：Disney Cruise Line)
+
+船上設有多間餐廳，分別提供自助餐、快餐、高檔餐飲等，賓客可享用融合了國際風味的誘人菜單，包括亞洲地區風味菜餚和迪士尼風味美食。迪士尼郵輪致力於滿足特殊飲食要求和多樣化飲食需求（包括清真和素食）
+
+**一般餐廳**
+
+1\. 莫格利餐廳 (Mowgli’s Eatery)
+
+2\. 塔拉奶奶廚房 (Gramma Tala’s Kitchen)
+
+3\. 荷里活聚光燈俱樂部 (Hollywood Spotlight Club)
+
+4\. 領航員俱樂部 (Navigator’s Club)
+
+5\. 動畫師美食餐廳 (Animator’s Palate)
+
+6\. 動畫師餐桌 (Animator’s Table)
+
+7\. 魔法夏日餐廳 (Enchanted Summer Restaurant)
+
+8\. 彼思市集餐廳 (Pixar Market Restaurant)
+
+9\. 迷人波霸與啤酒 (Bewitching Boba and Brews)
+
+10\. 史迪仔的Ohana燒烤 (Stitch’s Ohana Grill)
+
+11\. 宇宙烤肉串 (Cosmic Kebabs)
+
+12\. 小 wheezy 的冰棒 (Wheezy’s Freezies) Pizza Planet
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Hollywood-Spotlight-Club_Disney-Cruise-Line.png)Disney Adventure Animator’s Palate (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Pixar-Market-Restaurant_Disney-Cruise-Line.jpg) Disney Adventure Pixar Market Restaurant (圖片來源：Disney Cruise Line)
+
+如希望享受更奢華餐飲服務，還可於迪士尼探險號（Disney Adventure）高級餐廳預訂座位，品嚐私人專屬餐飲。高級餐廳裝潢更華麗，服務更周到，菜色更精緻，但需另外收費。
+
+**高級餐廳**
+
+1\. 毛怪與大眼仔的亞洲風味 (Mike & Sulley’s Flavors of Asia)
+
+2\. 帕羅意大利餐廳 (僅限成人) (Palo Trattoria (Adult only))
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Mike-Sulley_Disney-Crusie-Line.jpg) Disney Adventure Mike & Sulley’s Flavors of Asia (圖片來源：Disney Cruise Line)
+
+### **2.3. 迪士尼探險號娛樂及親子活動**
+
+沉浸在迪士尼娛樂中，為所有年齡段的賓客帶來世界聞名的魔力。驚嘆於炫目的現場表演，在舞台上見證迪士尼故事的生動演繹。與您最喜愛的迪士尼角色見面，並以全新的、令人興奮的方式與他們互動。在我們時尚的劇院之一，坐下來觀賞經典或最新上映的迪士尼電影。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Fairytale-Hall_Disney-Crusie-Line.png)Disney Adventure Fairytale Hall (圖片來源：Disney Cruise Line)
+
+**兒童俱樂部：**
+
+迪士尼海洋俱樂部 (Disney’s Oceaneer Club)、Edge、Vibe
+
+|     |     |
+| --- | --- |
+| **迪士尼海洋俱樂部（3 至 10 歲）** | 兒童可以與他們喜愛的迪士尼角色互動，參與充滿樂趣的活動，讓他們的想像力盡情馳騁。 |
+| **Edge（11 至 14 歲）** | 青少年的專屬休閒場所，提供各種各樣的樂趣，包括最新的音樂、電子遊戲和無盡的精彩活動。 |
+| **Vibe（14 至 17 歲）** | 青少年可以在專為他們設計的俱樂部裡閒逛。在這裡，他們可以觀看電影、聽音樂，並以時尚的方式玩互動遊戲。 |
+
+**兒童設施：**
+
+**最新資訊：復仇者聯盟！集結！（Avengers Assemble!）**
+
+準備好迎接令人瞠目結舌的特技、令人難以置信的特效和史詩般的海上戰鬥吧！漫威宇宙最強大的超級英雄將在精彩的現場表演《復仇者聯盟！集結！》中與他們最具威脅性的反派對決。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Marvel-WEB-Workshop_Disney-Cruise-Line-1024x576.png)Disney Adventure Marvel WEB Workshop (圖片來源：Disney Cruise Line)
+
+**啟航派對（Sail Away Party）**
+
+在充滿活力的甲板派對上，與我們的船長——米奇老鼠和米妮老鼠——以及他們的朋友們一起，以歡快的節奏開啟您的海上假期。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Mickey-Minnie-Captain_s-Deck_Disney-Crusie-Line-1.png)Disney Adventure Mickey & Minnie Captain’s Deck (圖片來源：Disney Cruise Line)
+
+**其他兒童設施：** Marvel WEB 工作坊 (Marvel WEB Workshop)、安迪的玩具箱 (Andy’s Toybox)、童話大廳 (Fairytale Hall)、華特迪士尼幻想工程實驗室 (Walt Disney Imagineering Lab)、米奇和米妮船長甲板 (Mickey & Minnie Captain’s Deck)、復仇者聯盟！集結！（Avengers Assemble!）
+
+**成人設施：**
+
+探索一系列專為成人設計的奢華休閒空間。在以迪士尼經典故事為靈感的主题酒吧和休息室放鬆身心。享受高檔購物體驗，享受輕鬆的水療護理，在充滿迪士尼獨特魔力的氛圍中煥發活力。
+
+帕羅意大利餐廳 (Palo Trattoria)、海盜酒吧 (Buccaneer Bar)、帕羅咖啡廳 (Palo Café)、波托羅索小酒館 (Taverna Portorosso)、蒂安娜的河口酒廊 (Tiana’s Bayou Lounge)、施魔法 (Spellbound)
+
+**其他設施：**
+
+無論是在上層甲板的水滑梯和游泳池中盡情玩耍，還是享受卡拉 OK、賓果遊戲、靜音 DJ 派對、動畫課程和遊戲節目等室內活動，每個家庭成員都能找到樂趣！此外，兒童、青少年和青少年俱樂部都有獨特的主題，年輕的遊客可以在訓練有素的迪士尼輔導員的監督下結識新朋友，踏上新的冒險之旅。
+
+上層甲板的滑水道、游泳池，船內的電影院、卡拉OK、賓果遊戲、迪斯科派對、動畫課程等
+
+**現場舞台表演**
+
+欣賞現場表演，其特色是炫目的服裝、壯觀的舞台設計、特效和備受喜愛的迪士尼歌曲。銘記於心 (Remember)、海洋奇緣：海洋的呼喚 (Moana：Call of the Sea)、迪士尼海洋歷險記 (Disney Seas the Adventure)、杯麵超級運動博覽會 (Baymax Super Exercise Expo)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Moana_Disney-Crusie-Line.png)Disney Adventure Moana (圖片來源：Disney Cruise Line)
+
+**角色互動**
+
+有機會與喜愛的迪士尼卡通角色見面，例如：米奇老鼠和朋友們、彼思動畫人物、漫威超級英雄和反派、迪士尼公主
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Character-Interactions_Disney-Cruise-Line-1.png)Disney Adventure Character Interactions (圖片來源：Disney Cruise Line)
+
+**大銀幕電影**
+
+在時尚的劇院空間欣賞經典和最新上映的迪士尼電影。
+
+### **2.4. 迪士尼探險號服務**
+
+**酒吧和休息室**：在優雅的休息室和熱鬧的迪士尼主題酒吧放鬆身心，享用優質茶和咖啡、無酒精雞尾酒和精釀雞尾酒。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Concierge-Lounge_Disney-Cruise-Line.jpg)Disney Adventure Concierge Lounge (圖片來源：Disney Cruise Line)
+
+**商店和精品店**：在我們的船上商店和精品店購買獨家迪士尼商品、精美珠寶、豪華鐘錶等等，將一些魔力帶回家。
+
+**健身中心**、 **水療中心和美容院**：享受奢華的護理、恢復活力的按摩和專業的頭髮和美容服務。配備一流的重量訓練器械和心血管設備的齊全健身設施，讓您保持健康。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Concierge-Outdoor-Sundeck_Disney-Cruise-Line.jpg)Disney Adventure Concierge Outdoor Sundeck (圖片來源：Disney Cruise Line)
+
+**奢華的禮賓服務**：我們的禮賓客房提供高檔住宿和高檔設施，讓您盡情享受奢華的精髓。作為禮賓貴賓，您將享受到更高級別的個性化服務和便利，我們的專屬團隊將在您的整個航程中為您提供協助。
+
+**專屬通道**：您可專享船上專屬區域，包括禮賓休息室、豪華商店、水療中心和日光浴甲板，您可以在優雅的環境中放鬆身心，同時享用清爽的飲料或美味小吃。您還可以使用配備最先進技術的私人健身中心。
+
+**個性化服務**：我們的禮賓團隊將滿足您家人的獨特喜好，提供卓越的關懷和對細節的關注，讓您體驗無與倫比的個性化服務。
+
+**便利**：我們的招牌禮賓服務從您登船之前就開始，並持續到您的整個假期，以確保您擁有無憂無慮的假期規劃體驗。我們的專屬禮賓團隊可以協助您處理所有事宜，從預訂、特殊要求到規劃慶祝活動等等
+
+### **2.5. 新加坡「迪士尼探險號」預訂資訊**
+
+迪士尼探險號（Disney Adventure）目前提供3／4／5晚的3款航程選擇，並已於2024年12月10日進行第一輪發售。近期再度加開，可預訂至2026年4月至9月出發的航程，有興趣即上 Klook／KKday 預訂！
+
+**新加坡迪士尼探險號 Disney Adventure 全新船期開賣！2026年4月至9月出發！**
+
+[Klook｜供應數量及選擇最多](https://hyperair.co/3EEfV4h)
+
+[KKday｜預訂即送新加坡碼頭接送](https://hyperair.co/3Qm4qRj)
+
+雖然新郵輪迪士尼探險號（Disney Adventure）的細節未公開，不過可以向大家分析一下其他迪士尼郵輪的特色，讓大家先有一個概念，下文逐一介紹。
+
+## **3\. 美國｜迪士尼命運號 (Disney Destiny)**
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Destiny_Character-Meet_Disney-Crusie-Line.jpg)Disney Destiny Character Meet (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Destiny_Verandah_Disney-Cruise-Line.jpg)Disney Destiny Verandah (圖片來源：Disney Cruise Line)
+
+|     |     |
+| --- | --- |
+| 首航年份 | 2025年 |
+| 載客量 | 4,000人 |
+| 總噸位 | 144,000噸 |
+| 客艙數量 | 1,254間 |
+| 房型 | 內艙房 (Inside)、海景房 (Oceanview)、露台房 (Verandah)、禮賓房 (Concierge)、皇家套房 (Royal Suites)、塔樓套房 (Tower Suites) |
+| 母港 | 美國埃弗格雷茲港 (佛羅里達州) |
+
+### **3.1. 迪士尼命運號餐廳一覽**
+
+1\. 獅子王盛宴 (Pride Lands: Feast of The Lion King)：獅子王主題餐廳
+
+2\. 漫威世界 (Worlds of Marvel)：Marvel主題餐廳
+
+3\. 1923：以華特迪士尼工作室成立年份命名，提供加州美食
+
+4\. 衣夫人時尚甜點 (Edna À La Mode Sweets)：超人特攻隊 衣夫人主題餐廳
+
+5\. 馬瑟琳市集 (Marceline Market)：休閒自助餐餐廳
+
+6\. 美佳娜咖啡廳 (Café Megara)
+
+7\. 美利達咖啡廳 (Café Merida)
+
+8\. 米奇與朋友美食節 (Mickey & Friends Festival of Foods)
+
+9\. 帕洛餐廳 (Palo)：成人專屬，需預約，需另收費
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Destiny_Worlds-of-Marvel_Disney-Cruise-Line.jpg)Disney Destiny Worlds of Marvel (圖片來源：Disney Cruise Line)
+
+### **3.2. 迪士尼命運號設施 / 活動**
+
+**舞台劇：** 迪士尼大力士、冰雪奇緣、迪士尼海洋大冒險
+
+**海上機動遊戲：** 阿古老鼠 (AquaMouse)（惡棍主題）
+
+**聖殿 (The Sanctum)：** 迪士尼郵輪公司的首個休息室
+
+**兒童俱樂部：** 童話大廳 (Fairytale Hall) + 漫威超級英雄學院 (Marvel Super Hero Academy) + 星球大戰：貨艙 (Star Wars: Cargo Bay)
+
+**成人空間：** 狄維爾 (De Vil’s) + 鬧鬼寄宿廳 (Haunted Pension Parlor) + 酒桶與加農炮 (Cask and Cannon)
+
+**成人專屬設施：** 靜謐灣泳池 (Quiet Cove Pool)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Destiny_Fairytale-Hall_Disney-Cruise-Line.jpg)Disney Destiny Fairytale Hall (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Destiny_Edna-A-La-Mode-Sweets_Disney-Cruise-Line-1.jpg)Disney Destiny Edna A La Mode Sweets (圖片來源：Disney Cruise Line)
+
+**其他設施：**
+
+- 薩迦 (Saga)
+- 英雄區 (Hero Zone)
+- 反斗奇兵戲水區 \+ 滑梯龍歷險 (Toy Story Splash Zone + Slide-a-saurus Rex family slide)
+- 仙境影院 & 夢幻島影院 (Wonderland Cinema & Never Land Cinema)
+- 感官水療中心 (Senses Spa)
+- 酒吧 & 酒廊 (Bars & Lounge)
+- 華特迪士尼幻想工程實驗室 (Walt Disney Imagineering Lab)
+- 米奇與米妮船長甲板 (Mickey & Minnie Captain’s Deck)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Destiny_AquaMouse_Disney-Cruise-Line-1024x576.png)Disney Destiny AquaMouse (圖片來源：Disney Cruise Line)
+
+## **4\. 美國｜迪士尼寶藏號 (Disney Treasure)**
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Treasure_Verandah_Disney-Cruise-Line.jpg)Disney Treasure Verandah (圖片來源：Disney Cruise Line)
+
+|     |     |
+| --- | --- |
+| 首航年份 | 2024年 |
+| 載客量 | 4,000人 |
+| 總噸位 | 144,000噸 |
+| 客艙數量 | 1,254間 |
+| 房型 | 內艙房 (Inside)、海景房 (Oceanview)、露台房 (Verandah)、禮賓房 (Concierge)、皇家套房 (Royal Suites) |
+| 母港 | 美國卡納維拉爾港 (美國卡納維拉爾港) |
+
+### **4.1. 迪士尼寶藏號餐廳一覽**
+
+1\. COCO主題餐廳 (COCO主題餐廳)：供應墨西哥風味美食
+
+2\. Marvel主題餐廳 (Marvel主題餐廳)
+
+3\. 1923：以華特迪士尼工作室成立年份命名，提供加州風味美食
+
+4\. 自助餐餐廳 (Marceline Market)
+
+5\. 動物方城市主題 (Jumbeaux’s Sweet)
+
+6\. 翡翠蟋蟀咖啡廳 (Jade Cricket Café)
+
+7\. 嘿嘿咖啡廳 (Heihei Café)
+
+8\. 米奇與朋友美食節 (Mickey & Friends Festival of Foods)
+
+9\. 帕羅餐廳 (Palo)：成人專屬，需預約，另收費
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Treasure_Worlds-of-Marvel_Disney-Cruise-Line.jpg)Disney Treasure Worlds of Marvel (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Treasure_Plaza-de-Coco_Disney-Cruise-Line.png)Disney Treasure Plaza de Coco (圖片來源：Disney Cruise Line)
+
+### **4.2. 迪士尼寶藏號設施 / 活動**
+
+**舞台劇：** 莫阿娜的故事、美女與野獸、迪士尼海洋大冒險
+
+**海上機動遊戲：** 金蛋的詛咒（AquaMouse）
+
+**兒童俱樂部：** Marvel超級英雄學院 (Marvel Super Hero Academy) + 童話大廳 (Fairytale Hall) + 星球大戰：貨艙 (Star Wars: Cargo Bay)
+
+**成人專區：** Haunted Mansion Parlor (鬼屋客廳) + Skipper Society (船長俱樂部) + Periscope Pub (潛望鏡酒吧)
+
+**成人專屬設施：** Quiet Cove Pool (靜謐灣泳池)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Treasure_Disney-The-Tale-of-Moana_Disney-Cruise-Line-2.png)Disney Treasure Disney The Tale of Moana (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Treasure_Fairytale-Hall_Disney-Cruise-Line.png)Disney Treasure Fairytale Hall (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Treasure_Live-Shows_Disney-Cruise-Line-1.jpg)Disney Treasure Live Shows (圖片來源：Disney Cruise Line)
+
+**其他設施：**
+
+- 莎拉碧 (Sarabi)
+- 英雄地帶 (Hero Zone)
+- 家庭泳池和玩具總動員戲水區 (Family Pools & Toy Story Splash Zone)
+- 仙境影院和夢幻島影院 (Wonderland Cinema & Never Land Cinema)
+- 感官水療中心 (Senses Spa)
+- 酒吧和休息室 (Bars & Lounge)
+- 華特迪士尼幻想工程實驗室 (Walt Disney Imagineering Lab)
+- 米奇和米妮船長甲板 (Mickey & Minnie Captain’s Deck)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Treasure_AquaMouse_Disney-Cruise-Line.png)Disney Treasure AquaMouse (圖片來源：Disney Cruise Line)
+
+## **5\. 美國｜迪士尼願望號 (Disney Wish)**
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_outlook_Disney-Cruise-Line.jpg)Disney Wish outlook (圖片來源：Disney Cruise Line)
+
+|     |     |
+| --- | --- |
+| 首航年份 | 2022年 |
+| 載客量 | 4,000人 |
+| 總噸位 | 144,000噸 |
+| 客艙數量 | 1,254間 |
+| 房型 | 內艙房 (Inside)、海景房 (Oceanview)、露台房 (Verandah)、禮賓服務房 (Concierge)、皇家套房 (Royal Suites) |
+| 母港 | 美國卡納維拉爾港 (美國卡納維拉爾港) |
+
+### **5.1. 迪士尼願望號餐廳一覽**
+
+1\. 冰雪奇緣主題餐廳 (Arendelle)：提供挪威風味美食
+
+2\. Marvel主題餐廳 (Worlds of Marvel)
+
+3\. 1923：以華特迪士尼工作室成立年份命名
+
+4\. 自助餐形式餐廳 (Marceline Market)：自助餐形式餐廳
+
+5\. 米奇與朋友們美食 (Mickey & Friends Festival of Foods)：自助餐形式餐廳
+
+6\. 反斗奇兵 (Inside Out)：歡樂甜品
+
+7\. 願望星咖啡廳 (The Wishing Star Café)
+
+8\. 魔法寶劍咖啡廳 (The Enchanted Sword Café)
+
+9\. 帕羅餐廳 (Palo)：成人專屬餐廳，需預約及額外收費
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_Arendelle_Disney-Cruise-Line.png)Disney Wish Arendelle (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_1923_Disney-Cruise-Line.jpg)Disney Wish 1923 (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_Worlds-of-Marvel_Disney-Cruise-Line.jpg)Disney Wish Worlds of Marvel (圖片來源：Disney Cruise Line)
+
+### **5.2. 迪士尼願望號設施 / 活動**
+
+**舞台劇：** 海洋奇緣 (Moana)、小美人魚 (The Little Mermaid)、阿拉丁 (Aladdin)
+
+**AquaMousse：** 首個迪士尼海上機動遊戲
+
+**兒童俱樂部：** Marvel超級英雄學院 (Marvel Super Hero Academy)、星球大戰：貨艙 (Star Wars: Cargo Bay)、華特迪士尼幻想工程實驗室 (Walt Disney Imagineering Lab)
+
+**成人專區：** 星球大戰－超空間貴賓廳 (Star Wars: Hyperspace Lounge)
+
+**童話大廳 (Fairytale Hall)：** 手作體驗
+
+**魔法變身坊 (Bibbidi Bobbidi Boutique)：** 換裝服務
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_Live-Shows_Disney-Cruise-Line.jpg)Disney Wish Live Shows (圖片來源：Disney Cruise Line)
+
+**其他設施：**
+
+- 反斗奇兵水上樂園及滑水道 (Toy Story Splash Zone & Slide-a-saurus Rex)
+- Luna
+- 英雄地帶 (Hero Zone)
+- 夢幻島影院及仙境影院 (Never Land Cinema & Wonderland Cinema)
+- 迪士尼未知探險 (Disney Uncharted Adventure)
+- 節日慶典 (萬聖節及聖誕節限定) (Holidays at Sea)
+- Senses 水療中心 (Senses Spa)
+- 公主美髮沙龍 (Untangled Salon)
+- 酒吧和酒廊 (Bars & Lounges)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_AquaMouse_Disney-Cruise-Line-1.png)Disney Wish AquaMouse (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_Verandah_Disney-Cruise-Line-1.png)Disney Wish Verandah (圖片來源：Disney Cruise Line)
+
+## **6\. 美國｜迪士尼幻想號 (Disney Fantasy)**
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Fantasy_outlook_Disney-Cruise-Line.jpg)Disney Fantasy outlook (圖片來源：Disney Cruise Line)
+
+|     |     |
+| --- | --- |
+| 首航年份 | 2012年 |
+| 載客量 | 4,000人 |
+| 總噸位 | 129,690噸 |
+| 客艙數量 | 1,250間 |
+| 房型 | 艙房 (Inside)、海景房 (Oceanview)、露台房 (Verandah)、禮賓級客房 (Concierge) |
+| 母港 | 美國卡納維拉爾港 (美國卡納維拉爾港) |
+
+### **6.1. 迪士尼幻想號餐廳一覽**
+
+1\. 皇家宮廷餐廳 (Royal Court)：公主主題餐廳，提供法式歐陸美食
+
+2\. 魔法花園餐廳 (Enchanted Garden)：仿法式凡爾賽花園，提供歐陸美食
+
+3\. 動畫師調色盤餐廳 (Animator’s Palate)
+
+4\. 卡巴納餐廳 (Cabanas)：休閒自助餐餐廳
+
+5\. 芙蘿咖啡廳 (Flo’s Café)
+
+6\. 甜蜜誘惑 (Sweet on You)
+
+7\. 愛尖叫凍品店 & 彼得的鍋爐小食 (Eye Scream Treats & Pete’s Boiler Bites)
+
+8\. 帕羅餐廳 (Palo)：成人專屬，需預約，需另收費
+
+9\. 雷米餐廳 (Remy)：成人專屬餐廳，高級法國餐廳，需另收費
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Fantasy_Enchanted-Garden_Disney-Cruise-Line.png)Disney Fantasy Enchanted Garden (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Fantasy_Animators-Palate_Disney-Cruise-Line.jpg)Disney Fantasy Animator’s Palate (圖片來源：Disney Cruise Line)
+
+### **6.2. 迪士尼幻想號設施 / 活動**
+
+**舞台劇：** 冰雪奇緣、迪士尼的信念、阿拉丁
+
+**水鴨號 (Aqua Duck)：** 三層樓高的「水上過山車」，結合水上滑梯和過山車的高速滑道，由船尾伸延到船頭，環繞成個郵輪的甲板。
+
+**兒童俱樂部：** 漫威超級英雄學院 (Marvel Super Hero Academy) + 星球大戰：指揮站 (Star Wars: Command Post)
+
+**成人專區：** 歐羅巴 (Europa) (或譯作「歐羅巴區」)
+
+**神仙教母美容院 (Bibbidi Bobbidi Boutique)：** 換裝服務
+
+**皇家宮廷皇室下午茶 (Royal Court Royal Tea)：** 公主下午茶體驗
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Fantasy_Star-Wars_Disney-Cruise-Line.jpg)Disney Fantasy Star Wars (圖片來源：Disney Cruise Line)
+
+**其他設施：**
+
+- 水上樂園及尼莫珊瑚礁 (AquaLab & Nemo’s Reef)
+- 漏斗水池 (Funnel Puddle)
+- 甲板派對及海上煙火 (Deck Parties & Fireworks at Sea)
+- 漫步甲板及廣闊運動世界 (Promenade Deck & Wide World of Sports)
+- 酒吧及酒廊 (Bars & Lounges)
+- 感官水療及美容院 (Senses Spa & Salon)
+- 健身中心 (Fitness Center)
+- 海上假期 (Halloween & Christmas limited) 萬聖節及聖誕限定活動／節目
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Fantasy_AquaDuck_Disney-Cruise-Line.jpg)Disney Fantasy AquaDuck (圖片來源：Disney Cruise Line)
+
+## **7\. 英國｜迪士尼夢想號 (Disney Dream)**
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Dream_outlook_Disney-Cruise-Line.jpg)Disney Dream outlook (圖片來源：Disney Cruise Line)
+
+|     |     |
+| --- | --- |
+| 首航年份 | 2011年 |
+| 載客量 | 4,000人 |
+| 總噸位 | 8,129,690噸 |
+| 客艙數量 | 1,250間 |
+| 房型 | 內艙房 (內艙房)、海景房 (海景房)、露台房 (露台房)、禮賓房 (禮賓房) |
+| 母港 | 英國南安普敦港 (英國修咸頓港) |
+
+### **7.1. 迪士尼夢想號餐廳一覽**
+
+1\. 皇家宮殿餐廳 (Royal Palace)
+
+2\. 動畫師餐廳 (Animator’s Palate) ：迪士尼動畫主題餐廳
+
+3\. 自助餐廳 (Cabanas)
+
+4\. 芙蘿咖啡廳 (Flo’s Café)
+
+5\. 雲妮露糖果店 (Vanellope’s Sweets & Treats)
+
+6\. 雪糕店 (Eye Scream Treats & Frozone Treats)
+
+7\. 帕洛餐廳 (Palo) ：成人專屬，需預約，另收費用)
+
+8\. 雷米餐廳 (Remy) ：成人專屬高檔法國餐廳，另收費用
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Dream_Animators-Palate_Disney-Cruise-Line.jpg)Disney Dream Animators Palate (圖片來源：Disney Cruise Line)
+
+### **7.2. 迪士尼夢想號設施 / 活動**
+
+**舞台劇：** 美女與野獸、金色米奇、迪士尼信仰 （全球最大海上劇院，可容納逾1300名觀眾，演出）
+
+**水上鴨子滑水道 (AquaDuck)：** 3層樓高的「水上過山車」，結合水上滑梯和過山車的高速滑水道，由船尾延伸至船頭，環繞整個郵輪甲板。
+
+**兒童俱樂部：** 安迪的房間 (Andy’s Room) + 星球大戰－千歲鷹號 (Star Wars: Millennium Falcon)
+
+**成人專區：** 都會區 (The District)
+
+**魔法化妝廳 (Bibbidi Bobbidi Boutique)：** 換裝服務
+
+**皇家公主茶會 (Royal Court Royal Tea)：** 公主茶會體驗
+
+**成人專屬設施：** 衛星瀑布泳池 (Satellite Falls)、寧靜灣泳池 (Quiet Cove Pool)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Dream_Broadway-Show_Disney-Cruise-Line.jpg)Disney Dream Broadway Show (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Dream_Andys-Room_Disney-Cruise-Line.jpg)Disney Dream Andys Room (圖片來源：Disney Cruise Line)
+
+**其他設施：**
+
+- 米奇泳池 (Mickey’s Pool)
+- 唐老鴨泳池和漏斗水池 (Donald’s Pool & Funnel Puddle)
+- 漫步甲板 (Promenade Deck)
+- 高飛運動甲板 (Goofy’s Sports Deck)
+- 甲板派對和海上煙火表演 (Deck Parties & Fireworks at Sea)
+- 布埃納維斯塔劇院 (Buena Vista Theatre)
+- 酒吧和酒廊 (Bars & Lounges)
+- 感官水療中心和美容院 (Senses Spa & Salon)
+- 健身中心 (Fitness Center)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Dream_AquaDuck_Disney-Cruise-Line.jpg)Disney Dream AquaDuck (圖片來源：Disney Cruise Line)
+
+## **8\. 美國｜迪士尼奇觀號 (Disney Wonder)**
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wonder_Goofys-Pool_Disney-Cruise-Line.jpg)Disney Wonder Goofys Pool (圖片來源：Disney Cruise Line)
+
+|     |     |
+| --- | --- |
+| 首航年份 | 1999年 |
+| 載客量 | 2,713人 |
+| 總噸位 | 84,130噸 |
+| 客艙數量 | 875間 |
+| 房型 | 內艙房 (Inside)、海景房 (Oceanview)、露台房 (Verandah)、禮賓房 (Concierge) |
+| 母港 | 美國聖地牙哥港 (美國聖迭戈港) |
+
+### **8.1. 迪士尼奇觀號餐廳一覽**
+
+1\. 蒂安娜餐廳 (Tiana’s Place)：公主與青蛙主題餐廳，提供路易斯安那風味美食
+
+2\. 動畫師餐廳 (Animator’s Palate)
+
+3\. 崔頓王餐廳 (Tritons)：以美人魚愛麗兒父親崔頓國王的海上宮殿為靈感，供應法式風味的歐陸美食
+
+4\. 自助餐廳 (Cabanas)：休閒自助餐餐廳
+
+5\. 黛絲小吃 (Daisy’s De-Lites)：提供輕食
+
+6\. 皮諾丘薄餅店 (Pinocchio’s Pizzeria)：雪糕小食 & 彼得的鍋爐小吃
+
+7\. 帕洛餐廳 (Palo)：成人專用，需預約，另收費用
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wonder_Tianas-Place_Disney-Cruise-Line.jpg)Disney Wonder Tianas Place (圖片來源：Disney Cruise Line)
+
+### **8.2. 迪士尼奇觀號設施 / 活動**
+
+**舞台劇：** 冰雪奇緣、迪士尼夢想、金色米奇
+
+**魔法化妝廳 (Bibbidi Bobbidi Boutique)：** 換裝服務
+
+**兒童俱樂部：** Marvel 超級英雄學院 (Marvel Super Hero Academy) + 安迪的房間 (Andy’s Room)
+
+**成人專區：** 法國區酒廊 (French Quarter Lounge)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wonder_Marvel_Disney-Cruise-Line.png)Disney Wonder Marvel (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wonder_Broadway-Show-1_Disney-Cruise-Line.png)Disney Wonder Broadway Show (圖片來源：Disney Cruise Line)
+
+**其他設施：**
+
+- 健身中心 (Fitness Center)
+- 高飛泳池 (Goofy’s Pool)
+- 甲板派對和海上煙火 (Deck Parties & Fireworks at Sea)
+- 水上樂園和多莉的珊瑚礁 (AquaLab & Dory’s Reef)
+- 漫步甲板和廣闊的運動世界 (Promenade Deck & Wide World of Sports)
+- 酒吧和酒廊 (Bars & Lounges)
+- 感官水療中心和沙龍 (Senses Spa & Salon)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wonder_Frozen-Deck-Party_Disney-Cruise-Line.jpg)Disney Wonder Frozen Deck Party (圖片來源：Disney Cruise Line)
+
+## **9\. 美國｜迪士尼魔法號 (Disney Magic)**
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Magic_Outlook_Disney-Cruise-Line.jpg)Disney Magic Outlook (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-WonderMagic_Oceanview-with-Verandah_Klook-1024x576.png)Disney Wonder&Magic Oceanview with Verandah (圖片來源：Klook)
+
+迪士尼郵輪公司 (Disney Cruises Line) 首艘郵輪
+
+|     |     |
+| --- | --- |
+| 首航年份 | 1998年 |
+| 載客量 | 2,713人 |
+| 總噸位 | 83,969噸 |
+| 客艙數量 | 875間 |
+| 房型 | 內艙房 (Inside)、海景房 (Oceanview)、露台房 (Verandah)、禮賓房 (Concierge) |
+| 母港 | 美國新奧爾良港 (美國紐奧良港) |
+
+### **9.1. 迪士尼魔法號餐廳一覽**
+
+1\. 長髮公主皇室餐廳 (Rapunzel’s Royal Table)：長髮公主主題餐廳，提供德國美食
+
+2\. 盧米亞餐廳 (Lumiere’s)：以美女與野獸為主題，供應法國美食
+
+3\. 動畫師調色盤餐廳 (Animator’s Palate)
+
+4\. 卡巴納餐廳 (Cabanas)：休閒自助餐）
+
+5\. 小鴨餐廳 (Duck-In Diner)：中東及美式精選
+
+6\. 皮諾丘薄餅店 (Pinocchio’s Pizzeria)
+
+7\. 冰雪奇緣雪糕店 (Eye Scream Treats & Frozone Treats)
+
+8\. 帕洛餐廳 (Palo)：成人專屬，需預約，另收費用
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Magic_Lumieres_Disney-Cruise-Line.jpg)Disney Magic Lumieres (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Magic_Rapunzel_Disney-Cruise-Line.jpg)Disney Magic Rapunzel (圖片來源：Disney Cruise Line)
+
+### **9.2. 迪士尼魔法號設施 / 活動**
+
+**舞台劇：**《灰姑娘》、《魔髮奇緣》、《迪士尼夢想》
+
+**飛天遁地滑水道 (Aquadunk)：** 三層樓高的水上滑道
+
+**魔法化妝間 (Bibbidi Bobbidi Boutique)：** 換裝服務
+
+**皇家公主茶會 (Royal Court Royal Tea)：** 公主茶會體驗
+
+**兒童俱樂部：** Marvel 超級英雄學院 (Marvel Super Hero Academy) + 安迪的房間 (Andy’s Room)
+
+**成人專區：** 靈魂貓酒廊 (Soul Cat Lounge)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Magic_Broadway-Show-1_Disney-Cruise-Line.png)Disney Magic Broadway Show (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Magic_Andys-Room_Disney-Cruise-Line.png)Disney Magic Andy’s Room (圖片來源：Disney Cruise Line)
+
+**其他設施：**
+
+- 高飛游泳池 (Goofy’s Pool)
+- 水上樂園 (AquaLab)
+- 甲板派對及海上煙火表演 (Deck Parties & Fireworks at Sea)
+- 運動天地及漫步甲板 (Wide World of Sports & Promenade Deck)
+- 布埃納維斯塔劇院 (Buena Vista Theatre)
+- 節日海上巡遊 (Seasonal Days at Sea) 萬聖節/聖誕節限定
+- 酒吧及酒廊 (Bars & Lounges)
+- 感官水療及美容中心 (Senses Spa & Salon)
+- 健身中心 (Fitness Center)
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Magic_AquaDunk_Disney-Cruise-Line.png)Disney Magic AquaDunk (圖片來源：Disney Cruise Line)
+
+## **10\. 迪士尼郵輪必要小貼士**
+
+準備好展開一場夢幻般的迪士尼海上之旅了嗎？這篇部落格文章將解答你關於迪士尼郵輪假期最常見的問題，讓你輕鬆規劃完美旅程！
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Fantasy_outlook_Disney-Cruise-Line-1.jpg)Disney Fantasy outlook (圖片來源：Disney Cruise Line)
+
+### **10.1. 迪士尼郵輪一價全包套票內容**
+
+你的郵輪票價幾乎涵蓋了所有船上體驗，包括：
+
+- 你的客房費用，包含所有稅金和港口費用
+- 一日三餐：早餐、午餐和晚餐
+- 餐飲時的汽水，以及船上各飲料站提供的飲品
+- 船上提供的零食和冰淇淋
+- 與迪士尼人物見面
+- 娛樂項目，包含華特迪士尼劇院的百老匯式現場演出，以及布埃納維斯塔劇院的迪士尼經典電影和最新上映電影
+
+雖然你的航程中有一些額外收費的自選服務和活動，例如岸上觀光、水療和美容服務、船上托兒所的保姆服務、船上攝影服務、電話、電子遊戲、酒精飲品，以及僅限成人的餐廳 Palo（所有船隻皆有）和 Remy（迪士尼夢想號和迪士尼幻想號）。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Mickey-Minnie-Captain_s-Deck_Disney-Crusie-Line.png)Disney Adventure Mickey & Minnie Captain’s Deck(圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Palo-Trattoria_Disney-Crusie-Line.png)Disney Adventure Palo Trattoria (圖片來源：Disney Cruise Line)
+
+迪士尼郵輪假期可以說是一價全包，我喜歡稱之為「海上全包式迪士尼樂園」！雖然並非所有項目都包含在預訂費用中，但已經非常接近了。
+
+基本上，所有餐飲都包含在郵輪費用內。賓客每晚可以輪流前往船上三間餐廳用餐，並透過獨特的輪換用餐系統，你的服務團隊也會跟著你一起輪換。每艘迪士尼郵輪都有一間名為 Cabanas 的休閒自助餐廳，全天供應餐點，還有幾個提供快速服務的餐飲選擇。這些小吃和餐飲攤位位於泳池甲板，讓你隨時享用小吃，然後立刻回到泳池畔繼續玩樂。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Destiny_Worlds-of-Marvel_Disney-Cruise-Line-1.jpg)Disney Destiny Worlds of Marvel (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Fantasy_Animator_s-Palate_Disney-Cruise-Line.jpg)Disney Fantasy Animator’s Palate (圖片來源：Disney Cruise Line)
+
+至於飲料和其他額外項目，許多飲品都包含在內，例如汽水、水、茶和檸檬水。孩子們最愛的可能是 Eye Scream Treats 軟冰淇淋站。喔，還有免費的24小時客房服務！所以我總是跟家人說，如果你在迪士尼郵輪上還餓肚子，那就是你自己的問題了！迪士尼郵輪網站上有一個關於餐飲的常見問題解答區，你可以參考看看。
+
+需要額外付費的項目包括酒精/特色飲品（例如 Cove Cafe 的特色咖啡）、僅限成人的 Palo 和 Remy 餐廳，以及在華特迪士尼劇院和布埃納維斯塔劇院入口處販售的小吃。
+
+### **10.2. 迪士尼郵輪住宿房型**
+
+預訂郵輪時，主要有四種客房類型可供選擇。每個類型中都提供略有不同的房型，具體取決於郵輪。你可以在預訂時查看並比較不同房型的照片。
+
+|     |     |
+| --- | --- |
+| 內艙房 | 這些寬敞的客房非常適合3至4位賓客，配備時尚的航海裝飾、天然木材和進口瓷磚。 |
+| 海景房 | 這些設計精美的客房可容納3至4位賓客，透過房內的舷窗可欣賞壯麗的海景。 |
+| 帶露台嘅海景房 | 這些寬敞的客房可容納3至5位賓客，設有私人陽台，可以欣賞如畫的景色和清爽的海風。請注意，有多種不同的陽台款式可供選擇。 |
+| 禮賓套房 | 為5至7位賓客提供最奢華寬敞的船上住宿。多種套房選項，均設有陽台。除了套房之外，你還可以選擇帶陽台的禮賓家庭海景客房。所有禮賓級別的客房都提供專屬禮賓服務的便利和個人化關注。 |
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_Inside_Disney-Cruise-Line.jpg)Disney Wish Inside (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Destiny_Oceanview_Disney-Cruise-Line-1024x576.jpg)Disney Destiny Oceanview (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Treasure_Concierge_Disney-Cruise-Line.jpg)Disney Treasure Concierge (圖片來源：Disney Cruise Line)
+
+另外，露台房型設有不同類型可選擇，你可以在迪士尼郵輪上選擇三種類型嘅客房露台：
+
+- **標準露台** 設有一個露天陽台，周圍環繞著亞克力牆，即使坐著也能欣賞到完整的海平面景觀。
+- **白牆露台** 提供露天休閒空間，從甲板到欄杆都是實心牆。這些客房大多位於船尾。
+- **航海家露台** 為封閉式設計，提供更大的隱私，同時仍然可以透過欄杆上方的的大型露天舷窗欣賞壯麗的景色和海風。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_Verandah_Disney-Cruise-Line.png)Disney Wish Verandah (圖片來源：Disney Cruise Line)
+
+### **10.3. 迪士尼郵輪餐廳介紹**
+
+**10.3.1. 迪士尼郵輪獨有輪流用餐**
+
+輪換用餐是迪士尼郵輪（Disney Cruise）的獨特之處。其他郵輪公司通常只有一個大型主餐廳，但所有迪士尼郵輪都有三個。你每晚晚餐都會「輪換」到其中一間餐廳用餐。對於3晚的航程，你每晚都會在不同的餐廳用餐。對於更長的航程，你將會輪流回到之前去過的一間或多間餐廳，但菜單和娛樂節目會有所不同。每間餐廳都有自己獨特的主題。在三間餐廳中，通常有一間是高檔餐廳，位於船的中庭或大廳旁邊。其他兩間餐廳都以特定主題精心設計，並提供娛樂或角色體驗。
+
+**迪士尼郵輪輪流用餐餐廳**
+
+|     |     |
+| --- | --- |
+| 迪士尼魔法號 | 動畫師調色板餐廳（Animator’s Palate）、長髮公主皇室餐桌（Rapunzel’s Royal Table）、Lumiere’s |
+| 迪士尼奇妙號 | 動畫師調色板餐廳（Animator’s Palate）、蒂安娜餐廳（Tiana’s Place）、Triton’s |
+| 迪士尼夢想號 | 動畫師調色板餐廳（Animator’s Palate）、魔法花園（Enchanted Garden）、皇宮（Royal Palace） |
+| 迪士尼幻想號 | 動畫師調色板餐廳（Animator’s Palate）、魔法花園（Enchanted Garden）、皇家法庭（Royal Court） |
+| 迪士尼願望號 | 漫威世界（Worlds of Marvel）、艾倫戴爾：冰雪奇緣餐飲冒險（Arendelle: A Frozen Dining Adventure）、1923 |
+| 迪士尼寶藏號（2024年12月啟航） | 漫威世界（Worlds of Marvel）、可可廣場（Plaza de Coco）、1923 |
+
+一旦你登船並連接到船上的 Wi-Fi，你就會在迪士尼郵輪（Disney Cruise）導航應用程式中找到你的輪換用餐時間表和桌號。你可以在這裡查看你每晚預定的晚餐地點。你的桌號在整個航程中，在每間餐廳都會保持不變。當你到達每間餐廳時，餐廳服務員會詢問你的桌號，然後帶你到桌邊。我們建議你及早記住桌號，或者至少知道在迪士尼郵輪應用程式中快速找到它的位置。這樣，當你要入座時，就不會因為後面排隊的飢餓乘客而手忙腳亂。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Treasure_1923_Disney-Cruise-Line.jpg)Disney Treasure 1923 (圖片來源：Disney Cruise Line)
+
+你會注意到輪換用餐有兩個不同的用餐時間。你將會被分配到下午5:45或晚上8:15的用餐時間，與你的時間表和桌號一樣，這個時間在你的整個旅程中都會保持不變。你可以在出發前，在迪士尼郵輪規劃網站 [disneycruise.disney.go.com](https://disneycruise.disney.go.com/) 或迪士尼郵輪導航應用程式中選擇你喜歡的用餐時間（一旦你連結了你的預訂）。有年幼子女的家庭通常會要求提前用餐，而更有彈性的家庭則傾向於選擇後者。船上劇院的舞台表演也分為兩個不同的時間，配合輪換用餐時間。如果你的用餐時間是下午5:45，你將會在看表演之前吃晚餐。如果你的用餐時間是晚上8:15，你將會在吃晚餐之前看表演。
+
+輪換用餐系統最精彩的元素之一就是你的服務團隊。你的服務團隊將由一個充滿活力的團隊組成，包括一位主管服務員、一位主服務員和一位助理服務員。該團隊將會跟著你一起輪換到每間餐廳，並在你到達你的桌邊時迎接你。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_Arendelle_Disney-Cruise-Line-1.png)Disney Wish Arendelle (圖片來源：Disney Cruise Line)
+
+通常，你會與你的主服務員和助理服務員互動最多。主服務員負責你的食物訂單，而助理服務員負責你的飲料。由於他們會跟著你一起輪換，他們會很快地了解你的餐飲需求和喜好。到第二晚，我們的團隊已經知道我們最喜歡的飲料、我們喜歡的牛排生熟程度，以及 Lily 只想要兒童菜單上的起司披薩！除了是出色的服務員之外，他們還非常擅長提供食物建議並與你的家人互動，尤其是小朋友。
+
+**10.3.2. 早／午／晚三餐全包**
+
+所有郵輪上的休閒餐廳 Cabanas 都供應早餐和午餐。此外，所有郵輪都提供泳池邊的快速早餐和午餐。
+
+早餐和午餐在我們船隊的各個船上餐廳供應，包括：
+
+- 迪士尼奇妙號：Triton’s
+- 迪士尼夢想號：皇宮和魔法花園
+- 迪士尼幻想號：皇家法庭和魔法花園
+- 迪士尼魔法號：Lumiere’s
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wonder_Triton_s_Disney-Cruise-Line.jpg)Disney Wonder Triton’s (圖片來源：Disney Cruise Line)
+
+**晚餐用餐時間**
+
+每晚都有兩個晚餐用餐時間。具體時間取決於行程。一般來說，對於從美國國內出發的航程，主要用餐時間是下午5:45開始，第二個用餐時間是晚上8:00開始。對於從歐洲出發的航程，主要用餐時間是下午6:00開始，第二個用餐時間是晚上8:30開始。
+
+**10.3.3. 餐廳服裝要求**
+
+一般來說，大多數船上餐廳都是「郵輪休閒」風格，因此允許穿著休閒服裝，例如短褲和T恤，但泳衣和背心除外。大多數郵輪都有特別主題之夜，提供盛裝打扮並拍攝獨特家庭照片的機會。
+
+**以郵輪行程劃分特別著裝活動詳情**
+
+|     |     |
+| --- | --- |
+| 3晚郵輪 | 1\. 一晚郵輪休閒之夜——不可穿著泳衣或背心<br>2\. 一晚海盜之夜主題甲板派對<br>3\. 一晚可選的「盛裝之夜」——男士穿著外套，女士穿著連衣裙或套裝 |
+| 4晚郵輪 | 1\. 第一晚是郵輪休閒之夜——不可穿著泳衣或背心<br>2\. 一晚海盜之夜主題甲板派對<br>3\. 一晚可選的盛裝之夜——男士穿著外套，女士穿著連衣裙或套裝<br>4\. 最後一晚是郵輪休閒之夜——不可穿著泳衣或背心 |
+| 7晚郵輪 | 1\. 第一晚是郵輪休閒之夜——不可穿著泳衣或背心<br>2\. 一晚海盜之夜或其他主題甲板派對<br>另外三晚郵輪休閒之夜——不可穿著泳衣或背心<br>3\. 一晚正式場合之夜和一個晚半正式場合之夜——兩者都給你機會盛裝打扮，並利用船上的攝影服務。雖然是可選的，但我們建議男士穿著西褲配外套或西裝，女士穿著連衣裙或套裝 |
+
+**18歲及以上賓客的成人專屬餐廳著裝規定**
+
+迪士尼郵輪（Disney Cruise）上的成人專屬餐廳提供優雅的用餐體驗。請賓客著裝符合餐廳的氛圍。建議穿著正式或半正式服裝。也允許穿著帶有亮麗外觀的休閒正裝，例如西褲、狀態良好的牛仔褲、有領襯衫、禮服上衣和休閒鞋。對於 Palo 和 Palo 牛排餐廳的早午餐，可以穿著禮服短褲。不允許穿著T恤、泳衣和運動服等服裝。迪士尼郵輪船隊的成人專屬餐廳包括：
+
+- Palo：位於迪士尼魔法號、迪士尼奇妙號、迪士尼夢想號和迪士尼幻想號上的優雅北義大利風格餐廳。
+- Remy：位於迪士尼夢想號和迪士尼幻想號上，以精緻法國菜向光明之城致敬的餐廳。
+- Palo牛排餐廳：位於迪士尼願望號上，提供著名義大利菜餚搭配世界級牛排餐廳美食。
+- Enchanté：位於迪士尼願望號上，提供法國風味美食的浪漫餐廳。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Fantasy_Enchanted-Garden_Disney-Cruise-Line-1.png)Disney Fantasy Enchanted Garden (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Dream_Enchanted-Garden_Disney-Cruise-Line.jpg)Disney Dream Enchanted Garden (圖片來源：Disney Cruise Line)
+
+### **10.4. 迪士尼郵輪水上遊樂區**
+
+每艘迪士尼郵輪（Disney Cruise）都至少有3個不同的賓客泳池和一個兒童水上遊樂區。無論你在哪艘船上，都有一個適合年幼兒童的泳池、一個適合較大兒童和家庭的泳池，以及至少一個僅供成人使用的泳池。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wonder_Goofys-Pool_Disney-Cruise-Line-1.jpg)Disney Wonder Goofys Pool (圖片來源：Disney Cruise Line)
+
+為了你的舒適，泳池會加熱，以保持水溫至少在75華氏度。泳池區域提供兒童救生衣。
+
+**每艘迪士尼郵輪設置的泳池一覽表**
+
+- 迪士尼夢想號 – 唐老鴨泳池（Donald’s Pool）、米奇泳池（Mickey’s Pool）、尼莫礁（Nemo’s Reef）、寧靜灣泳池（Quiet Cove Pool）
+- 迪士尼幻想號 – 水上樂園（AquaLab）、唐老鴨泳池（Donald’s Pool）、漏斗水坑（Funnel Puddle）、米奇泳池（Mickey’s Pool）、尼莫礁（Nemo’s Reef）、寧靜灣泳池（Quiet Cover Pool）、衛星瀑布（Satellite Falls）
+- 迪士尼魔法號 – 水上樂園（AquaLab）、高飛狗泳池（Goofy’s Pool）、侄子戲水區（Nephew’s Splash Zone）、寧靜灣泳池（Quiet Cove Pool）
+- 迪士尼奇妙號 – 高飛狗泳池（Goofy’s Pool）、米奇泳池（Mickey’s Pool）、寧靜灣泳池（Quiet Cove Pool）
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Wish_AquaMouse_Disney-Cruise-Line.png)Disney Wish AquaMouse (圖片來源：Disney Cruise Line)
+
+**各個水上設施簡介**
+
+- 水上樂園（AquaLab）：這個以水為主題的遊樂場設有一個泳池，是進行活躍娛樂的好地方。
+- 唐老鴨泳池（Donald’s Pool）：較大的兒童和家庭可以在這裡戲水、游泳或只是曬太陽放鬆身心。
+- 漏斗水坑泳池（Funnel Puddle Pool）：僅限迪士尼幻想號，這個泳池提供一個涼爽的地方，讓你一邊欣賞風景一邊放鬆身心。
+- 高飛狗泳池（Goofy’s Pool）：這個完美的家庭泳池提供躺椅讓你放鬆身心，還有一個巨型電視螢幕。
+- 寧靜灣泳池（Quiet Cove Pool）：成人和18歲以上賓客可以在這裡曬太陽和消暑。
+- 米奇泳池（Mickey’s Pool）：這個較淺的泳池為年幼的航海家提供一個玩耍和嬉戲的完美場所。
+- 侄子戲水區（Nephew’s Splash Zone）：3歲以下的小朋友可以在這裡玩耍和嬉戲。
+- 尼莫礁（Nemo’s Reef）：對於3歲以下的兒童來說，這裡是最酷的玩水地方。
+- 衛星瀑布（Satellite Falls）：僅限迪士尼幻想號和迪士尼夢想號，18歲及以上成人可以在溫柔的雨簾下放鬆身心。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Toy-Story-Place_Disney-Cruise-Line.png)Disney Adventure Toy Story Place (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Dream_AquaDuck_Disney-Cruise-Line-1.jpg)Disney Dream AquaDuck (圖片來源：Disney Cruise Line)
+
+### **10.5. 迪士尼郵輪親子服務**
+
+參加迪士尼海洋俱樂部和迪士尼海洋實驗室是免費的。但是，你的船上帳戶將會收取海洋手環的押金，這個手環提供給10歲及以下的兒童，讓他們可以進出迪士尼海洋俱樂部和迪士尼海洋實驗室。所有航程都將收取25.00美元的押金。
+
+**迪士尼郵輪上的兒童俱樂部**
+
+|     |     |
+| --- | --- |
+| 6個月至3歲 | 「小小世界」托兒所！ |
+| 3至10歲 | 華特迪士尼幻想工程實驗室（願望號/寶藏號/命運號）<br>迪士尼海洋俱樂部（探險號） |
+| 3至12歲 | 皇家法庭皇家下午茶（夢想號/魔法號/幻想號） |
+| 11至14歲 | Edge |
+| 14至17歲 | Vibe |
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Fantasy_Royal-Court_Disney-Cruise-Line.jpg)Disney Fantasy Royal Court (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Walt-Disney-Imagineering-Lab_Disney-Crusie-Line-1024x576.png)Disney Adventure Walt Disney Imagineering Lab (圖片來源：Disney Cruise Line)
+
+### **10.6. 迪士尼郵輪船上額外收費**
+
+你的假期套票價格已包含華特迪士尼劇院的所有迪士尼現場舞台製作和娛樂節目、布埃納維斯塔劇院的最新上映電影放映，以及你整個郵輪旅程中的迪士尼角色見面會。只有皇家法庭皇家下午茶角色餐飲體驗需要額外收費。
+
+### **10.7. 迪士尼郵輪迪士尼角色見面會**
+
+從你登船的那一刻起，就有很多機會與你最喜歡的迪士尼角色見面，並擺姿勢拍照或在你的簿子上添加新的簽名。你會在船上、舞台表演和我們青年俱樂部的兒童活動中看到角色。為了在這些特別的角色見面會期間提供更輕鬆的體驗，需要免費門票。你甚至可以在登船之前線上預訂你的門票，以參與精選的角色體驗。一旦你的郵輪已全額付款，請在你的提前預訂窗口內進行預訂，具體取決於你的漂流俱樂部會員級別，如下所示：
+
+- 首次搭乘的賓客（First-Time Guests）：啟航日期前75日
+- 銀卡漂流俱樂部會員（Silver Castaway Club Member）：啟航日期前90日
+- 金卡漂流俱樂部會員（Gold Castaway Club Member）：啟航日期前105日
+- 禮賓賓客及白金卡漂流俱樂部會員（Concierge Guests and Platinum Castaway Club Member）：啟航日期前120日
+
+在你郵輪的第一天，也可能有少量門票可供使用。請在登船後向賓客服務查詢是否有門票。
+
+以下角色體驗需要預約門票，並可以在你的郵輪全額付款後線上預訂（視供應情況而定）。
+
+**皇家聚會**
+
+皇家法庭皇家下午茶和小熊維尼的皇家野餐（僅限特定郵輪）免費門票可以在啟航前30日開始預訂。
+
+![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Andy_s-Toybox_Disney-Cruise-Line-1024x576.png)Disney Adventure Andy’s Toybox (圖片來源：Disney Cruise Line)![](https://feed.hyperair.com/wp-content/uploads/2024/10/Disney-Adventure_Character-Interactions_Disney-Cruise-Line.png)Disney Adventure Character Interactions (圖片來源：Disney Cruise Line)
+
+## **11\. 新加坡「迪士尼探險號」預訂資訊**
+
+迪士尼探險號（Disney Adventure）目前提供3／4／5晚的3款航程選擇，並已於2024年12月10日進行第一輪發售。近期再度加開，可預訂至2026年4月至9月出發的航程，有興趣即上 Klook／KKday 預訂！
+
+**新加坡迪士尼探險號 Disney Adventure 全新船期開賣！2026年4月至9月出發！**
+
+[Klook｜供應數量及選擇最多](https://hyperair.co/3EEfV4h)
+
+[KKday｜預訂即送新加坡碼頭接送](https://hyperair.co/3Qm4qRj)
+
+#攻略
+
+#新加坡
+
+#美國
+
+#英國
+
+為你推薦
+
+[![HyperAir](<Base64-Image-Removed>)![HyperAir](https://image.hyperair.com/dSu7ki3DxYblSQdRFq3SQ1BORoEEXsNpaQ8XS1nIKfo/rs:fit:720:720:1/g:no/aHR0cHM6Ly9mZWVkLmh5cGVyYWlyLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8xMS9waG90by0yOS0yLnBuZw.webp)\\
+\\
+2025香港自助餐排名終極指南🏆｜嚴選TOP 3奢華+21間人氣自助餐\\
+\\
+\\
+香港作為美食天堂，自助餐文化更是琳瑯滿目，從頂級奢華🌟到高性價比之選，應有盡有！無論你是追求精緻餐飲體驗的饕客，還是想尋找適合家庭聚餐👨‍👩‍👧‍👦的實惠選擇，這篇香港自助餐排名都能滿足你的需求。我們精心整理出多個自助餐排行榜，包括「Top 3 奢華自助餐」、「高質與性價比之選」，更按地區劃分港島、九龍及新界熱門自助餐廳，同時涵蓋素食自助餐🥗和小童自助餐優惠推介，助你輕鬆找到心水之選！ 推薦哪間自助餐取決於你的個人喜好和預算，以下係我嘅私心推介buffet排名，涵蓋唔同價位同風格，總有一間啱你！👇 Top 3 奢華自助餐之選 香港自助餐排名奢華Top 1：四季酒店 – Gallery 維港海景配上精緻美食，視覺與味覺的雙重饗宴！🌃🍽️ 香港自助餐排名奢華Top 2：麗晶酒店 – 港畔餐廳 (Harbourside) 海景一流，海鮮選擇豐富，尤其係生蠔🦪同龍蝦🦞！💰💰 香港自助餐排名奢華Top 3：文華東方酒店 – 快船廊 (Clipper Lounge) 歷史悠久，必食招牌文華餅房芝士蛋糕。 Top 3 高質自助餐之選 高質香港自助餐排名 Top 1：香港君悅酒店 – 君悅咖啡廳 (Grand Café) 君悅酒店自助餐選擇琳瑯滿目，從中式點心到西式料理應有盡有。🥢🍕 高質香港自助餐排名 Top 2：香港康得思酒店 – The Place 以新鮮海鮮聞名，環境舒適寬敞！✨🎉 高質香港自助餐排名 Top 3：香港JW萬豪酒店 – JW咖啡室 (JW Café) 全天候供應國際自助餐，以其豐富的海鮮選擇而聞名。🦀🦞 Top 3 性價比自助餐之選 高性價比香港自助餐排名 \[…\]\\
+\\
+香港\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-29](https://www.hyperair.com/zh-HK/news/%E6%9C%80%E6%96%B0%E9%A6%99%E6%B8%AF%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%92%E5%90%8D-%E9%A6%99%E6%B8%AFbuffet%E6%8E%92%E8%A1%8C%E6%A6%9C-19449)
+
+[![HyperAir](<Base64-Image-Removed>)![HyperAir](https://image.hyperair.com/lYXBIchfUgiMuPhO25S1eMjxAK--GoIpdVQlQf4BflQ/rs:fit:720:720:1/g:no/aHR0cHM6Ly9mZWVkLmh5cGVyYWlyLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8xMS_mt7HlnLPopqrlrZDlpb3ljrvomZVf5bel5L2c5Y2A5Z-fLTEucG5n.webp)\\
+\\
+15大深圳親子好去處｜必訪深圳親子遊景點全攻略\\
+\\
+\\
+深圳作為一個充滿活力的城市，而且交通方便，擁有多元化又適合親子的好去處，有不少動物園、植物園、大型遊樂園及室內景點等，可以讓小朋友盡情玩樂，更有不少親子好去處能做到寓教於樂，找個週末與小朋友來一趟快閃的親子遊之旅。 深圳親子自由行推介 深圳親子好去處｜1. 深圳teamLab 共創！未來園 近年於深圳新落成，位於福田區濱海大道的中洲灣C Future City內，就開設了常設館「teamLab共創！未來園」，邀請到日本teamLab打造，成為年青人及小朋友的玩樂聖地，成為深圳不可錯過的景點之一。 這是一個以「共同的創造性，共創」為概念的教育項目，也是一個能夠享受與他人一同自由地創造遊樂世界的「未來園」。小朋友將能夠體驗到前所未有的藝術與科技交融的魅力，創造屬於自己的獨特回憶，在日常生活中展現更多創造力。無論小朋友是藝術愛好者還是對於創新科技充滿好奇心，這個館都將帶給他們一個難以忘懷的探索之旅。 景點： 深圳teamLab 共創！未來園 地址： 深圳市福田區濱河大道9283號中洲灣一期購物中心L3層L309，L310號 (Map) 營業時間： 10:00 – 22:00 (一至四及日)；10:00 – 22:30 (五至六) 交通： 搭乘地鐵1號線到車公廟站轉乘9號線到下沙站 深圳親子好去處｜2. 深圳野生動物園 位於深圳南山區的深圳野生動物園，它是中國首家放養式的野生動物園，佔地面積64萬平方米，亦是中國第一座集動物、森林、植物、科普等多種特色和觀賞功能為一體，並具有亞熱帶新型園林生態環境系統的風景區。動物園有別於一般設計，設有開闊地帶讓動物自由活動，類近原始生態環境，多個動物館區展示各種珍稀動物。動物園內設有3大園區，包括動物館、科普館及遊樂園。園內有近萬隻野生動物，超過300品種，如華南虎、東北虎、企鵝、長頸鹿、斑馬、亞洲象和犀牛等，大家可以近距離觀賞熊貓、金絲猴、獅虎獸、虎獅獸火、烈鳥等珍稀動物。科普館則將動物園、植物園、科普園融為一體，是集娛樂及教學於一身的展館。遊樂園則有多項機動遊戲，適合不同年齡的遊客遊玩。 園內也有現代化海洋主題公園，有「百獸盛會表演」、「馬戲團表演」以及多項活動及展覽，非常適合全家一起前往，讓大小朋友同時欣賞及認識各種動物。 景點： 深圳野生動物園 地址： 深圳市南山區西麗鎮西麗路4065號深圳野生動物園 (Map) 營業時間： 09:30-18:00 交通： 地鐵7號線西麗湖站下車，步行約6分鐘 深圳親子好去處｜3. 米兜露營樂園 米兜露營樂園是深圳首間以露營為主題的室內親子樂園，場內的巨大帳篷極為吸晴，還有綠意油油的草地及生意盎然的植物裝飾，猶如進了大自然般。樂園內提供多項不同的玩樂體驗，讓小朋友可以從玩樂中學習。小朋友可以近距離親親小動物，包括兔子、倉鼠及金魚，更可以教導愛護動物的小知識。同場還有模擬擠牛奶的有趣體驗，無需到訪偏遠的農場，對於生活在城市的小朋友而言絕對是個新嘗試。樂園內亦有其他玩樂設施，包括充滿尋寶樂趣的雪地沙池、男孩必愛的挖掘機沙池及盡情彈跳的長頸鹿蹦極等等。米兜露營樂園裡盡是無窮樂趣，不用擔心受天氣影響，又無須害怕突然跑出來的蛇蟲鼠蟻，而且又不用攜帶額外裝備，也可以享受另類的露營體驗。 景點： 米兜露營樂園 地址： 米兜露營樂園(南山京基百納廣場店)廣東省深圳市南山區沙河街道白石路2168-29 (Map)米兜露營樂園(寶能太古城店)廣東省深圳市南山區蛇口街道深圳灣社區中心路2233號寶能太古城F2 (Map) 電話：  13714671061 營業時間： 10:00-22:00 (一至五), 10:00-22:30 (六至日) 交通： 地鐵2號蛇口線海月站A出口，步行約11分鐘 由1號線白石洲地鐵站前往，步行約18分鐘即可抵達  深圳親子好去處｜4. 紅樹林公園自然力樂園 佔地1,100平方米的福田紅樹​​林生態公園是一個集科普教育、生態修復、休閒遊憩休閒的濕地公園。公園設計運用綠色環保技術與自然材料，如廢舊材料循環再利用，貫穿園區各部分，如用固體排放再利用作為公園的園路，碎石、碎磚作為屏風、後續裝飾等。貫徹環保概念，給小朋友提供一個在城市中體驗自然、感受自然的空間。 園內擁有多個自然教育區域，包括攀爬區、藝術區等十多個自然教育項目，特別適合零至三歲的幼兒。另有壓水井、沙堆、植物小徑、平衡木樁迷宮、繪畫黑板、打擊樂器、低矮積木桌、掛樹葉繩、捕蝴蝶抓昆蟲區、木塊區等設施，讓小朋友在大自然中盡情奔跑和玩樂。 景點： \[…\]\\
+\\
+中國\\
+\\
+深圳\\
+\\
+親子好去處\\
+\\
+親子遊\\
+\\
+香港\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-28](https://www.hyperair.com/zh-HK/news/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BF%85%E8%A8%AA%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%81%8A%E6%99%AF%E9%BB%9E%E5%85%A8%E6%94%BB%E7%95%A5-11153)
+
+[![HyperAir](<Base64-Image-Removed>)![HyperAir](https://image.hyperair.com/O1Vua3_S_2BnW8VMqHHHR7bqU5LObLDIpDkWdQKlA8A/rs:fit:720:720:1/g:no/aHR0cHM6Ly9mZWVkLmh5cGVyYWlyLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8wNC9pbWFnZS00ODcucG5n.webp)\\
+\\
+必睇【日本環球影城 快速通關 USJ Fast Pass 全攻略】4大快證全分析！附購票及選擇指南大公開！\\
+\\
+\\
+2025年日本環球影城快速通關券再次更新！這次變化頗大，新增了快速通關券5及快速通關券8，加上之前的快速通關券4及快速通關券7，一共4張USJ Fast Pass可選，選擇更多，彈性更大！小編即時為大家更新資訊！去大阪旅行一定會去日本環球影城！除咗門票之外，必買日本環球影城 快速通關 Express Pass，普遍亦稱為 USJ Fast Pass，助您跳過排隊人龍，快速解鎖各園區必玩遊樂設施，快速通關更可以讓您免費入場指定園區！但選擇眾多，到底怎樣抵玩？又應如何選擇？編者將兩大類別快速通關券的日本環球影城攻略整理好，一文清楚睇晒！ 更多日本環球影城攻略：日本環球影城門票簡介及優惠詳情 更多日本環球影城親子攻略：兒童設施總整理、表演節目、餐廳指南 1. 為何需要購買環球影城快速通關券？ 為什麼買了日本環球影城門票後，還要加購環球影城快證（環球影城快速通關）呢？最主要原因是環球影城快證能夠節省大量的排隊時間，可以玩多幾個機動遊戲！另一方面，就是取得入場券，哈利波特魔法世界及任天堂世界如果沒有入場券，基本上是不能進入的。 1.1 購買USJ Fast Pass原因：節省等侯時間 在考慮要不要購入大阪環球影城 Fast Pass 時，不如先看看各設施的排隊時間，這樣您就會更知道購買的必要性！選擇排隊時間愈長的設施，代表節省的時間愈多，在週末一些熱門設施可能要用上一兩小時以上。大家也可以根據排隊時間決定是否需要購買 USJ Express Pass，例如平日排隊的時間較少，想玩的遊樂設施不多的話，就不用購買了。 設施 平日排隊時間 週末排隊時間 設施玩樂時間 瑪利歐賽車 庫巴挑戰書 40-45分鐘 超過90分鐘 約5分鐘 耀西冒險 40-45分鐘 50-60分鐘 約5分鐘 哈利波特禁忌之旅 40-45分鐘 超過90分鐘 約5分鐘 好萊塢夢想乘車遊 40-50分鐘 50-60分鐘 約3分鐘 飛天翼龍 40-50分鐘 50-60分鐘 約3分鐘 鷹馬的飛行 30-40分鐘 80-90分鐘 約2分鐘 小小兵瘋狂乘車遊 \[…\]\\
+\\
+大阪\\
+\\
+日本\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-28](https://www.hyperair.com/zh-HK/news/%E6%97%A5%E6%9C%AC%E7%92%B0%E7%90%83%E5%BD%B1%E5%9F%8E-%E5%BF%AB%E9%80%9F%E9%80%9A%E9%97%9C-express-pass-%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E6%8C%87%E5%8D%97-2620)
+
+[![HyperAir](<Base64-Image-Removed>)![HyperAir](https://image.hyperair.com/YPKrMloKiPSO4EME-KQkUeL7FU9tgpYaYUw0FD3HDWs/rs:fit:720:720:1/g:no/aHR0cHM6Ly9mZWVkLmh5cGVyYWlyLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNS8wNC9TWl9uZXdNYWxsX-W3peS9nOWNgOWfny0xLnBuZw.webp)\\
+\\
+探索18間深圳新商場2025：美食、親子、購物一站式體驗！\\
+\\
+\\
+近年深圳不斷發展，多個深圳商場、廣場及戶外購物區相繼開幕或即將亮相，為居民和遊客提供集美食、親子娛樂與購物於一身的多元化體驗。以下介紹18個深圳新商場，包含iN城市廣場、深圳大悅城、深圳自由里Neighbors、深圳書城灣區城、坪山萬象城、南山十畝地、大運天地等，帶您一覽這些新地標的獨特魅力！ 深圳自由行推介 深圳新商場 開幕時間 區域 地鐵站 特色 住宿推介 深圳大悅城15萬平方米 2025年6月（預計） 寶安區 5號線靈芝站 年輕、時尚、潮流、品味的大型綜合商場 1️⃣深圳前海華僑城JW萬豪酒店2️⃣深圳同泰萬怡酒店3️⃣深圳寶安京基華邑酒店 深圳書城灣區城13.1萬平方米 2025年9月（預計） 南山區 5號線或11號線前海灣站 以文化、閱讀與休閒為核心，適合文青及家庭 1️⃣深圳灣安達仕酒店2️⃣深圳前海華僑城JW萬豪酒店3️⃣深圳灣萬麗酒店 深圳灣文化廣場5.08萬平方米 2025年9月（預計） 南山區 具體站點待確認 連接自然與城市的文化地標，適合藝術與科技愛好者 1️⃣深圳灣安達仕酒店2️⃣深圳前海華僑城JW萬豪酒店3️⃣深圳灣萬麗酒店 坪山萬象城12萬平方米 2025年8月（預計） 坪山區 14號線坪山廣場站或坪山中心站 集購物、餐飲、休閒於一體，服務高端家庭及年輕白領 1️⃣坪山格蘭雲天國際酒店2️⃣深圳樂安居國際酒店 京東MALL3萬平方米 2025年6月（預計） 南山區 具體站點待確認 一站式家電家居購物中心，適合科技愛好者及家庭 1️⃣深圳龍華希爾頓逸林酒店2️⃣深圳深鐵鉑爾曼酒店3️⃣深圳大浪希爾頓惠庭酒店 羅湖益田假日廣場12.1萬平方米 2025年6月 羅湖區 3號線翠竹站 多元藝術體驗式購物中心 1️⃣深圳君悅酒店2️⃣深圳香格里拉大酒店3️⃣深圳彭年萬麗酒店 iN城市廣場11萬平方米 2025年4月29日（重開） 福田區 1號線科學館站 運動、社交與美食的潮流購物中心，適合年輕人和親子家庭 1️⃣深圳大中華希爾頓酒店2️⃣深圳四季酒3️⃣深圳星河麗思卡爾頓酒店 K11 ECOAST22.8萬平方米 2025年4月28日 南山區 12號線太子灣站 \[…\]\\
+\\
+中國\\
+\\
+深圳\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-27](https://www.hyperair.com/zh-HK/news/%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%95%86%E5%A0%B4-%E7%BE%8E%E9%A3%9F-%E8%A6%AA%E5%AD%90-%E8%B3%BC%E7%89%A9-20865)
+
+[![HyperAir](<Base64-Image-Removed>)![HyperAir](https://image.hyperair.com/wwyRJo1hwwYK49b7V-HvxaBpczxyoDw902nrPPHS4Yg/rs:fit:720:720:1/g:no/aHR0cHM6Ly9mZWVkLmh5cGVyYWlyLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMy8xMC9zel9NVFJf5bel5L2c5Y2A5Z-fLTEucG5n.webp)\\
+\\
+深圳地鐵攻略｜直達10大熱門景點、路線圖、實用APP、連接香港口岸一文睇清！\\
+\\
+\\
+一到週末北上的人愈來愈多，從香港口岸過關連接各個深圳地鐵，即日來回直達大大小小的景點，非常方便！目前已發展10多條路線，HyperAir小編就為大家介紹深圳地鐵直達的景點連出口交通指南，另有搭地鐵必備實用APP、主要路線、優惠，方便大家輕鬆北上鬆一鬆！\\
+\\
+中國\\
+\\
+深圳\\
+\\
+香港\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-car-rental.svg)\\
+交通\\
+\\
+\\
+2025-09-27](https://www.hyperair.com/zh-HK/news/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B5%E6%94%BB%E7%95%A5-%E7%86%B1%E9%96%80%E6%99%AF%E9%BB%9E-%E8%B7%AF%E7%B7%9A%E5%9C%96-10067)
+
+[![HyperAir](<Base64-Image-Removed>)\\
+\\
+15大首爾親子好去處｜超人氣的親子遊景點推薦\\
+\\
+\\
+在亞洲旅行，不少人都會把韓國作為自由行目的地，而首爾更是其中一個熱門好去處！首爾不僅是購物、美食天堂，而且有很多好玩也非常適合親子遊的景點推薦，除了大家熟知的愛寶樂園和樂天世界外，還有遊樂園、水族館、動物園、公園等，所以不少人會選擇到韓國首爾親子遊。 首爾親子自由行推介 首爾親子好去處｜1. 韓國樂高樂園 韓國樂高樂園位於韓國首爾市龍山區，於2022年開幕，是全球第十個樂高樂園，也是亞洲最大的樂高樂園，結合了遊樂設施、樂高創意和互動體驗。 樂園佔地有8萬多坪，大概是34個足球場的尺寸，其中遊樂園的部分則使用了超過3000萬個樂高積木打造的七大主題區域，超過40個以LEGO為主題的遊樂設施、多舖餐廳、紀念品店，及大大小小的各式樂高積木公仔、小遊戲舖位等。還有韓國限定區域 – Miniland，以積木打造出韓國的標誌性景點，如景福宮、濟州島、海雲台和江原道等。這個特色區域讓大家能夠在Legoland中欣賞到獨具當地風情的樂高創作。韓國樂高主題樂園提供了一場充滿冒險和樂趣的體驗給一家大細，有許多拍照打卡的景點，不論是大人還是小朋友，這裡絕對能帶給你無盡的歡樂和驚喜。 地址： 江原道春川市河中島街128 / 128 Hajungdo-gil, Chuncheon-si, Gangwon-do (Google Map) 電話：  +82 33 815 2300 營業時間： 10:00-20:00 (一至四)； 10:00-21:00 (五至日) 交通： 韓國樂高樂園位於江原道春川市﹐由首爾市中心出發交通方法非常便捷，經「上鳳站」轉乘火車京春線（경춘선）至春川站（춘천역）再轉乘接駁車﹐即可到達樂園﹐而且車站亦也使用交通卡。 韓國樂高樂園相關活動 首爾親子好去處｜2. 愛寶樂園 位於京畿道龍仁市的愛寶樂園為韓國最大的主題樂園，也是世界第七大主題樂園，結合兒童遊樂設施、以及世界唯一的綜合自然野生動物園及四季花園，又稱為韓國版迪士尼樂園。由全球集市、美洲探險、動物王國、歐洲探險、魔術天地5大主題組成。除了多達40種以上的遊樂設施，其中有著全球最高坡度，也是韓國首創的木製雲霄飛車「T EXPRESS」，是許多喜好刺激的年輕人爭相搭乘的設施。還有依季節不同所舉辦的各種遊行活動，像是：萬聖節、聖誕節的舞臺表演、多媒體煙火秀等大型娛樂活動。 綜合自然野生動物園「Zootopia」也是愛寶樂園最引以為傲，千萬不可錯過的主題園區。這裡是亞洲首個獲得AZA(美國動物園水族館協會)認證的動物園，能進行野生動物觀察之旅，讓大家可以搭著水陸兩用車，認識許多動物的實際生活面貌，還能與長頸鹿、老虎、熊等動物近距離接觸。此外，愛寶樂園自創園40多年來，長期引導著韓國花卉慶典與庭園文化的發展，每年都會有鬱金香/玫瑰等美麗的主題庭園與滿足遊客五感的展覽與體驗，大人小朋友當然不能錯過！ 景點： 愛寶樂園 地址： 京畿道龍仁市處仁區蒲谷邑愛寶樂園路199 / 경기도 용인시 처인구 포곡읍에버랜드로 199 / 199 Everland-ro, Pogog-eup, Cheoin-gu, Yongin-si, Gyeonggi-do, Korea (Google Map) 電話：  +82-31-320-5000 營業時間： 10:00~22:00  交通： 地鐵 : 先搭乘地鐵盆唐線前往「器興站」，再轉乘龍仁輕軌電車(愛寶線)至終點站下車，最後換乘免費區間車到韓國愛寶樂園公車 : 建議住在首爾江南區的旅客較適合，共有5002路、5700路、1500-2路、1113路這四條路線可搭乘官方接駁車 : 在日本地區共14個，皆為直達車，從各站點出發大概40-70分鐘可以抵達，費用部分大人約12,000韓元/兒童9,000~12,000韓元，需於出發前一天撥打010-4718-7440預約，若不懂韓文，也可撥旅遊諮詢熱線1330代為預約 愛寶樂園相關活動 首爾親子好去處｜3. 樂天世界 樂天世界由韓國樂天集團打造，以冒險與神秘為主題的大型娛樂設施，可說是世界最大的室內遊樂場。樂園景點設施主要分布在室內主題公園「探險世界(Adventure)」以及戶外遊樂園湖水公園「魔幻島(Magic Island)」兩個區域，「探險世界」共有四層，而二樓和「魔幻島」相連，大家可以隨意到訪兩個樂園，並以魔法城為中心，營造出迷人的中世紀歐洲樣貌。樂天世界室內主題公園探險世界共有30餘種設施，其是僅次於阿拉伯聯合大公國的阿布達比華納兄弟主題公園及杜拜IMG室內冒險樂園的世界上第三大室內遊樂園，設施較偏溫和，適合親子遊前往。而室外的魔幻島有近20種充滿刺激的遊樂設施，像是雲霄飛車、海盜船等等，歡刺激的大人小朋友就切勿錯過。 \[…\]\\
+\\
+南韓\\
+\\
+親子好去處\\
+\\
+韓國\\
+\\
+首爾\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-26](https://www.hyperair.com/zh-HK/news/%E9%A6%96%E7%88%BE%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E8%B6%85%E4%BA%BA%E6%B0%A3%E7%9A%84%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-14399)
+
+### 最新旅遊情報
+
+[![HyperAir](<Base64-Image-Removed>)\\
+\\
+2025香港自助餐排名終極指南🏆｜嚴選TOP 3奢華+21間人氣自助餐\\
+\\
+\\
+香港作為美食天堂，自助餐文化更是琳瑯滿目，從頂級奢華🌟到高性價比之選，應有盡有！無論你是追求精緻餐飲體驗的饕客，還是想尋找適合家庭聚餐👨‍👩‍👧‍👦的實惠選擇，這篇香港自助餐排名都能滿足你的需求。我們精心整理出多個自助餐排行榜，包括「Top 3 奢華自助餐」、「高質與性價比之選」，更按地區劃分港島、九龍及新界熱門自助餐廳，同時涵蓋素食自助餐🥗和小童自助餐優惠推介，助你輕鬆找到心水之選！ 推薦哪間自助餐取決於你的個人喜好和預算，以下係我嘅私心推介buffet排名，涵蓋唔同價位同風格，總有一間啱你！👇 Top 3 奢華自助餐之選 香港自助餐排名奢華Top 1：四季酒店 – Gallery 維港海景配上精緻美食，視覺與味覺的雙重饗宴！🌃🍽️ 香港自助餐排名奢華Top 2：麗晶酒店 – 港畔餐廳 (Harbourside) 海景一流，海鮮選擇豐富，尤其係生蠔🦪同龍蝦🦞！💰💰 香港自助餐排名奢華Top 3：文華東方酒店 – 快船廊 (Clipper Lounge) 歷史悠久，必食招牌文華餅房芝士蛋糕。 Top 3 高質自助餐之選 高質香港自助餐排名 Top 1：香港君悅酒店 – 君悅咖啡廳 (Grand Café) 君悅酒店自助餐選擇琳瑯滿目，從中式點心到西式料理應有盡有。🥢🍕 高質香港自助餐排名 Top 2：香港康得思酒店 – The Place 以新鮮海鮮聞名，環境舒適寬敞！✨🎉 高質香港自助餐排名 Top 3：香港JW萬豪酒店 – JW咖啡室 (JW Café) 全天候供應國際自助餐，以其豐富的海鮮選擇而聞名。🦀🦞 Top 3 性價比自助餐之選 高性價比香港自助餐排名 \[…\]\\
+\\
+香港\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-29](https://www.hyperair.com/zh-HK/news/%E6%9C%80%E6%96%B0%E9%A6%99%E6%B8%AF%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%92%E5%90%8D-%E9%A6%99%E6%B8%AFbuffet%E6%8E%92%E8%A1%8C%E6%A6%9C-19449)
+
+[![HyperAir](<Base64-Image-Removed>)\\
+\\
+15大深圳親子好去處｜必訪深圳親子遊景點全攻略\\
+\\
+\\
+深圳作為一個充滿活力的城市，而且交通方便，擁有多元化又適合親子的好去處，有不少動物園、植物園、大型遊樂園及室內景點等，可以讓小朋友盡情玩樂，更有不少親子好去處能做到寓教於樂，找個週末與小朋友來一趟快閃的親子遊之旅。 深圳親子自由行推介 深圳親子好去處｜1. 深圳teamLab 共創！未來園 近年於深圳新落成，位於福田區濱海大道的中洲灣C Future City內，就開設了常設館「teamLab共創！未來園」，邀請到日本teamLab打造，成為年青人及小朋友的玩樂聖地，成為深圳不可錯過的景點之一。 這是一個以「共同的創造性，共創」為概念的教育項目，也是一個能夠享受與他人一同自由地創造遊樂世界的「未來園」。小朋友將能夠體驗到前所未有的藝術與科技交融的魅力，創造屬於自己的獨特回憶，在日常生活中展現更多創造力。無論小朋友是藝術愛好者還是對於創新科技充滿好奇心，這個館都將帶給他們一個難以忘懷的探索之旅。 景點： 深圳teamLab 共創！未來園 地址： 深圳市福田區濱河大道9283號中洲灣一期購物中心L3層L309，L310號 (Map) 營業時間： 10:00 – 22:00 (一至四及日)；10:00 – 22:30 (五至六) 交通： 搭乘地鐵1號線到車公廟站轉乘9號線到下沙站 深圳親子好去處｜2. 深圳野生動物園 位於深圳南山區的深圳野生動物園，它是中國首家放養式的野生動物園，佔地面積64萬平方米，亦是中國第一座集動物、森林、植物、科普等多種特色和觀賞功能為一體，並具有亞熱帶新型園林生態環境系統的風景區。動物園有別於一般設計，設有開闊地帶讓動物自由活動，類近原始生態環境，多個動物館區展示各種珍稀動物。動物園內設有3大園區，包括動物館、科普館及遊樂園。園內有近萬隻野生動物，超過300品種，如華南虎、東北虎、企鵝、長頸鹿、斑馬、亞洲象和犀牛等，大家可以近距離觀賞熊貓、金絲猴、獅虎獸、虎獅獸火、烈鳥等珍稀動物。科普館則將動物園、植物園、科普園融為一體，是集娛樂及教學於一身的展館。遊樂園則有多項機動遊戲，適合不同年齡的遊客遊玩。 園內也有現代化海洋主題公園，有「百獸盛會表演」、「馬戲團表演」以及多項活動及展覽，非常適合全家一起前往，讓大小朋友同時欣賞及認識各種動物。 景點： 深圳野生動物園 地址： 深圳市南山區西麗鎮西麗路4065號深圳野生動物園 (Map) 營業時間： 09:30-18:00 交通： 地鐵7號線西麗湖站下車，步行約6分鐘 深圳親子好去處｜3. 米兜露營樂園 米兜露營樂園是深圳首間以露營為主題的室內親子樂園，場內的巨大帳篷極為吸晴，還有綠意油油的草地及生意盎然的植物裝飾，猶如進了大自然般。樂園內提供多項不同的玩樂體驗，讓小朋友可以從玩樂中學習。小朋友可以近距離親親小動物，包括兔子、倉鼠及金魚，更可以教導愛護動物的小知識。同場還有模擬擠牛奶的有趣體驗，無需到訪偏遠的農場，對於生活在城市的小朋友而言絕對是個新嘗試。樂園內亦有其他玩樂設施，包括充滿尋寶樂趣的雪地沙池、男孩必愛的挖掘機沙池及盡情彈跳的長頸鹿蹦極等等。米兜露營樂園裡盡是無窮樂趣，不用擔心受天氣影響，又無須害怕突然跑出來的蛇蟲鼠蟻，而且又不用攜帶額外裝備，也可以享受另類的露營體驗。 景點： 米兜露營樂園 地址： 米兜露營樂園(南山京基百納廣場店)廣東省深圳市南山區沙河街道白石路2168-29 (Map)米兜露營樂園(寶能太古城店)廣東省深圳市南山區蛇口街道深圳灣社區中心路2233號寶能太古城F2 (Map) 電話：  13714671061 營業時間： 10:00-22:00 (一至五), 10:00-22:30 (六至日) 交通： 地鐵2號蛇口線海月站A出口，步行約11分鐘 由1號線白石洲地鐵站前往，步行約18分鐘即可抵達  深圳親子好去處｜4. 紅樹林公園自然力樂園 佔地1,100平方米的福田紅樹​​林生態公園是一個集科普教育、生態修復、休閒遊憩休閒的濕地公園。公園設計運用綠色環保技術與自然材料，如廢舊材料循環再利用，貫穿園區各部分，如用固體排放再利用作為公園的園路，碎石、碎磚作為屏風、後續裝飾等。貫徹環保概念，給小朋友提供一個在城市中體驗自然、感受自然的空間。 園內擁有多個自然教育區域，包括攀爬區、藝術區等十多個自然教育項目，特別適合零至三歲的幼兒。另有壓水井、沙堆、植物小徑、平衡木樁迷宮、繪畫黑板、打擊樂器、低矮積木桌、掛樹葉繩、捕蝴蝶抓昆蟲區、木塊區等設施，讓小朋友在大自然中盡情奔跑和玩樂。 景點： \[…\]\\
+\\
+中國\\
+\\
+深圳\\
+\\
+親子好去處\\
+\\
+親子遊\\
+\\
+香港\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-28](https://www.hyperair.com/zh-HK/news/%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E5%BF%85%E8%A8%AA%E6%B7%B1%E5%9C%B3%E8%A6%AA%E5%AD%90%E9%81%8A%E6%99%AF%E9%BB%9E%E5%85%A8%E6%94%BB%E7%95%A5-11153)
+
+[![HyperAir](<Base64-Image-Removed>)\\
+\\
+必睇【日本環球影城 快速通關 USJ Fast Pass 全攻略】4大快證全分析！附購票及選擇指南大公開！\\
+\\
+\\
+2025年日本環球影城快速通關券再次更新！這次變化頗大，新增了快速通關券5及快速通關券8，加上之前的快速通關券4及快速通關券7，一共4張USJ Fast Pass可選，選擇更多，彈性更大！小編即時為大家更新資訊！去大阪旅行一定會去日本環球影城！除咗門票之外，必買日本環球影城 快速通關 Express Pass，普遍亦稱為 USJ Fast Pass，助您跳過排隊人龍，快速解鎖各園區必玩遊樂設施，快速通關更可以讓您免費入場指定園區！但選擇眾多，到底怎樣抵玩？又應如何選擇？編者將兩大類別快速通關券的日本環球影城攻略整理好，一文清楚睇晒！ 更多日本環球影城攻略：日本環球影城門票簡介及優惠詳情 更多日本環球影城親子攻略：兒童設施總整理、表演節目、餐廳指南 1. 為何需要購買環球影城快速通關券？ 為什麼買了日本環球影城門票後，還要加購環球影城快證（環球影城快速通關）呢？最主要原因是環球影城快證能夠節省大量的排隊時間，可以玩多幾個機動遊戲！另一方面，就是取得入場券，哈利波特魔法世界及任天堂世界如果沒有入場券，基本上是不能進入的。 1.1 購買USJ Fast Pass原因：節省等侯時間 在考慮要不要購入大阪環球影城 Fast Pass 時，不如先看看各設施的排隊時間，這樣您就會更知道購買的必要性！選擇排隊時間愈長的設施，代表節省的時間愈多，在週末一些熱門設施可能要用上一兩小時以上。大家也可以根據排隊時間決定是否需要購買 USJ Express Pass，例如平日排隊的時間較少，想玩的遊樂設施不多的話，就不用購買了。 設施 平日排隊時間 週末排隊時間 設施玩樂時間 瑪利歐賽車 庫巴挑戰書 40-45分鐘 超過90分鐘 約5分鐘 耀西冒險 40-45分鐘 50-60分鐘 約5分鐘 哈利波特禁忌之旅 40-45分鐘 超過90分鐘 約5分鐘 好萊塢夢想乘車遊 40-50分鐘 50-60分鐘 約3分鐘 飛天翼龍 40-50分鐘 50-60分鐘 約3分鐘 鷹馬的飛行 30-40分鐘 80-90分鐘 約2分鐘 小小兵瘋狂乘車遊 \[…\]\\
+\\
+大阪\\
+\\
+日本\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-28](https://www.hyperair.com/zh-HK/news/%E6%97%A5%E6%9C%AC%E7%92%B0%E7%90%83%E5%BD%B1%E5%9F%8E-%E5%BF%AB%E9%80%9F%E9%80%9A%E9%97%9C-express-pass-%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E6%8C%87%E5%8D%97-2620)
+
+[![HyperAir](<Base64-Image-Removed>)\\
+\\
+探索18間深圳新商場2025：美食、親子、購物一站式體驗！\\
+\\
+\\
+近年深圳不斷發展，多個深圳商場、廣場及戶外購物區相繼開幕或即將亮相，為居民和遊客提供集美食、親子娛樂與購物於一身的多元化體驗。以下介紹18個深圳新商場，包含iN城市廣場、深圳大悅城、深圳自由里Neighbors、深圳書城灣區城、坪山萬象城、南山十畝地、大運天地等，帶您一覽這些新地標的獨特魅力！ 深圳自由行推介 深圳新商場 開幕時間 區域 地鐵站 特色 住宿推介 深圳大悅城15萬平方米 2025年6月（預計） 寶安區 5號線靈芝站 年輕、時尚、潮流、品味的大型綜合商場 1️⃣深圳前海華僑城JW萬豪酒店2️⃣深圳同泰萬怡酒店3️⃣深圳寶安京基華邑酒店 深圳書城灣區城13.1萬平方米 2025年9月（預計） 南山區 5號線或11號線前海灣站 以文化、閱讀與休閒為核心，適合文青及家庭 1️⃣深圳灣安達仕酒店2️⃣深圳前海華僑城JW萬豪酒店3️⃣深圳灣萬麗酒店 深圳灣文化廣場5.08萬平方米 2025年9月（預計） 南山區 具體站點待確認 連接自然與城市的文化地標，適合藝術與科技愛好者 1️⃣深圳灣安達仕酒店2️⃣深圳前海華僑城JW萬豪酒店3️⃣深圳灣萬麗酒店 坪山萬象城12萬平方米 2025年8月（預計） 坪山區 14號線坪山廣場站或坪山中心站 集購物、餐飲、休閒於一體，服務高端家庭及年輕白領 1️⃣坪山格蘭雲天國際酒店2️⃣深圳樂安居國際酒店 京東MALL3萬平方米 2025年6月（預計） 南山區 具體站點待確認 一站式家電家居購物中心，適合科技愛好者及家庭 1️⃣深圳龍華希爾頓逸林酒店2️⃣深圳深鐵鉑爾曼酒店3️⃣深圳大浪希爾頓惠庭酒店 羅湖益田假日廣場12.1萬平方米 2025年6月 羅湖區 3號線翠竹站 多元藝術體驗式購物中心 1️⃣深圳君悅酒店2️⃣深圳香格里拉大酒店3️⃣深圳彭年萬麗酒店 iN城市廣場11萬平方米 2025年4月29日（重開） 福田區 1號線科學館站 運動、社交與美食的潮流購物中心，適合年輕人和親子家庭 1️⃣深圳大中華希爾頓酒店2️⃣深圳四季酒3️⃣深圳星河麗思卡爾頓酒店 K11 ECOAST22.8萬平方米 2025年4月28日 南山區 12號線太子灣站 \[…\]\\
+\\
+中國\\
+\\
+深圳\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-27](https://www.hyperair.com/zh-HK/news/%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%95%86%E5%A0%B4-%E7%BE%8E%E9%A3%9F-%E8%A6%AA%E5%AD%90-%E8%B3%BC%E7%89%A9-20865)
+
+[![HyperAir](<Base64-Image-Removed>)\\
+\\
+深圳地鐵攻略｜直達10大熱門景點、路線圖、實用APP、連接香港口岸一文睇清！\\
+\\
+\\
+一到週末北上的人愈來愈多，從香港口岸過關連接各個深圳地鐵，即日來回直達大大小小的景點，非常方便！目前已發展10多條路線，HyperAir小編就為大家介紹深圳地鐵直達的景點連出口交通指南，另有搭地鐵必備實用APP、主要路線、優惠，方便大家輕鬆北上鬆一鬆！\\
+\\
+中國\\
+\\
+深圳\\
+\\
+香港\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-car-rental.svg)\\
+交通\\
+\\
+\\
+2025-09-27](https://www.hyperair.com/zh-HK/news/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B5%E6%94%BB%E7%95%A5-%E7%86%B1%E9%96%80%E6%99%AF%E9%BB%9E-%E8%B7%AF%E7%B7%9A%E5%9C%96-10067)
+
+[![HyperAir](<Base64-Image-Removed>)\\
+\\
+15大首爾親子好去處｜超人氣的親子遊景點推薦\\
+\\
+\\
+在亞洲旅行，不少人都會把韓國作為自由行目的地，而首爾更是其中一個熱門好去處！首爾不僅是購物、美食天堂，而且有很多好玩也非常適合親子遊的景點推薦，除了大家熟知的愛寶樂園和樂天世界外，還有遊樂園、水族館、動物園、公園等，所以不少人會選擇到韓國首爾親子遊。 首爾親子自由行推介 首爾親子好去處｜1. 韓國樂高樂園 韓國樂高樂園位於韓國首爾市龍山區，於2022年開幕，是全球第十個樂高樂園，也是亞洲最大的樂高樂園，結合了遊樂設施、樂高創意和互動體驗。 樂園佔地有8萬多坪，大概是34個足球場的尺寸，其中遊樂園的部分則使用了超過3000萬個樂高積木打造的七大主題區域，超過40個以LEGO為主題的遊樂設施、多舖餐廳、紀念品店，及大大小小的各式樂高積木公仔、小遊戲舖位等。還有韓國限定區域 – Miniland，以積木打造出韓國的標誌性景點，如景福宮、濟州島、海雲台和江原道等。這個特色區域讓大家能夠在Legoland中欣賞到獨具當地風情的樂高創作。韓國樂高主題樂園提供了一場充滿冒險和樂趣的體驗給一家大細，有許多拍照打卡的景點，不論是大人還是小朋友，這裡絕對能帶給你無盡的歡樂和驚喜。 地址： 江原道春川市河中島街128 / 128 Hajungdo-gil, Chuncheon-si, Gangwon-do (Google Map) 電話：  +82 33 815 2300 營業時間： 10:00-20:00 (一至四)； 10:00-21:00 (五至日) 交通： 韓國樂高樂園位於江原道春川市﹐由首爾市中心出發交通方法非常便捷，經「上鳳站」轉乘火車京春線（경춘선）至春川站（춘천역）再轉乘接駁車﹐即可到達樂園﹐而且車站亦也使用交通卡。 韓國樂高樂園相關活動 首爾親子好去處｜2. 愛寶樂園 位於京畿道龍仁市的愛寶樂園為韓國最大的主題樂園，也是世界第七大主題樂園，結合兒童遊樂設施、以及世界唯一的綜合自然野生動物園及四季花園，又稱為韓國版迪士尼樂園。由全球集市、美洲探險、動物王國、歐洲探險、魔術天地5大主題組成。除了多達40種以上的遊樂設施，其中有著全球最高坡度，也是韓國首創的木製雲霄飛車「T EXPRESS」，是許多喜好刺激的年輕人爭相搭乘的設施。還有依季節不同所舉辦的各種遊行活動，像是：萬聖節、聖誕節的舞臺表演、多媒體煙火秀等大型娛樂活動。 綜合自然野生動物園「Zootopia」也是愛寶樂園最引以為傲，千萬不可錯過的主題園區。這裡是亞洲首個獲得AZA(美國動物園水族館協會)認證的動物園，能進行野生動物觀察之旅，讓大家可以搭著水陸兩用車，認識許多動物的實際生活面貌，還能與長頸鹿、老虎、熊等動物近距離接觸。此外，愛寶樂園自創園40多年來，長期引導著韓國花卉慶典與庭園文化的發展，每年都會有鬱金香/玫瑰等美麗的主題庭園與滿足遊客五感的展覽與體驗，大人小朋友當然不能錯過！ 景點： 愛寶樂園 地址： 京畿道龍仁市處仁區蒲谷邑愛寶樂園路199 / 경기도 용인시 처인구 포곡읍에버랜드로 199 / 199 Everland-ro, Pogog-eup, Cheoin-gu, Yongin-si, Gyeonggi-do, Korea (Google Map) 電話：  +82-31-320-5000 營業時間： 10:00~22:00  交通： 地鐵 : 先搭乘地鐵盆唐線前往「器興站」，再轉乘龍仁輕軌電車(愛寶線)至終點站下車，最後換乘免費區間車到韓國愛寶樂園公車 : 建議住在首爾江南區的旅客較適合，共有5002路、5700路、1500-2路、1113路這四條路線可搭乘官方接駁車 : 在日本地區共14個，皆為直達車，從各站點出發大概40-70分鐘可以抵達，費用部分大人約12,000韓元/兒童9,000~12,000韓元，需於出發前一天撥打010-4718-7440預約，若不懂韓文，也可撥旅遊諮詢熱線1330代為預約 愛寶樂園相關活動 首爾親子好去處｜3. 樂天世界 樂天世界由韓國樂天集團打造，以冒險與神秘為主題的大型娛樂設施，可說是世界最大的室內遊樂場。樂園景點設施主要分布在室內主題公園「探險世界(Adventure)」以及戶外遊樂園湖水公園「魔幻島(Magic Island)」兩個區域，「探險世界」共有四層，而二樓和「魔幻島」相連，大家可以隨意到訪兩個樂園，並以魔法城為中心，營造出迷人的中世紀歐洲樣貌。樂天世界室內主題公園探險世界共有30餘種設施，其是僅次於阿拉伯聯合大公國的阿布達比華納兄弟主題公園及杜拜IMG室內冒險樂園的世界上第三大室內遊樂園，設施較偏溫和，適合親子遊前往。而室外的魔幻島有近20種充滿刺激的遊樂設施，像是雲霄飛車、海盜船等等，歡刺激的大人小朋友就切勿錯過。 \[…\]\\
+\\
+南韓\\
+\\
+親子好去處\\
+\\
+韓國\\
+\\
+首爾\\
+\\
+![](https://www.hyperair.com/nuxt/icon-nav-popular-activities.svg)\\
+攻略\\
+\\
+\\
+2025-09-26](https://www.hyperair.com/zh-HK/news/%E9%A6%96%E7%88%BE%E8%A6%AA%E5%AD%90%E5%A5%BD%E5%8E%BB%E8%99%95-%E8%B6%85%E4%BA%BA%E6%B0%A3%E7%9A%84%E8%A6%AA%E5%AD%90%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6-14399)
+
+[更多最新旅遊情報](https://www.hyperair.com/zh-HK/news/category/%E6%9C%80%E6%96%B0)
+
+HyperAir 在網頁上使用 cookies
+為你提供更佳的瀏覽體驗。若不更改你的設定繼續瀏覽，表示你同意我們的
+[Cookie 政策](https://www.hyperair.com/zh-HK/cookie-policy)。
+
+
+[Agoda酒店\\
+\\
+低至85折](https://hyperair.co/3FQCdR7)
+
+精選分類
+
+
+[機票格價\\
+\|](https://www.hyperair.com/zh-HK/flights) [租車格價\\
+\|](https://www.hyperair.com/zh-HK/car-rental) [旅遊保險格價\\
+\|](https://www.hyperair.com/zh-HK/insurance/hong-kong) [外幣兌換格價\\
+\|](https://www.hyperair.com/zh-HK/travel-money-exchange) [香港短租及月租酒店\\
+\|](https://www.hyperair.com/zh-HK/monthly-rental-hotel-serviced-apartment?src=longstay) [旅遊SIM](https://www.hyperair.com/zh-HK/travel-sim-card)
+
+熱門城市酒店
+
+
+[香港酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/hksar-hong-kong-top-recommended-hotels) [澳門酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/macau-top-recommended-hotels) [台北酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/taiwan-taipei-top-recommended-hotels) [台中酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/taiwan-taichung-top-recommended-hotels) [高雄酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/taiwan-kaohsiung-top-recommended-hotels) [墾丁酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/taiwan-kenting-top-recommended-hotels) [大阪酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/japan-osaka-top-recommended-hotels) [東京酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/japan-tokyo-top-recommended-hotels) [福岡酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/japan-fukuoka-top-recommended-hotels) [札幌酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/japan-sapporo-top-recommended-hotels) [京都酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/japan-kyoto-top-recommended-hotels) [名古屋酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/japan-nagoya-top-recommended-hotels) [曼谷酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/thailand-bangkok-top-recommended-hotels) [布吉酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/thailand-phuket-top-recommended-hotels) [芭堤雅酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/thailand-pattaya-top-recommended-hotels) [清邁酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/thailand-chiang-mai-top-recommended-hotels) [深圳酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/china-shenzhen-top-recommended-hotels) [廣州酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/china-guangzhou-top-recommended-hotels) [珠海酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/china-zhuhai-top-recommended-hotels) [上海酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/china-shanghai-top-recommended-hotels) [北京酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/china-beijing-top-recommended-hotels) [新加坡酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/singapore-singapore-top-recommended-hotels) [首爾酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/korea-seoul-top-recommended-hotels) [倫敦酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/united-kingdom-london-top-recommended-hotels) [紐約酒店\\
+\|](https://www.hyperair.com/zh-HK/hotels/top/united-states-new-york-top-recommended-hotels)
+
+香港人氣住宿
+
+
+[君悅酒店 Grand Hyatt\\
+\|](https://www.hyperair.com/zh-HK/hotel/Grand-Hyatt-Hong-Kong-100010) [文華東方酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Mandarin-Oriental-Hotel-100003) [四季酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Four-Seasons-Hotel-100005) [愉景灣酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Auberge-Discovery-Bay-100024) [半島酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Peninsula-Hong-Kong-100007) [凱悅尚萃酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Hyatt-Centric-Victoria-Harbour-100027) [美利酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Murray-Hotel-100002) [海景嘉福洲際\\
+\|](https://www.hyperair.com/zh-HK/hotel/InterContinental-Grand-Stanford-100021) [馬哥孛羅酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Marco-Polo-Hotel-100019) [奕居\\
+\|](https://www.hyperair.com/zh-HK/hotel/The-Upper-House-100006) [帝逸酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/ALVA-Hotel-100061) [皇家太平洋酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Royal-Pacific-Hotel-100055) [九龍海逸君綽酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Harbour-Grand-Kowloon-100040) [千禧新世界香港酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/New-World-Millennium-Hotel-100029) [九龍酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/The-Kowloon-Hotel-100091) [六國酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Gloucester-Luk-Kwok-Hong-Kong-100035) [帝苑酒店\\
+\|](https://www.hyperair.com/zh-HK/hotel/Royal-Garden-Hotel-100039) [黃金海岸酒店](https://www.hyperair.com/zh-HK/hotel/Gold-Coast-Hotel-100036)
+
+人氣活動
+
+
+[香港迪士尼樂園\\
+\|](https://www.hyperair.com/zh-HK/things-to-do/9323) [海洋公園\\
+\|](https://www.hyperair.com/zh-HK/things-to-do/9319) [昂坪360\\
+\|](https://www.hyperair.com/zh-HK/things-to-do/21) [香港樂高探索中心\\
+\|](https://www.hyperair.com/zh-HK/things-to-do/27860) [挪亞方舟主題公園\\
+\|](https://www.hyperair.com/zh-HK/things-to-do/9324) [大富翁夢想世界\\
+\|](https://www.hyperair.com/zh-HK/things-to-do/7213) [天際100\\
+\|](https://www.hyperair.com/zh-HK/things-to-do/9341) [香港杜莎夫人蠟像館](https://www.hyperair.com/zh-HK/things-to-do/7238)
+
+美食優惠
+
+
+[香港美食優惠\\
+\|](https://www.hyperair.com/zh-HK/foodie) [香港自助餐優惠\\
+\|](https://www.hyperair.com/zh-HK/foodie/buffet) [香港自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [香港自助午餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E8%87%AA%E5%8A%A9%E5%8D%88%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [香港自助晚餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E8%87%AA%E5%8A%A9%E6%99%9A%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [香港下午茶自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E4%B8%8B%E5%8D%88%E8%8C%B6%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [九龍自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E4%B9%9D%E9%BE%8D%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [九龍自助晚餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E4%B9%9D%E9%BE%8D%E8%87%AA%E5%8A%A9%E6%99%9A%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [九龍自助午餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E4%B9%9D%E9%BE%8D%E8%87%AA%E5%8A%A9%E5%8D%88%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [港島自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E5%B3%B6%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [港島自助晚餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E5%B3%B6%E8%87%AA%E5%8A%A9%E6%99%9A%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [港島自助午餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E5%B3%B6%E8%87%AA%E5%8A%A9%E5%8D%88%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [新界自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E6%96%B0%E7%95%8C%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [新界自助晚餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E6%96%B0%E7%95%8C%E8%87%AA%E5%8A%A9%E6%99%9A%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [新界自助午餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E6%96%B0%E7%95%8C%E8%87%AA%E5%8A%A9%E5%8D%88%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [尖沙咀自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E5%B0%96%E6%B2%99%E5%92%80%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [旺角自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E6%97%BA%E8%A7%92%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [沙田自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E6%B2%99%E7%94%B0%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [香港自助餐生日優惠攻略\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E8%87%AA%E5%8A%A9%E9%A4%90%E7%94%9F%E6%97%A5%E5%84%AA%E6%83%A0%E6%94%BB%E7%95%A5/hong-kong) [Klook自助餐優惠\\
+\|](https://www.hyperair.com/zh-HK/klook%E8%87%AA%E5%8A%A9%E9%A4%90%E5%84%AA%E6%83%A0/hong-kong) [KKday自助餐優惠\\
+\|](https://www.hyperair.com/zh-HK/kkday%E8%87%AA%E5%8A%A9%E9%A4%90%E5%84%AA%E6%83%A0/hong-kong) [澳門自助餐優惠\\
+\|](https://www.hyperair.com/zh-HK/%E6%BE%B3%E9%96%80%E8%87%AA%E5%8A%A9%E9%A4%90%E5%84%AA%E6%83%A0/macau) [深圳自助餐優惠\\
+\|](https://www.hyperair.com/zh-HK/%E6%B7%B1%E5%9C%B3%E8%87%AA%E5%8A%A9%E9%A4%90%E5%84%AA%E6%83%A0/shenzhen) [香港特色放題\\
+\|](https://www.hyperair.com/zh-HK/foodie?tag=%E6%94%BE%E9%A1%8C) [澳門自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/buffet/macau) [深圳自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/buffet/shenzhen) [香港半自助餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E5%8D%8A%E8%87%AA%E5%8A%A9%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [香港半自助晚餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E5%8D%8A%E8%87%AA%E5%8A%A9%E6%99%9A%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [香港半自助午餐推介\\
+\|](https://www.hyperair.com/zh-HK/%E9%A6%99%E6%B8%AF%E5%8D%8A%E8%87%AA%E5%8A%A9%E5%8D%88%E9%A4%90%E6%8E%A8%E4%BB%8B/hong-kong) [香港下午茶優惠\\
+\|](https://www.hyperair.com/zh-HK/foodie/afternoon-tea) [香港點心放題\\
+\|](https://www.hyperair.com/zh-HK/foodie/buffet?q=%E9%BB%9E%E5%BF%83) [香港海鮮直送](https://www.hyperair.com/zh-HK/foodie/food-delivery-takeaway)
+
+特色玩樂
+
+
+[Staycation 香港\\
+\|](https://www.hyperair.com/zh-HK/staycation) [Glamping 香港\\
+\|](https://www.hyperair.com/zh-HK/category/glamping/hong-kong) [露營 香港\\
+\|](https://www.hyperair.com/zh-HK/category/glamping/hong-kong) [露營車 香港\\
+\|](https://www.hyperair.com/zh-HK/category/glamping/hong-kong) [Spa 香港\\
+\|](https://www.hyperair.com/zh-HK/spa-massage-beauty) [DIY 工作坊 香港\\
+\|](https://www.hyperair.com/zh-HK/travel-activity/%E9%A6%99%E6%B8%AF?q=DIY%20%E5%B7%A5%E4%BD%9C%E5%9D%8A) [門票 香港\\
+\|](https://www.hyperair.com/zh-HK/travel-activity/%E9%A6%99%E6%B8%AF?q=%E9%96%80%E7%A5%A8) [主題樂園 香港\\
+\|](https://www.hyperair.com/zh-HK/travel-activity/%E9%A6%99%E6%B8%AF?q=%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92) [一日遊 香港\\
+\|](https://www.hyperair.com/zh-HK/travel-activity/%E9%A6%99%E6%B8%AF?q=%E4%B8%80%E6%97%A5%E9%81%8A%20%2F%20%E5%A4%9A%E6%97%A5%E9%81%8A) [戶外及運動 香港\\
+\|](https://www.hyperair.com/zh-HK/travel-activity/%E9%A6%99%E6%B8%AF?q=%E6%88%B6%E5%A4%96%E5%8F%8A%E9%81%8B%E5%8B%95) [水上活動 香港\\
+\|](https://www.hyperair.com/zh-HK/travel-activity/%E9%A6%99%E6%B8%AF?q=%E6%B0%B4%E4%B8%8A%E6%B4%BB%E5%8B%95) [香港親子好去處\\
+\|](https://www.hyperair.com/zh-HK/kids-friendly-activity/hong-kong) [香港拍拖好去處\\
+\|](https://www.hyperair.com/zh-HK/destination/hong-kong) [香港好去處](https://www.hyperair.com/zh-HK/destination/hong-kong)

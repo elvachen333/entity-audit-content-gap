@@ -1,0 +1,2111 @@
+{
+  "file": "cited_postdisney-cruise-prices.txt",
+  "word_count": 3126,
+  "entity_count": 347,
+  "entities": [
+    {
+      "name": "Advertiser disclosure",
+      "type": "OTHER",
+      "salience": 0.05165,
+      "mentions": 1
+    },
+    {
+      "name": "With the exception of mortgage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.03732,
+      "mentions": 1
+    },
+    {
+      "name": "and most expensive",
+      "type": "LOCATION",
+      "salience": 0.029735,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.029536,
+      "mentions": 1
+    },
+    {
+      "name": "and what's not",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029504,
+      "mentions": 1
+    },
+    {
+      "name": "and what's not",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029504,
+      "mentions": 1
+    },
+    {
+      "name": "Disney cruise costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.027597,
+      "mentions": 1
+    },
+    {
+      "name": "Expertise",
+      "type": "OTHER",
+      "salience": 0.02489,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.024622,
+      "mentions": 1
+    },
+    {
+      "name": "Disney cruise",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023091,
+      "mentions": 2
+    },
+    {
+      "name": "What's included in a Disney cruise",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022912,
+      "mentions": 1
+    },
+    {
+      "name": "make money",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021425,
+      "mentions": 1
+    },
+    {
+      "name": "Travel Loyalty Programs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020962,
+      "mentions": 1
+    },
+    {
+      "name": "credit cards",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01926,
+      "mentions": 1
+    },
+    {
+      "name": "Expertise",
+      "type": "OTHER",
+      "salience": 0.018939,
+      "mentions": 1
+    },
+    {
+      "name": "services",
+      "type": "OTHER",
+      "salience": 0.012,
+      "mentions": 1
+    },
+    {
+      "name": "Sally French",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011344,
+      "mentions": 2
+    },
+    {
+      "name": "or worse",
+      "type": "LOCATION",
+      "salience": 0.011313,
+      "mentions": 1
+    },
+    {
+      "name": "and most expensive",
+      "type": "LOCATION",
+      "salience": 0.010674,
+      "mentions": 1
+    },
+    {
+      "name": "With waterslides galore",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01038,
+      "mentions": 1
+    },
+    {
+      "name": "and what's not",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010297,
+      "mentions": 1
+    },
+    {
+      "name": "and more if you're having several drinks a day",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009998,
+      "mentions": 1
+    },
+    {
+      "name": "she",
+      "type": "ORGANIZATION",
+      "salience": 0.009911,
+      "mentions": 1
+    },
+    {
+      "name": "she can deadlift more than triple bodyweight",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009716,
+      "mentions": 1
+    },
+    {
+      "name": "she loves fitness",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009716,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.009507,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.009444,
+      "mentions": 1
+    },
+    {
+      "name": "The short answer: They're way more expensive.",
+      "type": "WORK_OF_ART",
+      "salience": 0.009382,
+      "mentions": 1
+    },
+    {
+      "name": "She",
+      "type": "PERSON",
+      "salience": 0.009193,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.009133,
+      "mentions": 1
+    },
+    {
+      "name": "If you",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008687,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.008514,
+      "mentions": 1
+    },
+    {
+      "name": "The newer ships",
+      "type": "LOCATION",
+      "salience": 0.008451,
+      "mentions": 1
+    },
+    {
+      "name": "Written by",
+      "type": "OTHER",
+      "salience": 0.008335,
+      "mentions": 1
+    },
+    {
+      "name": "compared to Disney's",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008326,
+      "mentions": 1
+    },
+    {
+      "name": "The older",
+      "type": "LOCATION",
+      "salience": 0.008295,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.008149,
+      "mentions": 6
+    },
+    {
+      "name": "Edited by",
+      "type": "OTHER",
+      "salience": 0.008134,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Adventure",
+      "type": "OTHER",
+      "salience": 0.008065,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Destiny",
+      "type": "OTHER",
+      "salience": 0.008023,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Dream",
+      "type": "OTHER",
+      "salience": 0.007983,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Fantasy",
+      "type": "OTHER",
+      "salience": 0.007943,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Magic.",
+      "type": "OTHER",
+      "salience": 0.007903,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Treasure",
+      "type": "OTHER",
+      "salience": 0.007864,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Wonder",
+      "type": "OTHER",
+      "salience": 0.007826,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Wish",
+      "type": "OTHER",
+      "salience": 0.007788,
+      "mentions": 1
+    },
+    {
+      "name": "She had more than 12 years of SEO",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007702,
+      "mentions": 1
+    },
+    {
+      "name": "She",
+      "type": "PERSON",
+      "salience": 0.007607,
+      "mentions": 1
+    },
+    {
+      "name": "Disney cruise costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007503,
+      "mentions": 1
+    },
+    {
+      "name": "However",
+      "type": "OTHER",
+      "salience": 0.007223,
+      "mentions": 1
+    },
+    {
+      "name": "What's included",
+      "type": "OTHER",
+      "salience": 0.007192,
+      "mentions": 1
+    },
+    {
+      "name": "like free credit score access and monitoring.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006709,
+      "mentions": 1
+    },
+    {
+      "name": "ship",
+      "type": "OTHER",
+      "salience": 0.004999,
+      "mentions": 1
+    },
+    {
+      "name": "Find discounted sailings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004969,
+      "mentions": 1
+    },
+    {
+      "name": "Disney cruise destinations Disney cruise destinations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004095,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.004066,
+      "mentions": 1
+    },
+    {
+      "name": "Meg Lee",
+      "type": "OTHER",
+      "salience": 0.004053,
+      "mentions": 1
+    },
+    {
+      "name": "Meg Lee",
+      "type": "OTHER",
+      "salience": 0.00393,
+      "mentions": 1
+    },
+    {
+      "name": "Fact Checked",
+      "type": "OTHER",
+      "salience": 0.003898,
+      "mentions": 1
+    },
+    {
+      "name": "Disney World vs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003785,
+      "mentions": 1
+    },
+    {
+      "name": "Disneyland Size",
+      "type": "OTHER",
+      "salience": 0.003777,
+      "mentions": 1
+    },
+    {
+      "name": "Caribbean",
+      "type": "OTHER",
+      "salience": 0.003625,
+      "mentions": 2
+    },
+    {
+      "name": "shoulder season sailings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003594,
+      "mentions": 1
+    },
+    {
+      "name": "Outside of work",
+      "type": "OTHER",
+      "salience": 0.003538,
+      "mentions": 1
+    },
+    {
+      "name": "Costco Travel",
+      "type": "LOCATION",
+      "salience": 0.003536,
+      "mentions": 1
+    },
+    {
+      "name": "Redeem points",
+      "type": "OTHER",
+      "salience": 0.003438,
+      "mentions": 1
+    },
+    {
+      "name": "Published in",
+      "type": "OTHER",
+      "salience": 0.00329,
+      "mentions": 1
+    },
+    {
+      "name": "Caribbean sailings",
+      "type": "OTHER",
+      "salience": 0.003283,
+      "mentions": 1
+    },
+    {
+      "name": "Assigning Editor",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003041,
+      "mentions": 1
+    },
+    {
+      "name": "including alcohol",
+      "type": "OTHER",
+      "salience": 0.002957,
+      "mentions": 2
+    },
+    {
+      "name": "Lead Writer/Spokesperson",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002948,
+      "mentions": 1
+    },
+    {
+      "name": "including Animator's Palate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002903,
+      "mentions": 1
+    },
+    {
+      "name": "and more.",
+      "type": "OTHER",
+      "salience": 0.002784,
+      "mentions": 1
+    },
+    {
+      "name": "plus onboard credit.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002697,
+      "mentions": 1
+    },
+    {
+      "name": "Short cruises",
+      "type": "PERSON",
+      "salience": 0.00258,
+      "mentions": 1
+    },
+    {
+      "name": "Average Disney cruise prices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002575,
+      "mentions": 1
+    },
+    {
+      "name": "in 2020",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002568,
+      "mentions": 1
+    },
+    {
+      "name": "Wirecutter",
+      "type": "OTHER",
+      "salience": 0.002568,
+      "mentions": 1
+    },
+    {
+      "name": "the fleet includes:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002558,
+      "mentions": 1
+    },
+    {
+      "name": "weightlifting",
+      "type": "PERSON",
+      "salience": 0.002518,
+      "mentions": 1
+    },
+    {
+      "name": "Naturally",
+      "type": "OTHER",
+      "salience": 0.00247,
+      "mentions": 1
+    },
+    {
+      "name": "What's included",
+      "type": "OTHER",
+      "salience": 0.002462,
+      "mentions": 1
+    },
+    {
+      "name": "SEO",
+      "type": "OTHER",
+      "salience": 0.002454,
+      "mentions": 1
+    },
+    {
+      "name": "hiking 25",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002425,
+      "mentions": 1
+    },
+    {
+      "name": "Thailand",
+      "type": "LOCATION",
+      "salience": 0.002425,
+      "mentions": 1
+    },
+    {
+      "name": "timeliness and relevance.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002387,
+      "mentions": 1
+    },
+    {
+      "name": "fancier drinks",
+      "type": "OTHER",
+      "salience": 0.002382,
+      "mentions": 1
+    },
+    {
+      "name": "including",
+      "type": "OTHER",
+      "salience": 0.002357,
+      "mentions": 1
+    },
+    {
+      "name": "Average Disney cruise prices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002256,
+      "mentions": 1
+    },
+    {
+      "name": "3-5 nights",
+      "type": "OTHER",
+      "salience": 0.002214,
+      "mentions": 1
+    },
+    {
+      "name": "more on those later",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002119,
+      "mentions": 1
+    },
+    {
+      "name": "Association of International Educators.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002026,
+      "mentions": 1
+    },
+    {
+      "name": "Week-long cruises:",
+      "type": "PERSON",
+      "salience": 0.001813,
+      "mentions": 1
+    },
+    {
+      "name": "cabin categories",
+      "type": "OTHER",
+      "salience": 0.001736,
+      "mentions": 1
+    },
+    {
+      "name": "Find discounted sailings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001721,
+      "mentions": 1
+    },
+    {
+      "name": "per person",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001691,
+      "mentions": 1
+    },
+    {
+      "name": "per person",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00169,
+      "mentions": 1
+    },
+    {
+      "name": "Cardholders will receive 200 Disney Rewards Dollars after spending",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001647,
+      "mentions": 1
+    },
+    {
+      "name": "Specialty dining",
+      "type": "OTHER",
+      "salience": 0.001646,
+      "mentions": 1
+    },
+    {
+      "name": "or more",
+      "type": "OTHER",
+      "salience": 0.001599,
+      "mentions": 1
+    },
+    {
+      "name": "smaller ships",
+      "type": "OTHER",
+      "salience": 0.001536,
+      "mentions": 1
+    },
+    {
+      "name": "Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001508,
+      "mentions": 1
+    },
+    {
+      "name": "which typically means an interior stateroom",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001468,
+      "mentions": 1
+    },
+    {
+      "name": "News & World Report",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001442,
+      "mentions": 1
+    },
+    {
+      "name": "USA Today and elsewhere",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001442,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 14",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001377,
+      "mentions": 1
+    },
+    {
+      "name": "Treasure and Destiny",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00136,
+      "mentions": 1
+    },
+    {
+      "name": "As of 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00132,
+      "mentions": 1
+    },
+    {
+      "name": "Card",
+      "type": "OTHER",
+      "salience": 0.001296,
+      "mentions": 1
+    },
+    {
+      "name": "including",
+      "type": "OTHER",
+      "salience": 0.001295,
+      "mentions": 1
+    },
+    {
+      "name": "each port",
+      "type": "OTHER",
+      "salience": 0.00129,
+      "mentions": 1
+    },
+    {
+      "name": "Photo courtesy of Disney Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001254,
+      "mentions": 1
+    },
+    {
+      "name": "Redeem points",
+      "type": "OTHER",
+      "salience": 0.001254,
+      "mentions": 1
+    },
+    {
+      "name": "Photo courtesy of Disney Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001237,
+      "mentions": 1
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "salience": 0.001225,
+      "mentions": 1
+    },
+    {
+      "name": "Photo by Sally French/NerdWallet",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001163,
+      "mentions": 1
+    },
+    {
+      "name": "typically $40-",
+      "type": "OTHER",
+      "salience": 0.001157,
+      "mentions": 1
+    },
+    {
+      "name": "Internet",
+      "type": "PERSON",
+      "salience": 0.001139,
+      "mentions": 1
+    },
+    {
+      "name": "typically $100-",
+      "type": "PERSON",
+      "salience": 0.001073,
+      "mentions": 1
+    },
+    {
+      "name": "International sailings:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001058,
+      "mentions": 1
+    },
+    {
+      "name": "shows",
+      "type": "OTHER",
+      "salience": 0.001014,
+      "mentions": 1
+    },
+    {
+      "name": "character meet-and-greets",
+      "type": "OTHER",
+      "salience": 0.001014,
+      "mentions": 1
+    },
+    {
+      "name": "like",
+      "type": "OTHER",
+      "salience": 0.001,
+      "mentions": 1
+    },
+    {
+      "name": "cost extra.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000994,
+      "mentions": 1
+    },
+    {
+      "name": "there's",
+      "type": "LOCATION",
+      "salience": 0.00099,
+      "mentions": 1
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "salience": 0.000976,
+      "mentions": 1
+    },
+    {
+      "name": "All rotational dining",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000962,
+      "mentions": 1
+    },
+    {
+      "name": "line page",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000959,
+      "mentions": 1
+    },
+    {
+      "name": "Character meet-and-greets",
+      "type": "OTHER",
+      "salience": 0.000948,
+      "mentions": 1
+    },
+    {
+      "name": "Adults-only",
+      "type": "OTHER",
+      "salience": 0.00092,
+      "mentions": 1
+    },
+    {
+      "name": "typically",
+      "type": "OTHER",
+      "salience": 0.000914,
+      "mentions": 1
+    },
+    {
+      "name": "consider avoiding add-ons.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000874,
+      "mentions": 1
+    },
+    {
+      "name": "Instead",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00087,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "PERSON",
+      "salience": 0.000866,
+      "mentions": 1
+    },
+    {
+      "name": "booking through Costco Travel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000856,
+      "mentions": 1
+    },
+    {
+      "name": "Even better",
+      "type": "OTHER",
+      "salience": 0.000837,
+      "mentions": 1
+    },
+    {
+      "name": "Show special offer filters",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000823,
+      "mentions": 1
+    },
+    {
+      "name": "Access",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000797,
+      "mentions": 1
+    },
+    {
+      "name": "booking through Costco Travel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000795,
+      "mentions": 1
+    },
+    {
+      "name": "Bahamas and Bermuda in 2026 average more than",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000762,
+      "mentions": 1
+    },
+    {
+      "name": "which is",
+      "type": "OTHER",
+      "salience": 0.000734,
+      "mentions": 1
+    },
+    {
+      "name": "late April-May and September-early November",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "often offer the best value.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "Spa services: Massages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000714,
+      "mentions": 1
+    },
+    {
+      "name": "checking relevant discounts",
+      "type": "OTHER",
+      "salience": 0.000687,
+      "mentions": 1
+    },
+    {
+      "name": "Arendelle",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000684,
+      "mentions": 1
+    },
+    {
+      "name": "coffee",
+      "type": "OTHER",
+      "salience": 0.000682,
+      "mentions": 1
+    },
+    {
+      "name": "Pools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000672,
+      "mentions": 1
+    },
+    {
+      "name": "checking relevant discounts",
+      "type": "OTHER",
+      "salience": 0.000638,
+      "mentions": 1
+    },
+    {
+      "name": "day",
+      "type": "OTHER",
+      "salience": 0.000597,
+      "mentions": 1
+    },
+    {
+      "name": "Still",
+      "type": "OTHER",
+      "salience": 0.000577,
+      "mentions": 1
+    },
+    {
+      "name": "Undercover Touri",
+      "type": "OTHER",
+      "salience": 0.000574,
+      "mentions": 1
+    },
+    {
+      "name": "Magic and Wonder",
+      "type": "OTHER",
+      "salience": 0.000571,
+      "mentions": 1
+    },
+    {
+      "name": "🤓Nerdy Tip",
+      "type": "OTHER",
+      "salience": 0.000571,
+      "mentions": 1
+    },
+    {
+      "name": "movies",
+      "type": "OTHER",
+      "salience": 0.000566,
+      "mentions": 1
+    },
+    {
+      "name": "automatically added to your bill",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000558,
+      "mentions": 1
+    },
+    {
+      "name": "Photo courtesy of Matt Stroshane/Disney Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000552,
+      "mentions": 1
+    },
+    {
+      "name": "when searching.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000536,
+      "mentions": 1
+    },
+    {
+      "name": "just",
+      "type": "OTHER",
+      "salience": 0.000502,
+      "mentions": 1
+    },
+    {
+      "name": "considering",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000502,
+      "mentions": 1
+    },
+    {
+      "name": "Wish",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00049,
+      "mentions": 1
+    },
+    {
+      "name": "Sapphire Preferred",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000467,
+      "mentions": 1
+    },
+    {
+      "name": "🤓Nerdy Tip",
+      "type": "OTHER",
+      "salience": 0.000451,
+      "mentions": 1
+    },
+    {
+      "name": "Its key cruise benefit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00044,
+      "mentions": 1
+    },
+    {
+      "name": "dining experiences",
+      "type": "OTHER",
+      "salience": 0.000431,
+      "mentions": 1
+    },
+    {
+      "name": "trivia",
+      "type": "OTHER",
+      "salience": 0.000403,
+      "mentions": 1
+    },
+    {
+      "name": "dancing",
+      "type": "OTHER",
+      "salience": 0.000403,
+      "mentions": 1
+    },
+    {
+      "name": "Wi-Fi",
+      "type": "OTHER",
+      "salience": 0.000398,
+      "mentions": 1
+    },
+    {
+      "name": "Gratuities: Around",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000397,
+      "mentions": 1
+    },
+    {
+      "name": "ditch the bars",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000394,
+      "mentions": 1
+    },
+    {
+      "name": "rate of 1",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000389,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "PERSON",
+      "salience": 0.000388,
+      "mentions": 1
+    },
+    {
+      "name": "MainSail",
+      "type": "OTHER",
+      "salience": 0.000382,
+      "mentions": 1
+    },
+    {
+      "name": "Worlds of Marvel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000382,
+      "mentions": 1
+    },
+    {
+      "name": "etc.",
+      "type": "OTHER",
+      "salience": 0.000382,
+      "mentions": 1
+    },
+    {
+      "name": "just click",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000381,
+      "mentions": 1
+    },
+    {
+      "name": "tea",
+      "type": "OTHER",
+      "salience": 0.000381,
+      "mentions": 1
+    },
+    {
+      "name": "Soft drinks",
+      "type": "OTHER",
+      "salience": 0.000381,
+      "mentions": 1
+    },
+    {
+      "name": "Popular options include",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "AAA Travel",
+      "type": "PERSON",
+      "salience": 0.000373,
+      "mentions": 1
+    },
+    {
+      "name": "Europe",
+      "type": "PERSON",
+      "salience": 0.000367,
+      "mentions": 1
+    },
+    {
+      "name": "Trans-Atlantic.",
+      "type": "OTHER",
+      "salience": 0.000362,
+      "mentions": 1
+    },
+    {
+      "name": "of 2026",
+      "type": "OTHER",
+      "salience": 0.000353,
+      "mentions": 1
+    },
+    {
+      "name": "around $550-",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000351,
+      "mentions": 1
+    },
+    {
+      "name": "karaoke",
+      "type": "OTHER",
+      "salience": 0.000339,
+      "mentions": 1
+    },
+    {
+      "name": "However",
+      "type": "OTHER",
+      "salience": 0.00032,
+      "mentions": 1
+    },
+    {
+      "name": "Verandah rooms can cost 30-50% more than inside or oceanview cabins",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000307,
+      "mentions": 1
+    },
+    {
+      "name": "character meet-and-greets",
+      "type": "OTHER",
+      "salience": 0.000307,
+      "mentions": 1
+    },
+    {
+      "name": "Bermuda",
+      "type": "LOCATION",
+      "salience": 0.000306,
+      "mentions": 1
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "salience": 0.000306,
+      "mentions": 1
+    },
+    {
+      "name": "Magical Portholes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000305,
+      "mentions": 1
+    },
+    {
+      "name": "However",
+      "type": "OTHER",
+      "salience": 0.000297,
+      "mentions": 1
+    },
+    {
+      "name": "Top photo courtesy of Disney Cruise Line",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000294,
+      "mentions": 1
+    },
+    {
+      "name": "South Pacific.",
+      "type": "OTHER",
+      "salience": 0.000236,
+      "mentions": 1
+    },
+    {
+      "name": "Flexibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000229,
+      "mentions": 1
+    },
+    {
+      "name": "Luxury perks: American Express Platinum Card",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000228,
+      "mentions": 1
+    },
+    {
+      "name": "Explore more on",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000227,
+      "mentions": 1
+    },
+    {
+      "name": "yet",
+      "type": "OTHER",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Australia",
+      "type": "LOCATION",
+      "salience": 0.000172,
+      "mentions": 1
+    },
+    {
+      "name": "Hawaii",
+      "type": "LOCATION",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "Mexico",
+      "type": "LOCATION",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "Related articles",
+      "type": "OTHER",
+      "salience": 0.00016,
+      "mentions": 1
+    },
+    {
+      "name": "1,260",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,900",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$8,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$550",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$710",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,400",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,900",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$6,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$8,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$30,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,600",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$40",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$75",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$15",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$14",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$16",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$200",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$40",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$75",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$10",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,326",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,164",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$149",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,260",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,900",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,900",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 14, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "550",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "710",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,900",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,900",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,600",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,600",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,326",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,326",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,164",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,164",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "149",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 84,
+    "CONSUMER_GOOD": 88,
+    "LOCATION": 13,
+    "ORGANIZATION": 14,
+    "WORK_OF_ART": 1,
+    "PERSON": 11,
+    "NUMBER": 96,
+    "DATE": 5,
+    "PRICE": 44
+  },
+  "type_salience": {
+    "OTHER": 0.29675199999999996,
+    "CONSUMER_GOOD": 0.42029199999999983,
+    "LOCATION": 0.07654200000000001,
+    "ORGANIZATION": 0.11288200000000001,
+    "WORK_OF_ART": 0.009382,
+    "PERSON": 0.027916999999999994,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

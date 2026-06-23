@@ -1,0 +1,1397 @@
+{
+  "file": "non_cited_postall.txt",
+  "word_count": 890,
+  "entity_count": 229,
+  "entities": [
+    {
+      "name": "Apps by category",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.084953,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping calculator to set rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.043552,
+      "mentions": 1
+    },
+    {
+      "name": "More stories",
+      "type": "OTHER",
+      "salience": 0.040578,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.037966,
+      "mentions": 1
+    },
+    {
+      "name": "Store design",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.033829,
+      "mentions": 1
+    },
+    {
+      "name": "Store management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029622,
+      "mentions": 1
+    },
+    {
+      "name": "Orders and shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029247,
+      "mentions": 1
+    },
+    {
+      "name": "design",
+      "type": "OTHER",
+      "salience": 0.026412,
+      "mentions": 12
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.026412,
+      "mentions": 1
+    },
+    {
+      "name": "Sales channels",
+      "type": "OTHER",
+      "salience": 0.025668,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.024894,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.020189,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.019028,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.017737,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.016717,
+      "mentions": 1
+    },
+    {
+      "name": "estimated",
+      "type": "OTHER",
+      "salience": 0.015868,
+      "mentions": 1
+    },
+    {
+      "name": "Finding products",
+      "type": "OTHER",
+      "salience": 0.015395,
+      "mentions": 1
+    },
+    {
+      "name": "ShipX",
+      "type": "PERSON",
+      "salience": 0.015187,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping calculator with custom shipping rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014812,
+      "mentions": 1
+    },
+    {
+      "name": "ShipRight Hide Shipping Method",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014328,
+      "mentions": 1
+    },
+    {
+      "name": "Selling products",
+      "type": "OTHER",
+      "salience": 0.013479,
+      "mentions": 1
+    },
+    {
+      "name": "Rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013345,
+      "mentions": 1
+    },
+    {
+      "name": "Log in",
+      "type": "OTHER",
+      "salience": 0.013149,
+      "mentions": 2
+    },
+    {
+      "name": "Marketing and conversion",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010408,
+      "mentions": 1
+    },
+    {
+      "name": "All in One Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009801,
+      "mentions": 1
+    },
+    {
+      "name": "ETA",
+      "type": "OTHER",
+      "salience": 0.009543,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009415,
+      "mentions": 1
+    },
+    {
+      "name": "ShipZip",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009415,
+      "mentions": 1
+    },
+    {
+      "name": "Time",
+      "type": "OTHER",
+      "salience": 0.009377,
+      "mentions": 1
+    },
+    {
+      "name": "App stories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009267,
+      "mentions": 1
+    },
+    {
+      "name": "Smart Shipping",
+      "type": "PERSON",
+      "salience": 0.009239,
+      "mentions": 1
+    },
+    {
+      "name": "Shipmozo",
+      "type": "PERSON",
+      "salience": 0.009239,
+      "mentions": 1
+    },
+    {
+      "name": "Try again",
+      "type": "OTHER",
+      "salience": 0.008663,
+      "mentions": 1
+    },
+    {
+      "name": "EDD/ETA",
+      "type": "OTHER",
+      "salience": 0.007992,
+      "mentions": 1
+    },
+    {
+      "name": "rules by product",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007955,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.006422,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Rates Rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006076,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.006053,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping rates rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006011,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.006005,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005948,
+      "mentions": 1
+    },
+    {
+      "name": "Shipway",
+      "type": "PERSON",
+      "salience": 0.005926,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.005835,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.005744,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.005659,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.005499,
+      "mentions": 1
+    },
+    {
+      "name": "SMART Shipping Rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005468,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.005413,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.00529,
+      "mentions": 1
+    },
+    {
+      "name": "postcode",
+      "type": "OTHER",
+      "salience": 0.005288,
+      "mentions": 2
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.004986,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.004563,
+      "mentions": 1
+    },
+    {
+      "name": "Rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004496,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004485,
+      "mentions": 1
+    },
+    {
+      "name": "LEVEL 2 EDD",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004384,
+      "mentions": 1
+    },
+    {
+      "name": "Sendcloud",
+      "type": "OTHER",
+      "salience": 0.004151,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004151,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.004116,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.003936,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.003852,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.00371,
+      "mentions": 1
+    },
+    {
+      "name": "S: Estimated Delivery Date ETA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00367,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.00363,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery",
+      "type": "OTHER",
+      "salience": 0.003437,
+      "mentions": 1
+    },
+    {
+      "name": "pickup points",
+      "type": "OTHER",
+      "salience": 0.002703,
+      "mentions": 1
+    },
+    {
+      "name": "track orders",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002604,
+      "mentions": 1
+    },
+    {
+      "name": "print labels",
+      "type": "OTHER",
+      "salience": 0.002604,
+      "mentions": 1
+    },
+    {
+      "name": "and integration",
+      "type": "OTHER",
+      "salience": 0.00248,
+      "mentions": 1
+    },
+    {
+      "name": "performance",
+      "type": "OTHER",
+      "salience": 0.002337,
+      "mentions": 1
+    },
+    {
+      "name": "Store URL",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00232,
+      "mentions": 1
+    },
+    {
+      "name": "plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00224,
+      "mentions": 1
+    },
+    {
+      "name": "labels",
+      "type": "OTHER",
+      "salience": 0.002037,
+      "mentions": 1
+    },
+    {
+      "name": "Instalación gratuita",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002007,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery Date",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001976,
+      "mentions": 1
+    },
+    {
+      "name": "print labels",
+      "type": "OTHER",
+      "salience": 0.001923,
+      "mentions": 1
+    },
+    {
+      "name": "EDD/ETA",
+      "type": "OTHER",
+      "salience": 0.001909,
+      "mentions": 1
+    },
+    {
+      "name": "Estimator",
+      "type": "OTHER",
+      "salience": 0.001831,
+      "mentions": 1
+    },
+    {
+      "name": "tracking",
+      "type": "OTHER",
+      "salience": 0.001761,
+      "mentions": 1
+    },
+    {
+      "name": "carriers",
+      "type": "OTHER",
+      "salience": 0.001728,
+      "mentions": 1
+    },
+    {
+      "name": "InPost",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00171,
+      "mentions": 1
+    },
+    {
+      "name": "ETA",
+      "type": "OTHER",
+      "salience": 0.001701,
+      "mentions": 1
+    },
+    {
+      "name": "InPost lockers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001689,
+      "mentions": 1
+    },
+    {
+      "name": "Zip Code",
+      "type": "PERSON",
+      "salience": 0.001679,
+      "mentions": 1
+    },
+    {
+      "name": "shipping time",
+      "type": "OTHER",
+      "salience": 0.001423,
+      "mentions": 1
+    },
+    {
+      "name": "and protection",
+      "type": "OTHER",
+      "salience": 0.00138,
+      "mentions": 1
+    },
+    {
+      "name": "automation",
+      "type": "OTHER",
+      "salience": 0.001373,
+      "mentions": 1
+    },
+    {
+      "name": "Tale Commerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001236,
+      "mentions": 1
+    },
+    {
+      "name": "pickup points in checkout select with 1 click",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001222,
+      "mentions": 1
+    },
+    {
+      "name": "Zapiet",
+      "type": "PERSON",
+      "salience": 0.001214,
+      "mentions": 1
+    },
+    {
+      "name": "Envia Shipping and Fulfillment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001203,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "PERSON",
+      "salience": 0.001189,
+      "mentions": 1
+    },
+    {
+      "name": "order tracking page",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001131,
+      "mentions": 1
+    },
+    {
+      "name": "Live shipping rates at checkout",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001082,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.001076,
+      "mentions": 1
+    },
+    {
+      "name": "Intuitive Shipping",
+      "type": "OTHER",
+      "salience": 0.001075,
+      "mentions": 1
+    },
+    {
+      "name": "ETA",
+      "type": "OTHER",
+      "salience": 0.001052,
+      "mentions": 1
+    },
+    {
+      "name": "Logistics Aggregation",
+      "type": "PERSON",
+      "salience": 0.000904,
+      "mentions": 1
+    },
+    {
+      "name": "Cheapest shipping rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000846,
+      "mentions": 1
+    },
+    {
+      "name": "duties",
+      "type": "OTHER",
+      "salience": 0.000846,
+      "mentions": 1
+    },
+    {
+      "name": "Skydropx Envíos y Fulfillment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000842,
+      "mentions": 1
+    },
+    {
+      "name": "Cotiza",
+      "type": "OTHER",
+      "salience": 0.00083,
+      "mentions": 1
+    },
+    {
+      "name": "Boost sales with EDD",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000818,
+      "mentions": 1
+    },
+    {
+      "name": "Sync orders",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000799,
+      "mentions": 1
+    },
+    {
+      "name": "track shipments in one place",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000799,
+      "mentions": 1
+    },
+    {
+      "name": "Octolize Shipping Discounts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000796,
+      "mentions": 1
+    },
+    {
+      "name": "Sign up",
+      "type": "OTHER",
+      "salience": 0.000762,
+      "mentions": 1
+    },
+    {
+      "name": "Developer login",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000758,
+      "mentions": 1
+    },
+    {
+      "name": "custom shipping zones by postcodes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000729,
+      "mentions": 1
+    },
+    {
+      "name": "Zones",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000687,
+      "mentions": 1
+    },
+    {
+      "name": "Rapidly create domestic and international shipping labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000535,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000514,
+      "mentions": 1
+    },
+    {
+      "name": "Last Mile Logistics Aggregation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000514,
+      "mentions": 1
+    },
+    {
+      "name": "Frenet",
+      "type": "OTHER",
+      "salience": 0.000513,
+      "mentions": 1
+    },
+    {
+      "name": "Correios and carriers with shipping discounts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000507,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "433",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "701",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "701",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "422",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "422",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "435",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "435",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "131",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "131",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "419",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "419",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,150",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,150",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1150",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "67",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "67",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "110",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "110",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "584",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "584",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "465",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "465",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "342",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "342",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "401",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "401",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "47",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "47",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "49",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "49",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "458",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "458",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "165",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "165",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "63",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "63",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "82",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "82",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "94",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "94",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "433",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 49,
+    "OTHER": 69,
+    "PERSON": 8,
+    "ORGANIZATION": 1,
+    "DATE": 1,
+    "NUMBER": 114
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.4321680000000001,
+    "OTHER": 0.43695800000000007,
+    "PERSON": 0.044577000000000006,
+    "ORGANIZATION": 0.001076,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

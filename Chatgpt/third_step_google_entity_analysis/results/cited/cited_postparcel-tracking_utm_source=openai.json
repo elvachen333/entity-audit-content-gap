@@ -1,0 +1,601 @@
+{
+  "file": "cited_postparcel-tracking_utm_source=openai.txt",
+  "word_count": 738,
+  "entity_count": 96,
+  "entities": [
+    {
+      "name": "Order Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.135851,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.070947,
+      "mentions": 1
+    },
+    {
+      "name": "Support 1,300 carriers worldwide",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.045415,
+      "mentions": 1
+    },
+    {
+      "name": "USPS",
+      "type": "ORGANIZATION",
+      "salience": 0.045415,
+      "mentions": 2
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.045415,
+      "mentions": 2
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.045415,
+      "mentions": 1
+    },
+    {
+      "name": "DHL",
+      "type": "ORGANIZATION",
+      "salience": 0.045415,
+      "mentions": 2
+    },
+    {
+      "name": "Unlock more tracking quota",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.033188,
+      "mentions": 1
+    },
+    {
+      "name": "Reduce WISMO calls by 40% with proactive shipment notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.032987,
+      "mentions": 1
+    },
+    {
+      "name": "pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026982,
+      "mentions": 1
+    },
+    {
+      "name": "Global Real-Time Package",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024924,
+      "mentions": 1
+    },
+    {
+      "name": "Unlock more quota and improve tracking experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024101,
+      "mentions": 1
+    },
+    {
+      "name": "postal",
+      "type": "OTHER",
+      "salience": 0.023293,
+      "mentions": 1
+    },
+    {
+      "name": "Transform tracking into revenue",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023227,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking numbers typically consist of a combination of letters and numbers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019312,
+      "mentions": 1
+    },
+    {
+      "name": "Save",
+      "type": "PERSON",
+      "salience": 0.018564,
+      "mentions": 1
+    },
+    {
+      "name": "Scale effortlessly with higher tracking limits and flexible plans",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018149,
+      "mentions": 1
+    },
+    {
+      "name": "Enhance the post-purchase experience by offering fast",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016186,
+      "mentions": 1
+    },
+    {
+      "name": "reliable,",
+      "type": "OTHER",
+      "salience": 0.016186,
+      "mentions": 1
+    },
+    {
+      "name": "delivered",
+      "type": "OTHER",
+      "salience": 0.015678,
+      "mentions": 1
+    },
+    {
+      "name": "express",
+      "type": "OTHER",
+      "salience": 0.015489,
+      "mentions": 1
+    },
+    {
+      "name": "The tracking interface is available in 30+ languages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014718,
+      "mentions": 1
+    },
+    {
+      "name": "Maximize Every Touchpoint:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012291,
+      "mentions": 1
+    },
+    {
+      "name": "trucking",
+      "type": "OTHER",
+      "salience": 0.011203,
+      "mentions": 1
+    },
+    {
+      "name": "freight",
+      "type": "OTHER",
+      "salience": 0.011203,
+      "mentions": 1
+    },
+    {
+      "name": "helping reduce WISMO inquiries and enhance post-purchase experience.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010419,
+      "mentions": 1
+    },
+    {
+      "name": "Auto-detection with 1,200+ global carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009867,
+      "mentions": 1
+    },
+    {
+      "name": "The format varies",
+      "type": "ORGANIZATION",
+      "salience": 0.008857,
+      "mentions": 1
+    },
+    {
+      "name": "Free",
+      "type": "OTHER",
+      "salience": 0.008555,
+      "mentions": 1
+    },
+    {
+      "name": "Multiple display style options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008443,
+      "mentions": 1
+    },
+    {
+      "name": "and many more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007806,
+      "mentions": 1
+    },
+    {
+      "name": "including info received",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006986,
+      "mentions": 1
+    },
+    {
+      "name": "Auto-detect carriers",
+      "type": "OTHER",
+      "salience": 0.00616,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip provides package tracking services only.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006036,
+      "mentions": 1
+    },
+    {
+      "name": "Seamlessly access tracking updates from 1,300 international carriers including FedEx",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005965,
+      "mentions": 1
+    },
+    {
+      "name": "Multilingual",
+      "type": "PERSON",
+      "salience": 0.005886,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.00579,
+      "mentions": 1
+    },
+    {
+      "name": "available",
+      "type": "OTHER",
+      "salience": 0.005551,
+      "mentions": 1
+    },
+    {
+      "name": "calculated from carrier reliability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005102,
+      "mentions": 1
+    },
+    {
+      "name": "Access to",
+      "type": "OTHER",
+      "salience": 0.00506,
+      "mentions": 1
+    },
+    {
+      "name": "Easy-to-Install",
+      "type": "OTHER",
+      "salience": 0.004799,
+      "mentions": 1
+    },
+    {
+      "name": "Efficiently track up to 50 packages at once by entering multiple tracking numbers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004797,
+      "mentions": 1
+    },
+    {
+      "name": "USPS tracking numbers are 20-22 digits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004762,
+      "mentions": 1
+    },
+    {
+      "name": "DHL tracking numbers are 10-11 digits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004724,
+      "mentions": 1
+    },
+    {
+      "name": "Smart carrier-auto detection via seamless integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004248,
+      "mentions": 1
+    },
+    {
+      "name": "Get real-time notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004187,
+      "mentions": 1
+    },
+    {
+      "name": "failed attempt",
+      "type": "OTHER",
+      "salience": 0.004014,
+      "mentions": 1
+    },
+    {
+      "name": "and exception",
+      "type": "OTHER",
+      "salience": 0.004014,
+      "mentions": 1
+    },
+    {
+      "name": "expired",
+      "type": "OTHER",
+      "salience": 0.004014,
+      "mentions": 1
+    },
+    {
+      "name": "pending",
+      "type": "OTHER",
+      "salience": 0.004014,
+      "mentions": 1
+    },
+    {
+      "name": "route analysis",
+      "type": "OTHER",
+      "salience": 0.00369,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.003492,
+      "mentions": 1
+    },
+    {
+      "name": "UPS tracking numbers are usually 18 characters starting with",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0029,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx tracking numbers are 12",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002876,
+      "mentions": 1
+    },
+    {
+      "name": "communication",
+      "type": "OTHER",
+      "salience": 0.002829,
+      "mentions": 1
+    },
+    {
+      "name": "Japanese",
+      "type": "OTHER",
+      "salience": 0.002793,
+      "mentions": 1
+    },
+    {
+      "name": "and Italian",
+      "type": "OTHER",
+      "salience": 0.002793,
+      "mentions": 1
+    },
+    {
+      "name": "German",
+      "type": "OTHER",
+      "salience": 0.002793,
+      "mentions": 1
+    },
+    {
+      "name": "French",
+      "type": "OTHER",
+      "salience": 0.002793,
+      "mentions": 1
+    },
+    {
+      "name": "Spanish",
+      "type": "LOCATION",
+      "salience": 0.002793,
+      "mentions": 1
+    },
+    {
+      "name": "including English",
+      "type": "OTHER",
+      "salience": 0.002793,
+      "mentions": 1
+    },
+    {
+      "name": "JD",
+      "type": "OTHER",
+      "salience": 0.002714,
+      "mentions": 1
+    },
+    {
+      "name": "Powered by AfterShip",
+      "type": "OTHER",
+      "salience": 0.002476,
+      "mentions": 1
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002264,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently asked questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001724,
+      "mentions": 1
+    },
+    {
+      "name": "ranging from 8 to 40 characters long.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001694,
+      "mentions": 1
+    },
+    {
+      "name": "$0",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "65",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "65",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 31,
+    "OTHER": 27,
+    "ORGANIZATION": 8,
+    "PERSON": 2,
+    "LOCATION": 1,
+    "PRICE": 1,
+    "NUMBER": 29
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.5221309999999999,
+    "OTHER": 0.24513599999999988,
+    "ORGANIZATION": 0.190517,
+    "PERSON": 0.02445,
+    "LOCATION": 0.002793,
+    "PRICE": 0.0,
+    "NUMBER": 0.0
+  }
+}

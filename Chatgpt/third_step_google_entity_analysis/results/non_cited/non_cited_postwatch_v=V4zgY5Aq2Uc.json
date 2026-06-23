@@ -1,0 +1,569 @@
+{
+  "file": "non_cited_postwatch_v=V4zgY5Aq2Uc.txt",
+  "word_count": 286,
+  "entity_count": 91,
+  "entities": [
+    {
+      "name": "Amazon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.159052,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce Sellers",
+      "type": "PERSON",
+      "salience": 0.126655,
+      "mentions": 1
+    },
+    {
+      "name": "Top 11 Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.073038,
+      "mentions": 1
+    },
+    {
+      "name": "Visibility",
+      "type": "PERSON",
+      "salience": 0.038403,
+      "mentions": 1
+    },
+    {
+      "name": "Public",
+      "type": "OTHER",
+      "salience": 0.038403,
+      "mentions": 1
+    },
+    {
+      "name": "Uploaded by : Jordi Ordóñez Amazon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.031854,
+      "mentions": 1
+    },
+    {
+      "name": "Uploaded at",
+      "type": "OTHER",
+      "salience": 0.027895,
+      "mentions": 1
+    },
+    {
+      "name": "2025-02-14T08:12:",
+      "type": "OTHER",
+      "salience": 0.027895,
+      "mentions": 2
+    },
+    {
+      "name": "Published at",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025166,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce Consultant",
+      "type": "PERSON",
+      "salience": 0.023048,
+      "mentions": 1
+    },
+    {
+      "name": "Likes",
+      "type": "OTHER",
+      "salience": 0.017225,
+      "mentions": 1
+    },
+    {
+      "name": "Length",
+      "type": "PERSON",
+      "salience": 0.016736,
+      "mentions": 1
+    },
+    {
+      "name": "choosing the right shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014832,
+      "mentions": 1
+    },
+    {
+      "name": "Finale Inventory",
+      "type": "PERSON",
+      "salience": 0.013945,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory",
+      "type": "PERSON",
+      "salience": 0.013945,
+      "mentions": 1
+    },
+    {
+      "name": "Views",
+      "type": "OTHER",
+      "salience": 0.013252,
+      "mentions": 1
+    },
+    {
+      "name": "ShippingSoftware",
+      "type": "OTHER",
+      "salience": 0.012243,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.0118,
+      "mentions": 1
+    },
+    {
+      "name": "People",
+      "type": "OTHER",
+      "salience": 0.0118,
+      "mentions": 1
+    },
+    {
+      "name": "InventoryManagement",
+      "type": "OTHER",
+      "salience": 0.011569,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.011529,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.011239,
+      "mentions": 1
+    },
+    {
+      "name": "Blogs",
+      "type": "OTHER",
+      "salience": 0.011001,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.011,
+      "mentions": 1
+    },
+    {
+      "name": "Manage multi-channel inventory",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010952,
+      "mentions": 1
+    },
+    {
+      "name": "InventorySource",
+      "type": "OTHER",
+      "salience": 0.010511,
+      "mentions": 1
+    },
+    {
+      "name": "InventoryTracking",
+      "type": "OTHER",
+      "salience": 0.009482,
+      "mentions": 1
+    },
+    {
+      "name": "ShippingAutomation",
+      "type": "OTHER",
+      "salience": 0.009374,
+      "mentions": 1
+    },
+    {
+      "name": "AmazonSellers",
+      "type": "OTHER",
+      "salience": 0.008521,
+      "mentions": 1
+    },
+    {
+      "name": "EcommerceTools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007804,
+      "mentions": 1
+    },
+    {
+      "name": "AmazonFBA",
+      "type": "PERSON",
+      "salience": 0.007022,
+      "mentions": 1
+    },
+    {
+      "name": "EcommerceFulfillment",
+      "type": "OTHER",
+      "salience": 0.006236,
+      "mentions": 1
+    },
+    {
+      "name": "Sync warehouse and office operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005886,
+      "mentions": 1
+    },
+    {
+      "name": "QuickBooks Commerce",
+      "type": "OTHER",
+      "salience": 0.005796,
+      "mentions": 1
+    },
+    {
+      "name": "improve inventory visibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00553,
+      "mentions": 1
+    },
+    {
+      "name": "SellerTools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005327,
+      "mentions": 1
+    },
+    {
+      "name": "FulfillmentSolutions",
+      "type": "OTHER",
+      "salience": 0.004725,
+      "mentions": 1
+    },
+    {
+      "name": "Scanning",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004667,
+      "mentions": 1
+    },
+    {
+      "name": "Scandit",
+      "type": "OTHER",
+      "salience": 0.004667,
+      "mentions": 2
+    },
+    {
+      "name": "Tradegecko",
+      "type": "OTHER",
+      "salience": 0.004606,
+      "mentions": 2
+    },
+    {
+      "name": "Automate shipping and fulfillment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004552,
+      "mentions": 1
+    },
+    {
+      "name": "Reduce manual data entry",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004257,
+      "mentions": 1
+    },
+    {
+      "name": "Improve profitability through data-driven decisions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004257,
+      "mentions": 1
+    },
+    {
+      "name": "QuickBooksCommerce",
+      "type": "OTHER",
+      "salience": 0.004191,
+      "mentions": 1
+    },
+    {
+      "name": "streamline operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004157,
+      "mentions": 1
+    },
+    {
+      "name": "With features like real-time alerts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004064,
+      "mentions": 1
+    },
+    {
+      "name": "and simplify fulfillment workflows.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003999,
+      "mentions": 1
+    },
+    {
+      "name": "Deliverr · Skubana",
+      "type": "OTHER",
+      "salience": 0.003807,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Platforms",
+      "type": "PERSON",
+      "salience": 0.003807,
+      "mentions": 1
+    },
+    {
+      "name": "Walmart",
+      "type": "ORGANIZATION",
+      "salience": 0.003724,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.003724,
+      "mentions": 1
+    },
+    {
+      "name": "Automation",
+      "type": "OTHER",
+      "salience": 0.003708,
+      "mentions": 1
+    },
+    {
+      "name": "WarehouseSoftware",
+      "type": "OTHER",
+      "salience": 0.003692,
+      "mentions": 1
+    },
+    {
+      "name": "Skubana",
+      "type": "OTHER",
+      "salience": 0.003576,
+      "mentions": 1
+    },
+    {
+      "name": "inventory solution is critical.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003543,
+      "mentions": 1
+    },
+    {
+      "name": "Ordoro",
+      "type": "OTHER",
+      "salience": 0.003522,
+      "mentions": 1
+    },
+    {
+      "name": "Today we'll cover",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003432,
+      "mentions": 1
+    },
+    {
+      "name": "Deliverr",
+      "type": "OTHER",
+      "salience": 0.003375,
+      "mentions": 1
+    },
+    {
+      "name": "SKU Grid",
+      "type": "OTHER",
+      "salience": 0.003331,
+      "mentions": 2
+    },
+    {
+      "name": "Ordoro · Vendio",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003331,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory Source",
+      "type": "PERSON",
+      "salience": 0.003331,
+      "mentions": 1
+    },
+    {
+      "name": "Order Tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003331,
+      "mentions": 1
+    },
+    {
+      "name": "QuickBooks Desktop Enterprise",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002831,
+      "mentions": 1
+    },
+    {
+      "name": "supplier management",
+      "type": "OTHER",
+      "salience": 0.002527,
+      "mentions": 1
+    },
+    {
+      "name": "Endscreen",
+      "type": "OTHER",
+      "salience": 0.002166,
+      "mentions": 1
+    },
+    {
+      "name": "Curso completo de Amazon Ads",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002144,
+      "mentions": 1
+    },
+    {
+      "name": "Presentaci",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002144,
+      "mentions": 1
+    },
+    {
+      "name": "Inner Circle PPC",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002144,
+      "mentions": 1
+    },
+    {
+      "name": "advanced reporting",
+      "type": "OTHER",
+      "salience": 0.001827,
+      "mentions": 1
+    },
+    {
+      "name": "and seamless integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001827,
+      "mentions": 1
+    },
+    {
+      "name": "2025-02-14T08:12:50-08:00",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025-02-14T08:12:50-08:00",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "132",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 26,
+    "PERSON": 9,
+    "OTHER": 38,
+    "ORGANIZATION": 1,
+    "DATE": 2,
+    "NUMBER": 19
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.394121,
+    "PERSON": 0.24689200000000003,
+    "OTHER": 0.3202150000000001,
+    "ORGANIZATION": 0.003724,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

@@ -1,0 +1,1179 @@
+{
+  "file": "non_cited_postreturns-management-guide.txt",
+  "word_count": 3553,
+  "entity_count": 192,
+  "entities": [
+    {
+      "name": "Returns Management Guide",
+      "type": "OTHER",
+      "salience": 0.187983,
+      "mentions": 1
+    },
+    {
+      "name": "Returns season",
+      "type": "OTHER",
+      "salience": 0.129692,
+      "mentions": 1
+    },
+    {
+      "name": "Get started",
+      "type": "OTHER",
+      "salience": 0.050314,
+      "mentions": 1
+    },
+    {
+      "name": "can",
+      "type": "ORGANIZATION",
+      "salience": 0.037384,
+      "mentions": 1
+    },
+    {
+      "name": "Contact sales",
+      "type": "OTHER",
+      "salience": 0.023758,
+      "mentions": 1
+    },
+    {
+      "name": "Return Policy",
+      "type": "OTHER",
+      "salience": 0.022626,
+      "mentions": 1
+    },
+    {
+      "name": "inspect returned items",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022393,
+      "mentions": 1
+    },
+    {
+      "name": "All Things Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022328,
+      "mentions": 5
+    },
+    {
+      "name": "communicate",
+      "type": "OTHER",
+      "salience": 0.015949,
+      "mentions": 1
+    },
+    {
+      "name": "customer service team",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015625,
+      "mentions": 1
+    },
+    {
+      "name": "If done correctly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015397,
+      "mentions": 1
+    },
+    {
+      "name": "Optimizing",
+      "type": "PERSON",
+      "salience": 0.015311,
+      "mentions": 1
+    },
+    {
+      "name": "The key areas",
+      "type": "ORGANIZATION",
+      "salience": 0.015205,
+      "mentions": 1
+    },
+    {
+      "name": "Returns would make up an average of 16.6% of all retail sales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014625,
+      "mentions": 1
+    },
+    {
+      "name": "Returns management includes reverse logistics and the strategic side: how returns impact inventory",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01431,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.014082,
+      "mentions": 1
+    },
+    {
+      "name": "reduce costs",
+      "type": "OTHER",
+      "salience": 0.011917,
+      "mentions": 1
+    },
+    {
+      "name": "Reverse Logistics",
+      "type": "OTHER",
+      "salience": 0.010647,
+      "mentions": 1
+    },
+    {
+      "name": "with 88% of shoppers reporting that they",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010037,
+      "mentions": 1
+    },
+    {
+      "name": "custom",
+      "type": "OTHER",
+      "salience": 0.009815,
+      "mentions": 1
+    },
+    {
+      "name": "The reverse logistics process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009405,
+      "mentions": 1
+    },
+    {
+      "name": "A whopping",
+      "type": "PERSON",
+      "salience": 0.009362,
+      "mentions": 1
+    },
+    {
+      "name": "customers",
+      "type": "OTHER",
+      "salience": 0.009308,
+      "mentions": 2
+    },
+    {
+      "name": "The numbers get more staggering",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009067,
+      "mentions": 1
+    },
+    {
+      "name": "customer satisfaction scores",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008969,
+      "mentions": 1
+    },
+    {
+      "name": "oversee return shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008733,
+      "mentions": 1
+    },
+    {
+      "name": "The Importance of Offering Exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00867,
+      "mentions": 1
+    },
+    {
+      "name": "retain customers",
+      "type": "OTHER",
+      "salience": 0.008533,
+      "mentions": 1
+    },
+    {
+      "name": "highlighting the importance of providing clear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008314,
+      "mentions": 1
+    },
+    {
+      "name": "identify seasonal fluctuations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008283,
+      "mentions": 1
+    },
+    {
+      "name": "Other",
+      "type": "PERSON",
+      "salience": 0.007743,
+      "mentions": 1
+    },
+    {
+      "name": "including",
+      "type": "OTHER",
+      "salience": 0.007421,
+      "mentions": 1
+    },
+    {
+      "name": "warehousing/",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006798,
+      "mentions": 1
+    },
+    {
+      "name": "we",
+      "type": "OTHER",
+      "salience": 0.006269,
+      "mentions": 1
+    },
+    {
+      "name": "In 2020",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006074,
+      "mentions": 1
+    },
+    {
+      "name": "clear",
+      "type": "OTHER",
+      "salience": 0.006073,
+      "mentions": 1
+    },
+    {
+      "name": "interchangeably",
+      "type": "OTHER",
+      "salience": 0.006051,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.005911,
+      "mentions": 1
+    },
+    {
+      "name": "The Importance of Customer Communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005651,
+      "mentions": 1
+    },
+    {
+      "name": "ship",
+      "type": "OTHER",
+      "salience": 0.005468,
+      "mentions": 1
+    },
+    {
+      "name": "our 2022 Returns Report",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005366,
+      "mentions": 1
+    },
+    {
+      "name": "According to the National Retail Federation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004946,
+      "mentions": 1
+    },
+    {
+      "name": "Dec 16",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004895,
+      "mentions": 1
+    },
+    {
+      "name": "Hasan Nabulsi",
+      "type": "PERSON",
+      "salience": 0.004359,
+      "mentions": 1
+    },
+    {
+      "name": "to streamline the restocking process.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004151,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Guides",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003925,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Insurance",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003872,
+      "mentions": 1
+    },
+    {
+      "name": "Shippo",
+      "type": "PERSON",
+      "salience": 0.003804,
+      "mentions": 1
+    },
+    {
+      "name": "Be clear about accepting returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003573,
+      "mentions": 1
+    },
+    {
+      "name": "Returned Items",
+      "type": "PERSON",
+      "salience": 0.003567,
+      "mentions": 1
+    },
+    {
+      "name": "understanding",
+      "type": "OTHER",
+      "salience": 0.003442,
+      "mentions": 1
+    },
+    {
+      "name": "Poor Quality",
+      "type": "PERSON",
+      "salience": 0.003403,
+      "mentions": 1
+    },
+    {
+      "name": "Buyers Remorse",
+      "type": "PERSON",
+      "salience": 0.003306,
+      "mentions": 1
+    },
+    {
+      "name": "January",
+      "type": "PERSON",
+      "salience": 0.003249,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.003218,
+      "mentions": 1
+    },
+    {
+      "name": "From there",
+      "type": "OTHER",
+      "salience": 0.003089,
+      "mentions": 1
+    },
+    {
+      "name": "where they are returning it from",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003089,
+      "mentions": 1
+    },
+    {
+      "name": "concise",
+      "type": "OTHER",
+      "salience": 0.002919,
+      "mentions": 1
+    },
+    {
+      "name": "formulate returns policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002884,
+      "mentions": 1
+    },
+    {
+      "name": "With Shippo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002574,
+      "mentions": 1
+    },
+    {
+      "name": "fulfillment",
+      "type": "OTHER",
+      "salience": 0.002568,
+      "mentions": 2
+    },
+    {
+      "name": "With Shippo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002533,
+      "mentions": 1
+    },
+    {
+      "name": "managing reverse shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002444,
+      "mentions": 1
+    },
+    {
+      "name": "expert tips",
+      "type": "OTHER",
+      "salience": 0.002408,
+      "mentions": 1
+    },
+    {
+      "name": "Business",
+      "type": "OTHER",
+      "salience": 0.002302,
+      "mentions": 1
+    },
+    {
+      "name": "Be careful as this could also deter initial sales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00215,
+      "mentions": 1
+    },
+    {
+      "name": "Implementing",
+      "type": "OTHER",
+      "salience": 0.002149,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.002104,
+      "mentions": 1
+    },
+    {
+      "name": "increase revenue",
+      "type": "OTHER",
+      "salience": 0.001948,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce News and Insights",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001876,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce News and Insights",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001868,
+      "mentions": 1
+    },
+    {
+      "name": "Increasing the returns window",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001856,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce News and Insights",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001849,
+      "mentions": 1
+    },
+    {
+      "name": "It touches sales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001828,
+      "mentions": 1
+    },
+    {
+      "name": "return package",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001744,
+      "mentions": 1
+    },
+    {
+      "name": "promoting exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001631,
+      "mentions": 1
+    },
+    {
+      "name": "Limiting Returns Fraud",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001624,
+      "mentions": 1
+    },
+    {
+      "name": "With Shippo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001609,
+      "mentions": 1
+    },
+    {
+      "name": "enhance the customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001608,
+      "mentions": 1
+    },
+    {
+      "name": "As we mentioned before",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001569,
+      "mentions": 1
+    },
+    {
+      "name": "pack",
+      "type": "LOCATION",
+      "salience": 0.001566,
+      "mentions": 1
+    },
+    {
+      "name": "Including transparent and detailed product descriptions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001546,
+      "mentions": 1
+    },
+    {
+      "name": "streamlining",
+      "type": "OTHER",
+      "salience": 0.001512,
+      "mentions": 1
+    },
+    {
+      "name": "streamline returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001456,
+      "mentions": 1
+    },
+    {
+      "name": "Expedited Shipping: What It Is and Services Compared",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001365,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.001311,
+      "mentions": 1
+    },
+    {
+      "name": "Identifying and potentially blacklisting serial returners",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001269,
+      "mentions": 1
+    },
+    {
+      "name": "those that return an extreme amount of products",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001269,
+      "mentions": 1
+    },
+    {
+      "name": "and setting clear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001246,
+      "mentions": 1
+    },
+    {
+      "name": "high-quality photos",
+      "type": "OTHER",
+      "salience": 0.001246,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce Returns Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001228,
+      "mentions": 1
+    },
+    {
+      "name": "more efficiently",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001201,
+      "mentions": 1
+    },
+    {
+      "name": "prioritizing customer communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001201,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce",
+      "type": "OTHER",
+      "salience": 0.001178,
+      "mentions": 1
+    },
+    {
+      "name": "can boost efficiency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001157,
+      "mentions": 1
+    },
+    {
+      "name": "easy-to-find",
+      "type": "OTHER",
+      "salience": 0.001146,
+      "mentions": 1
+    },
+    {
+      "name": "inspected",
+      "type": "OTHER",
+      "salience": 0.001104,
+      "mentions": 1
+    },
+    {
+      "name": "According to the National Retail Federation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001078,
+      "mentions": 1
+    },
+    {
+      "name": "pages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001063,
+      "mentions": 1
+    },
+    {
+      "name": "Using the right software and right technology",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001051,
+      "mentions": 1
+    },
+    {
+      "name": "satisfaction.",
+      "type": "OTHER",
+      "salience": 0.001019,
+      "mentions": 1
+    },
+    {
+      "name": "According to the National Retail Federation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001008,
+      "mentions": 1
+    },
+    {
+      "name": "retailers who make exchanges easy and seamless see higher customer retention rates and more repeat purchases.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001008,
+      "mentions": 1
+    },
+    {
+      "name": "Get started",
+      "type": "OTHER",
+      "salience": 0.001005,
+      "mentions": 1
+    },
+    {
+      "name": "Streamlining",
+      "type": "OTHER",
+      "salience": 0.001005,
+      "mentions": 1
+    },
+    {
+      "name": "QuickBooks Online: How to Automate Shipping and Accounting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000992,
+      "mentions": 1
+    },
+    {
+      "name": "and accept returns at one location",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000979,
+      "mentions": 1
+    },
+    {
+      "name": "Most Popular",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000884,
+      "mentions": 1
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "salience": 0.000842,
+      "mentions": 1
+    },
+    {
+      "name": "Those include",
+      "type": "OTHER",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "Clear",
+      "type": "PERSON",
+      "salience": 0.000794,
+      "mentions": 1
+    },
+    {
+      "name": "opportunities.",
+      "type": "OTHER",
+      "salience": 0.000765,
+      "mentions": 1
+    },
+    {
+      "name": "Offering multiple communication channels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000726,
+      "mentions": 1
+    },
+    {
+      "name": "Incorporate",
+      "type": "PERSON",
+      "salience": 0.000722,
+      "mentions": 1
+    },
+    {
+      "name": "Bracketing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000718,
+      "mentions": 1
+    },
+    {
+      "name": "preventing damage with proper packaging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000716,
+      "mentions": 1
+    },
+    {
+      "name": "sizing charts",
+      "type": "OTHER",
+      "salience": 0.000716,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.000696,
+      "mentions": 1
+    },
+    {
+      "name": "Recommended Articles",
+      "type": "OTHER",
+      "salience": 0.000682,
+      "mentions": 1
+    },
+    {
+      "name": "CS",
+      "type": "OTHER",
+      "salience": 0.000666,
+      "mentions": 1
+    },
+    {
+      "name": "Operations",
+      "type": "OTHER",
+      "salience": 0.000657,
+      "mentions": 1
+    },
+    {
+      "name": "inspecting items",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000637,
+      "mentions": 1
+    },
+    {
+      "name": "margins",
+      "type": "OTHER",
+      "salience": 0.000603,
+      "mentions": 1
+    },
+    {
+      "name": "clear descriptions",
+      "type": "OTHER",
+      "salience": 0.000599,
+      "mentions": 1
+    },
+    {
+      "name": "Promoting exchanges instead of returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000596,
+      "mentions": 1
+    },
+    {
+      "name": "carriers",
+      "type": "OTHER",
+      "salience": 0.000567,
+      "mentions": 1
+    },
+    {
+      "name": "authorization",
+      "type": "OTHER",
+      "salience": 0.000519,
+      "mentions": 1
+    },
+    {
+      "name": "RMA",
+      "type": "OTHER",
+      "salience": 0.000519,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.000506,
+      "mentions": 1
+    },
+    {
+      "name": "getting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000506,
+      "mentions": 1
+    },
+    {
+      "name": "finance",
+      "type": "OTHER",
+      "salience": 0.000505,
+      "mentions": 1
+    },
+    {
+      "name": "which can further erode profits.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000502,
+      "mentions": 1
+    },
+    {
+      "name": "and destination warehouses",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000501,
+      "mentions": 1
+    },
+    {
+      "name": "it's essential to track and measure key performance indicators.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000496,
+      "mentions": 1
+    },
+    {
+      "name": "ex., a sizing chart",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000479,
+      "mentions": 1
+    },
+    {
+      "name": "avoiding order errors",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000476,
+      "mentions": 1
+    },
+    {
+      "name": "ex. offering 10% off an exchange",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000473,
+      "mentions": 1
+    },
+    {
+      "name": "—something 30% of consumers prefer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000471,
+      "mentions": 1
+    },
+    {
+      "name": "bulk label purchase",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000462,
+      "mentions": 1
+    },
+    {
+      "name": "Gatekeeping",
+      "type": "OTHER",
+      "salience": 0.000459,
+      "mentions": 1
+    },
+    {
+      "name": "WMS",
+      "type": "OTHER",
+      "salience": 0.000452,
+      "mentions": 1
+    },
+    {
+      "name": "Best of all",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000443,
+      "mentions": 1
+    },
+    {
+      "name": "a24733290240.cdn.optimizely.com",
+      "type": "OTHER",
+      "salience": 0.00044,
+      "mentions": 2
+    },
+    {
+      "name": "customer service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000436,
+      "mentions": 1
+    },
+    {
+      "name": "Establishing",
+      "type": "PERSON",
+      "salience": 0.00034,
+      "mentions": 1
+    },
+    {
+      "name": "Amazon",
+      "type": "OTHER",
+      "salience": 0.000335,
+      "mentions": 1
+    },
+    {
+      "name": "eBay",
+      "type": "ORGANIZATION",
+      "salience": 0.000335,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.000335,
+      "mentions": 1
+    },
+    {
+      "name": "Speed through your shipping with automations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000334,
+      "mentions": 1
+    },
+    {
+      "name": "Loading...",
+      "type": "OTHER",
+      "salience": 0.000329,
+      "mentions": 1
+    },
+    {
+      "name": "SMB shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000327,
+      "mentions": 1
+    },
+    {
+      "name": "ERR_BLOCKED_BY_CLIENT",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000316,
+      "mentions": 1
+    },
+    {
+      "name": "Reload",
+      "type": "OTHER",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "drop-off locations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000288,
+      "mentions": 1
+    },
+    {
+      "name": "such as email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "phone",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "recycle",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "FAQ",
+      "type": "OTHER",
+      "salience": 0.000198,
+      "mentions": 1
+    },
+    {
+      "name": "$761",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Dec 16, 2022",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$25.3",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "42",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "88",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "67",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "84",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "761",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25.3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "96",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 63,
+    "ORGANIZATION": 5,
+    "CONSUMER_GOOD": 85,
+    "PERSON": 12,
+    "LOCATION": 1,
+    "PRICE": 2,
+    "NUMBER": 28,
+    "DATE": 3
+  },
+  "type_salience": {
+    "OTHER": 0.5805130000000001,
+    "ORGANIZATION": 0.053955,
+    "CONSUMER_GOOD": 0.2914830000000002,
+    "PERSON": 0.05596000000000002,
+    "LOCATION": 0.001566,
+    "PRICE": 0.0,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

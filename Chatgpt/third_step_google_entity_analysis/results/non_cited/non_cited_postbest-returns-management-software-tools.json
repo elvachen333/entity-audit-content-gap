@@ -1,0 +1,729 @@
+{
+  "file": "non_cited_postbest-returns-management-software-tools.txt",
+  "word_count": 2111,
+  "entity_count": 117,
+  "entities": [
+    {
+      "name": "The top 12 best returns management software tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.150725,
+      "mentions": 1
+    },
+    {
+      "name": "Returns management operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.109541,
+      "mentions": 1
+    },
+    {
+      "name": "And to top it all off",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.088664,
+      "mentions": 1
+    },
+    {
+      "name": "beyond returns.",
+      "type": "OTHER",
+      "salience": 0.073747,
+      "mentions": 1
+    },
+    {
+      "name": "delivering",
+      "type": "OTHER",
+      "salience": 0.048672,
+      "mentions": 1
+    },
+    {
+      "name": "Back to blog",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.045005,
+      "mentions": 1
+    },
+    {
+      "name": "cost-efficiency",
+      "type": "OTHER",
+      "salience": 0.029414,
+      "mentions": 2
+    },
+    {
+      "name": "effective solutions",
+      "type": "OTHER",
+      "salience": 0.027226,
+      "mentions": 1
+    },
+    {
+      "name": "helping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026864,
+      "mentions": 1
+    },
+    {
+      "name": "Up to 30 percent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026086,
+      "mentions": 1
+    },
+    {
+      "name": "Emma Dinning",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017108,
+      "mentions": 1
+    },
+    {
+      "name": "we",
+      "type": "OTHER",
+      "salience": 0.01685,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Support",
+      "type": "OTHER",
+      "salience": 0.015233,
+      "mentions": 1
+    },
+    {
+      "name": "July 3",
+      "type": "OTHER",
+      "salience": 0.014187,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management",
+      "type": "PERSON",
+      "salience": 0.013583,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "PERSON",
+      "salience": 0.013234,
+      "mentions": 1
+    },
+    {
+      "name": "With more than 60 fulfillment centers around the world",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012761,
+      "mentions": 1
+    },
+    {
+      "name": "experience at every turn",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011809,
+      "mentions": 1
+    },
+    {
+      "name": "and CX",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011533,
+      "mentions": 1
+    },
+    {
+      "name": "and Canada Post",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010634,
+      "mentions": 1
+    },
+    {
+      "name": "ShipBob",
+      "type": "OTHER",
+      "salience": 0.010569,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping solutions",
+      "type": "OTHER",
+      "salience": 0.010305,
+      "mentions": 1
+    },
+    {
+      "name": "ShipBob integrates seamlessly with Shopify's ecommerce platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010301,
+      "mentions": 1
+    },
+    {
+      "name": "automated system.",
+      "type": "OTHER",
+      "salience": 0.009965,
+      "mentions": 1
+    },
+    {
+      "name": "it's great at what it does",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009091,
+      "mentions": 1
+    },
+    {
+      "name": "Gorgias",
+      "type": "OTHER",
+      "salience": 0.009091,
+      "mentions": 1
+    },
+    {
+      "name": "sustainable growth",
+      "type": "OTHER",
+      "salience": 0.008361,
+      "mentions": 1
+    },
+    {
+      "name": "and more",
+      "type": "OTHER",
+      "salience": 0.007553,
+      "mentions": 1
+    },
+    {
+      "name": "First up",
+      "type": "OTHER",
+      "salience": 0.007207,
+      "mentions": 1
+    },
+    {
+      "name": "Their simple pricing model starts at just $275 per month",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00645,
+      "mentions": 1
+    },
+    {
+      "name": "recycling facility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00615,
+      "mentions": 1
+    },
+    {
+      "name": "personalized support.",
+      "type": "OTHER",
+      "salience": 0.006054,
+      "mentions": 1
+    },
+    {
+      "name": "With over 100 shipping integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005452,
+      "mentions": 1
+    },
+    {
+      "name": "including Shopify POS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004371,
+      "mentions": 1
+    },
+    {
+      "name": "over 5,000 ecommerce brands",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004227,
+      "mentions": 1
+    },
+    {
+      "name": "and smart inventory management services.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004197,
+      "mentions": 1
+    },
+    {
+      "name": "which can alleviate concerns when it comes to international shipments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004174,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "PERSON",
+      "salience": 0.003931,
+      "mentions": 2
+    },
+    {
+      "name": "As one of the largest and most comprehensive",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003902,
+      "mentions": 1
+    },
+    {
+      "name": "merchants",
+      "type": "OTHER",
+      "salience": 0.00381,
+      "mentions": 1
+    },
+    {
+      "name": "EasyPost",
+      "type": "OTHER",
+      "salience": 0.00378,
+      "mentions": 1
+    },
+    {
+      "name": "Zendesk offers integrations with over 1,500 other apps",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003545,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.00346,
+      "mentions": 1
+    },
+    {
+      "name": "Retain more revenue with Loop today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002955,
+      "mentions": 1
+    },
+    {
+      "name": "enterprise-level",
+      "type": "OTHER",
+      "salience": 0.002849,
+      "mentions": 1
+    },
+    {
+      "name": "both when shipping and returning products.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002807,
+      "mentions": 1
+    },
+    {
+      "name": "upsell and cross-sell opportunities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002804,
+      "mentions": 1
+    },
+    {
+      "name": "including returns fraud detection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002804,
+      "mentions": 1
+    },
+    {
+      "name": "Ryder integrates with Loop",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0027,
+      "mentions": 1
+    },
+    {
+      "name": "state-of-the-art shipping solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002683,
+      "mentions": 1
+    },
+    {
+      "name": "Radial",
+      "type": "OTHER",
+      "salience": 0.002671,
+      "mentions": 1
+    },
+    {
+      "name": "over",
+      "type": "OTHER",
+      "salience": 0.002644,
+      "mentions": 1
+    },
+    {
+      "name": "Gorgias",
+      "type": "OTHER",
+      "salience": 0.002495,
+      "mentions": 1
+    },
+    {
+      "name": "destinations faster",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002484,
+      "mentions": 1
+    },
+    {
+      "name": "Using their AI agent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002451,
+      "mentions": 1
+    },
+    {
+      "name": "whether",
+      "type": "LOCATION",
+      "salience": 0.002402,
+      "mentions": 1
+    },
+    {
+      "name": "Gladly",
+      "type": "OTHER",
+      "salience": 0.00235,
+      "mentions": 1
+    },
+    {
+      "name": "Gladly offers a range of out-of-the-box integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002294,
+      "mentions": 1
+    },
+    {
+      "name": "Zendesk",
+      "type": "OTHER",
+      "salience": 0.002259,
+      "mentions": 1
+    },
+    {
+      "name": "Zendesk's AI tools can also assess the quality of your CX agent's customer interactions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002194,
+      "mentions": 1
+    },
+    {
+      "name": "with access to multiple locations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002132,
+      "mentions": 1
+    },
+    {
+      "name": "Gorgias' app store includes integrations with 100+ ecommerce apps",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002048,
+      "mentions": 1
+    },
+    {
+      "name": "needs at every turn",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002037,
+      "mentions": 1
+    },
+    {
+      "name": "uses conversational AI to answer customer questions and resolve issues quickly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001999,
+      "mentions": 1
+    },
+    {
+      "name": "New",
+      "type": "OTHER",
+      "salience": 0.001855,
+      "mentions": 1
+    },
+    {
+      "name": "least 10 agents.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001686,
+      "mentions": 1
+    },
+    {
+      "name": "requirements.",
+      "type": "OTHER",
+      "salience": 0.00164,
+      "mentions": 1
+    },
+    {
+      "name": "Continue reading",
+      "type": "OTHER",
+      "salience": 0.00161,
+      "mentions": 1
+    },
+    {
+      "name": "comprehensive",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001579,
+      "mentions": 1
+    },
+    {
+      "name": "3PLs/Warehouse",
+      "type": "OTHER",
+      "salience": 0.001564,
+      "mentions": 1
+    },
+    {
+      "name": "their 8,000+ Return Bar® locations across the nation.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001424,
+      "mentions": 1
+    },
+    {
+      "name": "chat",
+      "type": "OTHER",
+      "salience": 0.001373,
+      "mentions": 1
+    },
+    {
+      "name": "personalized",
+      "type": "OTHER",
+      "salience": 0.001288,
+      "mentions": 1
+    },
+    {
+      "name": "April 14",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001267,
+      "mentions": 1
+    },
+    {
+      "name": "Beyond Returns",
+      "type": "PERSON",
+      "salience": 0.001261,
+      "mentions": 1
+    },
+    {
+      "name": "including voice",
+      "type": "OTHER",
+      "salience": 0.001168,
+      "mentions": 1
+    },
+    {
+      "name": "Passport",
+      "type": "OTHER",
+      "salience": 0.001055,
+      "mentions": 1
+    },
+    {
+      "name": "and in-app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000993,
+      "mentions": 1
+    },
+    {
+      "name": "social media",
+      "type": "OTHER",
+      "salience": 0.000993,
+      "mentions": 1
+    },
+    {
+      "name": "into one unified dashboard view",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000993,
+      "mentions": 1
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "salience": 0.000993,
+      "mentions": 1
+    },
+    {
+      "name": "Sidekick",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000961,
+      "mentions": 1
+    },
+    {
+      "name": "and review analysts' ratings.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000943,
+      "mentions": 1
+    },
+    {
+      "name": "instantaneously",
+      "type": "OTHER",
+      "salience": 0.000925,
+      "mentions": 1
+    },
+    {
+      "name": "April 9",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000904,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.000613,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.000613,
+      "mentions": 1
+    },
+    {
+      "name": "including USPS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000613,
+      "mentions": 1
+    },
+    {
+      "name": "including support with customs & trade",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000599,
+      "mentions": 1
+    },
+    {
+      "name": "fiscal",
+      "type": "OTHER",
+      "salience": 0.000599,
+      "mentions": 1
+    },
+    {
+      "name": "April 14, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 9, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$275",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "275",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 3, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 47,
+    "OTHER": 37,
+    "PERSON": 5,
+    "LOCATION": 1,
+    "ORGANIZATION": 2,
+    "DATE": 3,
+    "NUMBER": 23,
+    "PRICE": 1
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.6189440000000003,
+    "OTHER": 0.3358150000000001,
+    "PERSON": 0.032009,
+    "LOCATION": 0.002402,
+    "ORGANIZATION": 0.001226,
+    "DATE": 0.0,
+    "NUMBER": 0.0,
+    "PRICE": 0.0
+  }
+}

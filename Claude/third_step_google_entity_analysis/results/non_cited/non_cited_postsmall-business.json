@@ -1,0 +1,2919 @@
+{
+  "file": "non_cited_postsmall-business.txt",
+  "word_count": 4363,
+  "entity_count": 482,
+  "entities": [
+    {
+      "name": "AI",
+      "type": "OTHER",
+      "salience": 0.058098,
+      "mentions": 1
+    },
+    {
+      "name": "package tracking",
+      "type": "OTHER",
+      "salience": 0.041533,
+      "mentions": 1
+    },
+    {
+      "name": "agents",
+      "type": "OTHER",
+      "salience": 0.029967,
+      "mentions": 3
+    },
+    {
+      "name": "notifications.",
+      "type": "OTHER",
+      "salience": 0.021307,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping",
+      "type": "OTHER",
+      "salience": 0.019783,
+      "mentions": 1
+    },
+    {
+      "name": "Notifii Connect",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016746,
+      "mentions": 1
+    },
+    {
+      "name": "Notifii Track",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016509,
+      "mentions": 4
+    },
+    {
+      "name": "Small business",
+      "type": "OTHER",
+      "salience": 0.014934,
+      "mentions": 1
+    },
+    {
+      "name": "operating-constraint",
+      "type": "PERSON",
+      "salience": 0.014474,
+      "mentions": 1
+    },
+    {
+      "name": "Most relevant",
+      "type": "OTHER",
+      "salience": 0.014236,
+      "mentions": 1
+    },
+    {
+      "name": "Returns management",
+      "type": "OTHER",
+      "salience": 0.013655,
+      "mentions": 1
+    },
+    {
+      "name": "Customer-facing",
+      "type": "OTHER",
+      "salience": 0.011913,
+      "mentions": 2
+    },
+    {
+      "name": "it",
+      "type": "LOCATION",
+      "salience": 0.01182,
+      "mentions": 1
+    },
+    {
+      "name": "Fleet management",
+      "type": "OTHER",
+      "salience": 0.011311,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce post-purchase tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010154,
+      "mentions": 1
+    },
+    {
+      "name": "FitGap evaluated 14 small-business package tracking products against its expert-reviewed requirement framework",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009154,
+      "mentions": 1
+    },
+    {
+      "name": "an e-commerce merchant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00886,
+      "mentions": 1
+    },
+    {
+      "name": "automatically",
+      "type": "OTHER",
+      "salience": 0.008577,
+      "mentions": 1
+    },
+    {
+      "name": "operational context",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008568,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce post-purchase tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007227,
+      "mentions": 1
+    },
+    {
+      "name": "Small delivery businesses",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006825,
+      "mentions": 1
+    },
+    {
+      "name": "Customers initiate returns independently",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006726,
+      "mentions": 1
+    },
+    {
+      "name": "User corporate size",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006665,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking page",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006622,
+      "mentions": 1
+    },
+    {
+      "name": "User industry",
+      "type": "OTHER",
+      "salience": 0.006491,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip",
+      "type": "OTHER",
+      "salience": 0.00596,
+      "mentions": 5
+    },
+    {
+      "name": "Integration depth varies by stack",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005874,
+      "mentions": 1
+    },
+    {
+      "name": "Overview",
+      "type": "OTHER",
+      "salience": 0.005817,
+      "mentions": 1
+    },
+    {
+      "name": "Even within the small-business filter",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005749,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.005675,
+      "mentions": 1
+    },
+    {
+      "name": "Top picks by use case",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00519,
+      "mentions": 1
+    },
+    {
+      "name": "February 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00519,
+      "mentions": 1
+    },
+    {
+      "name": "Corporate size",
+      "type": "OTHER",
+      "salience": 0.005139,
+      "mentions": 1
+    },
+    {
+      "name": "Free version",
+      "type": "OTHER",
+      "salience": 0.005122,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping and tracking in one workflow",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005088,
+      "mentions": 1
+    },
+    {
+      "name": "platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005026,
+      "mentions": 1
+    },
+    {
+      "name": "automated customer notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004798,
+      "mentions": 1
+    },
+    {
+      "name": "Medium",
+      "type": "OTHER",
+      "salience": 0.004755,
+      "mentions": 1
+    },
+    {
+      "name": "from reactive support to rule-based automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004751,
+      "mentions": 1
+    },
+    {
+      "name": "User corporate size",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004741,
+      "mentions": 1
+    },
+    {
+      "name": "Last-mile delivery tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004722,
+      "mentions": 1
+    },
+    {
+      "name": "View review",
+      "type": "OTHER",
+      "salience": 0.004705,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing from",
+      "type": "OTHER",
+      "salience": 0.004671,
+      "mentions": 1
+    },
+    {
+      "name": "Branded post-purchase experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004667,
+      "mentions": 1
+    },
+    {
+      "name": "User industry",
+      "type": "OTHER",
+      "salience": 0.004655,
+      "mentions": 1
+    },
+    {
+      "name": "Media and communications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004635,
+      "mentions": 1
+    },
+    {
+      "name": "Integration depth varies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00462,
+      "mentions": 1
+    },
+    {
+      "name": "Sendcloud",
+      "type": "OTHER",
+      "salience": 0.004397,
+      "mentions": 4
+    },
+    {
+      "name": "The SDK abstracts the complexity of continuous location streaming",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004397,
+      "mentions": 1
+    },
+    {
+      "name": "Fit",
+      "type": "OTHER",
+      "salience": 0.004384,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier aggregation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004347,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio",
+      "type": "OTHER",
+      "salience": 0.004318,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier tracking at scale",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004179,
+      "mentions": 1
+    },
+    {
+      "name": "User corporate size",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00417,
+      "mentions": 1
+    },
+    {
+      "name": "User industry",
+      "type": "OTHER",
+      "salience": 0.004113,
+      "mentions": 1
+    },
+    {
+      "name": "gap perspective",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004062,
+      "mentions": 1
+    },
+    {
+      "name": "FitGaps's take",
+      "type": "OTHER",
+      "salience": 0.004047,
+      "mentions": 1
+    },
+    {
+      "name": "Returns workflow capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004046,
+      "mentions": 1
+    },
+    {
+      "name": "Teliver",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004042,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce platform integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004038,
+      "mentions": 1
+    },
+    {
+      "name": "Inbound package and mailroom management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003981,
+      "mentions": 1
+    },
+    {
+      "name": "problems",
+      "type": "OTHER",
+      "salience": 0.003946,
+      "mentions": 1
+    },
+    {
+      "name": "Manufacturing",
+      "type": "OTHER",
+      "salience": 0.003798,
+      "mentions": 1
+    },
+    {
+      "name": "ECommerce operations",
+      "type": "OTHER",
+      "salience": 0.003768,
+      "mentions": 1
+    },
+    {
+      "name": "Identifying",
+      "type": "PERSON",
+      "salience": 0.003725,
+      "mentions": 1
+    },
+    {
+      "name": "Detrack",
+      "type": "OTHER",
+      "salience": 0.003689,
+      "mentions": 4
+    },
+    {
+      "name": "eliminating",
+      "type": "OTHER",
+      "salience": 0.003673,
+      "mentions": 1
+    },
+    {
+      "name": "Top picks by use case",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003654,
+      "mentions": 1
+    },
+    {
+      "name": "Branded tracking communications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003639,
+      "mentions": 1
+    },
+    {
+      "name": "Roadcast",
+      "type": "OTHER",
+      "salience": 0.00363,
+      "mentions": 1
+    },
+    {
+      "name": "This structural sequence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003561,
+      "mentions": 1
+    },
+    {
+      "name": "e-commerce tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003506,
+      "mentions": 1
+    },
+    {
+      "name": "communication.",
+      "type": "OTHER",
+      "salience": 0.003466,
+      "mentions": 2
+    },
+    {
+      "name": "Not real estate focused",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003453,
+      "mentions": 1
+    },
+    {
+      "name": "Medium",
+      "type": "OTHER",
+      "salience": 0.003397,
+      "mentions": 1
+    },
+    {
+      "name": "Wasp Package Tracker",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003372,
+      "mentions": 1
+    },
+    {
+      "name": "Post-purchase tracking and returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00333,
+      "mentions": 1
+    },
+    {
+      "name": "View review",
+      "type": "OTHER",
+      "salience": 0.003308,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing from",
+      "type": "OTHER",
+      "salience": 0.003292,
+      "mentions": 1
+    },
+    {
+      "name": "Post-purchase experience with returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003267,
+      "mentions": 1
+    },
+    {
+      "name": "Top picks",
+      "type": "OTHER",
+      "salience": 0.003264,
+      "mentions": 1
+    },
+    {
+      "name": "with verified specifications tracked across dozens of evaluation axes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003022,
+      "mentions": 1
+    },
+    {
+      "name": "For customer-facing ETA communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003014,
+      "mentions": 1
+    },
+    {
+      "name": "Medium",
+      "type": "OTHER",
+      "salience": 0.002994,
+      "mentions": 1
+    },
+    {
+      "name": "FitGaps's take",
+      "type": "OTHER",
+      "salience": 0.002925,
+      "mentions": 1
+    },
+    {
+      "name": "View review",
+      "type": "OTHER",
+      "salience": 0.002893,
+      "mentions": 1
+    },
+    {
+      "name": "and emailed.",
+      "type": "OTHER",
+      "salience": 0.002887,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing from",
+      "type": "OTHER",
+      "salience": 0.002882,
+      "mentions": 1
+    },
+    {
+      "name": "Selection compass: how to prioritize requirements",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002876,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently asked questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002803,
+      "mentions": 1
+    },
+    {
+      "name": "local couriers",
+      "type": "OTHER",
+      "salience": 0.002783,
+      "mentions": 1
+    },
+    {
+      "name": "keeps return processing manageable without dedicated operations staff",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00273,
+      "mentions": 1
+    },
+    {
+      "name": "This structural shift",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00273,
+      "mentions": 1
+    },
+    {
+      "name": "Contact the product provider",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002694,
+      "mentions": 1
+    },
+    {
+      "name": "Multicarrier label and rate management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002619,
+      "mentions": 1
+    },
+    {
+      "name": "FitGaps's take",
+      "type": "OTHER",
+      "salience": 0.002611,
+      "mentions": 1
+    },
+    {
+      "name": "AI chatbots software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002573,
+      "mentions": 1
+    },
+    {
+      "name": "software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002573,
+      "mentions": 8
+    },
+    {
+      "name": "CPQ software",
+      "type": "OTHER",
+      "salience": 0.002563,
+      "mentions": 2
+    },
+    {
+      "name": "Email marketing software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002555,
+      "mentions": 1
+    },
+    {
+      "name": "Antivirus software",
+      "type": "OTHER",
+      "salience": 0.002548,
+      "mentions": 2
+    },
+    {
+      "name": "Document management software",
+      "type": "OTHER",
+      "salience": 0.002536,
+      "mentions": 2
+    },
+    {
+      "name": "Customer service automation software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002531,
+      "mentions": 1
+    },
+    {
+      "name": "Accounting software",
+      "type": "OTHER",
+      "salience": 0.002523,
+      "mentions": 2
+    },
+    {
+      "name": "Business process management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002504,
+      "mentions": 1
+    },
+    {
+      "name": "where is my order",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002395,
+      "mentions": 1
+    },
+    {
+      "name": "single decision",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00236,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-carrier post-purchase layer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002344,
+      "mentions": 1
+    },
+    {
+      "name": "notification-only",
+      "type": "OTHER",
+      "salience": 0.00233,
+      "mentions": 1
+    },
+    {
+      "name": "and GPS-stamped timestamps at the point of delivery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002311,
+      "mentions": 1
+    },
+    {
+      "name": "eliminating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002266,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.002262,
+      "mentions": 1
+    },
+    {
+      "name": "Deployment model",
+      "type": "OTHER",
+      "salience": 0.002165,
+      "mentions": 1
+    },
+    {
+      "name": "where is my delivery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002151,
+      "mentions": 1
+    },
+    {
+      "name": "Cloud-based",
+      "type": "OTHER",
+      "salience": 0.002142,
+      "mentions": 1
+    },
+    {
+      "name": "in-house driver deliveries",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002132,
+      "mentions": 1
+    },
+    {
+      "name": "office packages",
+      "type": "OTHER",
+      "salience": 0.002132,
+      "mentions": 1
+    },
+    {
+      "name": "The tools only surface what carriers report",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00212,
+      "mentions": 1
+    },
+    {
+      "name": "carriers",
+      "type": "OTHER",
+      "salience": 0.002019,
+      "mentions": 1
+    },
+    {
+      "name": "Small offices",
+      "type": "OTHER",
+      "salience": 0.00199,
+      "mentions": 1
+    },
+    {
+      "name": "connection management",
+      "type": "OTHER",
+      "salience": 0.001969,
+      "mentions": 1
+    },
+    {
+      "name": "Notifii Connect",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001952,
+      "mentions": 1
+    },
+    {
+      "name": "Notifii Connect",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001913,
+      "mentions": 1
+    },
+    {
+      "name": "deliveries",
+      "type": "OTHER",
+      "salience": 0.001902,
+      "mentions": 1
+    },
+    {
+      "name": "Notifii Connect",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001892,
+      "mentions": 1
+    },
+    {
+      "name": "Sendcloud also surfaces carrier selection at checkout",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001861,
+      "mentions": 1
+    },
+    {
+      "name": "Last-mile delivery tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00179,
+      "mentions": 1
+    },
+    {
+      "name": "carrier",
+      "type": "OTHER",
+      "salience": 0.001778,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio",
+      "type": "OTHER",
+      "salience": 0.00177,
+      "mentions": 1
+    },
+    {
+      "name": "Table of contents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001751,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier tracking plus logging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001703,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio",
+      "type": "OTHER",
+      "salience": 0.001691,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio bundles shipment tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00168,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio",
+      "type": "OTHER",
+      "salience": 0.001653,
+      "mentions": 1
+    },
+    {
+      "name": "drivers",
+      "type": "OTHER",
+      "salience": 0.001649,
+      "mentions": 1
+    },
+    {
+      "name": "Driver app and POD capture",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001636,
+      "mentions": 1
+    },
+    {
+      "name": "Automated shipment status notifications to recipients",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001543,
+      "mentions": 1
+    },
+    {
+      "name": "notification",
+      "type": "OTHER",
+      "salience": 0.001541,
+      "mentions": 1
+    },
+    {
+      "name": "International",
+      "type": "OTHER",
+      "salience": 0.001529,
+      "mentions": 1
+    },
+    {
+      "name": "Content management",
+      "type": "OTHER",
+      "salience": 0.001501,
+      "mentions": 2
+    },
+    {
+      "name": "Integration requirements vary",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00149,
+      "mentions": 1
+    },
+    {
+      "name": "IT management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001482,
+      "mentions": 2
+    },
+    {
+      "name": "Customer success software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001467,
+      "mentions": 1
+    },
+    {
+      "name": "platforms without one require building location infrastructure independently",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001455,
+      "mentions": 1
+    },
+    {
+      "name": "User corporate size",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00142,
+      "mentions": 1
+    },
+    {
+      "name": "User industry",
+      "type": "OTHER",
+      "salience": 0.001405,
+      "mentions": 1
+    },
+    {
+      "name": "Customer service automation software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001396,
+      "mentions": 1
+    },
+    {
+      "name": "Customer success software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001394,
+      "mentions": 1
+    },
+    {
+      "name": "freeing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001385,
+      "mentions": 1
+    },
+    {
+      "name": "Customer-facing branding control and customization depth",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001365,
+      "mentions": 1
+    },
+    {
+      "name": "Related words",
+      "type": "OTHER",
+      "salience": 0.001331,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier network breadth and auto-resolution depth",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001317,
+      "mentions": 1
+    },
+    {
+      "name": "User corporate size",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001316,
+      "mentions": 1
+    },
+    {
+      "name": "User industry",
+      "type": "OTHER",
+      "salience": 0.001305,
+      "mentions": 1
+    },
+    {
+      "name": "Real estate category fit is narrow",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001286,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time GPS fleet monitoring",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001283,
+      "mentions": 1
+    },
+    {
+      "name": "Workflow management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001274,
+      "mentions": 1
+    },
+    {
+      "name": "Operational",
+      "type": "PERSON",
+      "salience": 0.001264,
+      "mentions": 1
+    },
+    {
+      "name": "data throttling",
+      "type": "OTHER",
+      "salience": 0.00124,
+      "mentions": 1
+    },
+    {
+      "name": "User corporate size",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001236,
+      "mentions": 1
+    },
+    {
+      "name": "User industry",
+      "type": "OTHER",
+      "salience": 0.001226,
+      "mentions": 1
+    },
+    {
+      "name": "entertainment",
+      "type": "OTHER",
+      "salience": 0.00122,
+      "mentions": 2
+    },
+    {
+      "name": "Show all",
+      "type": "OTHER",
+      "salience": 0.001218,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time fleet visibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001218,
+      "mentions": 1
+    },
+    {
+      "name": "Workflow management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001202,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0012,
+      "mentions": 1
+    },
+    {
+      "name": "Overview",
+      "type": "OTHER",
+      "salience": 0.001135,
+      "mentions": 1
+    },
+    {
+      "name": "converting",
+      "type": "OTHER",
+      "salience": 0.001131,
+      "mentions": 1
+    },
+    {
+      "name": "Without it",
+      "type": "OTHER",
+      "salience": 0.001117,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time location and ETA tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001097,
+      "mentions": 1
+    },
+    {
+      "name": "User corporate size",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001091,
+      "mentions": 1
+    },
+    {
+      "name": "User industry",
+      "type": "OTHER",
+      "salience": 0.001084,
+      "mentions": 1
+    },
+    {
+      "name": "workflow automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001058,
+      "mentions": 1
+    },
+    {
+      "name": "autonomous",
+      "type": "OTHER",
+      "salience": 0.001058,
+      "mentions": 2
+    },
+    {
+      "name": "Self-service returns workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00105,
+      "mentions": 1
+    },
+    {
+      "name": "User corporate size",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001042,
+      "mentions": 1
+    },
+    {
+      "name": "User industry",
+      "type": "OTHER",
+      "salience": 0.001036,
+      "mentions": 1
+    },
+    {
+      "name": "Recipient notification",
+      "type": "OTHER",
+      "salience": 0.001027,
+      "mentions": 1
+    },
+    {
+      "name": "Medium",
+      "type": "OTHER",
+      "salience": 0.001021,
+      "mentions": 1
+    },
+    {
+      "name": "workflow automation",
+      "type": "OTHER",
+      "salience": 0.001021,
+      "mentions": 1
+    },
+    {
+      "name": "Integrations and analytics vary by deployment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001016,
+      "mentions": 1
+    },
+    {
+      "name": "Real estate system integration varies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001015,
+      "mentions": 1
+    },
+    {
+      "name": "Media and communications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001008,
+      "mentions": 1
+    },
+    {
+      "name": "Data science and machine learning platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00099,
+      "mentions": 1
+    },
+    {
+      "name": "Information technology and software",
+      "type": "LOCATION",
+      "salience": 0.000984,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics platforms",
+      "type": "LOCATION",
+      "salience": 0.000981,
+      "mentions": 1
+    },
+    {
+      "name": "View review",
+      "type": "OTHER",
+      "salience": 0.000981,
+      "mentions": 1
+    },
+    {
+      "name": "Recipient notification workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00098,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce platforms",
+      "type": "LOCATION",
+      "salience": 0.000979,
+      "mentions": 1
+    },
+    {
+      "name": "Integration details unclear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000978,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing from",
+      "type": "OTHER",
+      "salience": 0.000978,
+      "mentions": 1
+    },
+    {
+      "name": "and recreation",
+      "type": "OTHER",
+      "salience": 0.000969,
+      "mentions": 1
+    },
+    {
+      "name": "Arts",
+      "type": "OTHER",
+      "salience": 0.000969,
+      "mentions": 1
+    },
+    {
+      "name": "notification limits",
+      "type": "OTHER",
+      "salience": 0.000964,
+      "mentions": 1
+    },
+    {
+      "name": "Operational",
+      "type": "PERSON",
+      "salience": 0.000959,
+      "mentions": 1
+    },
+    {
+      "name": "Medium",
+      "type": "OTHER",
+      "salience": 0.000948,
+      "mentions": 1
+    },
+    {
+      "name": "Data visualization tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000947,
+      "mentions": 1
+    },
+    {
+      "name": "Live GPS tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000938,
+      "mentions": 1
+    },
+    {
+      "name": "Proof of delivery",
+      "type": "OTHER",
+      "salience": 0.000933,
+      "mentions": 1
+    },
+    {
+      "name": "Proof of delivery workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000925,
+      "mentions": 1
+    },
+    {
+      "name": "Operational audit trail",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000923,
+      "mentions": 1
+    },
+    {
+      "name": "Data science and machine learning platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000921,
+      "mentions": 1
+    },
+    {
+      "name": "Data visualization tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000906,
+      "mentions": 1
+    },
+    {
+      "name": "View review",
+      "type": "OTHER",
+      "salience": 0.000905,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing from",
+      "type": "OTHER",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "international carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000892,
+      "mentions": 1
+    },
+    {
+      "name": "Medium",
+      "type": "OTHER",
+      "salience": 0.00089,
+      "mentions": 1
+    },
+    {
+      "name": "FitGaps's take",
+      "type": "OTHER",
+      "salience": 0.000889,
+      "mentions": 1
+    },
+    {
+      "name": "Data warehouse solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000884,
+      "mentions": 1
+    },
+    {
+      "name": "with verified specifications across dozens of evaluation axes and current pricing data",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000884,
+      "mentions": 1
+    },
+    {
+      "name": "Fit",
+      "type": "OTHER",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "front-desk staff",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000868,
+      "mentions": 1
+    },
+    {
+      "name": "Proof of delivery capture",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000865,
+      "mentions": 1
+    },
+    {
+      "name": "Generative AI",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000861,
+      "mentions": 1
+    },
+    {
+      "name": "AI code generation software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000861,
+      "mentions": 1
+    },
+    {
+      "name": "AI image generators software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "AI video generators",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "AI writing assistants",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000859,
+      "mentions": 1
+    },
+    {
+      "name": "AI customer support agents software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000857,
+      "mentions": 1
+    },
+    {
+      "name": "Overview",
+      "type": "OTHER",
+      "salience": 0.000856,
+      "mentions": 1
+    },
+    {
+      "name": "Vertical AI",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000855,
+      "mentions": 1
+    },
+    {
+      "name": "View review",
+      "type": "OTHER",
+      "salience": 0.000849,
+      "mentions": 1
+    },
+    {
+      "name": "User corporate size",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000848,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing from",
+      "type": "OTHER",
+      "salience": 0.000847,
+      "mentions": 1
+    },
+    {
+      "name": "User industry",
+      "type": "OTHER",
+      "salience": 0.000844,
+      "mentions": 1
+    },
+    {
+      "name": "AI code generation software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000832,
+      "mentions": 1
+    },
+    {
+      "name": "AI image generators software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000831,
+      "mentions": 1
+    },
+    {
+      "name": "FitGaps's take",
+      "type": "OTHER",
+      "salience": 0.00083,
+      "mentions": 1
+    },
+    {
+      "name": "AI video generators",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00083,
+      "mentions": 1
+    },
+    {
+      "name": "AI writing assistants",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000829,
+      "mentions": 1
+    },
+    {
+      "name": "AI chatbots software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000827,
+      "mentions": 1
+    },
+    {
+      "name": "AI customer support agents software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000826,
+      "mentions": 1
+    },
+    {
+      "name": "Real estate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000825,
+      "mentions": 1
+    },
+    {
+      "name": "confirming",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000823,
+      "mentions": 1
+    },
+    {
+      "name": "faster notification directly reduces the storage backlog at reception",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000818,
+      "mentions": 1
+    },
+    {
+      "name": "gap perspective",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000813,
+      "mentions": 1
+    },
+    {
+      "name": "Mailroom chain of custody",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000804,
+      "mentions": 1
+    },
+    {
+      "name": "saw no update",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000797,
+      "mentions": 1
+    },
+    {
+      "name": "aggregate first",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000797,
+      "mentions": 1
+    },
+    {
+      "name": "prevents the most common support ticket trigger: a customer who checked the retailer's site",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000797,
+      "mentions": 1
+    },
+    {
+      "name": "then notify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000797,
+      "mentions": 1
+    },
+    {
+      "name": "Recipient notifications and audit trail",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000796,
+      "mentions": 1
+    },
+    {
+      "name": "Medium",
+      "type": "OTHER",
+      "salience": 0.000787,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-tenant recipient directory and sign-out workflow",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000783,
+      "mentions": 1
+    },
+    {
+      "name": "FitGaps's take",
+      "type": "OTHER",
+      "salience": 0.000781,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce platforms",
+      "type": "OTHER",
+      "salience": 0.000774,
+      "mentions": 1
+    },
+    {
+      "name": "Recipient notification support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000766,
+      "mentions": 1
+    },
+    {
+      "name": "Medium",
+      "type": "OTHER",
+      "salience": 0.000751,
+      "mentions": 1
+    },
+    {
+      "name": "View review",
+      "type": "OTHER",
+      "salience": 0.000749,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing from",
+      "type": "OTHER",
+      "salience": 0.000748,
+      "mentions": 1
+    },
+    {
+      "name": "Market standards",
+      "type": "OTHER",
+      "salience": 0.00072,
+      "mentions": 1
+    },
+    {
+      "name": "General-purpose AI agents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000716,
+      "mentions": 1
+    },
+    {
+      "name": "View review",
+      "type": "OTHER",
+      "salience": 0.000715,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing from",
+      "type": "OTHER",
+      "salience": 0.000713,
+      "mentions": 1
+    },
+    {
+      "name": "Education and training",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000707,
+      "mentions": 1
+    },
+    {
+      "name": "fishing",
+      "type": "OTHER",
+      "salience": 0.000704,
+      "mentions": 1
+    },
+    {
+      "name": "and forestry",
+      "type": "OTHER",
+      "salience": 0.000704,
+      "mentions": 1
+    },
+    {
+      "name": "Agriculture",
+      "type": "OTHER",
+      "salience": 0.000704,
+      "mentions": 1
+    },
+    {
+      "name": "Generative AI",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000697,
+      "mentions": 1
+    },
+    {
+      "name": "Limited parcel-carrier depth",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000695,
+      "mentions": 1
+    },
+    {
+      "name": "Business process management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000692,
+      "mentions": 1
+    },
+    {
+      "name": "FitGaps's take",
+      "type": "OTHER",
+      "salience": 0.000691,
+      "mentions": 1
+    },
+    {
+      "name": "General-purpose AI agents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00069,
+      "mentions": 1
+    },
+    {
+      "name": "productivity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000673,
+      "mentions": 2
+    },
+    {
+      "name": "Commerce",
+      "type": "OTHER",
+      "salience": 0.000672,
+      "mentions": 2
+    },
+    {
+      "name": "Top picks",
+      "type": "OTHER",
+      "salience": 0.000671,
+      "mentions": 1
+    },
+    {
+      "name": "Applicant tracking systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000667,
+      "mentions": 1
+    },
+    {
+      "name": "was it received",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000665,
+      "mentions": 1
+    },
+    {
+      "name": "Fit",
+      "type": "OTHER",
+      "salience": 0.000664,
+      "mentions": 1
+    },
+    {
+      "name": "Intake logging",
+      "type": "OTHER",
+      "salience": 0.000661,
+      "mentions": 1
+    },
+    {
+      "name": "FitGaps's take",
+      "type": "OTHER",
+      "salience": 0.00066,
+      "mentions": 1
+    },
+    {
+      "name": "Mobile-accessible",
+      "type": "OTHER",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "Returns management integration alongside outbound tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000654,
+      "mentions": 1
+    },
+    {
+      "name": "is the highest-priority integration.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000642,
+      "mentions": 1
+    },
+    {
+      "name": "Products range from 10 carriers to 1,200+",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000625,
+      "mentions": 1
+    },
+    {
+      "name": "gap perspective",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000616,
+      "mentions": 1
+    },
+    {
+      "name": "These tools prioritize real-time location",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000613,
+      "mentions": 1
+    },
+    {
+      "name": "Medium",
+      "type": "OTHER",
+      "salience": 0.000612,
+      "mentions": 1
+    },
+    {
+      "name": "High-value or regulated deliveries require GPS-stamped e-signatures and photos",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000607,
+      "mentions": 1
+    },
+    {
+      "name": "E-signature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000605,
+      "mentions": 1
+    },
+    {
+      "name": "Expense management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000595,
+      "mentions": 1
+    },
+    {
+      "name": "High-volume mailroom scanning with barcode hardware integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000594,
+      "mentions": 1
+    },
+    {
+      "name": "Time tracking software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000593,
+      "mentions": 2
+    },
+    {
+      "name": "make reliable.",
+      "type": "OTHER",
+      "salience": 0.000589,
+      "mentions": 1
+    },
+    {
+      "name": "View review",
+      "type": "OTHER",
+      "salience": 0.000581,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing from",
+      "type": "OTHER",
+      "salience": 0.000581,
+      "mentions": 1
+    },
+    {
+      "name": "last-mile delivery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000579,
+      "mentions": 1
+    },
+    {
+      "name": "Lightweight live tracking API",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000578,
+      "mentions": 1
+    },
+    {
+      "name": "Shipment caps",
+      "type": "PERSON",
+      "salience": 0.000564,
+      "mentions": 1
+    },
+    {
+      "name": "Expense management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000564,
+      "mentions": 1
+    },
+    {
+      "name": "Live chat software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000559,
+      "mentions": 1
+    },
+    {
+      "name": "FitGaps's take",
+      "type": "OTHER",
+      "salience": 0.000538,
+      "mentions": 1
+    },
+    {
+      "name": "reducing inbound",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000534,
+      "mentions": 1
+    },
+    {
+      "name": "FitGap scored 14",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000525,
+      "mentions": 1
+    },
+    {
+      "name": "Customer service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000523,
+      "mentions": 2
+    },
+    {
+      "name": "Live GPS architecture vs. status-polling model",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000523,
+      "mentions": 1
+    },
+    {
+      "name": "Teliver",
+      "type": "OTHER",
+      "salience": 0.000519,
+      "mentions": 1
+    },
+    {
+      "name": "Top picks",
+      "type": "OTHER",
+      "salience": 0.00051,
+      "mentions": 1
+    },
+    {
+      "name": "Detrack's proof of delivery workflow captures e-signatures",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000507,
+      "mentions": 1
+    },
+    {
+      "name": "Teliver",
+      "type": "OTHER",
+      "salience": 0.000506,
+      "mentions": 1
+    },
+    {
+      "name": "Marketing",
+      "type": "PERSON",
+      "salience": 0.000489,
+      "mentions": 2
+    },
+    {
+      "name": "Marketing automation software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000489,
+      "mentions": 1
+    },
+    {
+      "name": "Roadcast",
+      "type": "OTHER",
+      "salience": 0.000489,
+      "mentions": 1
+    },
+    {
+      "name": "so the integration surface is small and maintainable by a single developer.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000479,
+      "mentions": 1
+    },
+    {
+      "name": "Roadcast",
+      "type": "OTHER",
+      "salience": 0.000476,
+      "mentions": 1
+    },
+    {
+      "name": "Teliver",
+      "type": "OTHER",
+      "salience": 0.000475,
+      "mentions": 1
+    },
+    {
+      "name": "adding drivers adds map markers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00047,
+      "mentions": 1
+    },
+    {
+      "name": "Email marketing software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00047,
+      "mentions": 1
+    },
+    {
+      "name": "Marketing automation software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000469,
+      "mentions": 1
+    },
+    {
+      "name": "ETA accuracy",
+      "type": "OTHER",
+      "salience": 0.000469,
+      "mentions": 1
+    },
+    {
+      "name": "Roadcast",
+      "type": "OTHER",
+      "salience": 0.000468,
+      "mentions": 1
+    },
+    {
+      "name": "Inbound package and mailroom management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000468,
+      "mentions": 1
+    },
+    {
+      "name": "photo capture",
+      "type": "OTHER",
+      "salience": 0.000462,
+      "mentions": 1
+    },
+    {
+      "name": "SDK",
+      "type": "OTHER",
+      "salience": 0.000448,
+      "mentions": 1
+    },
+    {
+      "name": "Collaborative whiteboard software",
+      "type": "OTHER",
+      "salience": 0.000447,
+      "mentions": 1
+    },
+    {
+      "name": "Collaboration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000447,
+      "mentions": 1
+    },
+    {
+      "name": "IT infrastructure",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000442,
+      "mentions": 2
+    },
+    {
+      "name": "eliminating",
+      "type": "OTHER",
+      "salience": 0.000442,
+      "mentions": 1
+    },
+    {
+      "name": "Infrastructure",
+      "type": "PERSON",
+      "salience": 0.000441,
+      "mentions": 2
+    },
+    {
+      "name": "particularly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000439,
+      "mentions": 1
+    },
+    {
+      "name": "photos",
+      "type": "OTHER",
+      "salience": 0.000438,
+      "mentions": 1
+    },
+    {
+      "name": "onboarding",
+      "type": "OTHER",
+      "salience": 0.000436,
+      "mentions": 1
+    },
+    {
+      "name": "the quality of the proof-of-delivery record does not degrade when staff changes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000435,
+      "mentions": 1
+    },
+    {
+      "name": "Collaboration",
+      "type": "OTHER",
+      "salience": 0.000427,
+      "mentions": 1
+    },
+    {
+      "name": "Collaborative whiteboard software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000427,
+      "mentions": 1
+    },
+    {
+      "name": "creating",
+      "type": "OTHER",
+      "salience": 0.000416,
+      "mentions": 1
+    },
+    {
+      "name": "design",
+      "type": "PERSON",
+      "salience": 0.000405,
+      "mentions": 1
+    },
+    {
+      "name": "providers",
+      "type": "OTHER",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently asked questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "providers",
+      "type": "OTHER",
+      "salience": 0.00038,
+      "mentions": 1
+    },
+    {
+      "name": "messaging reduce this",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "E-signature software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000368,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics",
+      "type": "OTHER",
+      "salience": 0.000366,
+      "mentions": 2
+    },
+    {
+      "name": "and update frequency",
+      "type": "LOCATION",
+      "salience": 0.000366,
+      "mentions": 1
+    },
+    {
+      "name": "Development",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000363,
+      "mentions": 1
+    },
+    {
+      "name": "Unclear real estate feature fit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000359,
+      "mentions": 1
+    },
+    {
+      "name": "E-signature software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000354,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics platforms",
+      "type": "OTHER",
+      "salience": 0.00035,
+      "mentions": 1
+    },
+    {
+      "name": "configuration.",
+      "type": "OTHER",
+      "salience": 0.000349,
+      "mentions": 1
+    },
+    {
+      "name": "Development",
+      "type": "OTHER",
+      "salience": 0.000345,
+      "mentions": 1
+    },
+    {
+      "name": "Searchable package log with timestamp history",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000345,
+      "mentions": 1
+    },
+    {
+      "name": "exportability",
+      "type": "OTHER",
+      "salience": 0.000344,
+      "mentions": 1
+    },
+    {
+      "name": "outbound shipments",
+      "type": "OTHER",
+      "salience": 0.000338,
+      "mentions": 1
+    },
+    {
+      "name": "particularly",
+      "type": "OTHER",
+      "salience": 0.000327,
+      "mentions": 1
+    },
+    {
+      "name": "Wasp Package Tracker",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000314,
+      "mentions": 1
+    },
+    {
+      "name": "Wasp Package Tracker",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000309,
+      "mentions": 1
+    },
+    {
+      "name": "responsibilities",
+      "type": "OTHER",
+      "salience": 0.000307,
+      "mentions": 1
+    },
+    {
+      "name": "Wasp Package Tracker",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000306,
+      "mentions": 1
+    },
+    {
+      "name": "Narrow real estate scope",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000303,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000302,
+      "mentions": 1
+    },
+    {
+      "name": "All categories",
+      "type": "OTHER",
+      "salience": 0.0003,
+      "mentions": 1
+    },
+    {
+      "name": "and recreation",
+      "type": "OTHER",
+      "salience": 0.000295,
+      "mentions": 1
+    },
+    {
+      "name": "Arts",
+      "type": "OTHER",
+      "salience": 0.000295,
+      "mentions": 1
+    },
+    {
+      "name": "Resident and tenant notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000293,
+      "mentions": 1
+    },
+    {
+      "name": "regulated deliveries",
+      "type": "OTHER",
+      "salience": 0.000292,
+      "mentions": 1
+    },
+    {
+      "name": "APIs and system integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "Sales",
+      "type": "LOCATION",
+      "salience": 0.000282,
+      "mentions": 1
+    },
+    {
+      "name": "Machine learning software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000282,
+      "mentions": 1
+    },
+    {
+      "name": "Sales enablement software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000281,
+      "mentions": 1
+    },
+    {
+      "name": "Firewall software",
+      "type": "OTHER",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "Identity and access management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00028,
+      "mentions": 2
+    },
+    {
+      "name": "Video conferencing software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000279,
+      "mentions": 1
+    },
+    {
+      "name": "ERP",
+      "type": "OTHER",
+      "salience": 0.000278,
+      "mentions": 4
+    },
+    {
+      "name": "Headless SDK",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000276,
+      "mentions": 1
+    },
+    {
+      "name": "simultaneously",
+      "type": "OTHER",
+      "salience": 0.000272,
+      "mentions": 1
+    },
+    {
+      "name": "Geofence alerts automate the most repetitive dispatcher task",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000272,
+      "mentions": 1
+    },
+    {
+      "name": "Machine learning software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000272,
+      "mentions": 1
+    },
+    {
+      "name": "Sales enablement software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00027,
+      "mentions": 1
+    },
+    {
+      "name": "Firewall software",
+      "type": "OTHER",
+      "salience": 0.000268,
+      "mentions": 1
+    },
+    {
+      "name": "End-to-end delivery workflow",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000268,
+      "mentions": 1
+    },
+    {
+      "name": "Video conferencing software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000267,
+      "mentions": 1
+    },
+    {
+      "name": "Selection compass: how to prioritize requirements",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000261,
+      "mentions": 1
+    },
+    {
+      "name": "order-of-magnitude",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00026,
+      "mentions": 1
+    },
+    {
+      "name": "API and SDK availability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000258,
+      "mentions": 1
+    },
+    {
+      "name": "coworking spaces",
+      "type": "OTHER",
+      "salience": 0.000237,
+      "mentions": 1
+    },
+    {
+      "name": "Cloud platform as a service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000232,
+      "mentions": 1
+    },
+    {
+      "name": "specific scope",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000228,
+      "mentions": 1
+    },
+    {
+      "name": "On-site process dependency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000222,
+      "mentions": 1
+    },
+    {
+      "name": "Applicant tracking systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000219,
+      "mentions": 1
+    },
+    {
+      "name": "speed",
+      "type": "ORGANIZATION",
+      "salience": 0.000217,
+      "mentions": 1
+    },
+    {
+      "name": "Healthcare and life sciences",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000214,
+      "mentions": 1
+    },
+    {
+      "name": "Niche breakers",
+      "type": "OTHER",
+      "salience": 0.000201,
+      "mentions": 1
+    },
+    {
+      "name": "Legally defensible proof-of-delivery capture",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000201,
+      "mentions": 1
+    },
+    {
+      "name": "Edge cases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000197,
+      "mentions": 1
+    },
+    {
+      "name": "Cross-border carrier support and customs status parsing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000197,
+      "mentions": 1
+    },
+    {
+      "name": "Offline-capable",
+      "type": "PERSON",
+      "salience": 0.000196,
+      "mentions": 1
+    },
+    {
+      "name": "low-connectivity",
+      "type": "OTHER",
+      "salience": 0.000196,
+      "mentions": 1
+    },
+    {
+      "name": "the actors involved",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000194,
+      "mentions": 1
+    },
+    {
+      "name": "Define the direction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000194,
+      "mentions": 1
+    },
+    {
+      "name": "Launch technology discovery engine",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000193,
+      "mentions": 1
+    },
+    {
+      "name": "than 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00019,
+      "mentions": 1
+    },
+    {
+      "name": "LLM",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000189,
+      "mentions": 3
+    },
+    {
+      "name": "LLMs",
+      "type": "PERSON",
+      "salience": 0.000188,
+      "mentions": 1
+    },
+    {
+      "name": "Bot platforms software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000188,
+      "mentions": 1
+    },
+    {
+      "name": "CRM software",
+      "type": "OTHER",
+      "salience": 0.000187,
+      "mentions": 2
+    },
+    {
+      "name": "SEO tools",
+      "type": "OTHER",
+      "salience": 0.000187,
+      "mentions": 2
+    },
+    {
+      "name": "Security",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000186,
+      "mentions": 2
+    },
+    {
+      "name": "IAM",
+      "type": "OTHER",
+      "salience": 0.000186,
+      "mentions": 1
+    },
+    {
+      "name": "Payment processing software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000185,
+      "mentions": 1
+    },
+    {
+      "name": "Knowledge base software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000185,
+      "mentions": 1
+    },
+    {
+      "name": "Website builder software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000185,
+      "mentions": 1
+    },
+    {
+      "name": "Help desk software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000185,
+      "mentions": 1
+    },
+    {
+      "name": "ATS",
+      "type": "OTHER",
+      "salience": 0.000184,
+      "mentions": 1
+    },
+    {
+      "name": "Project management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000184,
+      "mentions": 2
+    },
+    {
+      "name": "Payroll software",
+      "type": "OTHER",
+      "salience": 0.000184,
+      "mentions": 1
+    },
+    {
+      "name": "Data warehouse solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000184,
+      "mentions": 1
+    },
+    {
+      "name": "ETL tools",
+      "type": "OTHER",
+      "salience": 0.000184,
+      "mentions": 1
+    },
+    {
+      "name": "IaaS",
+      "type": "OTHER",
+      "salience": 0.000183,
+      "mentions": 1
+    },
+    {
+      "name": "and dispute resolution",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000183,
+      "mentions": 1
+    },
+    {
+      "name": "iPaaS software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000183,
+      "mentions": 1
+    },
+    {
+      "name": "Robotic process automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000183,
+      "mentions": 1
+    },
+    {
+      "name": "RPA",
+      "type": "OTHER",
+      "salience": 0.000183,
+      "mentions": 2
+    },
+    {
+      "name": "Purpose-built",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "LLMs",
+      "type": "LOCATION",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "Bot platforms software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "Vertical AI",
+      "type": "OTHER",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "Simple barcode-based intake",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "IAM",
+      "type": "OTHER",
+      "salience": 0.000178,
+      "mentions": 1
+    },
+    {
+      "name": "Payment processing software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000177,
+      "mentions": 1
+    },
+    {
+      "name": "Knowledge base software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "Website builder software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "Unpleasant truth",
+      "type": "OTHER",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "Help desk software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "Unpleasant truth",
+      "type": "OTHER",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "exportable format",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "ATS",
+      "type": "OTHER",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "Payroll software",
+      "type": "OTHER",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "ETL tools",
+      "type": "OTHER",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "IaaS",
+      "type": "OTHER",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "iPaaS software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Unpleasant truth",
+      "type": "OTHER",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Robotic process automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "PaaS",
+      "type": "OTHER",
+      "salience": 0.000172,
+      "mentions": 1
+    },
+    {
+      "name": "HR",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000172,
+      "mentions": 1
+    },
+    {
+      "name": "LLM",
+      "type": "OTHER",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "PaaS",
+      "type": "OTHER",
+      "salience": 0.000163,
+      "mentions": 1
+    },
+    {
+      "name": "HR",
+      "type": "OTHER",
+      "salience": 0.000162,
+      "mentions": 1
+    },
+    {
+      "name": "Popular categories",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "was it picked up?",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000133,
+      "mentions": 1
+    },
+    {
+      "name": "straightforward",
+      "type": "OTHER",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "real-world buyer research",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000125,
+      "mentions": 1
+    },
+    {
+      "name": "Key differentiators",
+      "type": "OTHER",
+      "salience": 0.000125,
+      "mentions": 1
+    },
+    {
+      "name": "answer",
+      "type": "OTHER",
+      "salience": 0.000124,
+      "mentions": 1
+    },
+    {
+      "name": "beyond",
+      "type": "ORGANIZATION",
+      "salience": 0.000118,
+      "mentions": 1
+    },
+    {
+      "name": "Proactive delay notifications and clear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000116,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "WooCommerce",
+      "type": "OTHER",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "inconsistent",
+      "type": "OTHER",
+      "salience": 8.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "drains battery significantly",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "drivers stop using it and the dispatch visibility disappears.",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "in transit",
+      "type": "OTHER",
+      "salience": 8.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "screenshot-only",
+      "type": "LOCATION",
+      "salience": 8.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "exactly",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "or similar",
+      "type": "OTHER",
+      "salience": 8.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "€26",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$29",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 218,
+    "CONSUMER_GOOD": 265,
+    "PERSON": 12,
+    "LOCATION": 8,
+    "ORGANIZATION": 2,
+    "NUMBER": 24,
+    "PRICE": 3,
+    "DATE": 1
+  },
+  "type_salience": {
+    "OTHER": 0.4899639999999998,
+    "CONSUMER_GOOD": 0.40983400000000003,
+    "PERSON": 0.022705000000000003,
+    "LOCATION": 0.015678,
+    "ORGANIZATION": 0.000335,
+    "NUMBER": 0.0,
+    "PRICE": 0.0,
+    "DATE": 0.0
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "topic": "disney_cruise_tickets_hk",
+  "prompts": [
+    "迪士尼遊輪票去哪裡買最便宜？"
+  ],
+  "location": "Hong Kong",
+  "language": "zh-hk",
+  "started_at": "2026-04-21T16:07:48",
+  "models": {
+    "chatgpt": {
+      "status": "ok",
+      "prompt_count": 1,
+      "cited_doc_count": 7,
+      "non_cited_doc_count": 15
+    },
+    "claude": {
+      "status": "ok",
+      "prompt_count": 1,
+      "cited_doc_count": 8,
+      "non_cited_doc_count": 18
+    },
+    "gemini": {
+      "status": "failed",
+      "reason": "No SERP output",
+      "prompt_count": null,
+      "cited_doc_count": null,
+      "non_cited_doc_count": null
+    },
+    "aio": {
+      "status": "aborted",
+      "reason": "No ai_overview item or empty cited URL list",
+      "prompt_count": 1
+    }
+  },
+  "updated_at": "2026-04-21T16:21:00"
+}

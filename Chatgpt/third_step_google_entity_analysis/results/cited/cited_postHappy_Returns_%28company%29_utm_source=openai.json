@@ -1,0 +1,945 @@
+{
+  "file": "cited_postHappy_Returns_%28company%29_utm_source=openai.txt",
+  "word_count": 510,
+  "entity_count": 153,
+  "entities": [
+    {
+      "name": "Happy Returns",
+      "type": "PERSON",
+      "salience": 0.184365,
+      "mentions": 2
+    },
+    {
+      "name": "company",
+      "type": "OTHER",
+      "salience": 0.112155,
+      "mentions": 2
+    },
+    {
+      "name": "happyreturns.com",
+      "type": "OTHER",
+      "salience": 0.046562,
+      "mentions": 1
+    },
+    {
+      "name": "Product return Logistics E-commerce Shopping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.035612,
+      "mentions": 1
+    },
+    {
+      "name": "Company type",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.035612,
+      "mentions": 1
+    },
+    {
+      "name": "PayPal",
+      "type": "ORGANIZATION",
+      "salience": 0.025356,
+      "mentions": 3
+    },
+    {
+      "name": "American logistics company",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022417,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "ORGANIZATION",
+      "salience": 0.020483,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.019384,
+      "mentions": 1
+    },
+    {
+      "name": "Headquarters",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016279,
+      "mentions": 1
+    },
+    {
+      "name": "Website",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01622,
+      "mentions": 1
+    },
+    {
+      "name": "David Sobie",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01289,
+      "mentions": 1
+    },
+    {
+      "name": "Subsidiary",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011776,
+      "mentions": 1
+    },
+    {
+      "name": "Founded",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011776,
+      "mentions": 1
+    },
+    {
+      "name": "Los Angeles",
+      "type": "PERSON",
+      "salience": 0.011776,
+      "mentions": 1
+    },
+    {
+      "name": "California",
+      "type": "LOCATION",
+      "salience": 0.011776,
+      "mentions": 1
+    },
+    {
+      "name": "Industry",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011776,
+      "mentions": 1
+    },
+    {
+      "name": "Area served",
+      "type": "OTHER",
+      "salience": 0.009323,
+      "mentions": 1
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "salience": 0.009323,
+      "mentions": 1
+    },
+    {
+      "name": "Key people",
+      "type": "OTHER",
+      "salience": 0.009323,
+      "mentions": 1
+    },
+    {
+      "name": "CPO Tim Fehr",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009323,
+      "mentions": 1
+    },
+    {
+      "name": "COO",
+      "type": "OTHER",
+      "salience": 0.009323,
+      "mentions": 1
+    },
+    {
+      "name": "Parent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009323,
+      "mentions": 1
+    },
+    {
+      "name": "present",
+      "type": "OTHER",
+      "salience": 0.009323,
+      "mentions": 1
+    },
+    {
+      "name": "make some returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00822,
+      "mentions": 1
+    },
+    {
+      "name": "with",
+      "type": "OTHER",
+      "salience": 0.007365,
+      "mentions": 1
+    },
+    {
+      "name": "including The UPS Store",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006366,
+      "mentions": 1
+    },
+    {
+      "name": "Online shopping is booming but so are returns.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006229,
+      "mentions": 1
+    },
+    {
+      "name": "The Business of Fashion",
+      "type": "ORGANIZATION",
+      "salience": 0.005417,
+      "mentions": 1
+    },
+    {
+      "name": "October 2023",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005296,
+      "mentions": 1
+    },
+    {
+      "name": "printing and affixing labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005097,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "ORGANIZATION",
+      "salience": 0.004038,
+      "mentions": 1
+    },
+    {
+      "name": "June 2021",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003974,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "ORGANIZATION",
+      "salience": 0.00383,
+      "mentions": 1
+    },
+    {
+      "name": "PayPal's Q3 2023 Earnings Call",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003681,
+      "mentions": 1
+    },
+    {
+      "name": "PayPal investor relations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003652,
+      "mentions": 1
+    },
+    {
+      "name": "The Nasty Logistics of Returning Your Too-Small Pants",
+      "type": "ORGANIZATION",
+      "salience": 0.003568,
+      "mentions": 1
+    },
+    {
+      "name": "The Atlantic",
+      "type": "LOCATION",
+      "salience": 0.003531,
+      "mentions": 1
+    },
+    {
+      "name": "warehouses.",
+      "type": "OTHER",
+      "salience": 0.00315,
+      "mentions": 1
+    },
+    {
+      "name": "Staples Inc.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003061,
+      "mentions": 1
+    },
+    {
+      "name": "Return Bars",
+      "type": "PERSON",
+      "salience": 0.003061,
+      "mentions": 1
+    },
+    {
+      "name": "Consumers can receive their refunds without packaging items",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002929,
+      "mentions": 1
+    },
+    {
+      "name": "UPS Acquires Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002909,
+      "mentions": 1
+    },
+    {
+      "name": "including Levi's",
+      "type": "OTHER",
+      "salience": 0.002711,
+      "mentions": 1
+    },
+    {
+      "name": "Revolve",
+      "type": "OTHER",
+      "salience": 0.002711,
+      "mentions": 1
+    },
+    {
+      "name": "million.",
+      "type": "OTHER",
+      "salience": 0.00259,
+      "mentions": 1
+    },
+    {
+      "name": "Gymshark",
+      "type": "OTHER",
+      "salience": 0.002579,
+      "mentions": 1
+    },
+    {
+      "name": "Lands' End",
+      "type": "OTHER",
+      "salience": 0.002579,
+      "mentions": 1
+    },
+    {
+      "name": "Everlane",
+      "type": "OTHER",
+      "salience": 0.002579,
+      "mentions": 1
+    },
+    {
+      "name": "References",
+      "type": "OTHER",
+      "salience": 0.002503,
+      "mentions": 1
+    },
+    {
+      "name": "How e-commerce brands can scale logistics sustainably",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002463,
+      "mentions": 1
+    },
+    {
+      "name": "Vogue Business",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002425,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.002289,
+      "mentions": 1
+    },
+    {
+      "name": "citation needed",
+      "type": "OTHER",
+      "salience": 0.002278,
+      "mentions": 1
+    },
+    {
+      "name": "and dispositioned",
+      "type": "OTHER",
+      "salience": 0.002278,
+      "mentions": 1
+    },
+    {
+      "name": "processed",
+      "type": "OTHER",
+      "salience": 0.002278,
+      "mentions": 1
+    },
+    {
+      "name": "Waste",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002278,
+      "mentions": 1
+    },
+    {
+      "name": "steam",
+      "type": "OTHER",
+      "salience": 0.002258,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "ORGANIZATION",
+      "salience": 0.002221,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.002212,
+      "mentions": 1
+    },
+    {
+      "name": "D'Innocenzio",
+      "type": "OTHER",
+      "salience": 0.002201,
+      "mentions": 1
+    },
+    {
+      "name": "Jason",
+      "type": "PERSON",
+      "salience": 0.002163,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.002143,
+      "mentions": 1
+    },
+    {
+      "name": "Anne",
+      "type": "PERSON",
+      "salience": 0.002052,
+      "mentions": 1
+    },
+    {
+      "name": "online refunds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002044,
+      "mentions": 1
+    },
+    {
+      "name": "CNBC",
+      "type": "ORGANIZATION",
+      "salience": 0.002024,
+      "mentions": 2
+    },
+    {
+      "name": "Kate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002005,
+      "mentions": 1
+    },
+    {
+      "name": "NordstromRack.com/HauteLook",
+      "type": "OTHER",
+      "salience": 0.001757,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "ORGANIZATION",
+      "salience": 0.001661,
+      "mentions": 1
+    },
+    {
+      "name": "Rooney",
+      "type": "OTHER",
+      "salience": 0.00145,
+      "mentions": 1
+    },
+    {
+      "name": "Retailers brace for flood of returns from online shopping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001351,
+      "mentions": 1
+    },
+    {
+      "name": "space",
+      "type": "OTHER",
+      "salience": 0.001339,
+      "mentions": 1
+    },
+    {
+      "name": "External links",
+      "type": "OTHER",
+      "salience": 0.00131,
+      "mentions": 1
+    },
+    {
+      "name": "Official website",
+      "type": "OTHER",
+      "salience": 0.001301,
+      "mentions": 1
+    },
+    {
+      "name": "Kate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001237,
+      "mentions": 1
+    },
+    {
+      "name": "AP News",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000965,
+      "mentions": 1
+    },
+    {
+      "name": "Alexis",
+      "type": "PERSON",
+      "salience": 0.000954,
+      "mentions": 1
+    },
+    {
+      "name": "Benveniste",
+      "type": "OTHER",
+      "salience": 0.000954,
+      "mentions": 1
+    },
+    {
+      "name": "CNN Business",
+      "type": "OTHER",
+      "salience": 0.000933,
+      "mentions": 1
+    },
+    {
+      "name": "Amanda",
+      "type": "PERSON",
+      "salience": 0.000923,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "ORGANIZATION",
+      "salience": 0.000895,
+      "mentions": 1
+    },
+    {
+      "name": "Rogers",
+      "type": "ORGANIZATION",
+      "salience": 0.000895,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 2021",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "October 2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021-05-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022-01-22",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023-10-25",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023-10-26",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023-11-01",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023-11-01",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$455",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "455",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "PERSON": 11,
+    "OTHER": 28,
+    "CONSUMER_GOOD": 30,
+    "ORGANIZATION": 15,
+    "LOCATION": 3,
+    "DATE": 22,
+    "NUMBER": 48,
+    "PRICE": 1
+  },
+  "type_salience": {
+    "PERSON": 0.21193800000000004,
+    "OTHER": 0.24511300000000003,
+    "CONSUMER_GOOD": 0.25918599999999997,
+    "ORGANIZATION": 0.08977200000000002,
+    "LOCATION": 0.02463,
+    "DATE": 0.0,
+    "NUMBER": 0.0,
+    "PRICE": 0.0
+  }
+}

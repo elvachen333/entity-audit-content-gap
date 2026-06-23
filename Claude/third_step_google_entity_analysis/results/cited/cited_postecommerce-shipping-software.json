@@ -1,0 +1,107 @@
+{
+  "file": "cited_postecommerce-shipping-software.txt",
+  "word_count": 113,
+  "entity_count": 15,
+  "entities": [
+    {
+      "name": "Ruben Boonzaaijer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.27214,
+      "mentions": 1
+    },
+    {
+      "name": "Article by",
+      "type": "OTHER",
+      "salience": 0.218071,
+      "mentions": 1
+    },
+    {
+      "name": "A marketer",
+      "type": "OTHER",
+      "salience": 0.117307,
+      "mentions": 1
+    },
+    {
+      "name": "chatgpt addict and co-founder of Ringly.io",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.072784,
+      "mentions": 1
+    },
+    {
+      "name": "Before this",
+      "type": "OTHER",
+      "salience": 0.065747,
+      "mentions": 1
+    },
+    {
+      "name": "Written by",
+      "type": "OTHER",
+      "salience": 0.040695,
+      "mentions": 1
+    },
+    {
+      "name": "Supplement brand customer complaints: 7",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.034119,
+      "mentions": 1
+    },
+    {
+      "name": "Ruben Boonzaaijer",
+      "type": "OTHER",
+      "salience": 0.033831,
+      "mentions": 1
+    },
+    {
+      "name": "Ruben Boonzaaijer",
+      "type": "OTHER",
+      "salience": 0.032841,
+      "mentions": 1
+    },
+    {
+      "name": "Written by",
+      "type": "OTHER",
+      "salience": 0.028335,
+      "mentions": 1
+    },
+    {
+      "name": "Written by",
+      "type": "OTHER",
+      "salience": 0.027505,
+      "mentions": 1
+    },
+    {
+      "name": "the complete ecommerce guide",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024515,
+      "mentions": 1
+    },
+    {
+      "name": "Ruben Boonzaaijer",
+      "type": "OTHER",
+      "salience": 0.021951,
+      "mentions": 1
+    },
+    {
+      "name": "track",
+      "type": "OTHER",
+      "salience": 0.010159,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 4,
+    "OTHER": 10,
+    "NUMBER": 1
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.40355800000000003,
+    "OTHER": 0.5964419999999999,
+    "NUMBER": 0.0
+  }
+}

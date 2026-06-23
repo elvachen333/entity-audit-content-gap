@@ -1,0 +1,559 @@
+{
+  "file": "non_cited_postwatch_v=XAiYTwxxSBU.txt",
+  "word_count": 93,
+  "entity_count": 89,
+  "entities": [
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.103052,
+      "mentions": 1
+    },
+    {
+      "name": "平台",
+      "type": "OTHER",
+      "salience": 0.086838,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮比价攻略",
+      "type": "OTHER",
+      "salience": 0.068315,
+      "mentions": 1
+    },
+    {
+      "name": "优惠分析",
+      "type": "OTHER",
+      "salience": 0.047684,
+      "mentions": 1
+    },
+    {
+      "name": "KKDay",
+      "type": "PERSON",
+      "salience": 0.044519,
+      "mentions": 2
+    },
+    {
+      "name": "Klook",
+      "type": "LOCATION",
+      "salience": 0.044519,
+      "mentions": 2
+    },
+    {
+      "name": "AsiaYO",
+      "type": "LOCATION",
+      "salience": 0.044519,
+      "mentions": 2
+    },
+    {
+      "name": "Uploaded by",
+      "type": "PERSON",
+      "salience": 0.029811,
+      "mentions": 1
+    },
+    {
+      "name": "Uploaded at",
+      "type": "PERSON",
+      "salience": 0.027529,
+      "mentions": 1
+    },
+    {
+      "name": "Visibility",
+      "type": "PERSON",
+      "salience": 0.025632,
+      "mentions": 1
+    },
+    {
+      "name": "Fly&Vivian",
+      "type": "PERSON",
+      "salience": 0.022039,
+      "mentions": 1
+    },
+    {
+      "name": "https://pse.is/U29X2",
+      "type": "OTHER",
+      "salience": 0.020886,
+      "mentions": 1
+    },
+    {
+      "name": "https://pse.is/TNKDX",
+      "type": "OTHER",
+      "salience": 0.020886,
+      "mentions": 1
+    },
+    {
+      "name": "2024-12-21T01:30:16-08:00",
+      "type": "OTHER",
+      "salience": 0.020393,
+      "mentions": 2
+    },
+    {
+      "name": "https://pse.is/TPNA6",
+      "type": "OTHER",
+      "salience": 0.018898,
+      "mentions": 1
+    },
+    {
+      "name": "https://pse.is/TRCF5",
+      "type": "OTHER",
+      "salience": 0.018898,
+      "mentions": 1
+    },
+    {
+      "name": "https://pse.is/TN7CK",
+      "type": "OTHER",
+      "salience": 0.018898,
+      "mentions": 1
+    },
+    {
+      "name": "https://pse.is/SR25",
+      "type": "OTHER",
+      "salience": 0.018898,
+      "mentions": 1
+    },
+    {
+      "name": "Published at",
+      "type": "OTHER",
+      "salience": 0.018531,
+      "mentions": 1
+    },
+    {
+      "name": "https://pse.is/TA5",
+      "type": "OTHER",
+      "salience": 0.017098,
+      "mentions": 1
+    },
+    {
+      "name": "` 迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.016385,
+      "mentions": 1
+    },
+    {
+      "name": "Length",
+      "type": "PERSON",
+      "salience": 0.012165,
+      "mentions": 1
+    },
+    {
+      "name": "Views",
+      "type": "OTHER",
+      "salience": 0.01134,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮比价攻略",
+      "type": "OTHER",
+      "salience": 0.010836,
+      "mentions": 1
+    },
+    {
+      "name": "Likes",
+      "type": "OTHER",
+      "salience": 0.01066,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.010085,
+      "mentions": 1
+    },
+    {
+      "name": "Travel",
+      "type": "OTHER",
+      "salience": 0.010085,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.009592,
+      "mentions": 1
+    },
+    {
+      "name": "https://youtu.be/jutryCgj",
+      "type": "OTHER",
+      "salience": 0.009116,
+      "mentions": 1
+    },
+    {
+      "name": "Vlog No Copyright Music",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008646,
+      "mentions": 1
+    },
+    {
+      "name": "Events",
+      "type": "OTHER",
+      "salience": 0.008488,
+      "mentions": 1
+    },
+    {
+      "name": "Vlog&Short",
+      "type": "LOCATION",
+      "salience": 0.008092,
+      "mentions": 1
+    },
+    {
+      "name": "南美自由行",
+      "type": "ORGANIZATION",
+      "salience": 0.007027,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.006389,
+      "mentions": 1
+    },
+    {
+      "name": "自由行",
+      "type": "OTHER",
+      "salience": 0.005914,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.005551,
+      "mentions": 1
+    },
+    {
+      "name": "平台",
+      "type": "OTHER",
+      "salience": 0.005067,
+      "mentions": 1
+    },
+    {
+      "name": "日韩港澳",
+      "type": "LOCATION",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "东南亚",
+      "type": "LOCATION",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "优惠分析",
+      "type": "OTHER",
+      "salience": 0.004858,
+      "mentions": 1
+    },
+    {
+      "name": "Fresh",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004834,
+      "mentions": 1
+    },
+    {
+      "name": "Ikson",
+      "type": "PERSON",
+      "salience": 0.004834,
+      "mentions": 1
+    },
+    {
+      "name": "平台",
+      "type": "OTHER",
+      "salience": 0.004672,
+      "mentions": 1
+    },
+    {
+      "name": "https://pse.is/4q2ucb",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004524,
+      "mentions": 1
+    },
+    {
+      "name": "冰岛",
+      "type": "LOCATION",
+      "salience": 0.004524,
+      "mentions": 1
+    },
+    {
+      "name": "北欧",
+      "type": "LOCATION",
+      "salience": 0.004524,
+      "mentions": 1
+    },
+    {
+      "name": "https://pse.is/4pnd9",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004093,
+      "mentions": 1
+    },
+    {
+      "name": "装潢篇",
+      "type": "OTHER",
+      "salience": 0.004093,
+      "mentions": 1
+    },
+    {
+      "name": "Music promoted by Vlog No Copyright Music.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004028,
+      "mentions": 1
+    },
+    {
+      "name": "国内主题",
+      "type": "OTHER",
+      "salience": 0.003808,
+      "mentions": 1
+    },
+    {
+      "name": "旅行社",
+      "type": "ORGANIZATION",
+      "salience": 0.003572,
+      "mentions": 1
+    },
+    {
+      "name": "#travel",
+      "type": "OTHER",
+      "salience": 0.003572,
+      "mentions": 1
+    },
+    {
+      "name": "生育篇",
+      "type": "OTHER",
+      "salience": 0.003445,
+      "mentions": 1
+    },
+    {
+      "name": "GD",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003445,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.002612,
+      "mentions": 1
+    },
+    {
+      "name": "亲子自驾",
+      "type": "OTHER",
+      "salience": 0.002433,
+      "mentions": 1
+    },
+    {
+      "name": "Endscreen",
+      "type": "OTHER",
+      "salience": 0.002117,
+      "mentions": 1
+    },
+    {
+      "name": "名古屋",
+      "type": "LOCATION",
+      "salience": 0.002057,
+      "mentions": 1
+    },
+    {
+      "name": "热田神宫",
+      "type": "OTHER",
+      "salience": 0.002053,
+      "mentions": 1
+    },
+    {
+      "name": "Video Link",
+      "type": "OTHER",
+      "salience": 0.001836,
+      "mentions": 1
+    },
+    {
+      "name": "草薙剑",
+      "type": "OTHER",
+      "salience": 0.001775,
+      "mentions": 1
+    },
+    {
+      "name": "传说",
+      "type": "OTHER",
+      "salience": 0.001731,
+      "mentions": 1
+    },
+    {
+      "name": "鸽子大军",
+      "type": "ORGANIZATION",
+      "salience": 0.001728,
+      "mentions": 1
+    },
+    {
+      "name": "小孩",
+      "type": "PERSON",
+      "salience": 0.001728,
+      "mentions": 1
+    },
+    {
+      "name": "商店街",
+      "type": "LOCATION",
+      "salience": 0.001684,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024-12-21T01:30:16-08:00",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024-12-21T01:30:16-08:00",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "39",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3127",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "ORGANIZATION": 6,
+    "OTHER": 36,
+    "PERSON": 10,
+    "LOCATION": 11,
+    "CONSUMER_GOOD": 6,
+    "NUMBER": 22,
+    "DATE": 2
+  },
+  "type_salience": {
+    "ORGANIZATION": 0.137315,
+    "OTHER": 0.510188,
+    "PERSON": 0.17086900000000002,
+    "LOCATION": 0.11992100000000003,
+    "CONSUMER_GOOD": 0.02957,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

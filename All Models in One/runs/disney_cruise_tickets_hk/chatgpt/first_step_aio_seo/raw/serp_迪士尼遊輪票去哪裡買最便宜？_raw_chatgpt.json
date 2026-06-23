@@ -1,0 +1,123 @@
+{
+  "version": "0.1.20260420",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "8.9431 sec.",
+  "cost": 0.070292,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "04211107-1310-0612-0000-309fca045cdd",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "8.8733 sec.",
+      "cost": 0.070292,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "chat_gpt",
+        "llm_responses",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "llm_responses",
+        "se": "chat_gpt",
+        "user_prompt": "迪士尼遊輪票去哪裡買最便宜？",
+        "model_name": "gpt-4.1",
+        "web_search": true,
+        "force_web_search": true,
+        "system_message": "Please respond in English."
+      },
+      "result": [
+        {
+          "model_name": "gpt-4.1-2025-04-14",
+          "input_tokens": 16722,
+          "output_tokens": 1406,
+          "reasoning_tokens": 0,
+          "web_search": true,
+          "money_spent": 0.069692,
+          "datetime": "2026-04-21 11:07:58 +00:00",
+          "items": [
+            {
+              "type": "message",
+              "sections": [
+                {
+                  "type": "text",
+                  "text": "如果您想購買迪士尼遊輪（Disney Cruise Line）的船票，以下是幾種能夠以最優惠價格購票的有效方式：\n\n1. **透過 Costco Travel 或 BJ’s Travel 訂購**  \n   Costco Travel 經常提供搭配「Costco Shop Card」（禮物卡）及船上消費額度（onboard credit）的套裝優惠，這些福利在許多情況下能明顯降低總成本。([nerdwallet.com](https://www.nerdwallet.com/article/travel/disney-cruise-prices?utm_source=openai))  \n   同樣地，BJ’s 會員也有可能獲得類似的優惠，包括禮物卡或折扣。([kiplinger.com](https://www.kiplinger.com/personal-finance/how-to-save-on-booking-a-cruise?utm_source=openai))\n\n2. **善用旅行社或授權迪士尼旅行策劃者**  \n   許多授權迪士尼旅行社會提供額外福利，如船上消費額度（$50–$200+）、減少訂金、免費小費或團體價格等，且這些優惠通常不需額外費用。([cruisebooking.com](https://www.cruisebooking.com/articles/disney-cruise-tips/how-to-save-money-on-a-disney-cruise-ship?utm_source=openai))  \n   Expedia 等平台也會提供額外的 OneKeyCash 回饋，或高額的船上消費額度，有時甚至高達 $1,000。([cruisingsite.com](https://www.cruisingsite.com/best-disney-cruise-deals-for-magical-family-trips/?utm_source=openai))\n\n3. **使用折扣迪士尼禮物卡支付船票**  \n   在 Costco、BJ’s、Sam’s Club 等倉儲式零售店，常能以約 2–5% 的折扣購得迪士尼禮物卡。這些禮物卡可以用來支付遊輪船票及船上消費。([cruise.blog](https://cruise.blog/2021/05/12-ways-save-money-disney-cruise?utm_source=openai))\n\n4. **選擇訂票時間：早訂或最後一刻**  \n   - **提前預訂**：迪士尼的航線通常在出發前 12–18 個月開放預訂，此時價格往往最優惠，且可選擇最理想的客艙。([cruisebooking.com](https://www.cruisebooking.com/articles/disney-cruise-tips/how-to-save-money-on-a-disney-cruise-ship?utm_source=openai))  \n   - **最後一刻訂票**：如果行程彈性高，可在出發前約 45–90 天尋找最後一刻優惠，折扣可達 30–50%。([cruisebooking.com](https://www.cruisebooking.com/articles/disney-cruise-tips/how-to-save-money-on-a-disney-cruise-ship?utm_source=openai))\n\n5. **選擇特價航線或特定身份優惠**  \n   - **淡季出航**（如一月、二月、九月）通常價格最低，特別是九月因為學校開學與颶風季影響，需求下降，票價自然降低。([cruisingsite.com](https://www.cruisingsite.com/best-disney-cruise-deals-for-magical-family-trips/?utm_source=openai))  \n   - **佛羅里達州居民優惠**：可享有高達 35% 的折扣，尤其搭配「限制選艙」（Guarantee）房型時更划算。([cruisingsite.com](https://www.cruisingsite.com/best-disney-cruise-deals-for-magical-family-trips/?utm_source=openai))  \n   - **美國軍人優惠**：2026 年特別推出美國 250 週年慶祝方案，包括高達 35% 的折扣與 $250 船上消費額度。([cruisingsite.com](https://www.cruisingsite.com/best-disney-cruise-deals-for-magical-family-trips/?utm_source=openai))  \n   - **其他群體優惠**：如佛州居民、軍人、部分身份（如老年人 55+）也可能有專屬折扣。([blogs.esa.int](https://blogs.esa.int/forms/files/ninja-forms/24/customer-support-disney-cruise-line.pdf?utm_source=openai))\n\n6. **利用船上預訂 Placeholder 優惠**  \n   如果您目前正在迪士尼遊輪上，當場預訂下一趟航程可獲 10% 的未來船票折扣。這類「placeholder」通常只需支付 $200 定金，若未使用也可退還。([emmacruises.com](https://emmacruises.com/this-is-when-disney-cruises-are-cheapest-money-saving-tips/?utm_source=openai))\n\n7. **利用特定促銷活動**  \n   - **50% 儲值訂金優惠**：若您在 2026 年 1 月 18 日之前預訂部分出航日期介於 2026 年 3 月至 2027 年 5 月的航線，可享有預訂當天僅付一半訂金的優惠。([allears.net](https://allears.net/2025/11/04/it-just-got-way-easier-to-book-a-disney-cruise-with-this-major-discount/?utm_source=openai))  \n   - **第三、第四名乘客半價優惠**：2025 年至 2026 年間，某些航線提供第 3 和第 4 名乘客可享 50% 折扣。([yahoo.com](https://www.yahoo.com/lifestyle/articles/disney-cruise-line-offering-rare-153450131.html?utm_source=openai))  \n   - **高達 35% 的折扣加裝飾贈品**：部分網站（如 Undercover Tourist）提供高達 35% 的折扣加上免費船艙裝飾等額外福利。([undercovertourist.com](https://www.undercovertourist.com/blog/disney-cruise-line-savings/?utm_source=openai))\n\n---\n\n總結來說，若要以最划算的方式購買迪士尼遊輪票，建議您採取以下綜合策略：\n\n- 優先透過 Costco Travel、BJ’s Travel 或授權旅行社訂購，以獲得額外的禮物卡或船上消費額度。\n- 搭配折扣迪士尼禮物卡支付船票，以降低現金支出。\n- 提早（12–18 個月）或最後一刻（45–90 天內）訂票，根據行程彈性選擇最適時機。\n- 留意淡季航程與身份優惠（如佛州居民、軍人、老年人等）。\n- 若適用，使用船上 Placeholder 或特定促銷活動（如儲值訂金優惠、乘客半價優惠等）。\n\n透過以上方法結合運用，您將大幅提升以最優惠價格購買迪士尼遊輪票的機會。",
+                  "annotations": [
+                    {
+                      "title": "Disney Cruise Prices 2026: What to Save Before You Sail - NerdWallet",
+                      "url": "https://www.nerdwallet.com/article/travel/disney-cruise-prices?utm_source=openai"
+                    },
+                    {
+                      "title": "How to Save on Booking a Cruise",
+                      "url": "https://www.kiplinger.com/personal-finance/how-to-save-on-booking-a-cruise?utm_source=openai"
+                    },
+                    {
+                      "title": "Tips to Save Money on a Disney Cruise | Disney Cruise Deals – CruiseBooking.com",
+                      "url": "https://www.cruisebooking.com/articles/disney-cruise-tips/how-to-save-money-on-a-disney-cruise-ship?utm_source=openai"
+                    },
+                    {
+                      "title": "Disney Cruise Deals | Best Offers & Discounts 2026",
+                      "url": "https://www.cruisingsite.com/best-disney-cruise-deals-for-magical-family-trips/?utm_source=openai"
+                    },
+                    {
+                      "title": "16 easy ways to save money on a Disney Cruise | Cruise.Blog",
+                      "url": "https://cruise.blog/2021/05/12-ways-save-money-disney-cruise?utm_source=openai"
+                    },
+                    {
+                      "title": "Tips to Save Money on a Disney Cruise | Disney Cruise Deals – CruiseBooking.com",
+                      "url": "https://www.cruisebooking.com/articles/disney-cruise-tips/how-to-save-money-on-a-disney-cruise-ship?utm_source=openai"
+                    },
+                    {
+                      "title": "Tips to Save Money on a Disney Cruise | Disney Cruise Deals – CruiseBooking.com",
+                      "url": "https://www.cruisebooking.com/articles/disney-cruise-tips/how-to-save-money-on-a-disney-cruise-ship?utm_source=openai"
+                    },
+                    {
+                      "title": "Disney Cruise Deals | Best Offers & Discounts 2026",
+                      "url": "https://www.cruisingsite.com/best-disney-cruise-deals-for-magical-family-trips/?utm_source=openai"
+                    },
+                    {
+                      "title": "Disney Cruise Deals | Best Offers & Discounts 2026",
+                      "url": "https://www.cruisingsite.com/best-disney-cruise-deals-for-magical-family-trips/?utm_source=openai"
+                    },
+                    {
+                      "title": "Disney Cruise Deals | Best Offers & Discounts 2026",
+                      "url": "https://www.cruisingsite.com/best-disney-cruise-deals-for-magical-family-trips/?utm_source=openai"
+                    },
+                    {
+                      "title": "Customer Support: Disney Cruise Line",
+                      "url": "https://blogs.esa.int/forms/files/ninja-forms/24/customer-support-disney-cruise-line.pdf?utm_source=openai"
+                    },
+                    {
+                      "title": "Cut The Cost of Your Disney Cruise - 6 Budget Booking Tips - Emma Cruises",
+                      "url": "https://emmacruises.com/this-is-when-disney-cruises-are-cheapest-money-saving-tips/?utm_source=openai"
+                    },
+                    {
+                      "title": "It Just Got WAY Easier To Book a Disney Cruise With This Major Discount - AllEars.Net",
+                      "url": "https://allears.net/2025/11/04/it-just-got-way-easier-to-book-a-disney-cruise-with-this-major-discount/?utm_source=openai"
+                    },
+                    {
+                      "title": "Disney Cruise Line offering rare discount for families",
+                      "url": "https://www.yahoo.com/lifestyle/articles/disney-cruise-line-offering-rare-153450131.html?utm_source=openai"
+                    },
+                    {
+                      "title": "Disney Cruise Line Deals: Save Up to 35% on Select Sailings",
+                      "url": "https://www.undercovertourist.com/blog/disney-cruise-line-savings/?utm_source=openai"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "fan_out_queries": [
+            "\\u8fea\\u58eb\\u5c3c\\u904a\\u8f2a\\u7968\\u53bb\\u54ea\\u88e1\\u8cb7\\u6700\\u4fbf\\u5b9c\\uff1f"
+          ]
+        }
+      ]
+    }
+  ]
+}

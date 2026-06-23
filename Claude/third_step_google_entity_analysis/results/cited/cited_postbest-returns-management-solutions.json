@@ -1,0 +1,979 @@
+{
+  "file": "cited_postbest-returns-management-solutions.txt",
+  "word_count": 1993,
+  "entity_count": 159,
+  "entities": [
+    {
+      "name": "Return Magic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.082022,
+      "mentions": 1
+    },
+    {
+      "name": "return tracking",
+      "type": "OTHER",
+      "salience": 0.073772,
+      "mentions": 1
+    },
+    {
+      "name": "E-Commerce",
+      "type": "PERSON",
+      "salience": 0.060886,
+      "mentions": 1
+    },
+    {
+      "name": "Return Logic",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.058635,
+      "mentions": 1
+    },
+    {
+      "name": "With about",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.042281,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.036839,
+      "mentions": 1
+    },
+    {
+      "name": "offering automated",
+      "type": "OTHER",
+      "salience": 0.034755,
+      "mentions": 1
+    },
+    {
+      "name": "including the standout solution",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.028214,
+      "mentions": 1
+    },
+    {
+      "name": "customizable return policies",
+      "type": "OTHER",
+      "salience": 0.026773,
+      "mentions": 1
+    },
+    {
+      "name": "Integration",
+      "type": "OTHER",
+      "salience": 0.02475,
+      "mentions": 1
+    },
+    {
+      "name": "Reship.",
+      "type": "OTHER",
+      "salience": 0.020412,
+      "mentions": 1
+    },
+    {
+      "name": "sustainability and international returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019752,
+      "mentions": 1
+    },
+    {
+      "name": "Reship",
+      "type": "OTHER",
+      "salience": 0.018897,
+      "mentions": 1
+    },
+    {
+      "name": "Back To Blog Posts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018059,
+      "mentions": 1
+    },
+    {
+      "name": "return rates",
+      "type": "OTHER",
+      "salience": 0.016554,
+      "mentions": 1
+    },
+    {
+      "name": "Reship revolutionizes the returns process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016261,
+      "mentions": 1
+    },
+    {
+      "name": "user-friendly",
+      "type": "OTHER",
+      "salience": 0.014458,
+      "mentions": 2
+    },
+    {
+      "name": "and detailed analytics.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014238,
+      "mentions": 1
+    },
+    {
+      "name": "Its features include box-free returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013419,
+      "mentions": 1
+    },
+    {
+      "name": "Understanding the Importance of Returns Management Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011973,
+      "mentions": 1
+    },
+    {
+      "name": "customizable return reasons",
+      "type": "OTHER",
+      "salience": 0.009982,
+      "mentions": 1
+    },
+    {
+      "name": "Features include detailed analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009844,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Returns Comparative Analysis",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009839,
+      "mentions": 1
+    },
+    {
+      "name": "transactions.",
+      "type": "OTHER",
+      "salience": 0.009346,
+      "mentions": 1
+    },
+    {
+      "name": "Customization and Flexibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009267,
+      "mentions": 1
+    },
+    {
+      "name": "customer feedback",
+      "type": "OTHER",
+      "salience": 0.009085,
+      "mentions": 1
+    },
+    {
+      "name": "making it more efficient and customer-friendly.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008996,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Experience",
+      "type": "PERSON",
+      "salience": 0.008095,
+      "mentions": 1
+    },
+    {
+      "name": "efficient processing",
+      "type": "OTHER",
+      "salience": 0.008089,
+      "mentions": 1
+    },
+    {
+      "name": "Overview",
+      "type": "OTHER",
+      "salience": 0.008022,
+      "mentions": 1
+    },
+    {
+      "name": "capabilities.",
+      "type": "OTHER",
+      "salience": 0.00792,
+      "mentions": 1
+    },
+    {
+      "name": "Customization and Scalability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007893,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "ORGANIZATION",
+      "salience": 0.007859,
+      "mentions": 1
+    },
+    {
+      "name": "personalized",
+      "type": "OTHER",
+      "salience": 0.00777,
+      "mentions": 1
+    },
+    {
+      "name": "package consolidation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00777,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features: Global return addresses",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00777,
+      "mentions": 1
+    },
+    {
+      "name": "and integration with several e-commerce platforms.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007119,
+      "mentions": 1
+    },
+    {
+      "name": "play",
+      "type": "OTHER",
+      "salience": 0.006849,
+      "mentions": 1
+    },
+    {
+      "name": "Integrating",
+      "type": "OTHER",
+      "salience": 0.006454,
+      "mentions": 1
+    },
+    {
+      "name": "Integration and Scalability",
+      "type": "OTHER",
+      "salience": 0.006439,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.006341,
+      "mentions": 1
+    },
+    {
+      "name": "Integrating",
+      "type": "OTHER",
+      "salience": 0.006297,
+      "mentions": 1
+    },
+    {
+      "name": "offer easy integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006255,
+      "mentions": 1
+    },
+    {
+      "name": "communication",
+      "type": "OTHER",
+      "salience": 0.005923,
+      "mentions": 1
+    },
+    {
+      "name": "The landscape of return management is continuously evolving",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005552,
+      "mentions": 1
+    },
+    {
+      "name": "Integration Capabilities",
+      "type": "OTHER",
+      "salience": 0.005461,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005447,
+      "mentions": 1
+    },
+    {
+      "name": "Narvar",
+      "type": "OTHER",
+      "salience": 0.005385,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.004748,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004353,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.004259,
+      "mentions": 1
+    },
+    {
+      "name": "Key features include automated exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004199,
+      "mentions": 1
+    },
+    {
+      "name": "Newgistics",
+      "type": "OTHER",
+      "salience": 0.004105,
+      "mentions": 1
+    },
+    {
+      "name": "Integration with Emerging Technologies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004039,
+      "mentions": 1
+    },
+    {
+      "name": "Aftership Returns Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003997,
+      "mentions": 1
+    },
+    {
+      "name": "Customer",
+      "type": "PERSON",
+      "salience": 0.003945,
+      "mentions": 1
+    },
+    {
+      "name": "multi-currency refunds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003823,
+      "mentions": 1
+    },
+    {
+      "name": "manages return requests",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003269,
+      "mentions": 1
+    },
+    {
+      "name": "ReBound Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00326,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro",
+      "type": "OTHER",
+      "salience": 0.00314,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro aims to make returns smarter and more sustainable.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003112,
+      "mentions": 1
+    },
+    {
+      "name": "aggregated return shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003006,
+      "mentions": 1
+    },
+    {
+      "name": "provide valuable data insights",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002985,
+      "mentions": 1
+    },
+    {
+      "name": "Its features include automated return notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002827,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics and Reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002734,
+      "mentions": 1
+    },
+    {
+      "name": "Cost-Effectiveness",
+      "type": "OTHER",
+      "salience": 0.002686,
+      "mentions": 3
+    },
+    {
+      "name": "and integration with logistics services.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002671,
+      "mentions": 1
+    },
+    {
+      "name": "including Reship",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002438,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics and Reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002327,
+      "mentions": 1
+    },
+    {
+      "name": "upsell opportunities",
+      "type": "OTHER",
+      "salience": 0.002018,
+      "mentions": 1
+    },
+    {
+      "name": "detailed analytics",
+      "type": "OTHER",
+      "salience": 0.001909,
+      "mentions": 1
+    },
+    {
+      "name": "localized return options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001878,
+      "mentions": 1
+    },
+    {
+      "name": "and customization options.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001848,
+      "mentions": 1
+    },
+    {
+      "name": "making it more efficient and cost-effective",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001837,
+      "mentions": 1
+    },
+    {
+      "name": "and improve customer satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001806,
+      "mentions": 1
+    },
+    {
+      "name": "driven by technological advancements and changing consumer expectations.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001753,
+      "mentions": 1
+    },
+    {
+      "name": "integration with e-commerce platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001688,
+      "mentions": 1
+    },
+    {
+      "name": "User Experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001664,
+      "mentions": 1
+    },
+    {
+      "name": "Enhanced Customer Communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001647,
+      "mentions": 1
+    },
+    {
+      "name": "environmentally",
+      "type": "OTHER",
+      "salience": 0.001642,
+      "mentions": 1
+    },
+    {
+      "name": "capabilities.",
+      "type": "OTHER",
+      "salience": 0.001627,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "PERSON",
+      "salience": 0.001574,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "OTHER",
+      "salience": 0.001561,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "PERSON",
+      "salience": 0.001548,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "PERSON",
+      "salience": 0.00154,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "PERSON",
+      "salience": 0.001532,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "OTHER",
+      "salience": 0.001524,
+      "mentions": 1
+    },
+    {
+      "name": "Insights into return reasons",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001474,
+      "mentions": 1
+    },
+    {
+      "name": "Support and Reliability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001428,
+      "mentions": 1
+    },
+    {
+      "name": "It automates the return process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001315,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Return Sorting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001285,
+      "mentions": 1
+    },
+    {
+      "name": "Sustainability Focus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001265,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-Channel Communication",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001249,
+      "mentions": 1
+    },
+    {
+      "name": "Newgistics offers comprehensive logistic support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00123,
+      "mentions": 1
+    },
+    {
+      "name": "and providing cost-effective shipping options.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001204,
+      "mentions": 1
+    },
+    {
+      "name": "including multi-currency and multi-language support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0012,
+      "mentions": 1
+    },
+    {
+      "name": "Considering",
+      "type": "PERSON",
+      "salience": 0.001199,
+      "mentions": 1
+    },
+    {
+      "name": "Scalability:",
+      "type": "OTHER",
+      "salience": 0.001193,
+      "mentions": 2
+    },
+    {
+      "name": "streamlining",
+      "type": "OTHER",
+      "salience": 0.00117,
+      "mentions": 1
+    },
+    {
+      "name": "Overall Suitability",
+      "type": "OTHER",
+      "salience": 0.001159,
+      "mentions": 1
+    },
+    {
+      "name": "How does return management software handle international returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001082,
+      "mentions": 1
+    },
+    {
+      "name": "Enhanced Personalization",
+      "type": "OTHER",
+      "salience": 0.001047,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.001023,
+      "mentions": 1
+    },
+    {
+      "name": "Transparency",
+      "type": "OTHER",
+      "salience": 0.001019,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "OTHER",
+      "salience": 0.000977,
+      "mentions": 1
+    },
+    {
+      "name": "and scalability",
+      "type": "OTHER",
+      "salience": 0.00097,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "PERSON",
+      "salience": 0.000968,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "OTHER",
+      "salience": 0.00096,
+      "mentions": 1
+    },
+    {
+      "name": "Answer",
+      "type": "OTHER",
+      "salience": 0.000952,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000875,
+      "mentions": 1
+    },
+    {
+      "name": "customizable return policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000838,
+      "mentions": 1
+    },
+    {
+      "name": "Key",
+      "type": "OTHER",
+      "salience": 0.000838,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing Structure",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000835,
+      "mentions": 1
+    },
+    {
+      "name": "Many software options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "Measuring the Impact of Returns Management Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000802,
+      "mentions": 1
+    },
+    {
+      "name": "Implementing",
+      "type": "OTHER",
+      "salience": 0.000799,
+      "mentions": 1
+    },
+    {
+      "name": "consolidating packages",
+      "type": "OTHER",
+      "salience": 0.00077,
+      "mentions": 1
+    },
+    {
+      "name": "Aftership Returns Center and Return Magic are excellent choices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000766,
+      "mentions": 1
+    },
+    {
+      "name": "enhances customer satisfaction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000751,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000714,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.000695,
+      "mentions": 1
+    },
+    {
+      "name": "How does Reship handle international returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000694,
+      "mentions": 1
+    },
+    {
+      "name": "While the software primarily manages returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000686,
+      "mentions": 1
+    },
+    {
+      "name": "Increased Automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000677,
+      "mentions": 1
+    },
+    {
+      "name": "transparent communication",
+      "type": "OTHER",
+      "salience": 0.000667,
+      "mentions": 1
+    },
+    {
+      "name": "ROI Potential",
+      "type": "OTHER",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.000649,
+      "mentions": 1
+    },
+    {
+      "name": "This software improves customer satisfaction by providing a hassle-free return experience.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000591,
+      "mentions": 1
+    },
+    {
+      "name": "respectively",
+      "type": "OTHER",
+      "salience": 0.00058,
+      "mentions": 1
+    },
+    {
+      "name": "promoting sustainable practices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "Eco-friendly return management software helps reduce environmental impact by optimizing return logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "AI and Machine Learning",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000536,
+      "mentions": 1
+    },
+    {
+      "name": "Eco-Friendly Solutions: As sustainability becomes more crucial",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000524,
+      "mentions": 1
+    },
+    {
+      "name": "Blockchain",
+      "type": "PERSON",
+      "salience": 0.000518,
+      "mentions": 1
+    },
+    {
+      "name": "Evaluate the pricing model of the software.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00048,
+      "mentions": 1
+    },
+    {
+      "name": "CRM",
+      "type": "OTHER",
+      "salience": 0.000469,
+      "mentions": 1
+    },
+    {
+      "name": "Yes",
+      "type": "OTHER",
+      "salience": 0.000424,
+      "mentions": 1
+    },
+    {
+      "name": "Uptime",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000397,
+      "mentions": 1
+    },
+    {
+      "name": "and integration with international shipping carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000396,
+      "mentions": 1
+    },
+    {
+      "name": "destination",
+      "type": "OTHER",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "Incorporating",
+      "type": "OTHER",
+      "salience": 0.000374,
+      "mentions": 1
+    },
+    {
+      "name": "UK",
+      "type": "LOCATION",
+      "salience": 0.000254,
+      "mentions": 1
+    },
+    {
+      "name": "and Canada",
+      "type": "OTHER",
+      "salience": 0.000254,
+      "mentions": 1
+    },
+    {
+      "name": "Visit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "type": "ORGANIZATION",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "FAQs",
+      "type": "OTHER",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 74,
+    "OTHER": 63,
+    "PERSON": 10,
+    "ORGANIZATION": 2,
+    "LOCATION": 1,
+    "DATE": 1,
+    "NUMBER": 12
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.47920199999999996,
+    "OTHER": 0.4240769999999999,
+    "PERSON": 0.08180500000000002,
+    "ORGANIZATION": 0.008111,
+    "LOCATION": 0.000254,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

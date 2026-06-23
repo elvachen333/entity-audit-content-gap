@@ -1,0 +1,747 @@
+{
+  "file": "cited_postdisney-cruise-line-offering-rare-153450131.html_utm_source=openai.txt",
+  "word_count": 970,
+  "entity_count": 120,
+  "entities": [
+    {
+      "name": "Advertisement",
+      "type": "OTHER",
+      "salience": 0.184413,
+      "mentions": 14
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.066648,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Wonder",
+      "type": "PERSON",
+      "salience": 0.065047,
+      "mentions": 2
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.04713,
+      "mentions": 1
+    },
+    {
+      "name": "Disconnecting",
+      "type": "OTHER",
+      "salience": 0.03735,
+      "mentions": 1
+    },
+    {
+      "name": "cruise",
+      "type": "OTHER",
+      "salience": 0.019784,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.018749,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Destiny",
+      "type": "PERSON",
+      "salience": 0.018509,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line offering",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017977,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.017816,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.017668,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Dream",
+      "type": "PERSON",
+      "salience": 0.017624,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Fantasy",
+      "type": "PERSON",
+      "salience": 0.017624,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.017511,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.015365,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.014133,
+      "mentions": 1
+    },
+    {
+      "name": "select 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012981,
+      "mentions": 1
+    },
+    {
+      "name": "Don't Miss:",
+      "type": "OTHER",
+      "salience": 0.012455,
+      "mentions": 1
+    },
+    {
+      "name": "Magic",
+      "type": "OTHER",
+      "salience": 0.012234,
+      "mentions": 1
+    },
+    {
+      "name": "Homemade chicken nuggets tips",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011426,
+      "mentions": 1
+    },
+    {
+      "name": "Spring picnic recipe ideas",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011077,
+      "mentions": 1
+    },
+    {
+      "name": "Play Crushable by Candy Crush",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010065,
+      "mentions": 1
+    },
+    {
+      "name": "October 2025 and March",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009317,
+      "mentions": 1
+    },
+    {
+      "name": "Sunday",
+      "type": "ORGANIZATION",
+      "salience": 0.008653,
+      "mentions": 1
+    },
+    {
+      "name": "Key takeawaysPowered by Yahoo Scout.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00818,
+      "mentions": 1
+    },
+    {
+      "name": "Yahoo",
+      "type": "ORGANIZATION",
+      "salience": 0.007937,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.007765,
+      "mentions": 1
+    },
+    {
+      "name": "special sailings",
+      "type": "OTHER",
+      "salience": 0.007734,
+      "mentions": 1
+    },
+    {
+      "name": "Gaffigan's favorite sandwich",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007319,
+      "mentions": 1
+    },
+    {
+      "name": "Guga vs.",
+      "type": "OTHER",
+      "salience": 0.006704,
+      "mentions": 1
+    },
+    {
+      "name": "Max steak winner",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006447,
+      "mentions": 1
+    },
+    {
+      "name": "and Galveston",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006157,
+      "mentions": 1
+    },
+    {
+      "name": "and Disney Fantasy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005289,
+      "mentions": 1
+    },
+    {
+      "name": "See more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005053,
+      "mentions": 1
+    },
+    {
+      "name": "or your first",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004178,
+      "mentions": 1
+    },
+    {
+      "name": "reason",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003519,
+      "mentions": 1
+    },
+    {
+      "name": "Line sailings.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003305,
+      "mentions": 1
+    },
+    {
+      "name": "Magic",
+      "type": "OTHER",
+      "salience": 0.003302,
+      "mentions": 1
+    },
+    {
+      "name": "Alisha dos Santos/TravelHost",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003059,
+      "mentions": 1
+    },
+    {
+      "name": "and more.",
+      "type": "OTHER",
+      "salience": 0.002552,
+      "mentions": 1
+    },
+    {
+      "name": "More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002537,
+      "mentions": 1
+    },
+    {
+      "name": "If you",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002507,
+      "mentions": 1
+    },
+    {
+      "name": "Related",
+      "type": "OTHER",
+      "salience": 0.00248,
+      "mentions": 1
+    },
+    {
+      "name": "October 2025 and March",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002437,
+      "mentions": 1
+    },
+    {
+      "name": "including Disney Cruise Line's guaranteed staterooms with restrictions offer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002427,
+      "mentions": 1
+    },
+    {
+      "name": "select 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002242,
+      "mentions": 1
+    },
+    {
+      "name": "Related",
+      "type": "OTHER",
+      "salience": 0.002138,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Treasure",
+      "type": "PERSON",
+      "salience": 0.002024,
+      "mentions": 1
+    },
+    {
+      "name": "Alisha dos Santos/TravelHost",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002021,
+      "mentions": 1
+    },
+    {
+      "name": "Image source",
+      "type": "OTHER",
+      "salience": 0.002021,
+      "mentions": 1
+    },
+    {
+      "name": "At certain times of year",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001998,
+      "mentions": 1
+    },
+    {
+      "name": "Image source",
+      "type": "OTHER",
+      "salience": 0.001993,
+      "mentions": 1
+    },
+    {
+      "name": "Right now",
+      "type": "OTHER",
+      "salience": 0.001932,
+      "mentions": 1
+    },
+    {
+      "name": "and October",
+      "type": "OTHER",
+      "salience": 0.001555,
+      "mentions": 1
+    },
+    {
+      "name": "Postcard Travel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001476,
+      "mentions": 1
+    },
+    {
+      "name": "March 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001371,
+      "mentions": 1
+    },
+    {
+      "name": "October 3",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001371,
+      "mentions": 1
+    },
+    {
+      "name": "decor",
+      "type": "OTHER",
+      "salience": 0.001241,
+      "mentions": 1
+    },
+    {
+      "name": "Related",
+      "type": "PERSON",
+      "salience": 0.001089,
+      "mentions": 1
+    },
+    {
+      "name": "next",
+      "type": "ORGANIZATION",
+      "salience": 0.001083,
+      "mentions": 1
+    },
+    {
+      "name": "Make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00105,
+      "mentions": 1
+    },
+    {
+      "name": "San Juan",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000892,
+      "mentions": 1
+    },
+    {
+      "name": "Right now",
+      "type": "OTHER",
+      "salience": 0.000842,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy Dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000797,
+      "mentions": 1
+    },
+    {
+      "name": "England",
+      "type": "LOCATION",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "Puerto Rico",
+      "type": "PERSON",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "Southampton",
+      "type": "OTHER",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "Texas",
+      "type": "LOCATION",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "September",
+      "type": "PERSON",
+      "salience": 0.000619,
+      "mentions": 1
+    },
+    {
+      "name": "amypost@postcardtravelplanning.com",
+      "type": "OTHER",
+      "salience": 0.000587,
+      "mentions": 1
+    },
+    {
+      "name": "Aug 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000583,
+      "mentions": 1
+    },
+    {
+      "name": "View comments",
+      "type": "OTHER",
+      "salience": 0.000575,
+      "mentions": 1
+    },
+    {
+      "name": "Recommended articles",
+      "type": "OTHER",
+      "salience": 0.000559,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Oct. 12",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "October 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "October 3, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 30, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Aug 10, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "386-383-2472",
+      "type": "PHONE_NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "386",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "383",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2472",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "October 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 34,
+    "ORGANIZATION": 12,
+    "PERSON": 9,
+    "CONSUMER_GOOD": 30,
+    "LOCATION": 2,
+    "NUMBER": 34,
+    "DATE": 12,
+    "PHONE_NUMBER": 1
+  },
+  "type_salience": {
+    "OTHER": 0.30308599999999997,
+    "ORGANIZATION": 0.24045799999999995,
+    "PERSON": 0.12317099999999999,
+    "CONSUMER_GOOD": 0.14905800000000005,
+    "LOCATION": 0.00127,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PHONE_NUMBER": 0.0
+  }
+}

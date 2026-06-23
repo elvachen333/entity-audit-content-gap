@@ -1,0 +1,3471 @@
+{
+  "file": "cited_postOptoro_utm_source=openai.txt",
+  "word_count": 1477,
+  "entity_count": 574,
+  "entities": [
+    {
+      "name": "Optoro",
+      "type": "OTHER",
+      "salience": 0.127537,
+      "mentions": 5
+    },
+    {
+      "name": "Optoro",
+      "type": "OTHER",
+      "salience": 0.040397,
+      "mentions": 1
+    },
+    {
+      "name": "In 2008",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021352,
+      "mentions": 1
+    },
+    {
+      "name": "In 2010",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020762,
+      "mentions": 1
+    },
+    {
+      "name": "technology company that works with retailers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020334,
+      "mentions": 1
+    },
+    {
+      "name": "Company type",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020257,
+      "mentions": 1
+    },
+    {
+      "name": "Privately held company",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020257,
+      "mentions": 1
+    },
+    {
+      "name": "In June 2016",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019261,
+      "mentions": 1
+    },
+    {
+      "name": "Washington",
+      "type": "LOCATION",
+      "salience": 0.018897,
+      "mentions": 1
+    },
+    {
+      "name": "The software tracks and dispositions inventory as it flows through a warehouse until it reaches consumers.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017062,
+      "mentions": 1
+    },
+    {
+      "name": "as eSpot",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016097,
+      "mentions": 1
+    },
+    {
+      "name": "companies",
+      "type": "OTHER",
+      "salience": 0.014707,
+      "mentions": 1
+    },
+    {
+      "name": "Chief Strategy Officer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011878,
+      "mentions": 1
+    },
+    {
+      "name": "Computer software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011642,
+      "mentions": 2
+    },
+    {
+      "name": "Tobin Moore Adam Vitarello",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011642,
+      "mentions": 1
+    },
+    {
+      "name": "Adam Vitarello",
+      "type": "OTHER",
+      "salience": 0.010501,
+      "mentions": 1
+    },
+    {
+      "name": "reverse logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010063,
+      "mentions": 1
+    },
+    {
+      "name": "Founded",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010063,
+      "mentions": 1
+    },
+    {
+      "name": "Founders",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010063,
+      "mentions": 1
+    },
+    {
+      "name": "D.C.",
+      "type": "OTHER",
+      "salience": 0.010063,
+      "mentions": 1
+    },
+    {
+      "name": "opened one of the first eBay drop off stores in Washington",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008723,
+      "mentions": 1
+    },
+    {
+      "name": "Headquarters",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008419,
+      "mentions": 1
+    },
+    {
+      "name": "2004",
+      "type": "ORGANIZATION",
+      "salience": 0.008419,
+      "mentions": 1
+    },
+    {
+      "name": "Moore",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007638,
+      "mentions": 1
+    },
+    {
+      "name": "space located in the Metro Center neighborhood of Washington",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007637,
+      "mentions": 1
+    },
+    {
+      "name": "Website",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007594,
+      "mentions": 1
+    },
+    {
+      "name": "and third-party logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007305,
+      "mentions": 1
+    },
+    {
+      "name": "Moore and co-founder Adam Vitarello",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00715,
+      "mentions": 1
+    },
+    {
+      "name": "with double the square footage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007077,
+      "mentions": 1
+    },
+    {
+      "name": "DC",
+      "type": "OTHER",
+      "salience": 0.006927,
+      "mentions": 1
+    },
+    {
+      "name": "Industry",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00669,
+      "mentions": 1
+    },
+    {
+      "name": "March 2015",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006405,
+      "mentions": 1
+    },
+    {
+      "name": "September 2013",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006063,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro received",
+      "type": "OTHER",
+      "salience": 0.005668,
+      "mentions": 1
+    },
+    {
+      "name": "American retail technology company",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005526,
+      "mentions": 1
+    },
+    {
+      "name": "Products and services",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005442,
+      "mentions": 1
+    },
+    {
+      "name": "July 2015",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005425,
+      "mentions": 1
+    },
+    {
+      "name": "office",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005321,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro closed",
+      "type": "OTHER",
+      "salience": 0.005148,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro raised",
+      "type": "OTHER",
+      "salience": 0.004888,
+      "mentions": 1
+    },
+    {
+      "name": "22years ago",
+      "type": "OTHER",
+      "salience": 0.004838,
+      "mentions": 1
+    },
+    {
+      "name": "The Baltimore Sun",
+      "type": "ORGANIZATION",
+      "salience": 0.004753,
+      "mentions": 1
+    },
+    {
+      "name": "These products",
+      "type": "LOCATION",
+      "salience": 0.004599,
+      "mentions": 1
+    },
+    {
+      "name": "eBay",
+      "type": "ORGANIZATION",
+      "salience": 0.004599,
+      "mentions": 1
+    },
+    {
+      "name": "The Washington Post",
+      "type": "ORGANIZATION",
+      "salience": 0.004581,
+      "mentions": 4
+    },
+    {
+      "name": "Optoro to expand with move to new D.C. office space",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004455,
+      "mentions": 1
+    },
+    {
+      "name": "Amena Ali",
+      "type": "OTHER",
+      "salience": 0.004364,
+      "mentions": 1
+    },
+    {
+      "name": "Key people",
+      "type": "OTHER",
+      "salience": 0.004364,
+      "mentions": 1
+    },
+    {
+      "name": "CEO",
+      "type": "OTHER",
+      "salience": 0.004364,
+      "mentions": 1
+    },
+    {
+      "name": "The Rise of Return-Anything Culture",
+      "type": "ORGANIZATION",
+      "salience": 0.004288,
+      "mentions": 1
+    },
+    {
+      "name": "The Atlantic",
+      "type": "LOCATION",
+      "salience": 0.004271,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004182,
+      "mentions": 1
+    },
+    {
+      "name": "D.C.",
+      "type": "OTHER",
+      "salience": 0.004066,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004032,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003897,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.003827,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved July 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00382,
+      "mentions": 1
+    },
+    {
+      "name": "Maryland",
+      "type": "LOCATION",
+      "salience": 0.003771,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved December 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003762,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "OTHER",
+      "salience": 0.003694,
+      "mentions": 1
+    },
+    {
+      "name": "manufacturers",
+      "type": "OTHER",
+      "salience": 0.003512,
+      "mentions": 1
+    },
+    {
+      "name": "3PL",
+      "type": "OTHER",
+      "salience": 0.003512,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro Gets More Funding",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003412,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro shut down its direct-to-consumer eCommerce website",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003326,
+      "mentions": 1
+    },
+    {
+      "name": "including Amazon",
+      "type": "OTHER",
+      "salience": 0.003326,
+      "mentions": 1
+    },
+    {
+      "name": "Buy.com and Best Buy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003326,
+      "mentions": 1
+    },
+    {
+      "name": "In Season of Returning",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003234,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro lands a partnership with IKEA to reduce waste from returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003231,
+      "mentions": 1
+    },
+    {
+      "name": "The New York Times",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003214,
+      "mentions": 1
+    },
+    {
+      "name": "process",
+      "type": "OTHER",
+      "salience": 0.003068,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro Picks up $40 Million in Debt Financing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002941,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002912,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved December 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002825,
+      "mentions": 1
+    },
+    {
+      "name": "Toby",
+      "type": "OTHER",
+      "salience": 0.002806,
+      "mentions": 1
+    },
+    {
+      "name": "while he was a student at Brown University",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002806,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.002804,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro Co-Founders Win 2015",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002742,
+      "mentions": 1
+    },
+    {
+      "name": "December 13",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002695,
+      "mentions": 1
+    },
+    {
+      "name": "Technical.ly DC",
+      "type": "OTHER",
+      "salience": 0.002645,
+      "mentions": 1
+    },
+    {
+      "name": "blinq.com.",
+      "type": "OTHER",
+      "salience": 0.002643,
+      "mentions": 1
+    },
+    {
+      "name": "February 2021",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002643,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002527,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved September 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002476,
+      "mentions": 1
+    },
+    {
+      "name": "December 24",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002455,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved September 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002441,
+      "mentions": 1
+    },
+    {
+      "name": "December 30",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002416,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved November 16",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002414,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002358,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved July 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002334,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved November 16",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002311,
+      "mentions": 1
+    },
+    {
+      "name": "now Optoro's president",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002232,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.002221,
+      "mentions": 1
+    },
+    {
+      "name": "December 2016",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002165,
+      "mentions": 1
+    },
+    {
+      "name": "Deloitte's Technology Fast 500",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001973,
+      "mentions": 1
+    },
+    {
+      "name": "holding around 160 people.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001955,
+      "mentions": 1
+    },
+    {
+      "name": "Deloitte's Technology Fast 500",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001938,
+      "mentions": 1
+    },
+    {
+      "name": "Deloitte's Technology Fast 500",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001904,
+      "mentions": 1
+    },
+    {
+      "name": "The Cure for Retailers' Holiday Returns Hangover",
+      "type": "ORGANIZATION",
+      "salience": 0.001898,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro Hires Sustainability Director",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001861,
+      "mentions": 1
+    },
+    {
+      "name": "Technical.ly DC",
+      "type": "OTHER",
+      "salience": 0.001846,
+      "mentions": 1
+    },
+    {
+      "name": "August 2025, Optoro was acquired by Blue Yonder",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001832,
+      "mentions": 1
+    },
+    {
+      "name": "29 December 2015",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001826,
+      "mentions": 1
+    },
+    {
+      "name": "Washingtonian",
+      "type": "OTHER",
+      "salience": 0.001747,
+      "mentions": 1
+    },
+    {
+      "name": "investment fund",
+      "type": "OTHER",
+      "salience": 0.001738,
+      "mentions": 1
+    },
+    {
+      "name": "Washington Business Journal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001719,
+      "mentions": 1
+    },
+    {
+      "name": "July 2013",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001703,
+      "mentions": 1
+    },
+    {
+      "name": "Tech firm Optoro joins forces with UPS as part of $30 million investment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001674,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved December 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001666,
+      "mentions": 1
+    },
+    {
+      "name": "Technology Fast 500",
+      "type": "ORGANIZATION",
+      "salience": 0.00166,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved January 2",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001642,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved December 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001619,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001597,
+      "mentions": 1
+    },
+    {
+      "name": "Adams",
+      "type": "OTHER",
+      "salience": 0.00159,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001571,
+      "mentions": 1
+    },
+    {
+      "name": "December 11",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001559,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001551,
+      "mentions": 1
+    },
+    {
+      "name": "December 2014",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001547,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved August 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001532,
+      "mentions": 1
+    },
+    {
+      "name": "Deloitte's Technology Fast 500",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00153,
+      "mentions": 1
+    },
+    {
+      "name": "OptiTurn analyzes this",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001347,
+      "mentions": 1
+    },
+    {
+      "name": "Square 1",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001346,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved 2020-09-08",
+      "type": "OTHER",
+      "salience": 0.001346,
+      "mentions": 1
+    },
+    {
+      "name": "A growing holiday pastime: returning those unwanted gifts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001318,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved 2016-12-23",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001283,
+      "mentions": 1
+    },
+    {
+      "name": "Deloitte",
+      "type": "ORGANIZATION",
+      "salience": 0.001197,
+      "mentions": 4
+    },
+    {
+      "name": "Deloitte's 2014 Technology Fast 500",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001186,
+      "mentions": 1
+    },
+    {
+      "name": "Financing",
+      "type": "OTHER",
+      "salience": 0.001184,
+      "mentions": 1
+    },
+    {
+      "name": "Deloitte's 2015 Technology Fast 500 Ranking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00117,
+      "mentions": 1
+    },
+    {
+      "name": "Legend Venture Partners",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00117,
+      "mentions": 1
+    },
+    {
+      "name": "September 4",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001128,
+      "mentions": 1
+    },
+    {
+      "name": "Deloitte's 2015 Technology Fast 500 Ranking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001119,
+      "mentions": 1
+    },
+    {
+      "name": "September 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00109,
+      "mentions": 1
+    },
+    {
+      "name": "Tobin Moore and Adam Vitarello",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001076,
+      "mentions": 1
+    },
+    {
+      "name": "December 22",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00107,
+      "mentions": 1
+    },
+    {
+      "name": "July 7",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001049,
+      "mentions": 1
+    },
+    {
+      "name": "DC Inno",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001043,
+      "mentions": 1
+    },
+    {
+      "name": "December 25, 2015",
+      "type": "PERSON",
+      "salience": 0.001039,
+      "mentions": 1
+    },
+    {
+      "name": "TechCrunch",
+      "type": "OTHER",
+      "salience": 0.001034,
+      "mentions": 1
+    },
+    {
+      "name": "November 25, 2013",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001032,
+      "mentions": 1
+    },
+    {
+      "name": "Adams",
+      "type": "OTHER",
+      "salience": 0.001026,
+      "mentions": 1
+    },
+    {
+      "name": "Revolution Growth",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001008,
+      "mentions": 1
+    },
+    {
+      "name": "December 9",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000995,
+      "mentions": 1
+    },
+    {
+      "name": "Awards",
+      "type": "OTHER",
+      "salience": 0.000989,
+      "mentions": 1
+    },
+    {
+      "name": "Business Growth",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000985,
+      "mentions": 1
+    },
+    {
+      "name": "December 14",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000982,
+      "mentions": 1
+    },
+    {
+      "name": "Tobin Moore and Adam Vitarello",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000893,
+      "mentions": 1
+    },
+    {
+      "name": "reselling to wholesalers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000881,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved 2020-09-08",
+      "type": "OTHER",
+      "salience": 0.000863,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved 2020-09-08",
+      "type": "OTHER",
+      "salience": 0.000844,
+      "mentions": 1
+    },
+    {
+      "name": "Generation Investment Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000844,
+      "mentions": 1
+    },
+    {
+      "name": "DC Inno",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000842,
+      "mentions": 1
+    },
+    {
+      "name": "Reverse Logistics Firm Optoro Opens 13,000-square-foot Office in Chinatown Today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000785,
+      "mentions": 1
+    },
+    {
+      "name": "November 14",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000775,
+      "mentions": 1
+    },
+    {
+      "name": "November 13",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000756,
+      "mentions": 1
+    },
+    {
+      "name": "November 16",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "Kleiner Perkins Caufield",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000706,
+      "mentions": 1
+    },
+    {
+      "name": "Glut Of Rejected Stuff",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00069,
+      "mentions": 1
+    },
+    {
+      "name": "Forbes",
+      "type": "ORGANIZATION",
+      "salience": 0.000687,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro received",
+      "type": "OTHER",
+      "salience": 0.000684,
+      "mentions": 1
+    },
+    {
+      "name": "the Rejects",
+      "type": "OTHER",
+      "salience": 0.000682,
+      "mentions": 1
+    },
+    {
+      "name": "Kleiner Perkins Caufield",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00067,
+      "mentions": 1
+    },
+    {
+      "name": "Tenfore Holdings",
+      "type": "PERSON",
+      "salience": 0.00067,
+      "mentions": 1
+    },
+    {
+      "name": "Handling Holiday Returns Helps Fuel Lanham Firm",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00067,
+      "mentions": 1
+    },
+    {
+      "name": "Susan.",
+      "type": "OTHER",
+      "salience": 0.00066,
+      "mentions": 1
+    },
+    {
+      "name": "refurbished",
+      "type": "OTHER",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "open box",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "Using OptiTurn",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "Glut Of Rejected Stuff",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000657,
+      "mentions": 1
+    },
+    {
+      "name": "Forbes",
+      "type": "ORGANIZATION",
+      "salience": 0.000654,
+      "mentions": 1
+    },
+    {
+      "name": "along with other product information",
+      "type": "LOCATION",
+      "salience": 0.000647,
+      "mentions": 1
+    },
+    {
+      "name": "PDF",
+      "type": "OTHER",
+      "salience": 0.000643,
+      "mentions": 1
+    },
+    {
+      "name": "donating",
+      "type": "OTHER",
+      "salience": 0.000637,
+      "mentions": 1
+    },
+    {
+      "name": "Possible",
+      "type": "LOCATION",
+      "salience": 0.000637,
+      "mentions": 1
+    },
+    {
+      "name": "Graham",
+      "type": "OTHER",
+      "salience": 0.000637,
+      "mentions": 1
+    },
+    {
+      "name": "PDF",
+      "type": "OTHER",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "PDF",
+      "type": "OTHER",
+      "salience": 0.000627,
+      "mentions": 1
+    },
+    {
+      "name": "CNBC Disruptor 50 List",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000613,
+      "mentions": 1
+    },
+    {
+      "name": "July 17",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000606,
+      "mentions": 1
+    },
+    {
+      "name": "PDF",
+      "type": "OTHER",
+      "salience": 0.000599,
+      "mentions": 1
+    },
+    {
+      "name": "Billy",
+      "type": "ORGANIZATION",
+      "salience": 0.000593,
+      "mentions": 1
+    },
+    {
+      "name": "Environment",
+      "type": "OTHER",
+      "salience": 0.000592,
+      "mentions": 1
+    },
+    {
+      "name": "July 28",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000583,
+      "mentions": 1
+    },
+    {
+      "name": "DC Inno",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000571,
+      "mentions": 1
+    },
+    {
+      "name": "Chris",
+      "type": "PERSON",
+      "salience": 0.000567,
+      "mentions": 1
+    },
+    {
+      "name": "Ted Leonsis",
+      "type": "PERSON",
+      "salience": 0.000562,
+      "mentions": 1
+    },
+    {
+      "name": "Revolution LLC",
+      "type": "OTHER",
+      "salience": 0.000562,
+      "mentions": 1
+    },
+    {
+      "name": "Schaufeld",
+      "type": "OTHER",
+      "salience": 0.000555,
+      "mentions": 1
+    },
+    {
+      "name": "VentureBeat",
+      "type": "OTHER",
+      "salience": 0.000548,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro Raises $50 Million",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000543,
+      "mentions": 1
+    },
+    {
+      "name": "speed-ups",
+      "type": "OTHER",
+      "salience": 0.000522,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000509,
+      "mentions": 1
+    },
+    {
+      "name": "Stevens",
+      "type": "OTHER",
+      "salience": 0.000494,
+      "mentions": 1
+    },
+    {
+      "name": "Second Life",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00049,
+      "mentions": 1
+    },
+    {
+      "name": "Lorraine",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000487,
+      "mentions": 1
+    },
+    {
+      "name": "Disruptor 50",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000481,
+      "mentions": 1
+    },
+    {
+      "name": "January 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00047,
+      "mentions": 1
+    },
+    {
+      "name": "Ghiloni",
+      "type": "OTHER",
+      "salience": 0.000469,
+      "mentions": 1
+    },
+    {
+      "name": "Kate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000469,
+      "mentions": 1
+    },
+    {
+      "name": "Four Task Masters to Make Life Easier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000467,
+      "mentions": 1
+    },
+    {
+      "name": "AWS",
+      "type": "OTHER",
+      "salience": 0.000459,
+      "mentions": 1
+    },
+    {
+      "name": "Allyson",
+      "type": "PERSON",
+      "salience": 0.000453,
+      "mentions": 1
+    },
+    {
+      "name": "Elevation DC",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000449,
+      "mentions": 1
+    },
+    {
+      "name": "'s 100",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000447,
+      "mentions": 1
+    },
+    {
+      "name": "citation needed",
+      "type": "OTHER",
+      "salience": 0.000447,
+      "mentions": 1
+    },
+    {
+      "name": "Michelai Graham",
+      "type": "PERSON",
+      "salience": 0.000446,
+      "mentions": 2
+    },
+    {
+      "name": "Daniel J.",
+      "type": "PERSON",
+      "salience": 0.000445,
+      "mentions": 1
+    },
+    {
+      "name": "Sernovitz",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000445,
+      "mentions": 1
+    },
+    {
+      "name": "They also got PPP loans",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000431,
+      "mentions": 1
+    },
+    {
+      "name": "Susan.",
+      "type": "OTHER",
+      "salience": 0.000426,
+      "mentions": 1
+    },
+    {
+      "name": "Bourree",
+      "type": "PERSON",
+      "salience": 0.000407,
+      "mentions": 1
+    },
+    {
+      "name": "Christopher",
+      "type": "PERSON",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "Chris",
+      "type": "PERSON",
+      "salience": 0.000385,
+      "mentions": 1
+    },
+    {
+      "name": "CNBC Disruptor",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00038,
+      "mentions": 1
+    },
+    {
+      "name": "June 19",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000377,
+      "mentions": 1
+    },
+    {
+      "name": "Ernst",
+      "type": "OTHER",
+      "salience": 0.000371,
+      "mentions": 1
+    },
+    {
+      "name": "References",
+      "type": "OTHER",
+      "salience": 0.00036,
+      "mentions": 1
+    },
+    {
+      "name": "Laura.",
+      "type": "OTHER",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "Serena",
+      "type": "OTHER",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "Wall Street Journal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000352,
+      "mentions": 1
+    },
+    {
+      "name": "Adds Board Member",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000338,
+      "mentions": 1
+    },
+    {
+      "name": "Ng",
+      "type": "OTHER",
+      "salience": 0.000333,
+      "mentions": 1
+    },
+    {
+      "name": "January 1, 2016",
+      "type": "LOCATION",
+      "salience": 0.000331,
+      "mentions": 1
+    },
+    {
+      "name": "Maryland Startup Redirects River Of Rejected Gifts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00033,
+      "mentions": 1
+    },
+    {
+      "name": "Hiroko",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00033,
+      "mentions": 1
+    },
+    {
+      "name": "ISSN",
+      "type": "OTHER",
+      "salience": 0.000326,
+      "mentions": 1
+    },
+    {
+      "name": "Andy Medici",
+      "type": "PERSON",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "www.bizjournals.com",
+      "type": "OTHER",
+      "salience": 0.000312,
+      "mentions": 1
+    },
+    {
+      "name": "Kleiner Perkins",
+      "type": "PERSON",
+      "salience": 0.000308,
+      "mentions": 1
+    },
+    {
+      "name": "home",
+      "type": "OTHER",
+      "salience": 0.000294,
+      "mentions": 1
+    },
+    {
+      "name": "Archived from the original (PDF) on December 4",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000281,
+      "mentions": 1
+    },
+    {
+      "name": "Bousquet",
+      "type": "OTHER",
+      "salience": 0.000273,
+      "mentions": 1
+    },
+    {
+      "name": "Brian",
+      "type": "PERSON",
+      "salience": 0.00027,
+      "mentions": 1
+    },
+    {
+      "name": "Dumaine",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00027,
+      "mentions": 1
+    },
+    {
+      "name": "Winners of the Circulars Awards Announced at Davos",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000269,
+      "mentions": 1
+    },
+    {
+      "name": "Fortune",
+      "type": "OTHER",
+      "salience": 0.000268,
+      "mentions": 1
+    },
+    {
+      "name": "March 31",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000256,
+      "mentions": 1
+    },
+    {
+      "name": "Rewrite",
+      "type": "OTHER",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "Dianna",
+      "type": "PERSON",
+      "salience": 0.00019,
+      "mentions": 1
+    },
+    {
+      "name": "Douglas",
+      "type": "OTHER",
+      "salience": 0.00019,
+      "mentions": 1
+    },
+    {
+      "name": "NPR",
+      "type": "ORGANIZATION",
+      "salience": 0.000189,
+      "mentions": 1
+    },
+    {
+      "name": "Shan",
+      "type": "PERSON",
+      "salience": 0.000188,
+      "mentions": 1
+    },
+    {
+      "name": "Los Angeles Times",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000186,
+      "mentions": 1
+    },
+    {
+      "name": "Joins Mayor's Smarter DC Challenge",
+      "type": "LOCATION",
+      "salience": 0.000184,
+      "mentions": 1
+    },
+    {
+      "name": "Rebecca",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "Jonathan",
+      "type": "PERSON",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "Shieber",
+      "type": "PERSON",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "Turning Unwanted Goods Into New Sales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000179,
+      "mentions": 1
+    },
+    {
+      "name": "Amrita",
+      "type": "PERSON",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "Jayakumar",
+      "type": "OTHER",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "Li",
+      "type": "OTHER",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "Bing",
+      "type": "OTHER",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Anne",
+      "type": "PERSON",
+      "salience": 0.000165,
+      "mentions": 1
+    },
+    {
+      "name": "2020-04-29",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2004",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2008",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2010",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 2013",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 2021",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2013",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015-12-29",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 25, 2013",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29 December 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 29, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2019-12-09",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020-09-08",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 7, 2020",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020-09-08",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020-09-08",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 13, 2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2004",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 4, 2005",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020-12-02",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021-05-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 20, 2013",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 24, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 6, 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 30, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 30, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 22, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 29, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "January 1, 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "January 2, 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 25, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 29, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "March 31, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 17, 2013",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 9, 2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 14, 2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 28, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016-12-23",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 14, 2013",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 20, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 11, 2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 4, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 30, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 13, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 16, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12 May 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015-11-24",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 19, 2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "January 19, 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 6, 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 16, 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 16, 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$23.5",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$40",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100M",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$23.5M",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50M",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$40",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2004",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2004",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2004",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2008",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2010",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "160",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "278",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "229",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "308",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2004",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "38",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "266",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0099",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9660",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2005",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23.5M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2013",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "38",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 72,
+    "CONSUMER_GOOD": 143,
+    "LOCATION": 8,
+    "ORGANIZATION": 18,
+    "PERSON": 23,
+    "DATE": 82,
+    "NUMBER": 230,
+    "PRICE": 10
+  },
+  "type_salience": {
+    "OTHER": 0.3029370000000002,
+    "CONSUMER_GOOD": 0.491328,
+    "LOCATION": 0.03333699999999999,
+    "ORGANIZATION": 0.033518,
+    "PERSON": 0.016198999999999995,
+    "DATE": 0.0,
+    "NUMBER": 0.0,
+    "PRICE": 0.0
+  }
+}

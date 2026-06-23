@@ -1,0 +1,2421 @@
+{
+  "file": "cited_postEasyship_utm_source=openai.txt",
+  "word_count": 1048,
+  "entity_count": 399,
+  "entities": [
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.152733,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.080383,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.039399,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.036627,
+      "mentions": 7
+    },
+    {
+      "name": "Easyship was founded in 2014 by Tommaso Tamburnotti",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023632,
+      "mentions": 1
+    },
+    {
+      "name": "track shipments",
+      "type": "OTHER",
+      "salience": 0.023565,
+      "mentions": 1
+    },
+    {
+      "name": "Company type",
+      "type": "OTHER",
+      "salience": 0.020619,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.019779,
+      "mentions": 1
+    },
+    {
+      "name": "Technology",
+      "type": "OTHER",
+      "salience": 0.018359,
+      "mentions": 1
+    },
+    {
+      "name": "www.easyship.com",
+      "type": "OTHER",
+      "salience": 0.015116,
+      "mentions": 1
+    },
+    {
+      "name": "Hong Kong",
+      "type": "LOCATION",
+      "salience": 0.015116,
+      "mentions": 2
+    },
+    {
+      "name": "July 2017",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01316,
+      "mentions": 1
+    },
+    {
+      "name": "Singapore",
+      "type": "LOCATION",
+      "salience": 0.011367,
+      "mentions": 2
+    },
+    {
+      "name": "Company history",
+      "type": "OTHER",
+      "salience": 0.011052,
+      "mentions": 1
+    },
+    {
+      "name": "Courier matching system",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010073,
+      "mentions": 1
+    },
+    {
+      "name": "E-Commerce",
+      "type": "OTHER",
+      "salience": 0.009631,
+      "mentions": 1
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "salience": 0.008687,
+      "mentions": 1
+    },
+    {
+      "name": "Industry",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00857,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship is also an eBay Shipping and Fulfillment Partner and in 2025 became an Amazon Preferred Multi-Channel Integrator",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008411,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship Fuels Its Growth by Expanding Into Singapore",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008115,
+      "mentions": 1
+    },
+    {
+      "name": "marketplace",
+      "type": "OTHER",
+      "salience": 0.007985,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship raises pre-Series A round from 500 Startups",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007363,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship's application programming interface",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007331,
+      "mentions": 1
+    },
+    {
+      "name": "Logistics",
+      "type": "PERSON",
+      "salience": 0.007268,
+      "mentions": 1
+    },
+    {
+      "name": "Founded",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007268,
+      "mentions": 1
+    },
+    {
+      "name": "Founders",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007268,
+      "mentions": 1
+    },
+    {
+      "name": "Tommaso Tamburnotti",
+      "type": "PERSON",
+      "salience": 0.007268,
+      "mentions": 2
+    },
+    {
+      "name": "Augustin Ceyrac",
+      "type": "PERSON",
+      "salience": 0.007268,
+      "mentions": 2
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "salience": 0.007268,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship Fuels Its Growth by Expanding Into Singapore",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007249,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship announced the expansion of its partnership with eBay to support eBay International Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007108,
+      "mentions": 1
+    },
+    {
+      "name": "It",
+      "type": "ORGANIZATION",
+      "salience": 0.006686,
+      "mentions": 1
+    },
+    {
+      "name": "Headquarters",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005775,
+      "mentions": 1
+    },
+    {
+      "name": "Australia",
+      "type": "LOCATION",
+      "salience": 0.005775,
+      "mentions": 1
+    },
+    {
+      "name": "Paul Lugagne-Delpon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005775,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.005646,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.005449,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.005315,
+      "mentions": 1
+    },
+    {
+      "name": "February 2021",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005288,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.005231,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.005074,
+      "mentions": 1
+    },
+    {
+      "name": "December 2014",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004972,
+      "mentions": 1
+    },
+    {
+      "name": "Private",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004925,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship wins Technology Company of the Year at ComputerWorld Hong Kong Awards 2017",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00442,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship co-founders named in Forbes 30 under 30 list 2018",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004295,
+      "mentions": 1
+    },
+    {
+      "name": "Number of locations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "Netherlands",
+      "type": "LOCATION",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "Germany",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "United Kingdom",
+      "type": "LOCATION",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "Area served",
+      "type": "OTHER",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "France",
+      "type": "LOCATION",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "Italy",
+      "type": "LOCATION",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "Website",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "Belgium",
+      "type": "LOCATION",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "Spain",
+      "type": "LOCATION",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "New York City",
+      "type": "LOCATION",
+      "salience": 0.004176,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.004145,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved 2017-08-28",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003999,
+      "mentions": 1
+    },
+    {
+      "name": "international",
+      "type": "OTHER",
+      "salience": 0.003823,
+      "mentions": 1
+    },
+    {
+      "name": "Europe",
+      "type": "PERSON",
+      "salience": 0.003741,
+      "mentions": 1
+    },
+    {
+      "name": "The G2 on Easyship",
+      "type": "ORGANIZATION",
+      "salience": 0.003663,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.003212,
+      "mentions": 1
+    },
+    {
+      "name": "eBay",
+      "type": "ORGANIZATION",
+      "salience": 0.003199,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.00318,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.003119,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.003089,
+      "mentions": 1
+    },
+    {
+      "name": "www.americanexpress.com",
+      "type": "OTHER",
+      "salience": 0.003084,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.003033,
+      "mentions": 1
+    },
+    {
+      "name": "www.startbase.hk",
+      "type": "OTHER",
+      "salience": 0.003029,
+      "mentions": 4
+    },
+    {
+      "name": "Easyship Expands Amazon Integration with Amazon Buy Shipping and Amazon Business Fulfillment Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002996,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.00298,
+      "mentions": 1
+    },
+    {
+      "name": "Retail News Asia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002944,
+      "mentions": 1
+    },
+    {
+      "name": "schedule carrier pickups",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002943,
+      "mentions": 1
+    },
+    {
+      "name": "eBay international shipping program",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00294,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship strikes agreement to support eBay's new International Shipping program",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00294,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.00293,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship's Kickstarter Guide",
+      "type": "OTHER",
+      "salience": 0.002887,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.002883,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "ORGANIZATION",
+      "salience": 0.002806,
+      "mentions": 1
+    },
+    {
+      "name": "Toronto",
+      "type": "LOCATION",
+      "salience": 0.002706,
+      "mentions": 1
+    },
+    {
+      "name": "Today",
+      "type": "OTHER",
+      "salience": 0.002706,
+      "mentions": 1
+    },
+    {
+      "name": "Melbourne",
+      "type": "LOCATION",
+      "salience": 0.002706,
+      "mentions": 1
+    },
+    {
+      "name": "Taiwan",
+      "type": "LOCATION",
+      "salience": 0.002706,
+      "mentions": 1
+    },
+    {
+      "name": "Bangalore",
+      "type": "LOCATION",
+      "salience": 0.002706,
+      "mentions": 1
+    },
+    {
+      "name": "London",
+      "type": "LOCATION",
+      "salience": 0.002706,
+      "mentions": 1
+    },
+    {
+      "name": "Amazon",
+      "type": "OTHER",
+      "salience": 0.002676,
+      "mentions": 1
+    },
+    {
+      "name": "Retail News Asia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002629,
+      "mentions": 1
+    },
+    {
+      "name": "by TechInAsia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002511,
+      "mentions": 1
+    },
+    {
+      "name": "and Fulfilled By Merchant",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002496,
+      "mentions": 1
+    },
+    {
+      "name": "Technology Company of the Year",
+      "type": "ORGANIZATION",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "by ComputerWorld",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002481,
+      "mentions": 1
+    },
+    {
+      "name": "supporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002438,
+      "mentions": 1
+    },
+    {
+      "name": "App Program",
+      "type": "PERSON",
+      "salience": 0.002373,
+      "mentions": 1
+    },
+    {
+      "name": "Company of the Year",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002346,
+      "mentions": 1
+    },
+    {
+      "name": "merchants.",
+      "type": "OTHER",
+      "salience": 0.002288,
+      "mentions": 1
+    },
+    {
+      "name": "TechCrunch",
+      "type": "PERSON",
+      "salience": 0.002286,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.002217,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.002173,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.002131,
+      "mentions": 1
+    },
+    {
+      "name": "Retail News Asia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002108,
+      "mentions": 1
+    },
+    {
+      "name": "Tech in Asia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002059,
+      "mentions": 1
+    },
+    {
+      "name": "late 2016",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002028,
+      "mentions": 1
+    },
+    {
+      "name": "Awards and achievements",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00202,
+      "mentions": 1
+    },
+    {
+      "name": "StartbaseHK",
+      "type": "OTHER",
+      "salience": 0.002014,
+      "mentions": 1
+    },
+    {
+      "name": "The up-to-date tech database covering Hong Kong-based startups",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002014,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved",
+      "type": "PERSON",
+      "salience": 0.001945,
+      "mentions": 1
+    },
+    {
+      "name": "sellers",
+      "type": "OTHER",
+      "salience": 0.001907,
+      "mentions": 1
+    },
+    {
+      "name": "Retail News Asia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001887,
+      "mentions": 1
+    },
+    {
+      "name": "nominee by Webby Awards",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001884,
+      "mentions": 1
+    },
+    {
+      "name": "by the International Business Awards",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001864,
+      "mentions": 1
+    },
+    {
+      "name": "marketplace",
+      "type": "OTHER",
+      "salience": 0.001662,
+      "mentions": 1
+    },
+    {
+      "name": "Partner in E-Commerce Success",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001619,
+      "mentions": 1
+    },
+    {
+      "name": "eBay sellers.",
+      "type": "OTHER",
+      "salience": 0.001612,
+      "mentions": 1
+    },
+    {
+      "name": "April 2023",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001612,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "ORGANIZATION",
+      "salience": 0.001594,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "ORGANIZATION",
+      "salience": 0.001576,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved 2026-03-04",
+      "type": "OTHER",
+      "salience": 0.001473,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved 2026-03-04",
+      "type": "OTHER",
+      "salience": 0.001457,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved 2026-03-04",
+      "type": "OTHER",
+      "salience": 0.001433,
+      "mentions": 1
+    },
+    {
+      "name": "success",
+      "type": "ORGANIZATION",
+      "salience": 0.001431,
+      "mentions": 1
+    },
+    {
+      "name": "TechCrunch",
+      "type": "OTHER",
+      "salience": 0.001424,
+      "mentions": 3
+    },
+    {
+      "name": "and Indiegogo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001275,
+      "mentions": 1
+    },
+    {
+      "name": "Kickstarter",
+      "type": "ORGANIZATION",
+      "salience": 0.001188,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "ORGANIZATION",
+      "salience": 0.001165,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Crowd",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001153,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Category Leader: Shipping & Dropshipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001153,
+      "mentions": 1
+    },
+    {
+      "name": "Company of the Year",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001106,
+      "mentions": 1
+    },
+    {
+      "name": "cross-border",
+      "type": "OTHER",
+      "salience": 0.001105,
+      "mentions": 1
+    },
+    {
+      "name": "API",
+      "type": "ORGANIZATION",
+      "salience": 0.001105,
+      "mentions": 1
+    },
+    {
+      "name": "Company of the Year",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001087,
+      "mentions": 1
+    },
+    {
+      "name": "Partnerbase",
+      "type": "OTHER",
+      "salience": 0.001017,
+      "mentions": 1
+    },
+    {
+      "name": "Partnerbase",
+      "type": "OTHER",
+      "salience": 0.001012,
+      "mentions": 1
+    },
+    {
+      "name": "featuring Augustin Ceyrac",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001007,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "ORGANIZATION",
+      "salience": 0.000996,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "ORGANIZATION",
+      "salience": 0.000985,
+      "mentions": 1
+    },
+    {
+      "name": "Transportation",
+      "type": "OTHER",
+      "salience": 0.000975,
+      "mentions": 3
+    },
+    {
+      "name": "scalability",
+      "type": "OTHER",
+      "salience": 0.000935,
+      "mentions": 1
+    },
+    {
+      "name": "In 2020",
+      "type": "OTHER",
+      "salience": 0.000935,
+      "mentions": 1
+    },
+    {
+      "name": "now known as the Shopify Certified Technology Partner Program",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000935,
+      "mentions": 1
+    },
+    {
+      "name": "recognizing its reliability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000935,
+      "mentions": 1
+    },
+    {
+      "name": "G2",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00092,
+      "mentions": 1
+    },
+    {
+      "name": "FBM",
+      "type": "OTHER",
+      "salience": 0.000917,
+      "mentions": 1
+    },
+    {
+      "name": "SFP",
+      "type": "ORGANIZATION",
+      "salience": 0.000917,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise Merchants",
+      "type": "OTHER",
+      "salience": 0.000912,
+      "mentions": 1
+    },
+    {
+      "name": "References",
+      "type": "OTHER",
+      "salience": 0.000893,
+      "mentions": 1
+    },
+    {
+      "name": "Squarespace",
+      "type": "OTHER",
+      "salience": 0.000883,
+      "mentions": 1
+    },
+    {
+      "name": "WooCommerce",
+      "type": "OTHER",
+      "salience": 0.000883,
+      "mentions": 1
+    },
+    {
+      "name": "OPEN Forum",
+      "type": "OTHER",
+      "salience": 0.000852,
+      "mentions": 1
+    },
+    {
+      "name": "BigCommerce",
+      "type": "OTHER",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "Magento",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "Adobe",
+      "type": "ORGANIZATION",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "Walmart",
+      "type": "ORGANIZATION",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "Shein",
+      "type": "PERSON",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "Temu",
+      "type": "PERSON",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "Etsy and TikTok Shop",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "Best Startup In Asia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000829,
+      "mentions": 1
+    },
+    {
+      "name": "incubator",
+      "type": "OTHER",
+      "salience": 0.000822,
+      "mentions": 1
+    },
+    {
+      "name": "BBC Capital",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000816,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "ORGANIZATION",
+      "salience": 0.000814,
+      "mentions": 1
+    },
+    {
+      "name": "fundraising round",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000809,
+      "mentions": 1
+    },
+    {
+      "name": "DealStreetAsia",
+      "type": "OTHER",
+      "salience": 0.000802,
+      "mentions": 2
+    },
+    {
+      "name": "Forbes 30 Under 30 for Retail & eCommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0008,
+      "mentions": 1
+    },
+    {
+      "name": "including label generation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000799,
+      "mentions": 1
+    },
+    {
+      "name": "Stevie Awards",
+      "type": "OTHER",
+      "salience": 0.000796,
+      "mentions": 2
+    },
+    {
+      "name": "Money",
+      "type": "OTHER",
+      "salience": 0.000794,
+      "mentions": 1
+    },
+    {
+      "name": "Best Web Services and Applications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000783,
+      "mentions": 1
+    },
+    {
+      "name": "Jon",
+      "type": "PERSON",
+      "salience": 0.000767,
+      "mentions": 1
+    },
+    {
+      "name": "Russell",
+      "type": "PERSON",
+      "salience": 0.000767,
+      "mentions": 1
+    },
+    {
+      "name": "Retrieved 2023-11-17",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000658,
+      "mentions": 1
+    },
+    {
+      "name": "raises $4M",
+      "type": "OTHER",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "Crowdfunding Statistics By Market",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000622,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "ORGANIZATION",
+      "salience": 0.000599,
+      "mentions": 1
+    },
+    {
+      "name": "Gold Stevie Award Winner",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000572,
+      "mentions": 1
+    },
+    {
+      "name": "Kickstarter Partnerships",
+      "type": "ORGANIZATION",
+      "salience": 0.000532,
+      "mentions": 1
+    },
+    {
+      "name": "Connecting Asia's startup ecosystem",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000491,
+      "mentions": 1
+    },
+    {
+      "name": "raises $4M",
+      "type": "OTHER",
+      "salience": 0.000473,
+      "mentions": 1
+    },
+    {
+      "name": "Catherine",
+      "type": "PERSON",
+      "salience": 0.000322,
+      "mentions": 1
+    },
+    {
+      "name": "What is Indiegogo and How Does it Work'' . www.easyship.com",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000309,
+      "mentions": 1
+    },
+    {
+      "name": "Maitrayee",
+      "type": "PERSON",
+      "salience": 0.000301,
+      "mentions": 1
+    },
+    {
+      "name": "Average Success Rate And Facts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "Electro IQ",
+      "type": "OTHER",
+      "salience": 0.000297,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "November 2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2017",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 2021",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016-12-27",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-08-11",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-08-28",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-08-11",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-08-25",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-08-11",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016-12-27",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-08-25",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018-11-29",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-02-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025-07-22",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-02-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-02-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023-04-27",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023-11-17",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-03-04",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-03-04",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-03-04",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025-09-09",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-02-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-08-11",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-08-11",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-07-06",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017-08-11",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018-12-03",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018-06-22",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-02-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021-12-16",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-02-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021-12-16",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-02-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025-05-08",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026-02-13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$4M",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4M",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4M",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2015",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2019",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2016",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4M",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2021",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "08",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "02",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 62,
+    "CONSUMER_GOOD": 68,
+    "ORGANIZATION": 20,
+    "LOCATION": 19,
+    "PERSON": 31,
+    "DATE": 58,
+    "NUMBER": 157,
+    "PRICE": 3
+  },
+  "type_salience": {
+    "OTHER": 0.43466200000000027,
+    "CONSUMER_GOOD": 0.2747210000000001,
+    "ORGANIZATION": 0.05319600000000001,
+    "LOCATION": 0.090975,
+    "PERSON": 0.09364799999999997,
+    "DATE": 0.0,
+    "NUMBER": 0.0,
+    "PRICE": 0.0
+  }
+}

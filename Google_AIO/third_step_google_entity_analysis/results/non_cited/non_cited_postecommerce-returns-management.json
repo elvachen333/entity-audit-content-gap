@@ -1,0 +1,1257 @@
+{
+  "file": "non_cited_postecommerce-returns-management.txt",
+  "word_count": 2715,
+  "entity_count": 205,
+  "entities": [
+    {
+      "name": "but not returned.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.240875,
+      "mentions": 1
+    },
+    {
+      "name": "considerations:",
+      "type": "OTHER",
+      "salience": 0.037518,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.032774,
+      "mentions": 1
+    },
+    {
+      "name": "Customer dissatisfaction",
+      "type": "OTHER",
+      "salience": 0.028684,
+      "mentions": 1
+    },
+    {
+      "name": "profitability",
+      "type": "OTHER",
+      "salience": 0.027097,
+      "mentions": 1
+    },
+    {
+      "name": "Reducing e-commerce product returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026393,
+      "mentions": 1
+    },
+    {
+      "name": "Reading Time",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02587,
+      "mentions": 1
+    },
+    {
+      "name": "This entire process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025356,
+      "mentions": 1
+    },
+    {
+      "name": "Ecommerce Returns Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023707,
+      "mentions": 1
+    },
+    {
+      "name": "How-to Guide",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023707,
+      "mentions": 1
+    },
+    {
+      "name": "With the overwhelming volume of returns e-tailers experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018334,
+      "mentions": 1
+    },
+    {
+      "name": "it from",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016059,
+      "mentions": 1
+    },
+    {
+      "name": "Somewhat obviously",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015329,
+      "mentions": 1
+    },
+    {
+      "name": "including",
+      "type": "OTHER",
+      "salience": 0.013649,
+      "mentions": 1
+    },
+    {
+      "name": "Analyze returns data",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013099,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory management issues",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012261,
+      "mentions": 1
+    },
+    {
+      "name": "s",
+      "type": "OTHER",
+      "salience": 0.011598,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping it to the specified location",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010954,
+      "mentions": 1
+    },
+    {
+      "name": "For instance",
+      "type": "OTHER",
+      "salience": 0.009077,
+      "mentions": 1
+    },
+    {
+      "name": "And then",
+      "type": "PERSON",
+      "salience": 0.008837,
+      "mentions": 1
+    },
+    {
+      "name": "straining finances and affecting profitability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008649,
+      "mentions": 1
+    },
+    {
+      "name": "Packaging the product up",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008544,
+      "mentions": 1
+    },
+    {
+      "name": "For instance",
+      "type": "OTHER",
+      "salience": 0.008453,
+      "mentions": 1
+    },
+    {
+      "name": "Customer feedback",
+      "type": "OTHER",
+      "salience": 0.008249,
+      "mentions": 1
+    },
+    {
+      "name": "reach $849.9 billion in 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008146,
+      "mentions": 1
+    },
+    {
+      "name": "Customer demographics",
+      "type": "OTHER",
+      "salience": 0.007945,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.007488,
+      "mentions": 1
+    },
+    {
+      "name": "usually paid for by the retailer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00747,
+      "mentions": 1
+    },
+    {
+      "name": "Downloading a shipping label",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00747,
+      "mentions": 1
+    },
+    {
+      "name": "transportation",
+      "type": "OTHER",
+      "salience": 0.006829,
+      "mentions": 1
+    },
+    {
+      "name": "Additionally",
+      "type": "OTHER",
+      "salience": 0.006608,
+      "mentions": 1
+    },
+    {
+      "name": "where it can be inspected",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00658,
+      "mentions": 1
+    },
+    {
+      "name": "repackaged",
+      "type": "OTHER",
+      "salience": 0.00658,
+      "mentions": 1
+    },
+    {
+      "name": "Increased costs",
+      "type": "OTHER",
+      "salience": 0.006023,
+      "mentions": 1
+    },
+    {
+      "name": "customer-friendly",
+      "type": "OTHER",
+      "salience": 0.005909,
+      "mentions": 1
+    },
+    {
+      "name": "products.",
+      "type": "OTHER",
+      "salience": 0.00586,
+      "mentions": 1
+    },
+    {
+      "name": "Product exchange",
+      "type": "OTHER",
+      "salience": 0.005674,
+      "mentions": 1
+    },
+    {
+      "name": "Customer reviews and ratings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005588,
+      "mentions": 1
+    },
+    {
+      "name": "repackage it",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005456,
+      "mentions": 1
+    },
+    {
+      "name": "Increased environmental footprint",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005218,
+      "mentions": 1
+    },
+    {
+      "name": "packaging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005218,
+      "mentions": 1
+    },
+    {
+      "name": "reverse logistics",
+      "type": "OTHER",
+      "salience": 0.004551,
+      "mentions": 1
+    },
+    {
+      "name": "Store Credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00451,
+      "mentions": 1
+    },
+    {
+      "name": "Environmental impact",
+      "type": "OTHER",
+      "salience": 0.004411,
+      "mentions": 1
+    },
+    {
+      "name": "Click here",
+      "type": "PERSON",
+      "salience": 0.00425,
+      "mentions": 1
+    },
+    {
+      "name": "----------------------------------------------------------------------------------------------------------------------------",
+      "type": "OTHER",
+      "salience": 0.00425,
+      "mentions": 1
+    },
+    {
+      "name": "speed",
+      "type": "OTHER",
+      "salience": 0.004048,
+      "mentions": 1
+    },
+    {
+      "name": "Manage options",
+      "type": "OTHER",
+      "salience": 0.003962,
+      "mentions": 1
+    },
+    {
+      "name": "Manage services",
+      "type": "OTHER",
+      "salience": 0.003954,
+      "mentions": 1
+    },
+    {
+      "name": "Manage",
+      "type": "PERSON",
+      "salience": 0.003946,
+      "mentions": 1
+    },
+    {
+      "name": "Manage Consent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003899,
+      "mentions": 1
+    },
+    {
+      "name": "opposite direction",
+      "type": "OTHER",
+      "salience": 0.003872,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory management systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003855,
+      "mentions": 1
+    },
+    {
+      "name": "Manage options",
+      "type": "OTHER",
+      "salience": 0.003803,
+      "mentions": 1
+    },
+    {
+      "name": "Manage services",
+      "type": "OTHER",
+      "salience": 0.003796,
+      "mentions": 1
+    },
+    {
+      "name": "Manage",
+      "type": "PERSON",
+      "salience": 0.003789,
+      "mentions": 1
+    },
+    {
+      "name": "Manage consentManage consent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003747,
+      "mentions": 1
+    },
+    {
+      "name": "opportunities",
+      "type": "OTHER",
+      "salience": 0.003706,
+      "mentions": 1
+    },
+    {
+      "name": "Damaged",
+      "type": "OTHER",
+      "salience": 0.003621,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory",
+      "type": "OTHER",
+      "salience": 0.003466,
+      "mentions": 1
+    },
+    {
+      "name": "Data collectio n",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003457,
+      "mentions": 1
+    },
+    {
+      "name": "Without a subpoena",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003446,
+      "mentions": 1
+    },
+    {
+      "name": "Without a subpoena",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003306,
+      "mentions": 1
+    },
+    {
+      "name": "is called",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003291,
+      "mentions": 1
+    },
+    {
+      "name": "With the right technology and approach",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00329,
+      "mentions": 1
+    },
+    {
+      "name": "and AI-driven analytics can easily gather and analyze it by accessing it from",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003177,
+      "mentions": 1
+    },
+    {
+      "name": "preferences",
+      "type": "OTHER",
+      "salience": 0.003166,
+      "mentions": 1
+    },
+    {
+      "name": "Online returns portals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003151,
+      "mentions": 1
+    },
+    {
+      "name": "Make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003135,
+      "mentions": 1
+    },
+    {
+      "name": "Make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002944,
+      "mentions": 1
+    },
+    {
+      "name": "Outdated",
+      "type": "OTHER",
+      "salience": 0.00259,
+      "mentions": 1
+    },
+    {
+      "name": "Lose value over time",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002562,
+      "mentions": 1
+    },
+    {
+      "name": "User-friendly interface",
+      "type": "OTHER",
+      "salience": 0.00253,
+      "mentions": 1
+    },
+    {
+      "name": "AcceptDenyView preferencesSave preferences View preferences",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002496,
+      "mentions": 1
+    },
+    {
+      "name": "such as AI-driven analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00249,
+      "mentions": 1
+    },
+    {
+      "name": "Manage Consent",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00244,
+      "mentions": 1
+    },
+    {
+      "name": "AcceptDenyView preferencesSave preferences View preferences",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002397,
+      "mentions": 1
+    },
+    {
+      "name": "so they can make informed decisions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002311,
+      "mentions": 1
+    },
+    {
+      "name": "Include",
+      "type": "OTHER",
+      "salience": 0.00218,
+      "mentions": 1
+    },
+    {
+      "name": "With years of experience leading communications initiatives across sectors",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002161,
+      "mentions": 1
+    },
+    {
+      "name": "what-if",
+      "type": "OTHER",
+      "salience": 0.002123,
+      "mentions": 1
+    },
+    {
+      "name": "Continually monitor and improve the returns process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002059,
+      "mentions": 1
+    },
+    {
+      "name": "Continuously",
+      "type": "PERSON",
+      "salience": 0.00205,
+      "mentions": 1
+    },
+    {
+      "name": "Transparent",
+      "type": "OTHER",
+      "salience": 0.002014,
+      "mentions": 1
+    },
+    {
+      "name": "Time-sensitive",
+      "type": "PERSON",
+      "salience": 0.002003,
+      "mentions": 1
+    },
+    {
+      "name": "PreferencesPreferences",
+      "type": "OTHER",
+      "salience": 0.001975,
+      "mentions": 1
+    },
+    {
+      "name": "Internet Service Provider",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001916,
+      "mentions": 2
+    },
+    {
+      "name": "Marketing strategies",
+      "type": "OTHER",
+      "salience": 0.001856,
+      "mentions": 1
+    },
+    {
+      "name": "Resources",
+      "type": "OTHER",
+      "salience": 0.001845,
+      "mentions": 1
+    },
+    {
+      "name": "compelling stories.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001812,
+      "mentions": 1
+    },
+    {
+      "name": "Well-defined",
+      "type": "OTHER",
+      "salience": 0.001791,
+      "mentions": 1
+    },
+    {
+      "name": "information",
+      "type": "LOCATION",
+      "salience": 0.001788,
+      "mentions": 1
+    },
+    {
+      "name": "Include",
+      "type": "OTHER",
+      "salience": 0.001784,
+      "mentions": 1
+    },
+    {
+      "name": "High-quality images and videos",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001751,
+      "mentions": 1
+    },
+    {
+      "name": "access device information.",
+      "type": "LOCATION",
+      "salience": 0.001745,
+      "mentions": 1
+    },
+    {
+      "name": "information",
+      "type": "LOCATION",
+      "salience": 0.001715,
+      "mentions": 1
+    },
+    {
+      "name": "Company",
+      "type": "OTHER",
+      "salience": 0.001668,
+      "mentions": 1
+    },
+    {
+      "name": "Integration with shipping partners",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001551,
+      "mentions": 1
+    },
+    {
+      "name": "with original packaging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001513,
+      "mentions": 1
+    },
+    {
+      "name": "Reveal seasonal trends",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001415,
+      "mentions": 1
+    },
+    {
+      "name": "Ensure sustainability",
+      "type": "OTHER",
+      "salience": 0.001393,
+      "mentions": 1
+    },
+    {
+      "name": "streamlining",
+      "type": "OTHER",
+      "salience": 0.001363,
+      "mentions": 1
+    },
+    {
+      "name": "StatisticsStatistics",
+      "type": "OTHER",
+      "salience": 0.001334,
+      "mentions": 1
+    },
+    {
+      "name": "Streamline returns processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001328,
+      "mentions": 1
+    },
+    {
+      "name": "Reduce returns",
+      "type": "OTHER",
+      "salience": 0.001306,
+      "mentions": 1
+    },
+    {
+      "name": "Update inventory management system",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001298,
+      "mentions": 1
+    },
+    {
+      "name": "Let's look at the possibilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001265,
+      "mentions": 1
+    },
+    {
+      "name": "dissatisfaction",
+      "type": "OTHER",
+      "salience": 0.001259,
+      "mentions": 1
+    },
+    {
+      "name": "PreferencesPreferences",
+      "type": "OTHER",
+      "salience": 0.001234,
+      "mentions": 1
+    },
+    {
+      "name": "transmission",
+      "type": "OTHER",
+      "salience": 0.001206,
+      "mentions": 1
+    },
+    {
+      "name": "Abigail explores the evolving intersection of retail",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001199,
+      "mentions": 1
+    },
+    {
+      "name": "satisfaction.",
+      "type": "OTHER",
+      "salience": 0.001176,
+      "mentions": 1
+    },
+    {
+      "name": "Pattern recognition",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001166,
+      "mentions": 1
+    },
+    {
+      "name": "Minimize packaging waste",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001157,
+      "mentions": 1
+    },
+    {
+      "name": "Prediction and forecasting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001109,
+      "mentions": 1
+    },
+    {
+      "name": "MarketingMarketing",
+      "type": "OTHER",
+      "salience": 0.001099,
+      "mentions": 1
+    },
+    {
+      "name": "access device information.",
+      "type": "LOCATION",
+      "salience": 0.001092,
+      "mentions": 1
+    },
+    {
+      "name": "avoiding overstock and understock",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001076,
+      "mentions": 1
+    },
+    {
+      "name": "MarketingMarketing",
+      "type": "OTHER",
+      "salience": 0.001054,
+      "mentions": 1
+    },
+    {
+      "name": "and boost profits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001049,
+      "mentions": 1
+    },
+    {
+      "name": "dissatisfaction",
+      "type": "OTHER",
+      "salience": 0.001029,
+      "mentions": 1
+    },
+    {
+      "name": "conditions",
+      "type": "OTHER",
+      "salience": 0.001006,
+      "mentions": 1
+    },
+    {
+      "name": "demonstrating",
+      "type": "PERSON",
+      "salience": 0.000984,
+      "mentions": 1
+    },
+    {
+      "name": "vendor_count",
+      "type": "OTHER",
+      "salience": 0.000942,
+      "mentions": 4
+    },
+    {
+      "name": "ensuring",
+      "type": "OTHER",
+      "salience": 0.00093,
+      "mentions": 1
+    },
+    {
+      "name": "Additionally",
+      "type": "OTHER",
+      "salience": 0.000927,
+      "mentions": 1
+    },
+    {
+      "name": "FunctionalFunctional Always active",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000923,
+      "mentions": 1
+    },
+    {
+      "name": "Assessing the condition of returned items",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000875,
+      "mentions": 1
+    },
+    {
+      "name": "and strategy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000867,
+      "mentions": 1
+    },
+    {
+      "name": "Restock eligible items",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000867,
+      "mentions": 1
+    },
+    {
+      "name": "StatisticsStatistics",
+      "type": "OTHER",
+      "salience": 0.000834,
+      "mentions": 1
+    },
+    {
+      "name": "speed",
+      "type": "ORGANIZATION",
+      "salience": 0.000783,
+      "mentions": 1
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "salience": 0.000776,
+      "mentions": 2
+    },
+    {
+      "name": "chat",
+      "type": "OTHER",
+      "salience": 0.000776,
+      "mentions": 1
+    },
+    {
+      "name": "personalization",
+      "type": "OTHER",
+      "salience": 0.000769,
+      "mentions": 1
+    },
+    {
+      "name": "Budgets",
+      "type": "OTHER",
+      "salience": 0.000762,
+      "mentions": 1
+    },
+    {
+      "name": "transmission",
+      "type": "OTHER",
+      "salience": 0.000754,
+      "mentions": 1
+    },
+    {
+      "name": "unused",
+      "type": "OTHER",
+      "salience": 0.000727,
+      "mentions": 1
+    },
+    {
+      "name": "unopened",
+      "type": "OTHER",
+      "salience": 0.000727,
+      "mentions": 1
+    },
+    {
+      "name": "misunderstandings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000723,
+      "mentions": 1
+    },
+    {
+      "name": "Cash refund",
+      "type": "OTHER",
+      "salience": 0.000712,
+      "mentions": 1
+    },
+    {
+      "name": "and purchasing habits.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000709,
+      "mentions": 1
+    },
+    {
+      "name": "optimize inventory",
+      "type": "OTHER",
+      "salience": 0.000697,
+      "mentions": 1
+    },
+    {
+      "name": "clear",
+      "type": "OTHER",
+      "salience": 0.000692,
+      "mentions": 1
+    },
+    {
+      "name": "At Retalon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000689,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications",
+      "type": "OTHER",
+      "salience": 0.000675,
+      "mentions": 1
+    },
+    {
+      "name": "incentives for eco-friendly choices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000661,
+      "mentions": 1
+    },
+    {
+      "name": "Encourage responsible consumer behaviour",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000661,
+      "mentions": 1
+    },
+    {
+      "name": "phone",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00066,
+      "mentions": 2
+    },
+    {
+      "name": "Key features to include are",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00065,
+      "mentions": 1
+    },
+    {
+      "name": "Click here",
+      "type": "PERSON",
+      "salience": 0.000638,
+      "mentions": 1
+    },
+    {
+      "name": "----------------------------------------------------------------------------------------------------------------------------",
+      "type": "OTHER",
+      "salience": 0.000638,
+      "mentions": 1
+    },
+    {
+      "name": "accurate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "availability",
+      "type": "OTHER",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "While returns are inevitable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000603,
+      "mentions": 1
+    },
+    {
+      "name": "Enhance product information",
+      "type": "OTHER",
+      "salience": 0.000594,
+      "mentions": 1
+    },
+    {
+      "name": "Dimensions",
+      "type": "OTHER",
+      "salience": 0.000587,
+      "mentions": 1
+    },
+    {
+      "name": "Materials",
+      "type": "OTHER",
+      "salience": 0.000584,
+      "mentions": 1
+    },
+    {
+      "name": "Care instructions",
+      "type": "OTHER",
+      "salience": 0.000582,
+      "mentions": 1
+    },
+    {
+      "name": "FunctionalFunctional Always active",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000577,
+      "mentions": 1
+    },
+    {
+      "name": "Address customer issues and concerns promptly and professionally",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000565,
+      "mentions": 1
+    },
+    {
+      "name": "Message",
+      "type": "OTHER",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "speed",
+      "type": "OTHER",
+      "salience": 0.000511,
+      "mentions": 1
+    },
+    {
+      "name": "Pre-sale consultations/Post sale-followup",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000471,
+      "mentions": 1
+    },
+    {
+      "name": "Modern technology",
+      "type": "OTHER",
+      "salience": 0.00045,
+      "mentions": 1
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "salience": 0.000429,
+      "mentions": 1
+    },
+    {
+      "name": "and scalability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000406,
+      "mentions": 1
+    },
+    {
+      "name": "flexibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000406,
+      "mentions": 1
+    },
+    {
+      "name": "Ultimately",
+      "type": "OTHER",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "Abigail B",
+      "type": "OTHER",
+      "salience": 0.000399,
+      "mentions": 1
+    },
+    {
+      "name": "Discover our Solutions",
+      "type": "OTHER",
+      "salience": 0.000388,
+      "mentions": 1
+    },
+    {
+      "name": "AI",
+      "type": "OTHER",
+      "salience": 0.000369,
+      "mentions": 1
+    },
+    {
+      "name": "she",
+      "type": "ORGANIZATION",
+      "salience": 0.000287,
+      "mentions": 1
+    },
+    {
+      "name": "bridging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000286,
+      "mentions": 1
+    },
+    {
+      "name": "Search",
+      "type": "OTHER",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "Table of Contents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000284,
+      "mentions": 1
+    },
+    {
+      "name": "Twitter Linkedin",
+      "type": "OTHER",
+      "salience": 0.000283,
+      "mentions": 1
+    },
+    {
+      "name": "March 17, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$849.9",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "849.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "67",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 80,
+    "OTHER": 88,
+    "ORGANIZATION": 3,
+    "PERSON": 8,
+    "LOCATION": 4,
+    "DATE": 2,
+    "NUMBER": 25,
+    "PRICE": 1
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.6175129999999998,
+    "OTHER": 0.3100289999999999,
+    "ORGANIZATION": 0.033844,
+    "PERSON": 0.026497,
+    "LOCATION": 0.00634,
+    "DATE": 0.0,
+    "NUMBER": 0.0,
+    "PRICE": 0.0
+  }
+}

@@ -1,0 +1,1405 @@
+{
+  "file": "non_cited_postdisneycruiseline.txt",
+  "word_count": 134,
+  "entity_count": 229,
+  "entities": [
+    {
+      "name": "Klook优惠券",
+      "type": "OTHER",
+      "salience": 0.104289,
+      "mentions": 1
+    },
+    {
+      "name": "Klook",
+      "type": "OTHER",
+      "salience": 0.079264,
+      "mentions": 13
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.056469,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.054392,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "OTHER",
+      "salience": 0.047543,
+      "mentions": 1
+    },
+    {
+      "name": "优惠券",
+      "type": "OTHER",
+      "salience": 0.037364,
+      "mentions": 6
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.031721,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.025962,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡",
+      "type": "LOCATION",
+      "salience": 0.024853,
+      "mentions": 5
+    },
+    {
+      "name": "数量",
+      "type": "OTHER",
+      "salience": 0.01845,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.017086,
+      "mentions": 1
+    },
+    {
+      "name": "酒店",
+      "type": "LOCATION",
+      "salience": 0.014878,
+      "mentions": 1
+    },
+    {
+      "name": "行程体验",
+      "type": "OTHER",
+      "salience": 0.014878,
+      "mentions": 1
+    },
+    {
+      "name": "平台优惠码",
+      "type": "OTHER",
+      "salience": 0.014416,
+      "mentions": 1
+    },
+    {
+      "name": "HK",
+      "type": "ORGANIZATION",
+      "salience": 0.01309,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.012554,
+      "mentions": 1
+    },
+    {
+      "name": "用户",
+      "type": "PERSON",
+      "salience": 0.01191,
+      "mentions": 1
+    },
+    {
+      "name": "景点",
+      "type": "LOCATION",
+      "salience": 0.010589,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "OTHER",
+      "salience": 0.009988,
+      "mentions": 1
+    },
+    {
+      "name": "预订",
+      "type": "OTHER",
+      "salience": 0.00835,
+      "mentions": 1
+    },
+    {
+      "name": "Klook优惠券",
+      "type": "OTHER",
+      "salience": 0.007756,
+      "mentions": 1
+    },
+    {
+      "name": "HK",
+      "type": "ORGANIZATION",
+      "salience": 0.007509,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.007177,
+      "mentions": 1
+    },
+    {
+      "name": "HKD",
+      "type": "ORGANIZATION",
+      "salience": 0.006864,
+      "mentions": 1
+    },
+    {
+      "name": "数量",
+      "type": "OTHER",
+      "salience": 0.005861,
+      "mentions": 1
+    },
+    {
+      "name": "价值",
+      "type": "OTHER",
+      "salience": 0.005314,
+      "mentions": 1
+    },
+    {
+      "name": "Klook优惠码",
+      "type": "OTHER",
+      "salience": 0.005271,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.005089,
+      "mentions": 3
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.004976,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.004788,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.004733,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.004679,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.004632,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.004628,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.004576,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.00453,
+      "mentions": 1
+    },
+    {
+      "name": "预订",
+      "type": "OTHER",
+      "salience": 0.004495,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.004436,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.004383,
+      "mentions": 1
+    },
+    {
+      "name": "消费",
+      "type": "OTHER",
+      "salience": 0.004178,
+      "mentions": 1
+    },
+    {
+      "name": "价值",
+      "type": "OTHER",
+      "salience": 0.004117,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.004117,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.004036,
+      "mentions": 1
+    },
+    {
+      "name": "船上活动",
+      "type": "OTHER",
+      "salience": 0.003663,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "OTHER",
+      "salience": 0.003526,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号邮轮",
+      "type": "OTHER",
+      "salience": 0.003419,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.003384,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.003296,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "OTHER",
+      "salience": 0.003231,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.002956,
+      "mentions": 1
+    },
+    {
+      "name": "EARSUM120",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002933,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.002877,
+      "mentions": 1
+    },
+    {
+      "name": "探险号",
+      "type": "OTHER",
+      "salience": 0.002831,
+      "mentions": 1
+    },
+    {
+      "name": "探险号",
+      "type": "OTHER",
+      "salience": 0.002751,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.002642,
+      "mentions": 2
+    },
+    {
+      "name": "旅程",
+      "type": "OTHER",
+      "salience": 0.002626,
+      "mentions": 1
+    },
+    {
+      "name": "PayMe",
+      "type": "OTHER",
+      "salience": 0.002578,
+      "mentions": 1
+    },
+    {
+      "name": "服务条款",
+      "type": "OTHER",
+      "salience": 0.002271,
+      "mentions": 1
+    },
+    {
+      "name": "HKD",
+      "type": "OTHER",
+      "salience": 0.002182,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "EVENT",
+      "salience": 0.002168,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.002141,
+      "mentions": 1
+    },
+    {
+      "name": "平台优惠码",
+      "type": "OTHER",
+      "salience": 0.001949,
+      "mentions": 1
+    },
+    {
+      "name": "HKD",
+      "type": "ORGANIZATION",
+      "salience": 0.001948,
+      "mentions": 1
+    },
+    {
+      "name": "资格用户",
+      "type": "PERSON",
+      "salience": 0.001929,
+      "mentions": 1
+    },
+    {
+      "name": "数量",
+      "type": "OTHER",
+      "salience": 0.00187,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "OTHER",
+      "salience": 0.001854,
+      "mentions": 1
+    },
+    {
+      "name": "合资格用户",
+      "type": "PERSON",
+      "salience": 0.001847,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "EVENT",
+      "salience": 0.001798,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "OTHER",
+      "salience": 0.00178,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.001476,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.001476,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡酒店",
+      "type": "LOCATION",
+      "salience": 0.001447,
+      "mentions": 1
+    },
+    {
+      "name": "航程热卖",
+      "type": "OTHER",
+      "salience": 0.001358,
+      "mentions": 1
+    },
+    {
+      "name": "消费",
+      "type": "OTHER",
+      "salience": 0.001336,
+      "mentions": 1
+    },
+    {
+      "name": "限时活动",
+      "type": "OTHER",
+      "salience": 0.001276,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.001209,
+      "mentions": 1
+    },
+    {
+      "name": "消费",
+      "type": "OTHER",
+      "salience": 0.001198,
+      "mentions": 1
+    },
+    {
+      "name": "额外条款",
+      "type": "OTHER",
+      "salience": 0.001155,
+      "mentions": 1
+    },
+    {
+      "name": "使用条款",
+      "type": "OTHER",
+      "salience": 0.00115,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.00115,
+      "mentions": 1
+    },
+    {
+      "name": "对本条款",
+      "type": "OTHER",
+      "salience": 0.001144,
+      "mentions": 1
+    },
+    {
+      "name": "帐户",
+      "type": "OTHER",
+      "salience": 0.001133,
+      "mentions": 1
+    },
+    {
+      "name": "GMT+8",
+      "type": "OTHER",
+      "salience": 0.00103,
+      "mentions": 1
+    },
+    {
+      "name": "用户",
+      "type": "PERSON",
+      "salience": 0.000975,
+      "mentions": 1
+    },
+    {
+      "name": "母港",
+      "type": "LOCATION",
+      "salience": 0.000968,
+      "mentions": 1
+    },
+    {
+      "name": "亚洲",
+      "type": "LOCATION",
+      "salience": 0.000968,
+      "mentions": 1
+    },
+    {
+      "name": "PM26APR40",
+      "type": "OTHER",
+      "salience": 0.000926,
+      "mentions": 1
+    },
+    {
+      "name": "法律法规",
+      "type": "OTHER",
+      "salience": 0.000914,
+      "mentions": 1
+    },
+    {
+      "name": "详情",
+      "type": "OTHER",
+      "salience": 0.000911,
+      "mentions": 1
+    },
+    {
+      "name": "探险号订单",
+      "type": "OTHER",
+      "salience": 0.000894,
+      "mentions": 1
+    },
+    {
+      "name": "金额",
+      "type": "OTHER",
+      "salience": 0.000885,
+      "mentions": 1
+    },
+    {
+      "name": "数量",
+      "type": "OTHER",
+      "salience": 0.00088,
+      "mentions": 1
+    },
+    {
+      "name": "全线",
+      "type": "OTHER",
+      "salience": 0.000867,
+      "mentions": 1
+    },
+    {
+      "name": "亮点",
+      "type": "OTHER",
+      "salience": 0.000846,
+      "mentions": 1
+    },
+    {
+      "name": "旅",
+      "type": "OTHER",
+      "salience": 0.000837,
+      "mentions": 1
+    },
+    {
+      "name": "机会",
+      "type": "OTHER",
+      "salience": 0.000837,
+      "mentions": 1
+    },
+    {
+      "name": "粉丝",
+      "type": "PERSON",
+      "salience": 0.000837,
+      "mentions": 1
+    },
+    {
+      "name": "OTP26ALL100",
+      "type": "OTHER",
+      "salience": 0.000823,
+      "mentions": 1
+    },
+    {
+      "name": "资讯",
+      "type": "OTHER",
+      "salience": 0.000814,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮票价",
+      "type": "OTHER",
+      "salience": 0.000814,
+      "mentions": 1
+    },
+    {
+      "name": "城市",
+      "type": "LOCATION",
+      "salience": 0.000814,
+      "mentions": 1
+    },
+    {
+      "name": "系列",
+      "type": "OTHER",
+      "salience": 0.000814,
+      "mentions": 1
+    },
+    {
+      "name": "Duffy and The Friend",
+      "type": "WORK_OF_ART",
+      "salience": 0.000737,
+      "mentions": 1
+    },
+    {
+      "name": "条件",
+      "type": "OTHER",
+      "salience": 0.000719,
+      "mentions": 1
+    },
+    {
+      "name": "条件",
+      "type": "OTHER",
+      "salience": 0.000715,
+      "mentions": 1
+    },
+    {
+      "name": "https://www.klook.com/zh-HK/policy/",
+      "type": "OTHER",
+      "salience": 0.000671,
+      "mentions": 1
+    },
+    {
+      "name": "现金",
+      "type": "OTHER",
+      "salience": 0.000668,
+      "mentions": 1
+    },
+    {
+      "name": "房型",
+      "type": "OTHER",
+      "salience": 0.000628,
+      "mentions": 1
+    },
+    {
+      "name": "cookies",
+      "type": "OTHER",
+      "salience": 0.000625,
+      "mentions": 2
+    },
+    {
+      "name": "表演介绍",
+      "type": "OTHER",
+      "salience": 0.00062,
+      "mentions": 1
+    },
+    {
+      "name": "玩乐设施",
+      "type": "OTHER",
+      "salience": 0.00062,
+      "mentions": 1
+    },
+    {
+      "name": "反应",
+      "type": "OTHER",
+      "salience": 0.000612,
+      "mentions": 1
+    },
+    {
+      "name": "小编",
+      "type": "PERSON",
+      "salience": 0.000603,
+      "mentions": 1
+    },
+    {
+      "name": "浏览体验",
+      "type": "OTHER",
+      "salience": 0.000581,
+      "mentions": 1
+    },
+    {
+      "name": "细则约束",
+      "type": "OTHER",
+      "salience": 0.000567,
+      "mentions": 1
+    },
+    {
+      "name": "促销条件",
+      "type": "OTHER",
+      "salience": 0.000565,
+      "mentions": 1
+    },
+    {
+      "name": "约束",
+      "type": "OTHER",
+      "salience": 0.000565,
+      "mentions": 1
+    },
+    {
+      "name": "隐私政策",
+      "type": "OTHER",
+      "salience": 0.000565,
+      "mentions": 1
+    },
+    {
+      "name": "设定",
+      "type": "OTHER",
+      "salience": 0.000554,
+      "mentions": 1
+    },
+    {
+      "name": "详情",
+      "type": "OTHER",
+      "salience": 0.00053,
+      "mentions": 1
+    },
+    {
+      "name": "政策",
+      "type": "OTHER",
+      "salience": 0.000522,
+      "mentions": 1
+    },
+    {
+      "name": "Meta Youtube Instagram Threads",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00046,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码赠礼",
+      "type": "OTHER",
+      "salience": 0.000457,
+      "mentions": 1
+    },
+    {
+      "name": "通知",
+      "type": "OTHER",
+      "salience": 0.0004,
+      "mentions": 1
+    },
+    {
+      "name": "修改",
+      "type": "OTHER",
+      "salience": 0.0004,
+      "mentions": 1
+    },
+    {
+      "name": "部分",
+      "type": "OTHER",
+      "salience": 0.0004,
+      "mentions": 1
+    },
+    {
+      "name": "争议",
+      "type": "OTHER",
+      "salience": 0.000396,
+      "mentions": 1
+    },
+    {
+      "name": "沟通",
+      "type": "OTHER",
+      "salience": 0.000396,
+      "mentions": 1
+    },
+    {
+      "name": "执行方式",
+      "type": "OTHER",
+      "salience": 0.000396,
+      "mentions": 1
+    },
+    {
+      "name": "旅行代理商牌照",
+      "type": "OTHER",
+      "salience": 0.000391,
+      "mentions": 1
+    },
+    {
+      "name": "网页",
+      "type": "OTHER",
+      "salience": 0.000374,
+      "mentions": 1
+    },
+    {
+      "name": "权利",
+      "type": "OTHER",
+      "salience": 0.000319,
+      "mentions": 1
+    },
+    {
+      "name": "规则",
+      "type": "OTHER",
+      "salience": 0.000289,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027年",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年4月12日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027年",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年4月30日23:59 (GMT+8)",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年3月10日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120美元",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$ 3,773",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "USD 120",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$ 4,773",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "USD 120",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$120",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120\n\nHKD",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HKD 2,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$40",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40\n\nHKD",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HKD 888",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100\n\nHKD",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HKD 500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120美元",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80美元",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40美元",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "59",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,773",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,773",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年3月10日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,773",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,773",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "888",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "59",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "120",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "85",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2014",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "354005",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年4月30日23:59",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 127,
+    "LOCATION": 11,
+    "ORGANIZATION": 7,
+    "PERSON": 8,
+    "CONSUMER_GOOD": 2,
+    "EVENT": 2,
+    "WORK_OF_ART": 1,
+    "NUMBER": 69,
+    "DATE": 10,
+    "PRICE": 17
+  },
+  "type_salience": {
+    "OTHER": 0.7166399999999998,
+    "LOCATION": 0.054516999999999996,
+    "ORGANIZATION": 0.034499999999999996,
+    "PERSON": 0.029395,
+    "CONSUMER_GOOD": 0.0033929999999999997,
+    "EVENT": 0.003966,
+    "WORK_OF_ART": 0.000737,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

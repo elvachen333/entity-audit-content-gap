@@ -1,0 +1,1405 @@
+{
+  "file": "cited_postecommerce-returns-management-benefits-best-practices_utm_source=openai.txt",
+  "word_count": 2629,
+  "entity_count": 230,
+  "entities": [
+    {
+      "name": "E-commerce growth",
+      "type": "OTHER",
+      "salience": 0.08046,
+      "mentions": 1
+    },
+    {
+      "name": "Return Prime's Wonder Bot Automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.077133,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce Returns Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.063574,
+      "mentions": 1
+    },
+    {
+      "name": "Custom Return Policy",
+      "type": "OTHER",
+      "salience": 0.037546,
+      "mentions": 1
+    },
+    {
+      "name": "Benefits and Key Practices",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020432,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.020371,
+      "mentions": 1
+    },
+    {
+      "name": "Return Prime's",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.019482,
+      "mentions": 2
+    },
+    {
+      "name": "An e-commerce Returns Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018738,
+      "mentions": 1
+    },
+    {
+      "name": "over",
+      "type": "OTHER",
+      "salience": 0.016905,
+      "mentions": 1
+    },
+    {
+      "name": "Return Window",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01573,
+      "mentions": 1
+    },
+    {
+      "name": "Return Initiation Steps",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015629,
+      "mentions": 1
+    },
+    {
+      "name": "Return vs.",
+      "type": "OTHER",
+      "salience": 0.015529,
+      "mentions": 1
+    },
+    {
+      "name": "This includes managing return shipments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01464,
+      "mentions": 1
+    },
+    {
+      "name": "RMS",
+      "type": "OTHER",
+      "salience": 0.014408,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Return Requests",
+      "type": "OTHER",
+      "salience": 0.013254,
+      "mentions": 1
+    },
+    {
+      "name": "Key Components of E-commerce Returns Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013163,
+      "mentions": 1
+    },
+    {
+      "name": "inspecting items",
+      "type": "OTHER",
+      "salience": 0.013158,
+      "mentions": 1
+    },
+    {
+      "name": "With Return Prime's",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012868,
+      "mentions": 1
+    },
+    {
+      "name": "refurbishment",
+      "type": "OTHER",
+      "salience": 0.012579,
+      "mentions": 1
+    },
+    {
+      "name": "Strategies include",
+      "type": "OTHER",
+      "salience": 0.011716,
+      "mentions": 1
+    },
+    {
+      "name": "Efficiently",
+      "type": "PERSON",
+      "salience": 0.011461,
+      "mentions": 1
+    },
+    {
+      "name": "Optimize Reverse Logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011286,
+      "mentions": 1
+    },
+    {
+      "name": "February 8",
+      "type": "OTHER",
+      "salience": 0.011183,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Engagement and Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009468,
+      "mentions": 1
+    },
+    {
+      "name": "and data analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009408,
+      "mentions": 1
+    },
+    {
+      "name": "Return Prime automates key processes such as return label generation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009403,
+      "mentions": 1
+    },
+    {
+      "name": "Transparent",
+      "type": "PERSON",
+      "salience": 0.008928,
+      "mentions": 1
+    },
+    {
+      "name": "The Complexities of E-commerce Returns Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007765,
+      "mentions": 1
+    },
+    {
+      "name": "restocking procedures",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007272,
+      "mentions": 1
+    },
+    {
+      "name": "shipping guidelines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006977,
+      "mentions": 1
+    },
+    {
+      "name": "e.g., return label generation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006977,
+      "mentions": 1
+    },
+    {
+      "name": "Clear and Accessible Return Policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00693,
+      "mentions": 1
+    },
+    {
+      "name": "RMS",
+      "type": "OTHER",
+      "salience": 0.006911,
+      "mentions": 1
+    },
+    {
+      "name": "Tripti Agarwal",
+      "type": "OTHER",
+      "salience": 0.0069,
+      "mentions": 1
+    },
+    {
+      "name": "guidelines",
+      "type": "OTHER",
+      "salience": 0.006805,
+      "mentions": 1
+    },
+    {
+      "name": "simple inconvenience",
+      "type": "OTHER",
+      "salience": 0.006731,
+      "mentions": 1
+    },
+    {
+      "name": "customer service",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006492,
+      "mentions": 1
+    },
+    {
+      "name": "Customer-Managed",
+      "type": "OTHER",
+      "salience": 0.006341,
+      "mentions": 2
+    },
+    {
+      "name": "can",
+      "type": "ORGANIZATION",
+      "salience": 0.006156,
+      "mentions": 1
+    },
+    {
+      "name": "Simplifying",
+      "type": "PERSON",
+      "salience": 0.006108,
+      "mentions": 1
+    },
+    {
+      "name": "Consider implementing these strategies:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00595,
+      "mentions": 1
+    },
+    {
+      "name": "generate return labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005939,
+      "mentions": 1
+    },
+    {
+      "name": "resale",
+      "type": "OTHER",
+      "salience": 0.005743,
+      "mentions": 1
+    },
+    {
+      "name": "The complexities of returns management demand strategic solutions.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005503,
+      "mentions": 1
+    },
+    {
+      "name": "According to a report from the National Retail Federation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005449,
+      "mentions": 1
+    },
+    {
+      "name": "NRF",
+      "type": "OTHER",
+      "salience": 0.005449,
+      "mentions": 1
+    },
+    {
+      "name": "Updates: Tracking and Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005375,
+      "mentions": 1
+    },
+    {
+      "name": "The Complexities of E-commerce Returns Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005356,
+      "mentions": 1
+    },
+    {
+      "name": "companies",
+      "type": "OTHER",
+      "salience": 0.005123,
+      "mentions": 1
+    },
+    {
+      "name": "comprehensively",
+      "type": "OTHER",
+      "salience": 0.004932,
+      "mentions": 1
+    },
+    {
+      "name": "can",
+      "type": "ORGANIZATION",
+      "salience": 0.004886,
+      "mentions": 1
+    },
+    {
+      "name": "complications",
+      "type": "OTHER",
+      "salience": 0.004529,
+      "mentions": 1
+    },
+    {
+      "name": "Defined return timeframes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00428,
+      "mentions": 1
+    },
+    {
+      "name": "feature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004154,
+      "mentions": 1
+    },
+    {
+      "name": "thereby increasing productivity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003905,
+      "mentions": 1
+    },
+    {
+      "name": "Understanding the E-commerce Order Fulfillment Process and Its Challenges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00387,
+      "mentions": 1
+    },
+    {
+      "name": "product enhancements",
+      "type": "OTHER",
+      "salience": 0.003862,
+      "mentions": 1
+    },
+    {
+      "name": "Automation tools can manage return requests",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003773,
+      "mentions": 1
+    },
+    {
+      "name": "Efficient management of product returns is essential",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003741,
+      "mentions": 1
+    },
+    {
+      "name": "unused",
+      "type": "OTHER",
+      "salience": 0.00359,
+      "mentions": 1
+    },
+    {
+      "name": "privacy",
+      "type": "OTHER",
+      "salience": 0.003456,
+      "mentions": 1
+    },
+    {
+      "name": "consumer protection",
+      "type": "OTHER",
+      "salience": 0.003456,
+      "mentions": 1
+    },
+    {
+      "name": "Compensation Options",
+      "type": "OTHER",
+      "salience": 0.003342,
+      "mentions": 1
+    },
+    {
+      "name": "including enhanced customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003339,
+      "mentions": 1
+    },
+    {
+      "name": "windows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003264,
+      "mentions": 1
+    },
+    {
+      "name": "Enhanced Operational Efficiency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003212,
+      "mentions": 1
+    },
+    {
+      "name": "retailers",
+      "type": "OTHER",
+      "salience": 0.003197,
+      "mentions": 1
+    },
+    {
+      "name": "or disposal",
+      "type": "OTHER",
+      "salience": 0.003156,
+      "mentions": 1
+    },
+    {
+      "name": "costs",
+      "type": "OTHER",
+      "salience": 0.003123,
+      "mentions": 1
+    },
+    {
+      "name": "Enhanced Returns Control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003109,
+      "mentions": 1
+    },
+    {
+      "name": "or disposing of it",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003102,
+      "mentions": 1
+    },
+    {
+      "name": "optimize processes",
+      "type": "OTHER",
+      "salience": 0.00304,
+      "mentions": 1
+    },
+    {
+      "name": "website, email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002964,
+      "mentions": 1
+    },
+    {
+      "name": "Retailers must prioritize process optimization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002948,
+      "mentions": 1
+    },
+    {
+      "name": "Item State",
+      "type": "PERSON",
+      "salience": 0.002778,
+      "mentions": 1
+    },
+    {
+      "name": "With Wonder Smart Exchange",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002748,
+      "mentions": 1
+    },
+    {
+      "name": "different item",
+      "type": "OTHER",
+      "salience": 0.002734,
+      "mentions": 1
+    },
+    {
+      "name": "RMS increases the overall efficiency of returns management by automating processes such as generating return labels and tracking shipments.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002649,
+      "mentions": 1
+    },
+    {
+      "name": "original tags attached",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002596,
+      "mentions": 1
+    },
+    {
+      "name": "Also Read",
+      "type": "PERSON",
+      "salience": 0.002589,
+      "mentions": 1
+    },
+    {
+      "name": "RMS",
+      "type": "OTHER",
+      "salience": 0.002573,
+      "mentions": 1
+    },
+    {
+      "name": "businesses",
+      "type": "OTHER",
+      "salience": 0.002558,
+      "mentions": 2
+    },
+    {
+      "name": "These expenses can significantly impact profitability",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002535,
+      "mentions": 1
+    },
+    {
+      "name": "Improved Customer Experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002512,
+      "mentions": 1
+    },
+    {
+      "name": "operational efficiency",
+      "type": "OTHER",
+      "salience": 0.002475,
+      "mentions": 1
+    },
+    {
+      "name": "Inventory Management Discrepancies: Returned merchandise can disrupt inventory management processes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002473,
+      "mentions": 1
+    },
+    {
+      "name": "Data-Driven Decision Making",
+      "type": "OTHER",
+      "salience": 0.002453,
+      "mentions": 1
+    },
+    {
+      "name": "impacting efficiency and customer satisfaction.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00242,
+      "mentions": 1
+    },
+    {
+      "name": "automation",
+      "type": "OTHER",
+      "salience": 0.002388,
+      "mentions": 1
+    },
+    {
+      "name": "improve inventory control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002365,
+      "mentions": 1
+    },
+    {
+      "name": "Automated RMS",
+      "type": "OTHER",
+      "salience": 0.002325,
+      "mentions": 1
+    },
+    {
+      "name": "Retailers",
+      "type": "PERSON",
+      "salience": 0.002309,
+      "mentions": 1
+    },
+    {
+      "name": "including 360-degree views",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002229,
+      "mentions": 1
+    },
+    {
+      "name": "encompassing shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002228,
+      "mentions": 1
+    },
+    {
+      "name": "enhance the customer experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002165,
+      "mentions": 1
+    },
+    {
+      "name": "Effective",
+      "type": "PERSON",
+      "salience": 0.002146,
+      "mentions": 1
+    },
+    {
+      "name": "touchpoints",
+      "type": "OTHER",
+      "salience": 0.002143,
+      "mentions": 1
+    },
+    {
+      "name": "Implementing",
+      "type": "OTHER",
+      "salience": 0.00214,
+      "mentions": 1
+    },
+    {
+      "name": "restocking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002065,
+      "mentions": 1
+    },
+    {
+      "name": "and administrative overhead.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002065,
+      "mentions": 1
+    },
+    {
+      "name": "generate labels",
+      "type": "OTHER",
+      "salience": 0.001973,
+      "mentions": 1
+    },
+    {
+      "name": "reduce operational costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001965,
+      "mentions": 1
+    },
+    {
+      "name": "Benefits of E-commerce Returns Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001947,
+      "mentions": 1
+    },
+    {
+      "name": "Accelerated Restocking",
+      "type": "PERSON",
+      "salience": 0.00194,
+      "mentions": 1
+    },
+    {
+      "name": "Implement",
+      "type": "PERSON",
+      "salience": 0.001935,
+      "mentions": 1
+    },
+    {
+      "name": "Professional Visuals: Use high-resolution images and videos",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001865,
+      "mentions": 1
+    },
+    {
+      "name": "Increased Sales Potential",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001805,
+      "mentions": 1
+    },
+    {
+      "name": "inspection",
+      "type": "OTHER",
+      "salience": 0.001727,
+      "mentions": 1
+    },
+    {
+      "name": "particularly",
+      "type": "OTHER",
+      "salience": 0.0017,
+      "mentions": 1
+    },
+    {
+      "name": "inspecting",
+      "type": "OTHER",
+      "salience": 0.001698,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001646,
+      "mentions": 1
+    },
+    {
+      "name": "Make",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001639,
+      "mentions": 1
+    },
+    {
+      "name": "Wonder Smart Exchange",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00159,
+      "mentions": 1
+    },
+    {
+      "name": "Real-Time Tracking",
+      "type": "PERSON",
+      "salience": 0.001537,
+      "mentions": 1
+    },
+    {
+      "name": "Exploit Data Analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001521,
+      "mentions": 1
+    },
+    {
+      "name": "Detailed",
+      "type": "OTHER",
+      "salience": 0.001489,
+      "mentions": 1
+    },
+    {
+      "name": "Real Customer Insights: Share customer reviews",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001474,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Notifications",
+      "type": "OTHER",
+      "salience": 0.001466,
+      "mentions": 1
+    },
+    {
+      "name": "including",
+      "type": "OTHER",
+      "salience": 0.001466,
+      "mentions": 1
+    },
+    {
+      "name": "Key Components of E-commerce Returns Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001461,
+      "mentions": 1
+    },
+    {
+      "name": "Continue reading",
+      "type": "OTHER",
+      "salience": 0.001422,
+      "mentions": 1
+    },
+    {
+      "name": "and exchanges.",
+      "type": "OTHER",
+      "salience": 0.001407,
+      "mentions": 1
+    },
+    {
+      "name": "responsibilities",
+      "type": "OTHER",
+      "salience": 0.001402,
+      "mentions": 1
+    },
+    {
+      "name": "Design Return and Exchange Policies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001389,
+      "mentions": 1
+    },
+    {
+      "name": "update inventory",
+      "type": "OTHER",
+      "salience": 0.001355,
+      "mentions": 1
+    },
+    {
+      "name": "resource-intensive",
+      "type": "OTHER",
+      "salience": 0.001349,
+      "mentions": 1
+    },
+    {
+      "name": "and reintegrating returned merchandise",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001349,
+      "mentions": 1
+    },
+    {
+      "name": "experience",
+      "type": "OTHER",
+      "salience": 0.001346,
+      "mentions": 1
+    },
+    {
+      "name": "Scheduled Pickup",
+      "type": "OTHER",
+      "salience": 0.001336,
+      "mentions": 1
+    },
+    {
+      "name": "particularly",
+      "type": "OTHER",
+      "salience": 0.001301,
+      "mentions": 1
+    },
+    {
+      "name": "reducing return processing time and operational costs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001295,
+      "mentions": 1
+    },
+    {
+      "name": "customer communication",
+      "type": "OTHER",
+      "salience": 0.001282,
+      "mentions": 1
+    },
+    {
+      "name": "Wonder Smart Exchange",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001269,
+      "mentions": 1
+    },
+    {
+      "name": "full refund",
+      "type": "OTHER",
+      "salience": 0.001264,
+      "mentions": 1
+    },
+    {
+      "name": "Responsive Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001256,
+      "mentions": 1
+    },
+    {
+      "name": "Flexible Exchange Solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001253,
+      "mentions": 1
+    },
+    {
+      "name": "Consistent Updates: Ensure clear and uniform instructions across all communication channels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001226,
+      "mentions": 1
+    },
+    {
+      "name": "and customer support interactions.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001226,
+      "mentions": 1
+    },
+    {
+      "name": "These integrations minimize manual handling",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001155,
+      "mentions": 1
+    },
+    {
+      "name": "Conclusion",
+      "type": "OTHER",
+      "salience": 0.001127,
+      "mentions": 1
+    },
+    {
+      "name": "Simplify the Returns Experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001122,
+      "mentions": 1
+    },
+    {
+      "name": "Risk Reduction",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001119,
+      "mentions": 1
+    },
+    {
+      "name": "fraud prevention",
+      "type": "OTHER",
+      "salience": 0.001108,
+      "mentions": 1
+    },
+    {
+      "name": "Benefits of E-commerce Returns Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001097,
+      "mentions": 1
+    },
+    {
+      "name": "Conclusion",
+      "type": "OTHER",
+      "salience": 0.001089,
+      "mentions": 1
+    },
+    {
+      "name": "and fit recommendations",
+      "type": "OTHER",
+      "salience": 0.001069,
+      "mentions": 1
+    },
+    {
+      "name": "including Shippo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001015,
+      "mentions": 1
+    },
+    {
+      "name": "ShipStation",
+      "type": "OTHER",
+      "salience": 0.001015,
+      "mentions": 1
+    },
+    {
+      "name": "Bummer reduced return requests by 74% and accelerated processing speed by",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001006,
+      "mentions": 1
+    },
+    {
+      "name": "Several key issues contribute to this complexity:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001001,
+      "mentions": 1
+    },
+    {
+      "name": "prevent fraudulent activity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000981,
+      "mentions": 1
+    },
+    {
+      "name": "email communications",
+      "type": "OTHER",
+      "salience": 0.000974,
+      "mentions": 1
+    },
+    {
+      "name": "improves operational efficiency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000957,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify Order Status",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000942,
+      "mentions": 1
+    },
+    {
+      "name": "Depreciation",
+      "type": "PERSON",
+      "salience": 0.000941,
+      "mentions": 1
+    },
+    {
+      "name": "and customer feedback.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000927,
+      "mentions": 1
+    },
+    {
+      "name": "Refine Reverse Logistics Operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000896,
+      "mentions": 1
+    },
+    {
+      "name": "easily understood",
+      "type": "OTHER",
+      "salience": 0.000893,
+      "mentions": 1
+    },
+    {
+      "name": "Using these features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000863,
+      "mentions": 1
+    },
+    {
+      "name": "Enrich Product Information",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000858,
+      "mentions": 1
+    },
+    {
+      "name": "complete with international conversions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000849,
+      "mentions": 1
+    },
+    {
+      "name": "Schedule a personalized demonstration today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000846,
+      "mentions": 1
+    },
+    {
+      "name": "Exceptional",
+      "type": "PERSON",
+      "salience": 0.000839,
+      "mentions": 1
+    },
+    {
+      "name": "Wonder Bot Automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00077,
+      "mentions": 1
+    },
+    {
+      "name": "refunds",
+      "type": "OTHER",
+      "salience": 0.00077,
+      "mentions": 1
+    },
+    {
+      "name": "Wonder Promotions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000764,
+      "mentions": 1
+    },
+    {
+      "name": "Practices 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "create shipping labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000709,
+      "mentions": 1
+    },
+    {
+      "name": "Here are some key benefits:",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000702,
+      "mentions": 1
+    },
+    {
+      "name": "Practices 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000699,
+      "mentions": 1
+    },
+    {
+      "name": "February 8",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000682,
+      "mentions": 1
+    },
+    {
+      "name": "February 8",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000681,
+      "mentions": 1
+    },
+    {
+      "name": "dissatisfaction.",
+      "type": "OTHER",
+      "salience": 0.000643,
+      "mentions": 1
+    },
+    {
+      "name": "repurposed",
+      "type": "OTHER",
+      "salience": 0.000637,
+      "mentions": 1
+    },
+    {
+      "name": "AI-Enhanced Routing",
+      "type": "OTHER",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "Scrutinize",
+      "type": "OTHER",
+      "salience": 0.000627,
+      "mentions": 1
+    },
+    {
+      "name": "and Shopify",
+      "type": "OTHER",
+      "salience": 0.000625,
+      "mentions": 1
+    },
+    {
+      "name": "measurements",
+      "type": "OTHER",
+      "salience": 0.000614,
+      "mentions": 1
+    },
+    {
+      "name": "photos",
+      "type": "OTHER",
+      "salience": 0.000612,
+      "mentions": 1
+    },
+    {
+      "name": "with original tags",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000586,
+      "mentions": 1
+    },
+    {
+      "name": "unused",
+      "type": "OTHER",
+      "salience": 0.000586,
+      "mentions": 1
+    },
+    {
+      "name": "store credit",
+      "type": "OTHER",
+      "salience": 0.000577,
+      "mentions": 1
+    },
+    {
+      "name": "sorting",
+      "type": "OTHER",
+      "salience": 0.000561,
+      "mentions": 1
+    },
+    {
+      "name": "Mobile-Optimized",
+      "type": "ORGANIZATION",
+      "salience": 0.000556,
+      "mentions": 1
+    },
+    {
+      "name": "Now",
+      "type": "ORGANIZATION",
+      "salience": 0.000548,
+      "mentions": 1
+    },
+    {
+      "name": "Use our",
+      "type": "OTHER",
+      "salience": 0.000467,
+      "mentions": 1
+    },
+    {
+      "name": "Incorporating",
+      "type": "OTHER",
+      "salience": 0.00046,
+      "mentions": 1
+    },
+    {
+      "name": "Its integration ecosystem connects effortlessly with over 30 platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000452,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.000452,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.000452,
+      "mentions": 1
+    },
+    {
+      "name": "Bummer",
+      "type": "OTHER",
+      "salience": 0.000449,
+      "mentions": 1
+    },
+    {
+      "name": "in 2025 and beyond",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00044,
+      "mentions": 1
+    },
+    {
+      "name": "and all-encompassing.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000429,
+      "mentions": 1
+    },
+    {
+      "name": "s RMS can help you optimize reverse logistics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000407,
+      "mentions": 1
+    },
+    {
+      "name": "prearranged pickups",
+      "type": "OTHER",
+      "salience": 0.000406,
+      "mentions": 1
+    },
+    {
+      "name": "Table of Contents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000405,
+      "mentions": 1
+    },
+    {
+      "name": "Thank you",
+      "type": "PERSON",
+      "salience": 0.000398,
+      "mentions": 1
+    },
+    {
+      "name": "Proactive Updates",
+      "type": "OTHER",
+      "salience": 0.000373,
+      "mentions": 1
+    },
+    {
+      "name": "ROI Calculator",
+      "type": "OTHER",
+      "salience": 0.00037,
+      "mentions": 1
+    },
+    {
+      "name": "Also Read",
+      "type": "PERSON",
+      "salience": 0.000362,
+      "mentions": 1
+    },
+    {
+      "name": "fulfillment centers",
+      "type": "OTHER",
+      "salience": 0.000359,
+      "mentions": 1
+    },
+    {
+      "name": "ensuring smooth coordination between carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00026,
+      "mentions": 1
+    },
+    {
+      "name": "USPS",
+      "type": "ORGANIZATION",
+      "salience": 0.00026,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 8, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 8, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 8, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "360",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "74",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "87.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "202",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 84,
+    "CONSUMER_GOOD": 102,
+    "PERSON": 14,
+    "ORGANIZATION": 6,
+    "PRICE": 1,
+    "NUMBER": 20,
+    "DATE": 6
+  },
+  "type_salience": {
+    "OTHER": 0.4010649999999997,
+    "CONSUMER_GOOD": 0.5152089999999998,
+    "PERSON": 0.04427099999999999,
+    "ORGANIZATION": 0.012857999999999998,
+    "PRICE": 0.0,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

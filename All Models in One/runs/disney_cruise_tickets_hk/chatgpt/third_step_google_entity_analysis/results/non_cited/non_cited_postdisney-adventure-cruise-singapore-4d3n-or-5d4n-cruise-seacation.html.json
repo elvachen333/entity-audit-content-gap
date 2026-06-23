@@ -1,0 +1,5971 @@
+{
+  "file": "non_cited_postdisney-adventure-cruise-singapore-4d3n-or-5d4n-cruise-seacation.html.txt",
+  "word_count": 728,
+  "entity_count": 990,
+  "entities": [
+    {
+      "name": "Club Shopping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.028301,
+      "mentions": 1
+    },
+    {
+      "name": "cookies",
+      "type": "OTHER",
+      "salience": 0.020914,
+      "mentions": 5
+    },
+    {
+      "name": "海上邮轮",
+      "type": "OTHER",
+      "salience": 0.019123,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号邮轮",
+      "type": "OTHER",
+      "salience": 0.017189,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.016929,
+      "mentions": 1
+    },
+    {
+      "name": "网站",
+      "type": "OTHER",
+      "salience": 0.016741,
+      "mentions": 1
+    },
+    {
+      "name": "Club Travel",
+      "type": "PERSON",
+      "salience": 0.016739,
+      "mentions": 18
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.016283,
+      "mentions": 1
+    },
+    {
+      "name": "豪华邮轮",
+      "type": "OTHER",
+      "salience": 0.014038,
+      "mentions": 1
+    },
+    {
+      "name": "The Club",
+      "type": "PERSON",
+      "salience": 0.01358,
+      "mentions": 1
+    },
+    {
+      "name": "The Club",
+      "type": "PERSON",
+      "salience": 0.010971,
+      "mentions": 4
+    },
+    {
+      "name": "资料",
+      "type": "OTHER",
+      "salience": 0.010966,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.010102,
+      "mentions": 1
+    },
+    {
+      "name": "网站",
+      "type": "OTHER",
+      "salience": 0.010004,
+      "mentions": 1
+    },
+    {
+      "name": "The Club",
+      "type": "OTHER",
+      "salience": 0.009872,
+      "mentions": 1
+    },
+    {
+      "name": "特色旅游",
+      "type": "OTHER",
+      "salience": 0.009453,
+      "mentions": 1
+    },
+    {
+      "name": "海上邮轮",
+      "type": "OTHER",
+      "salience": 0.008837,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.008744,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.008565,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.008134,
+      "mentions": 1
+    },
+    {
+      "name": "旅游业赔偿基金保障",
+      "type": "OTHER",
+      "salience": 0.008069,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.007267,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.006737,
+      "mentions": 5
+    },
+    {
+      "name": "综合旅游保险",
+      "type": "OTHER",
+      "salience": 0.006652,
+      "mentions": 1
+    },
+    {
+      "name": "旅游保险",
+      "type": "OTHER",
+      "salience": 0.006241,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.006097,
+      "mentions": 1
+    },
+    {
+      "name": "政策",
+      "type": "OTHER",
+      "salience": 0.005592,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡",
+      "type": "LOCATION",
+      "salience": 0.005435,
+      "mentions": 9
+    },
+    {
+      "name": "香港",
+      "type": "LOCATION",
+      "salience": 0.005209,
+      "mentions": 10
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.004975,
+      "mentions": 1
+    },
+    {
+      "name": "资料",
+      "type": "OTHER",
+      "salience": 0.004883,
+      "mentions": 1
+    },
+    {
+      "name": "资料",
+      "type": "OTHER",
+      "salience": 0.004883,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.004734,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.004712,
+      "mentions": 1
+    },
+    {
+      "name": "故事情境",
+      "type": "OTHER",
+      "salience": 0.004527,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.004362,
+      "mentions": 1
+    },
+    {
+      "name": "费用",
+      "type": "OTHER",
+      "salience": 0.004238,
+      "mentions": 1
+    },
+    {
+      "name": "设置",
+      "type": "OTHER",
+      "salience": 0.004183,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.004168,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.003996,
+      "mentions": 1
+    },
+    {
+      "name": "企业社会责任",
+      "type": "OTHER",
+      "salience": 0.003898,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.003885,
+      "mentions": 1
+    },
+    {
+      "name": "旅游业赔偿基金保障",
+      "type": "OTHER",
+      "salience": 0.003762,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.003735,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.003543,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.003406,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.003383,
+      "mentions": 1
+    },
+    {
+      "name": "体验.​",
+      "type": "OTHER",
+      "salience": 0.003374,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.003318,
+      "mentions": 1
+    },
+    {
+      "name": "娱乐设施",
+      "type": "OTHER",
+      "salience": 0.003305,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.003281,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.003228,
+      "mentions": 1
+    },
+    {
+      "name": "喜好",
+      "type": "OTHER",
+      "salience": 0.003227,
+      "mentions": 1
+    },
+    {
+      "name": "详情",
+      "type": "OTHER",
+      "salience": 0.003225,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.003188,
+      "mentions": 1
+    },
+    {
+      "name": "帐户",
+      "type": "OTHER",
+      "salience": 0.003137,
+      "mentions": 1
+    },
+    {
+      "name": "海外赛事套票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003084,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.003075,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.003073,
+      "mentions": 1
+    },
+    {
+      "name": "喜好",
+      "type": "OTHER",
+      "salience": 0.003053,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002968,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.002962,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002939,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.002914,
+      "mentions": 1
+    },
+    {
+      "name": "公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002868,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002868,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002864,
+      "mentions": 1
+    },
+    {
+      "name": "公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002864,
+      "mentions": 1
+    },
+    {
+      "name": "公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002855,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002855,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002855,
+      "mentions": 1
+    },
+    {
+      "name": "喜好设定",
+      "type": "OTHER",
+      "salience": 0.002849,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002842,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002828,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002828,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002828,
+      "mentions": 1
+    },
+    {
+      "name": "公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002815,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002815,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002803,
+      "mentions": 1
+    },
+    {
+      "name": "公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002803,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002803,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002801,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002789,
+      "mentions": 1
+    },
+    {
+      "name": "游轮",
+      "type": "OTHER",
+      "salience": 0.002788,
+      "mentions": 1
+    },
+    {
+      "name": "帐户",
+      "type": "OTHER",
+      "salience": 0.002786,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002786,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002771,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002756,
+      "mentions": 1
+    },
+    {
+      "name": "海景房",
+      "type": "LOCATION",
+      "salience": 0.002754,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002741,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002727,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002713,
+      "mentions": 1
+    },
+    {
+      "name": "旅游保险",
+      "type": "OTHER",
+      "salience": 0.002704,
+      "mentions": 1
+    },
+    {
+      "name": "公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002701,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002699,
+      "mentions": 1
+    },
+    {
+      "name": "天气情况",
+      "type": "OTHER",
+      "salience": 0.002663,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.002653,
+      "mentions": 1
+    },
+    {
+      "name": "套票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002627,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.002557,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.00249,
+      "mentions": 1
+    },
+    {
+      "name": "通讯设定",
+      "type": "OTHER",
+      "salience": 0.002398,
+      "mentions": 1
+    },
+    {
+      "name": "旅游体验",
+      "type": "OTHER",
+      "salience": 0.002384,
+      "mentions": 1
+    },
+    {
+      "name": "参考",
+      "type": "OTHER",
+      "salience": 0.002375,
+      "mentions": 1
+    },
+    {
+      "name": "内舱房",
+      "type": "LOCATION",
+      "salience": 0.00234,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼探险号",
+      "type": "OTHER",
+      "salience": 0.002299,
+      "mentions": 1
+    },
+    {
+      "name": "露台房",
+      "type": "LOCATION",
+      "salience": 0.002296,
+      "mentions": 1
+    },
+    {
+      "name": "房",
+      "type": "LOCATION",
+      "salience": 0.002275,
+      "mentions": 1
+    },
+    {
+      "name": "内舱房",
+      "type": "LOCATION",
+      "salience": 0.002234,
+      "mentions": 1
+    },
+    {
+      "name": "房",
+      "type": "LOCATION",
+      "salience": 0.002234,
+      "mentions": 1
+    },
+    {
+      "name": "套票简介",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002227,
+      "mentions": 1
+    },
+    {
+      "name": "文化体验",
+      "type": "OTHER",
+      "salience": 0.002178,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.002125,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Adventure",
+      "type": "PERSON",
+      "salience": 0.00211,
+      "mentions": 3
+    },
+    {
+      "name": "美食",
+      "type": "OTHER",
+      "salience": 0.002066,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.002047,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.002032,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.002,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.001833,
+      "mentions": 1
+    },
+    {
+      "name": "电影情境设施",
+      "type": "OTHER",
+      "salience": 0.001816,
+      "mentions": 1
+    },
+    {
+      "name": "童话式",
+      "type": "OTHER",
+      "salience": 0.00181,
+      "mentions": 1
+    },
+    {
+      "name": "费用",
+      "type": "OTHER",
+      "salience": 0.00181,
+      "mentions": 1
+    },
+    {
+      "name": "选项",
+      "type": "OTHER",
+      "salience": 0.001804,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "OTHER",
+      "salience": 0.001791,
+      "mentions": 1
+    },
+    {
+      "name": "探险号设施",
+      "type": "OTHER",
+      "salience": 0.001767,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.001755,
+      "mentions": 1
+    },
+    {
+      "name": "设施",
+      "type": "OTHER",
+      "salience": 0.001743,
+      "mentions": 1
+    },
+    {
+      "name": "顾客须",
+      "type": "PERSON",
+      "salience": 0.001721,
+      "mentions": 1
+    },
+    {
+      "name": "奇幻世界",
+      "type": "OTHER",
+      "salience": 0.001713,
+      "mentions": 1
+    },
+    {
+      "name": "魔法故事",
+      "type": "OTHER",
+      "salience": 0.001683,
+      "mentions": 1
+    },
+    {
+      "name": "旅游体验",
+      "type": "OTHER",
+      "salience": 0.001656,
+      "mentions": 1
+    },
+    {
+      "name": "旅游业监管局 网址",
+      "type": "OTHER",
+      "salience": 0.001584,
+      "mentions": 1
+    },
+    {
+      "name": "船员",
+      "type": "PERSON",
+      "salience": 0.001556,
+      "mentions": 1
+    },
+    {
+      "name": "图片",
+      "type": "OTHER",
+      "salience": 0.001547,
+      "mentions": 1
+    },
+    {
+      "name": "娱乐设施",
+      "type": "OTHER",
+      "salience": 0.001534,
+      "mentions": 1
+    },
+    {
+      "name": "娱乐设施",
+      "type": "OTHER",
+      "salience": 0.001519,
+      "mentions": 1
+    },
+    {
+      "name": "详情",
+      "type": "OTHER",
+      "salience": 0.001503,
+      "mentions": 1
+    },
+    {
+      "name": "Club HKT Limited",
+      "type": "PERSON",
+      "salience": 0.001497,
+      "mentions": 1
+    },
+    {
+      "name": "合作伙伴",
+      "type": "OTHER",
+      "salience": 0.001486,
+      "mentions": 1
+    },
+    {
+      "name": "亚洲市场",
+      "type": "OTHER",
+      "salience": 0.001452,
+      "mentions": 1
+    },
+    {
+      "name": "价格详情",
+      "type": "OTHER",
+      "salience": 0.001434,
+      "mentions": 1
+    },
+    {
+      "name": "顾客",
+      "type": "PERSON",
+      "salience": 0.001434,
+      "mentions": 1
+    },
+    {
+      "name": "游轮旅程",
+      "type": "OTHER",
+      "salience": 0.001422,
+      "mentions": 1
+    },
+    {
+      "name": "景点门票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001379,
+      "mentions": 1
+    },
+    {
+      "name": "欧美",
+      "type": "LOCATION",
+      "salience": 0.001354,
+      "mentions": 1
+    },
+    {
+      "name": "旅游保险",
+      "type": "OTHER",
+      "salience": 0.001353,
+      "mentions": 1
+    },
+    {
+      "name": "以下",
+      "type": "OTHER",
+      "salience": 0.00135,
+      "mentions": 1
+    },
+    {
+      "name": "角色",
+      "type": "PERSON",
+      "salience": 0.001322,
+      "mentions": 1
+    },
+    {
+      "name": "区域",
+      "type": "LOCATION",
+      "salience": 0.001287,
+      "mentions": 1
+    },
+    {
+      "name": "游轮",
+      "type": "OTHER",
+      "salience": 0.001283,
+      "mentions": 1
+    },
+    {
+      "name": "Club Care",
+      "type": "PERSON",
+      "salience": 0.001242,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "OTHER",
+      "salience": 0.001241,
+      "mentions": 1
+    },
+    {
+      "name": "特色主题区域",
+      "type": "LOCATION",
+      "salience": 0.001235,
+      "mentions": 1
+    },
+    {
+      "name": "宾客",
+      "type": "PERSON",
+      "salience": 0.001222,
+      "mentions": 1
+    },
+    {
+      "name": "豪华游轮之旅联",
+      "type": "ORGANIZATION",
+      "salience": 0.001202,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.001194,
+      "mentions": 1
+    },
+    {
+      "name": "亚洲",
+      "type": "LOCATION",
+      "salience": 0.001182,
+      "mentions": 1
+    },
+    {
+      "name": "Club HKT Limited",
+      "type": "PERSON",
+      "salience": 0.001171,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.001158,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.001153,
+      "mentions": 1
+    },
+    {
+      "name": "健康情况",
+      "type": "OTHER",
+      "salience": 0.001151,
+      "mentions": 1
+    },
+    {
+      "name": "情况",
+      "type": "OTHER",
+      "salience": 0.00114,
+      "mentions": 1
+    },
+    {
+      "name": "世界",
+      "type": "LOCATION",
+      "salience": 0.001136,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.001124,
+      "mentions": 1
+    },
+    {
+      "name": "皮克斯",
+      "type": "ORGANIZATION",
+      "salience": 0.001118,
+      "mentions": 2
+    },
+    {
+      "name": "漫威",
+      "type": "PERSON",
+      "salience": 0.001118,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.001098,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.001095,
+      "mentions": 1
+    },
+    {
+      "name": "舱房",
+      "type": "LOCATION",
+      "salience": 0.001094,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.001092,
+      "mentions": 1
+    },
+    {
+      "name": "技术问题",
+      "type": "OTHER",
+      "salience": 0.001091,
+      "mentions": 1
+    },
+    {
+      "name": "船内",
+      "type": "OTHER",
+      "salience": 0.00109,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.001088,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.00108,
+      "mentions": 1
+    },
+    {
+      "name": "区域",
+      "type": "LOCATION",
+      "salience": 0.001062,
+      "mentions": 1
+    },
+    {
+      "name": "旅",
+      "type": "OTHER",
+      "salience": 0.001062,
+      "mentions": 1
+    },
+    {
+      "name": "Marvel",
+      "type": "PERSON",
+      "salience": 0.00106,
+      "mentions": 1
+    },
+    {
+      "name": "公司",
+      "type": "ORGANIZATION",
+      "salience": 0.00105,
+      "mentions": 1
+    },
+    {
+      "name": "Club Travel",
+      "type": "PERSON",
+      "salience": 0.001049,
+      "mentions": 1
+    },
+    {
+      "name": "情况",
+      "type": "OTHER",
+      "salience": 0.001038,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.001032,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.001032,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.001027,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.001022,
+      "mentions": 1
+    },
+    {
+      "name": "版条款",
+      "type": "OTHER",
+      "salience": 0.001022,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.001017,
+      "mentions": 1
+    },
+    {
+      "name": "同意",
+      "type": "OTHER",
+      "salience": 0.00101,
+      "mentions": 1
+    },
+    {
+      "name": "情况下",
+      "type": "OTHER",
+      "salience": 0.00101,
+      "mentions": 1
+    },
+    {
+      "name": "Marvel",
+      "type": "OTHER",
+      "salience": 0.001004,
+      "mentions": 1
+    },
+    {
+      "name": "米奇",
+      "type": "OTHER",
+      "salience": 0.001004,
+      "mentions": 1
+    },
+    {
+      "name": "米妮",
+      "type": "OTHER",
+      "salience": 0.001004,
+      "mentions": 1
+    },
+    {
+      "name": "航行情况",
+      "type": "OTHER",
+      "salience": 0.000999,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000995,
+      "mentions": 1
+    },
+    {
+      "name": "当地交通情况",
+      "type": "OTHER",
+      "salience": 0.000989,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000975,
+      "mentions": 1
+    },
+    {
+      "name": "电影院",
+      "type": "LOCATION",
+      "salience": 0.00097,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.000965,
+      "mentions": 1
+    },
+    {
+      "name": "美食",
+      "type": "OTHER",
+      "salience": 0.000959,
+      "mentions": 1
+    },
+    {
+      "name": "亲朋好友",
+      "type": "PERSON",
+      "salience": 0.000957,
+      "mentions": 1
+    },
+    {
+      "name": "冒险",
+      "type": "OTHER",
+      "salience": 0.000957,
+      "mentions": 1
+    },
+    {
+      "name": "宾客们",
+      "type": "PERSON",
+      "salience": 0.000957,
+      "mentions": 1
+    },
+    {
+      "name": "美食",
+      "type": "OTHER",
+      "salience": 0.000949,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.000944,
+      "mentions": 1
+    },
+    {
+      "name": "心爱",
+      "type": "OTHER",
+      "salience": 0.000941,
+      "mentions": 1
+    },
+    {
+      "name": "费用",
+      "type": "OTHER",
+      "salience": 0.000939,
+      "mentions": 1
+    },
+    {
+      "name": "签证费用",
+      "type": "OTHER",
+      "salience": 0.000939,
+      "mentions": 1
+    },
+    {
+      "name": "顾客",
+      "type": "PERSON",
+      "salience": 0.000927,
+      "mentions": 1
+    },
+    {
+      "name": "房",
+      "type": "LOCATION",
+      "salience": 0.000926,
+      "mentions": 1
+    },
+    {
+      "name": "费用",
+      "type": "OTHER",
+      "salience": 0.000925,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.000925,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.000922,
+      "mentions": 1
+    },
+    {
+      "name": "顾客",
+      "type": "PERSON",
+      "salience": 0.000918,
+      "mentions": 1
+    },
+    {
+      "name": "成员",
+      "type": "PERSON",
+      "salience": 0.000917,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.000907,
+      "mentions": 1
+    },
+    {
+      "name": "费用",
+      "type": "OTHER",
+      "salience": 0.000907,
+      "mentions": 1
+    },
+    {
+      "name": "顾客",
+      "type": "PERSON",
+      "salience": 0.000907,
+      "mentions": 1
+    },
+    {
+      "name": "顾客",
+      "type": "PERSON",
+      "salience": 0.000907,
+      "mentions": 1
+    },
+    {
+      "name": "顾客",
+      "type": "PERSON",
+      "salience": 0.000905,
+      "mentions": 1
+    },
+    {
+      "name": "顾客",
+      "type": "PERSON",
+      "salience": 0.000905,
+      "mentions": 1
+    },
+    {
+      "name": "额外费用",
+      "type": "OTHER",
+      "salience": 0.000897,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000893,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000889,
+      "mentions": 1
+    },
+    {
+      "name": "家族",
+      "type": "PERSON",
+      "salience": 0.000883,
+      "mentions": 1
+    },
+    {
+      "name": "主题设计",
+      "type": "OTHER",
+      "salience": 0.000883,
+      "mentions": 1
+    },
+    {
+      "name": "全球迪士尼迷",
+      "type": "PERSON",
+      "salience": 0.000883,
+      "mentions": 1
+    },
+    {
+      "name": "目光",
+      "type": "OTHER",
+      "salience": 0.000883,
+      "mentions": 1
+    },
+    {
+      "name": "费用",
+      "type": "OTHER",
+      "salience": 0.000866,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.000864,
+      "mentions": 1
+    },
+    {
+      "name": "费用",
+      "type": "OTHER",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "房间优惠价格",
+      "type": "OTHER",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "故事",
+      "type": "OTHER",
+      "salience": 0.000859,
+      "mentions": 1
+    },
+    {
+      "name": "卡拉OK",
+      "type": "LOCATION",
+      "salience": 0.000856,
+      "mentions": 1
+    },
+    {
+      "name": "船长",
+      "type": "PERSON",
+      "salience": 0.000845,
+      "mentions": 1
+    },
+    {
+      "name": "角色",
+      "type": "PERSON",
+      "salience": 0.000845,
+      "mentions": 1
+    },
+    {
+      "name": "附加费",
+      "type": "OTHER",
+      "salience": 0.000831,
+      "mentions": 1
+    },
+    {
+      "name": "行程简介",
+      "type": "OTHER",
+      "salience": 0.000824,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮燃油附加费",
+      "type": "OTHER",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "旅行社服务费",
+      "type": "OTHER",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "港口服务费",
+      "type": "OTHER",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "保险费",
+      "type": "OTHER",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "启航",
+      "type": "OTHER",
+      "salience": 0.000802,
+      "mentions": 1
+    },
+    {
+      "name": "船上",
+      "type": "OTHER",
+      "salience": 0.000782,
+      "mentions": 1
+    },
+    {
+      "name": "拍照服务",
+      "type": "OTHER",
+      "salience": 0.000782,
+      "mentions": 1
+    },
+    {
+      "name": "国泰航空",
+      "type": "ORGANIZATION",
+      "salience": 0.000752,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.00075,
+      "mentions": 1
+    },
+    {
+      "name": "旅游业监管局 网址",
+      "type": "OTHER",
+      "salience": 0.000738,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000734,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000732,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000727,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000727,
+      "mentions": 1
+    },
+    {
+      "name": "The Club HKT Limited",
+      "type": "WORK_OF_ART",
+      "salience": 0.000726,
+      "mentions": 1
+    },
+    {
+      "name": "Bingo",
+      "type": "OTHER",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "房附加费",
+      "type": "OTHER",
+      "salience": 0.000723,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000723,
+      "mentions": 1
+    },
+    {
+      "name": "舱房",
+      "type": "LOCATION",
+      "salience": 0.000718,
+      "mentions": 1
+    },
+    {
+      "name": "缴税费",
+      "type": "OTHER",
+      "salience": 0.000714,
+      "mentions": 1
+    },
+    {
+      "name": "燃油附加费",
+      "type": "OTHER",
+      "salience": 0.000714,
+      "mentions": 1
+    },
+    {
+      "name": "实体货币及不记名可转让票据跨境流动条例",
+      "type": "OTHER",
+      "salience": 0.00071,
+      "mentions": 1
+    },
+    {
+      "name": "成人",
+      "type": "PERSON",
+      "salience": 0.000704,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.000698,
+      "mentions": 1
+    },
+    {
+      "name": "滑水道",
+      "type": "OTHER",
+      "salience": 0.000683,
+      "mentions": 1
+    },
+    {
+      "name": "船长",
+      "type": "PERSON",
+      "salience": 0.000674,
+      "mentions": 1
+    },
+    {
+      "name": "决定权",
+      "type": "OTHER",
+      "salience": 0.00067,
+      "mentions": 1
+    },
+    {
+      "name": "资料",
+      "type": "OTHER",
+      "salience": 0.000641,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000638,
+      "mentions": 1
+    },
+    {
+      "name": "英",
+      "type": "LOCATION",
+      "salience": 0.000635,
+      "mentions": 1
+    },
+    {
+      "name": "魅力亮点",
+      "type": "OTHER",
+      "salience": 0.000626,
+      "mentions": 1
+    },
+    {
+      "name": "旅游证件",
+      "type": "OTHER",
+      "salience": 0.000625,
+      "mentions": 1
+    },
+    {
+      "name": "详情",
+      "type": "OTHER",
+      "salience": 0.000625,
+      "mentions": 1
+    },
+    {
+      "name": "详情",
+      "type": "OTHER",
+      "salience": 0.000622,
+      "mentions": 1
+    },
+    {
+      "name": "决定权",
+      "type": "OTHER",
+      "salience": 0.000621,
+      "mentions": 1
+    },
+    {
+      "name": "决定权",
+      "type": "OTHER",
+      "salience": 0.000611,
+      "mentions": 1
+    },
+    {
+      "name": "泳池",
+      "type": "LOCATION",
+      "salience": 0.000609,
+      "mentions": 1
+    },
+    {
+      "name": "游戏",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000609,
+      "mentions": 1
+    },
+    {
+      "name": "甲板",
+      "type": "OTHER",
+      "salience": 0.000609,
+      "mentions": 1
+    },
+    {
+      "name": "Disco派对",
+      "type": "OTHER",
+      "salience": 0.000609,
+      "mentions": 1
+    },
+    {
+      "name": "动画课程",
+      "type": "OTHER",
+      "salience": 0.000609,
+      "mentions": 1
+    },
+    {
+      "name": "一切",
+      "type": "OTHER",
+      "salience": 0.000608,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼公主",
+      "type": "PERSON",
+      "salience": 0.000601,
+      "mentions": 1
+    },
+    {
+      "name": "身处",
+      "type": "OTHER",
+      "salience": 0.000601,
+      "mentions": 1
+    },
+    {
+      "name": "超级英雄",
+      "type": "PERSON",
+      "salience": 0.000601,
+      "mentions": 1
+    },
+    {
+      "name": "条例",
+      "type": "OTHER",
+      "salience": 0.000591,
+      "mentions": 1
+    },
+    {
+      "name": "海景房",
+      "type": "LOCATION",
+      "salience": 0.00059,
+      "mentions": 1
+    },
+    {
+      "name": "台",
+      "type": "LOCATION",
+      "salience": 0.00059,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000577,
+      "mentions": 1
+    },
+    {
+      "name": "附加费\\",
+      "type": "OTHER",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.00056,
+      "mentions": 1
+    },
+    {
+      "name": "旅游证件",
+      "type": "OTHER",
+      "salience": 0.000557,
+      "mentions": 1
+    },
+    {
+      "name": "环境",
+      "type": "OTHER",
+      "salience": 0.000553,
+      "mentions": 1
+    },
+    {
+      "name": "停泊地点",
+      "type": "LOCATION",
+      "salience": 0.000553,
+      "mentions": 1
+    },
+    {
+      "name": "旅游业监管局征费",
+      "type": "OTHER",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "旅客",
+      "type": "PERSON",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "旅客",
+      "type": "PERSON",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "问题",
+      "type": "OTHER",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "证件",
+      "type": "OTHER",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "旅游证件",
+      "type": "OTHER",
+      "salience": 0.000545,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.000545,
+      "mentions": 1
+    },
+    {
+      "name": "The Club",
+      "type": "PERSON",
+      "salience": 0.000544,
+      "mentions": 1
+    },
+    {
+      "name": "The Club",
+      "type": "PERSON",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "成人才",
+      "type": "PERSON",
+      "salience": 0.000539,
+      "mentions": 1
+    },
+    {
+      "name": "旅客",
+      "type": "PERSON",
+      "salience": 0.000536,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司官方网站",
+      "type": "OTHER",
+      "salience": 0.000534,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司官方网站",
+      "type": "OTHER",
+      "salience": 0.000532,
+      "mentions": 1
+    },
+    {
+      "name": "副本",
+      "type": "OTHER",
+      "salience": 0.000529,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.000527,
+      "mentions": 1
+    },
+    {
+      "name": "旅游业监管",
+      "type": "OTHER",
+      "salience": 0.000524,
+      "mentions": 1
+    },
+    {
+      "name": "手续问题",
+      "type": "OTHER",
+      "salience": 0.000514,
+      "mentions": 1
+    },
+    {
+      "name": "舞台表演",
+      "type": "OTHER",
+      "salience": 0.000507,
+      "mentions": 1
+    },
+    {
+      "name": "赔偿",
+      "type": "OTHER",
+      "salience": 0.000488,
+      "mentions": 1
+    },
+    {
+      "name": "保险",
+      "type": "OTHER",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "项目",
+      "type": "OTHER",
+      "salience": 0.000481,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.000477,
+      "mentions": 1
+    },
+    {
+      "name": "父母",
+      "type": "PERSON",
+      "salience": 0.000476,
+      "mentions": 1
+    },
+    {
+      "name": "同行客人",
+      "type": "PERSON",
+      "salience": 0.000476,
+      "mentions": 1
+    },
+    {
+      "name": "项目",
+      "type": "OTHER",
+      "salience": 0.000474,
+      "mentions": 1
+    },
+    {
+      "name": "客人",
+      "type": "PERSON",
+      "salience": 0.00047,
+      "mentions": 1
+    },
+    {
+      "name": "项目",
+      "type": "OTHER",
+      "salience": 0.000468,
+      "mentions": 1
+    },
+    {
+      "name": "权利",
+      "type": "OTHER",
+      "salience": 0.000467,
+      "mentions": 1
+    },
+    {
+      "name": "赔偿",
+      "type": "OTHER",
+      "salience": 0.000467,
+      "mentions": 1
+    },
+    {
+      "name": "金额",
+      "type": "OTHER",
+      "salience": 0.000462,
+      "mentions": 1
+    },
+    {
+      "name": "护照副本",
+      "type": "OTHER",
+      "salience": 0.000461,
+      "mentions": 1
+    },
+    {
+      "name": "权利",
+      "type": "OTHER",
+      "salience": 0.000461,
+      "mentions": 1
+    },
+    {
+      "name": "通知",
+      "type": "OTHER",
+      "salience": 0.000461,
+      "mentions": 1
+    },
+    {
+      "name": "父母",
+      "type": "PERSON",
+      "salience": 0.00046,
+      "mentions": 1
+    },
+    {
+      "name": "父母",
+      "type": "PERSON",
+      "salience": 0.00046,
+      "mentions": 1
+    },
+    {
+      "name": "父母",
+      "type": "PERSON",
+      "salience": 0.00046,
+      "mentions": 1
+    },
+    {
+      "name": "纸副本",
+      "type": "OTHER",
+      "salience": 0.00046,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮餐厅座位供应情况",
+      "type": "OTHER",
+      "salience": 0.00046,
+      "mentions": 1
+    },
+    {
+      "name": "文",
+      "type": "OTHER",
+      "salience": 0.000458,
+      "mentions": 1
+    },
+    {
+      "name": "供应情况",
+      "type": "OTHER",
+      "salience": 0.000458,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.000456,
+      "mentions": 1
+    },
+    {
+      "name": "产品",
+      "type": "OTHER",
+      "salience": 0.000454,
+      "mentions": 1
+    },
+    {
+      "name": "港",
+      "type": "LOCATION",
+      "salience": 0.00044,
+      "mentions": 1
+    },
+    {
+      "name": "情况",
+      "type": "OTHER",
+      "salience": 0.000438,
+      "mentions": 1
+    },
+    {
+      "name": "自主游条款",
+      "type": "OTHER",
+      "salience": 0.000436,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.000436,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.000435,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.000433,
+      "mentions": 1
+    },
+    {
+      "name": "美元",
+      "type": "OTHER",
+      "salience": 0.000432,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.000431,
+      "mentions": 1
+    },
+    {
+      "name": "报价",
+      "type": "OTHER",
+      "salience": 0.000427,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮顾问",
+      "type": "PERSON",
+      "salience": 0.000424,
+      "mentions": 1
+    },
+    {
+      "name": "产品",
+      "type": "OTHER",
+      "salience": 0.000423,
+      "mentions": 1
+    },
+    {
+      "name": "旅游顾问",
+      "type": "PERSON",
+      "salience": 0.000421,
+      "mentions": 1
+    },
+    {
+      "name": "供应状况",
+      "type": "OTHER",
+      "salience": 0.000421,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.00042,
+      "mentions": 1
+    },
+    {
+      "name": "房",
+      "type": "LOCATION",
+      "salience": 0.000416,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.000411,
+      "mentions": 1
+    },
+    {
+      "name": "产品",
+      "type": "OTHER",
+      "salience": 0.000409,
+      "mentions": 1
+    },
+    {
+      "name": "产品",
+      "type": "OTHER",
+      "salience": 0.000409,
+      "mentions": 1
+    },
+    {
+      "name": "产品",
+      "type": "OTHER",
+      "salience": 0.000408,
+      "mentions": 1
+    },
+    {
+      "name": "身份证副本",
+      "type": "OTHER",
+      "salience": 0.000406,
+      "mentions": 1
+    },
+    {
+      "name": "护照",
+      "type": "OTHER",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "产品",
+      "type": "OTHER",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "船公司官方",
+      "type": "ORGANIZATION",
+      "salience": 0.0004,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.000399,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000396,
+      "mentions": 1
+    },
+    {
+      "name": "责任",
+      "type": "OTHER",
+      "salience": 0.000395,
+      "mentions": 1
+    },
+    {
+      "name": "护照",
+      "type": "OTHER",
+      "salience": 0.000395,
+      "mentions": 1
+    },
+    {
+      "name": "空白页供签证",
+      "type": "OTHER",
+      "salience": 0.000393,
+      "mentions": 1
+    },
+    {
+      "name": "产品",
+      "type": "OTHER",
+      "salience": 0.000387,
+      "mentions": 1
+    },
+    {
+      "name": "健康状况",
+      "type": "OTHER",
+      "salience": 0.000387,
+      "mentions": 1
+    },
+    {
+      "name": "附加项目",
+      "type": "OTHER",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "手续",
+      "type": "OTHER",
+      "salience": 0.000385,
+      "mentions": 1
+    },
+    {
+      "name": "号码",
+      "type": "OTHER",
+      "salience": 0.000385,
+      "mentions": 1
+    },
+    {
+      "name": "产品",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000383,
+      "mentions": 1
+    },
+    {
+      "name": "电话",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000381,
+      "mentions": 1
+    },
+    {
+      "name": "舱房",
+      "type": "LOCATION",
+      "salience": 0.00038,
+      "mentions": 1
+    },
+    {
+      "name": "床",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00038,
+      "mentions": 1
+    },
+    {
+      "name": "附加床",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00038,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000379,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000379,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000379,
+      "mentions": 1
+    },
+    {
+      "name": "实际金额",
+      "type": "OTHER",
+      "salience": 0.000378,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "天气",
+      "type": "OTHER",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "海面状况",
+      "type": "OTHER",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "天气",
+      "type": "OTHER",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "价钱",
+      "type": "OTHER",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "港口",
+      "type": "LOCATION",
+      "salience": 0.000372,
+      "mentions": 1
+    },
+    {
+      "name": "港",
+      "type": "LOCATION",
+      "salience": 0.000368,
+      "mentions": 1
+    },
+    {
+      "name": "保险产品",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000361,
+      "mentions": 1
+    },
+    {
+      "name": "保险产品",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00036,
+      "mentions": 1
+    },
+    {
+      "name": "金额",
+      "type": "OTHER",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.000357,
+      "mentions": 1
+    },
+    {
+      "name": "https://disneycruise",
+      "type": "PERSON",
+      "salience": 0.000353,
+      "mentions": 1
+    },
+    {
+      "name": "细则",
+      "type": "OTHER",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "香港鲗鱼涌英皇道979号",
+      "type": "LOCATION",
+      "salience": 0.000342,
+      "mentions": 1
+    },
+    {
+      "name": "船员小费",
+      "type": "OTHER",
+      "salience": 0.000341,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000327,
+      "mentions": 1
+    },
+    {
+      "name": "行程报价单",
+      "type": "OTHER",
+      "salience": 0.000326,
+      "mentions": 1
+    },
+    {
+      "name": "来回机票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000323,
+      "mentions": 1
+    },
+    {
+      "name": "目的地",
+      "type": "LOCATION",
+      "salience": 0.000323,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000321,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮杂费",
+      "type": "OTHER",
+      "salience": 0.00032,
+      "mentions": 1
+    },
+    {
+      "name": "服务",
+      "type": "OTHER",
+      "salience": 0.000319,
+      "mentions": 1
+    },
+    {
+      "name": "使用条款",
+      "type": "OTHER",
+      "salience": 0.000319,
+      "mentions": 1
+    },
+    {
+      "name": "船上服务人员小费",
+      "type": "OTHER",
+      "salience": 0.000318,
+      "mentions": 1
+    },
+    {
+      "name": "乘客",
+      "type": "PERSON",
+      "salience": 0.000316,
+      "mentions": 1
+    },
+    {
+      "name": "旅游服务",
+      "type": "OTHER",
+      "salience": 0.000316,
+      "mentions": 1
+    },
+    {
+      "name": "价目",
+      "type": "OTHER",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "酒店",
+      "type": "LOCATION",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "码头",
+      "type": "LOCATION",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "港",
+      "type": "LOCATION",
+      "salience": 0.000311,
+      "mentions": 1
+    },
+    {
+      "name": "条款",
+      "type": "OTHER",
+      "salience": 0.000311,
+      "mentions": 1
+    },
+    {
+      "name": "儿童",
+      "type": "PERSON",
+      "salience": 0.00031,
+      "mentions": 1
+    },
+    {
+      "name": "旅游证明",
+      "type": "OTHER",
+      "salience": 0.00031,
+      "mentions": 1
+    },
+    {
+      "name": "顾客登船",
+      "type": "OTHER",
+      "salience": 0.000305,
+      "mentions": 1
+    },
+    {
+      "name": "The Club Travel Services Limited",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000304,
+      "mentions": 1
+    },
+    {
+      "name": "船票",
+      "type": "OTHER",
+      "salience": 0.000303,
+      "mentions": 1
+    },
+    {
+      "name": "价目",
+      "type": "OTHER",
+      "salience": 0.0003,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司规定",
+      "type": "OTHER",
+      "salience": 0.0003,
+      "mentions": 1
+    },
+    {
+      "name": "码头",
+      "type": "OTHER",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "价钱",
+      "type": "OTHER",
+      "salience": 0.000297,
+      "mentions": 1
+    },
+    {
+      "name": "团体座位",
+      "type": "OTHER",
+      "salience": 0.000297,
+      "mentions": 1
+    },
+    {
+      "name": "船票",
+      "type": "OTHER",
+      "salience": 0.000296,
+      "mentions": 1
+    },
+    {
+      "name": "载运机构",
+      "type": "ORGANIZATION",
+      "salience": 0.000295,
+      "mentions": 1
+    },
+    {
+      "name": "服务",
+      "type": "OTHER",
+      "salience": 0.000293,
+      "mentions": 1
+    },
+    {
+      "name": "补偿",
+      "type": "OTHER",
+      "salience": 0.000293,
+      "mentions": 1
+    },
+    {
+      "name": "儿童",
+      "type": "PERSON",
+      "salience": 0.000289,
+      "mentions": 1
+    },
+    {
+      "name": "补偿",
+      "type": "OTHER",
+      "salience": 0.000289,
+      "mentions": 1
+    },
+    {
+      "name": "Concierge to Suite",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000289,
+      "mentions": 1
+    },
+    {
+      "name": "US$23.5",
+      "type": "OTHER",
+      "salience": 0.000289,
+      "mentions": 1
+    },
+    {
+      "name": "收费",
+      "type": "OTHER",
+      "salience": 0.000286,
+      "mentions": 1
+    },
+    {
+      "name": "乘客",
+      "type": "PERSON",
+      "salience": 0.000284,
+      "mentions": 1
+    },
+    {
+      "name": "海关人员",
+      "type": "PERSON",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "人士",
+      "type": "PERSON",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "人士",
+      "type": "PERSON",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "离港人士",
+      "type": "PERSON",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "海关人员",
+      "type": "PERSON",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "详情",
+      "type": "OTHER",
+      "salience": 0.000276,
+      "mentions": 1
+    },
+    {
+      "name": "英",
+      "type": "LOCATION",
+      "salience": 0.000274,
+      "mentions": 1
+    },
+    {
+      "name": "保险业条例",
+      "type": "OTHER",
+      "salience": 0.000272,
+      "mentions": 1
+    },
+    {
+      "name": "主餐厅",
+      "type": "LOCATION",
+      "salience": 0.000269,
+      "mentions": 1
+    },
+    {
+      "name": "英",
+      "type": "LOCATION",
+      "salience": 0.000269,
+      "mentions": 1
+    },
+    {
+      "name": "英",
+      "type": "LOCATION",
+      "salience": 0.000269,
+      "mentions": 1
+    },
+    {
+      "name": "行程资料",
+      "type": "OTHER",
+      "salience": 0.000264,
+      "mentions": 1
+    },
+    {
+      "name": "条件",
+      "type": "OTHER",
+      "salience": 0.00026,
+      "mentions": 1
+    },
+    {
+      "name": "住宿供应商",
+      "type": "OTHER",
+      "salience": 0.00026,
+      "mentions": 1
+    },
+    {
+      "name": "条件",
+      "type": "OTHER",
+      "salience": 0.000258,
+      "mentions": 1
+    },
+    {
+      "name": "问题",
+      "type": "OTHER",
+      "salience": 0.000258,
+      "mentions": 1
+    },
+    {
+      "name": "条件",
+      "type": "OTHER",
+      "salience": 0.000257,
+      "mentions": 1
+    },
+    {
+      "name": "决定权",
+      "type": "OTHER",
+      "salience": 0.000256,
+      "mentions": 1
+    },
+    {
+      "name": "授权书",
+      "type": "OTHER",
+      "salience": 0.000253,
+      "mentions": 1
+    },
+    {
+      "name": "经济客位机票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮杂费",
+      "type": "OTHER",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": ".disney.go.com/ships/adventure/",
+      "type": "OTHER",
+      "salience": 0.000251,
+      "mentions": 1
+    },
+    {
+      "name": "订位价格",
+      "type": "OTHER",
+      "salience": 0.000249,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.000249,
+      "mentions": 1
+    },
+    {
+      "name": "年龄",
+      "type": "OTHER",
+      "salience": 0.000246,
+      "mentions": 1
+    },
+    {
+      "name": "差价",
+      "type": "OTHER",
+      "salience": 0.000246,
+      "mentions": 1
+    },
+    {
+      "name": "船上户口",
+      "type": "OTHER",
+      "salience": 0.000243,
+      "mentions": 1
+    },
+    {
+      "name": "半房HKD",
+      "type": "OTHER",
+      "salience": 0.000241,
+      "mentions": 1
+    },
+    {
+      "name": "机会",
+      "type": "OTHER",
+      "salience": 0.000239,
+      "mentions": 1
+    },
+    {
+      "name": "报名",
+      "type": "OTHER",
+      "salience": 0.000239,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.000236,
+      "mentions": 1
+    },
+    {
+      "name": "税金",
+      "type": "OTHER",
+      "salience": 0.000235,
+      "mentions": 1
+    },
+    {
+      "name": "成人",
+      "type": "PERSON",
+      "salience": 0.000233,
+      "mentions": 1
+    },
+    {
+      "name": "HKTIA",
+      "type": "ORGANIZATION",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "旅游证件",
+      "type": "OTHER",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "HKTIA",
+      "type": "ORGANIZATION",
+      "salience": 0.00023,
+      "mentions": 1
+    },
+    {
+      "name": "旅客",
+      "type": "PERSON",
+      "salience": 0.00023,
+      "mentions": 1
+    },
+    {
+      "name": "旅客",
+      "type": "PERSON",
+      "salience": 0.000229,
+      "mentions": 1
+    },
+    {
+      "name": "责任",
+      "type": "OTHER",
+      "salience": 0.000229,
+      "mentions": 1
+    },
+    {
+      "name": "责任",
+      "type": "OTHER",
+      "salience": 0.000229,
+      "mentions": 1
+    },
+    {
+      "name": "责任",
+      "type": "OTHER",
+      "salience": 0.000228,
+      "mentions": 1
+    },
+    {
+      "name": "消费",
+      "type": "OTHER",
+      "salience": 0.000225,
+      "mentions": 1
+    },
+    {
+      "name": "市场需求",
+      "type": "OTHER",
+      "salience": 0.000224,
+      "mentions": 1
+    },
+    {
+      "name": "名额",
+      "type": "OTHER",
+      "salience": 0.000223,
+      "mentions": 1
+    },
+    {
+      "name": "酒类",
+      "type": "OTHER",
+      "salience": 0.000221,
+      "mentions": 1
+    },
+    {
+      "name": "衣服",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000221,
+      "mentions": 1
+    },
+    {
+      "name": "饮品",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000221,
+      "mentions": 1
+    },
+    {
+      "name": "岸上观光团",
+      "type": "ORGANIZATION",
+      "salience": 0.000221,
+      "mentions": 1
+    },
+    {
+      "name": "入境要求",
+      "type": "OTHER",
+      "salience": 0.000221,
+      "mentions": 1
+    },
+    {
+      "name": "医生",
+      "type": "PERSON",
+      "salience": 0.00022,
+      "mentions": 1
+    },
+    {
+      "name": "孕妇",
+      "type": "PERSON",
+      "salience": 0.00022,
+      "mentions": 1
+    },
+    {
+      "name": "用",
+      "type": "OTHER",
+      "salience": 0.000219,
+      "mentions": 1
+    },
+    {
+      "name": "国家",
+      "type": "LOCATION",
+      "salience": 0.000219,
+      "mentions": 1
+    },
+    {
+      "name": "怀孕周数",
+      "type": "OTHER",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "婴儿",
+      "type": "PERSON",
+      "salience": 0.000217,
+      "mentions": 1
+    },
+    {
+      "name": "款项",
+      "type": "OTHER",
+      "salience": 0.000216,
+      "mentions": 1
+    },
+    {
+      "name": "舱房住宿乃",
+      "type": "OTHER",
+      "salience": 0.000215,
+      "mentions": 1
+    },
+    {
+      "name": "旅程小贴士",
+      "type": "OTHER",
+      "salience": 0.000215,
+      "mentions": 1
+    },
+    {
+      "name": "格式",
+      "type": "OTHER",
+      "salience": 0.000213,
+      "mentions": 1
+    },
+    {
+      "name": "HK$785",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000213,
+      "mentions": 1
+    },
+    {
+      "name": "问题",
+      "type": "OTHER",
+      "salience": 0.000212,
+      "mentions": 1
+    },
+    {
+      "name": "晚膳",
+      "type": "OTHER",
+      "salience": 0.000211,
+      "mentions": 1
+    },
+    {
+      "name": "罢工",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "班次",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "疫症",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "台风",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "天灾",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "风浪",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "工业行动",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "交通工具",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "政治动荡",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "居民",
+      "type": "PERSON",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "法例",
+      "type": "OTHER",
+      "salience": 0.000209,
+      "mentions": 1
+    },
+    {
+      "name": "餐厅",
+      "type": "LOCATION",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "HKT Financial Services Limited",
+      "type": "ORGANIZATION",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "HKTIA",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "商品",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "香港特别行政区保险业监管局",
+      "type": "ORGANIZATION",
+      "salience": 0.000206,
+      "mentions": 1
+    },
+    {
+      "name": "参加者",
+      "type": "PERSON",
+      "salience": 0.000206,
+      "mentions": 1
+    },
+    {
+      "name": "通知",
+      "type": "OTHER",
+      "salience": 0.000205,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮餐厅",
+      "type": "LOCATION",
+      "salience": 0.000205,
+      "mentions": 1
+    },
+    {
+      "name": "HKTIA",
+      "type": "ORGANIZATION",
+      "salience": 0.000205,
+      "mentions": 1
+    },
+    {
+      "name": "口岸",
+      "type": "LOCATION",
+      "salience": 0.000205,
+      "mentions": 1
+    },
+    {
+      "name": "结算",
+      "type": "OTHER",
+      "salience": 0.000203,
+      "mentions": 1
+    },
+    {
+      "name": "现金",
+      "type": "OTHER",
+      "salience": 0.000203,
+      "mentions": 1
+    },
+    {
+      "name": "差额",
+      "type": "OTHER",
+      "salience": 0.000202,
+      "mentions": 1
+    },
+    {
+      "name": "网站",
+      "type": "OTHER",
+      "salience": 0.000202,
+      "mentions": 1
+    },
+    {
+      "name": "船公司告示",
+      "type": "OTHER",
+      "salience": 0.000201,
+      "mentions": 1
+    },
+    {
+      "name": "消费",
+      "type": "OTHER",
+      "salience": 0.0002,
+      "mentions": 1
+    },
+    {
+      "name": "文",
+      "type": "OTHER",
+      "salience": 0.000198,
+      "mentions": 1
+    },
+    {
+      "name": "保安局",
+      "type": "OTHER",
+      "salience": 0.000197,
+      "mentions": 1
+    },
+    {
+      "name": "enquiry@travel.theclub.com.hk",
+      "type": "OTHER",
+      "salience": 0.000197,
+      "mentions": 3
+    },
+    {
+      "name": "通知",
+      "type": "OTHER",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "权利",
+      "type": "OTHER",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "文",
+      "type": "OTHER",
+      "salience": 0.000194,
+      "mentions": 1
+    },
+    {
+      "name": "文",
+      "type": "OTHER",
+      "salience": 0.000194,
+      "mentions": 1
+    },
+    {
+      "name": "通知",
+      "type": "OTHER",
+      "salience": 0.000193,
+      "mentions": 1
+    },
+    {
+      "name": "套票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000193,
+      "mentions": 1
+    },
+    {
+      "name": "供应商",
+      "type": "ORGANIZATION",
+      "salience": 0.000193,
+      "mentions": 1
+    },
+    {
+      "name": "产品供应商",
+      "type": "ORGANIZATION",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "房",
+      "type": "LOCATION",
+      "salience": 0.00019,
+      "mentions": 1
+    },
+    {
+      "name": "免责声明",
+      "type": "OTHER",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "战争",
+      "type": "OTHER",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "声明",
+      "type": "OTHER",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "私隐声明",
+      "type": "OTHER",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "政府税",
+      "type": "OTHER",
+      "salience": 0.000179,
+      "mentions": 1
+    },
+    {
+      "name": "舱房层",
+      "type": "OTHER",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "保险推广",
+      "type": "OTHER",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "权利",
+      "type": "OTHER",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "成人同行",
+      "type": "OTHER",
+      "salience": 0.000168,
+      "mentions": 1
+    },
+    {
+      "name": "套餐价钱",
+      "type": "OTHER",
+      "salience": 0.000168,
+      "mentions": 1
+    },
+    {
+      "name": "报价",
+      "type": "OTHER",
+      "salience": 0.000166,
+      "mentions": 1
+    },
+    {
+      "name": "顾问",
+      "type": "PERSON",
+      "salience": 0.000164,
+      "mentions": 1
+    },
+    {
+      "name": "目的",
+      "type": "OTHER",
+      "salience": 0.000164,
+      "mentions": 1
+    },
+    {
+      "name": "当局",
+      "type": "ORGANIZATION",
+      "salience": 0.000162,
+      "mentions": 1
+    },
+    {
+      "name": "https://www.customs.gov.hk/tc/passenger_clearance/instruments/index.html",
+      "type": "OTHER",
+      "salience": 0.000161,
+      "mentions": 1
+    },
+    {
+      "name": "牌照号码",
+      "type": "OTHER",
+      "salience": 0.00016,
+      "mentions": 1
+    },
+    {
+      "name": "床位间格",
+      "type": "OTHER",
+      "salience": 0.000157,
+      "mentions": 1
+    },
+    {
+      "name": "世界",
+      "type": "LOCATION",
+      "salience": 0.000152,
+      "mentions": 1
+    },
+    {
+      "name": "名字",
+      "type": "OTHER",
+      "salience": 0.000149,
+      "mentions": 1
+    },
+    {
+      "name": "牌保险代理牌照号码",
+      "type": "OTHER",
+      "salience": 0.000144,
+      "mentions": 1
+    },
+    {
+      "name": "版",
+      "type": "OTHER",
+      "salience": 0.000143,
+      "mentions": 1
+    },
+    {
+      "name": "图片",
+      "type": "OTHER",
+      "salience": 0.000142,
+      "mentions": 1
+    },
+    {
+      "name": "红通道",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "货币",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "票据",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "红绿通道",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "现金类物品",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "现金类物品",
+      "type": "OTHER",
+      "salience": 0.000137,
+      "mentions": 1
+    },
+    {
+      "name": "No. 350873",
+      "type": "OTHER",
+      "salience": 0.000132,
+      "mentions": 1
+    },
+    {
+      "name": "目的地",
+      "type": "LOCATION",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "预订",
+      "type": "OTHER",
+      "salience": 0.000128,
+      "mentions": 1
+    },
+    {
+      "name": "预订",
+      "type": "OTHER",
+      "salience": 0.000127,
+      "mentions": 1
+    },
+    {
+      "name": "酒店",
+      "type": "LOCATION",
+      "salience": 0.000126,
+      "mentions": 1
+    },
+    {
+      "name": "政策",
+      "type": "OTHER",
+      "salience": 0.000117,
+      "mentions": 1
+    },
+    {
+      "name": "票价",
+      "type": "OTHER",
+      "salience": 0.000117,
+      "mentions": 1
+    },
+    {
+      "name": "规管活动",
+      "type": "OTHER",
+      "salience": 0.000112,
+      "mentions": 1
+    },
+    {
+      "name": "个人资料收集声明",
+      "type": "WORK_OF_ART",
+      "salience": 0.000108,
+      "mentions": 1
+    },
+    {
+      "name": "iPhone 17",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000103,
+      "mentions": 1
+    },
+    {
+      "name": "Apple",
+      "type": "ORGANIZATION",
+      "salience": 0.000102,
+      "mentions": 1
+    },
+    {
+      "name": "差异",
+      "type": "OTHER",
+      "salience": 0.000102,
+      "mentions": 1
+    },
+    {
+      "name": "争议",
+      "type": "OTHER",
+      "salience": 0.000101,
+      "mentions": 1
+    },
+    {
+      "name": "警示",
+      "type": "OTHER",
+      "salience": 0.000101,
+      "mentions": 1
+    },
+    {
+      "name": "书面",
+      "type": "OTHER",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "总价值",
+      "type": "OTHER",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "14楼",
+      "type": "LOCATION",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "太古坊电讯盈科中心",
+      "type": "LOCATION",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "852",
+      "type": "ORGANIZATION",
+      "salience": 9.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "IA",
+      "type": "OTHER",
+      "salience": 9.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "菜单",
+      "type": "OTHER",
+      "salience": 9.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "定义见",
+      "type": "ORGANIZATION",
+      "salience": 9.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "香港电讯集团",
+      "type": "ORGANIZATION",
+      "salience": 9.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Copyright",
+      "type": "OTHER",
+      "salience": 9.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "All rights reserved.",
+      "type": "CONSUMER_GOOD",
+      "salience": 9.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "现金券",
+      "type": "OTHER",
+      "salience": 9.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "折扣",
+      "type": "OTHER",
+      "salience": 9.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "电邮",
+      "type": "OTHER",
+      "salience": 9.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "小童",
+      "type": "PERSON",
+      "salience": 9.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "质量",
+      "type": "OTHER",
+      "salience": 9.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "损失",
+      "type": "OTHER",
+      "salience": 9.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "方面",
+      "type": "OTHER",
+      "salience": 9.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "地方",
+      "type": "LOCATION",
+      "salience": 9.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "版本",
+      "type": "OTHER",
+      "salience": 9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "照片",
+      "type": "OTHER",
+      "salience": 8.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 8.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "FA2474",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "美容",
+      "type": "OTHER",
+      "salience": 8.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "分类",
+      "type": "OTHER",
+      "salience": 8.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "语言",
+      "type": "OTHER",
+      "salience": 8.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "联系方式",
+      "type": "OTHER",
+      "salience": 8.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "保险合约",
+      "type": "OTHER",
+      "salience": 8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "持牌保险代理机构",
+      "type": "ORGANIZATION",
+      "salience": 7.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "提述",
+      "type": "OTHER",
+      "salience": 5.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "服务品牌",
+      "type": "ORGANIZATION",
+      "salience": 5.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025年",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025年",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年3月16日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年4月13",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年5月4",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年6月8",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年7月6",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年8月3",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年9月7",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年10月5",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年11月2",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年12月7",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年4月6日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年6月1",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年4月9",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年5月7",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年6月4",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年7月2",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年8月6",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年9月3",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年10月1",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年11月5",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年12月3",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年4月2",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年5月28日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年9月24日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018年7月16日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "香港鰂魚涌英皇道979號",
+      "type": "ADDRESS",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3,020",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3,020",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3,820",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5,700",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 3,020",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 3,820",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 5,700",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 6,200",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 1,770",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 1,950",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 2,440",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 2,670",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 4,150",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 4,950",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 7,300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 7,940",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 2,380",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 2,600",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 3,210",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 3,510",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 4,370",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 5,250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 8,070",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 8,770",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 2,540",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 2,800",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 3,470",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 3,800",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 6,470",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 7,700",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 11,310",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 12,280",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 3,740",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 4,100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 5,040",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$ 5,490",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$ 1,900",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$589",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$785",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$981",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "HK$369",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$14.5",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$23.5",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12萬港元",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6700",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "145",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "165",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,820",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,820",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "145",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,700",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,700",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "243",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "420",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "145",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "165",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "145",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "243",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "420",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025年3月",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1/2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,020",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,820",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,820",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,700",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,700",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3/4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,770",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,770",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,950",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,950",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,440",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,440",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,670",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,670",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026年9月28日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1/2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,150",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,150",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,950",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,950",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7,300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7,940",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7,940",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3/4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,380",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,380",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,600",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,600",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,210",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,210",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,510",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,510",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1/2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,370",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,370",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,070",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,070",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,770",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,770",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3/4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,540",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,540",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,800",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,800",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,470",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,470",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,800",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,800",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1/2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6,470",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6,470",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7,700",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7,700",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11,310",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11,310",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12,280",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12,280",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3/4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,740",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,740",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,040",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,040",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,490",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,490",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,900",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,900",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "589",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "785",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "981",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "369",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1833100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "629",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2018",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12萬",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "183",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "350873",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "183",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "979",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "852",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "183",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "350873",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "七",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "六",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "兩",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "二",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 23,
+    "OTHER": 386,
+    "PERSON": 108,
+    "ORGANIZATION": 65,
+    "LOCATION": 67,
+    "WORK_OF_ART": 2,
+    "NUMBER": 313,
+    "DATE": 31,
+    "ADDRESS": 1,
+    "PRICE": 44
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.04277299999999997,
+    "OTHER": 0.5281510000000006,
+    "PERSON": 0.10081299999999999,
+    "ORGANIZATION": 0.14015900000000003,
+    "LOCATION": 0.046426999999999996,
+    "WORK_OF_ART": 0.000834,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "ADDRESS": 0.0,
+    "PRICE": 0.0
+  }
+}

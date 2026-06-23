@@ -1,0 +1,473 @@
+{
+  "file": "non_cited_postbest-software-for-managing-customer-returns.txt",
+  "word_count": 916,
+  "entity_count": 75,
+  "entities": [
+    {
+      "name": "The Walmart you love",
+      "type": "ORGANIZATION",
+      "salience": 0.082356,
+      "mentions": 1
+    },
+    {
+      "name": "Customers can request a return at any time",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.07632,
+      "mentions": 1
+    },
+    {
+      "name": "Online",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.076229,
+      "mentions": 1
+    },
+    {
+      "name": "Technology",
+      "type": "OTHER",
+      "salience": 0.057787,
+      "mentions": 4
+    },
+    {
+      "name": "May 7",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.055213,
+      "mentions": 1
+    },
+    {
+      "name": "In-Person",
+      "type": "OTHER",
+      "salience": 0.055213,
+      "mentions": 1
+    },
+    {
+      "name": "Small Business Day 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.055213,
+      "mentions": 1
+    },
+    {
+      "name": "Run",
+      "type": "OTHER",
+      "salience": 0.050429,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.030226,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.0298,
+      "mentions": 1
+    },
+    {
+      "name": "Return Rabbit",
+      "type": "OTHER",
+      "salience": 0.029309,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.024828,
+      "mentions": 1
+    },
+    {
+      "name": "Contributor",
+      "type": "OTHER",
+      "salience": 0.022503,
+      "mentions": 1
+    },
+    {
+      "name": "How Brick-and-Mortar Businesses Can Add E-Commerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022464,
+      "mentions": 1
+    },
+    {
+      "name": "Share",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021158,
+      "mentions": 1
+    },
+    {
+      "name": "customers",
+      "type": "OTHER",
+      "salience": 0.019488,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "OTHER",
+      "salience": 0.019332,
+      "mentions": 1
+    },
+    {
+      "name": "Returnly",
+      "type": "OTHER",
+      "salience": 0.018734,
+      "mentions": 1
+    },
+    {
+      "name": "By: Jamie Johnson",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01628,
+      "mentions": 1
+    },
+    {
+      "name": "And customers can exchange different-priced items",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.015193,
+      "mentions": 1
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "salience": 0.014496,
+      "mentions": 1
+    },
+    {
+      "name": "Twitter",
+      "type": "OTHER",
+      "salience": 0.013808,
+      "mentions": 1
+    },
+    {
+      "name": "Unchecked Bookmark IconSave",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012693,
+      "mentions": 1
+    },
+    {
+      "name": "LinkedIn",
+      "type": "OTHER",
+      "salience": 0.012319,
+      "mentions": 1
+    },
+    {
+      "name": "between 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011821,
+      "mentions": 1
+    },
+    {
+      "name": "shared accounts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010259,
+      "mentions": 1
+    },
+    {
+      "name": "For more technology tips",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008705,
+      "mentions": 1
+    },
+    {
+      "name": "With every return",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008381,
+      "mentions": 1
+    },
+    {
+      "name": "regardless",
+      "type": "OTHER",
+      "salience": 0.008156,
+      "mentions": 1
+    },
+    {
+      "name": "Fast",
+      "type": "OTHER",
+      "salience": 0.00742,
+      "mentions": 1
+    },
+    {
+      "name": "reliable fulfillment",
+      "type": "OTHER",
+      "salience": 0.00742,
+      "mentions": 1
+    },
+    {
+      "name": "bulk ordering",
+      "type": "OTHER",
+      "salience": 0.00742,
+      "mentions": 1
+    },
+    {
+      "name": "Get Started",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007296,
+      "mentions": 1
+    },
+    {
+      "name": "Expert business advice",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005614,
+      "mentions": 1
+    },
+    {
+      "name": "With every return",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005517,
+      "mentions": 1
+    },
+    {
+      "name": "so the company offers one-click exchanges.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004886,
+      "mentions": 1
+    },
+    {
+      "name": "encourages",
+      "type": "OTHER",
+      "salience": 0.004315,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip",
+      "type": "OTHER",
+      "salience": 0.003717,
+      "mentions": 1
+    },
+    {
+      "name": "news",
+      "type": "OTHER",
+      "salience": 0.003226,
+      "mentions": 1
+    },
+    {
+      "name": "Subscribe",
+      "type": "OTHER",
+      "salience": 0.00315,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "OTHER",
+      "salience": 0.00296,
+      "mentions": 1
+    },
+    {
+      "name": "What Is Inventory Management Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002844,
+      "mentions": 1
+    },
+    {
+      "name": "reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002721,
+      "mentions": 1
+    },
+    {
+      "name": "Recaptcha requires verification",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002708,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.002694,
+      "mentions": 1
+    },
+    {
+      "name": "Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002512,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002501,
+      "mentions": 1
+    },
+    {
+      "name": "MidnightOil",
+      "type": "OTHER",
+      "salience": 0.002362,
+      "mentions": 1
+    },
+    {
+      "name": "delivered weekly",
+      "type": "OTHER",
+      "salience": 0.002333,
+      "mentions": 1
+    },
+    {
+      "name": "and trends",
+      "type": "OTHER",
+      "salience": 0.002333,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 0.002305,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002227,
+      "mentions": 1
+    },
+    {
+      "name": "Know More",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002193,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001917,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "OTHER",
+      "salience": 0.001856,
+      "mentions": 1
+    },
+    {
+      "name": "CO",
+      "type": "ORGANIZATION",
+      "salience": 0.001822,
+      "mentions": 1
+    },
+    {
+      "name": "professional",
+      "type": "PERSON",
+      "salience": 0.001717,
+      "mentions": 1
+    },
+    {
+      "name": "Chamber of Commerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001688,
+      "mentions": 1
+    },
+    {
+      "name": "Published August 01, 2023",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00166,
+      "mentions": 1
+    },
+    {
+      "name": "cookies",
+      "type": "OTHER",
+      "salience": 0.001594,
+      "mentions": 1
+    },
+    {
+      "name": "I Agree",
+      "type": "OTHER",
+      "salience": 0.001578,
+      "mentions": 1
+    },
+    {
+      "name": "protected by reCAPTCHA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001549,
+      "mentions": 1
+    },
+    {
+      "name": "multiple-destination",
+      "type": "OTHER",
+      "salience": 0.001484,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 7",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "August 01, 2023",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2023",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "ORGANIZATION": 3,
+    "CONSUMER_GOOD": 28,
+    "OTHER": 34,
+    "PERSON": 1,
+    "DATE": 3,
+    "NUMBER": 9
+  },
+  "type_salience": {
+    "ORGANIZATION": 0.086872,
+    "CONSUMER_GOOD": 0.4377620000000001,
+    "OTHER": 0.46190099999999995,
+    "PERSON": 0.001717,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

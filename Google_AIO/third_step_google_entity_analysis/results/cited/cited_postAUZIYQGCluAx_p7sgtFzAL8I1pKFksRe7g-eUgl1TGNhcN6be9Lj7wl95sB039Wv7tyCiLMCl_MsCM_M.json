@@ -1,0 +1,195 @@
+{
+  "file": "cited_postAUZIYQGCluAx_p7sgtFzAL8I1pKFksRe7g-eUgl1TGNhcN6be9Lj7wl95sB039Wv7tyCiLMCl_MsCM_M.txt",
+  "word_count": 56,
+  "entity_count": 29,
+  "entities": [
+    {
+      "name": "More in",
+      "type": "OTHER",
+      "salience": 0.218989,
+      "mentions": 1
+    },
+    {
+      "name": "Guides",
+      "type": "OTHER",
+      "salience": 0.175282,
+      "mentions": 1
+    },
+    {
+      "name": "Fini Guides",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.117646,
+      "mentions": 1
+    },
+    {
+      "name": "View all",
+      "type": "OTHER",
+      "salience": 0.097986,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.069755,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10 AI Agents for Customer Support: Tested",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.066261,
+      "mentions": 1
+    },
+    {
+      "name": "Guides",
+      "type": "OTHER",
+      "salience": 0.056631,
+      "mentions": 1
+    },
+    {
+      "name": "Guides",
+      "type": "OTHER",
+      "salience": 0.04685,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 31",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.040189,
+      "mentions": 1
+    },
+    {
+      "name": "AI Order Status Automation in 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.03173,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 31",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026926,
+      "mentions": 1
+    },
+    {
+      "name": "Reviewed",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025877,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 13",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.025877,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 13, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 31, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 31, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 5,
+    "CONSUMER_GOOD": 7,
+    "ORGANIZATION": 1,
+    "DATE": 5,
+    "NUMBER": 11
+  },
+  "type_salience": {
+    "OTHER": 0.5957380000000001,
+    "CONSUMER_GOOD": 0.33450599999999997,
+    "ORGANIZATION": 0.069755,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

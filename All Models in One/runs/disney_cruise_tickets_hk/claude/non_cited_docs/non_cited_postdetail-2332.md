@@ -1,0 +1,426 @@
+[永安旅遊](https://www.wingontravel.com/ "永安旅遊")
+
+- [旅行團](https://www.wingontravel.com/tours/)
+- [機票](https://www.wingontravel.com/flight/)
+- [酒店](https://www.wingontravel.com/hotel/)
+- [自由行](https://www.wingontravel.com/package/)
+- [郵輪](https://www.wingontravel.com/cruises/)
+- [船票](https://www.wingontravel.com/ferry/)
+- [高鐵火車票](https://www.wingontravel.com/train/)
+- [當地體驗](https://www.wingontravel.com/things-to-do/)
+- [獨立包團](https://www.wingontravel.com/custom-travel/)
+- [優惠](https://www.wingontravel.com/promotion/)
+- [旅遊攻略](https://www.wingontravel.com/discovery/)
+- ...
+
+
+  - [港玩港食](https://www.wingontravel.com/local/)
+
+搜尋訂單
+
+登入
+
+\|
+
+登入
+
+- 我的
+- 我的訂單
+- 積分
+- 優惠券
+- 收藏
+- 個人資料
+
+- 登出
+
+- 繁體中文
+- English
+
+客戶服務時間
+
+【機票、酒店、旅行團、郵輪假期、自由行】
+
+星期一至日：9:00am-9:00pm
+
+【會籍及積分查詢】
+
+星期一至五：9:00am - 1:00pm、2:00pm - 6:00pm
+
+(公眾假期除外)
+
+WhatsApp報名/查詢
+
+旅行團報名及查詢![whatsapp](https://static.tripcdn.com/packages/ibt/wingon-common-static/1.1.0/headerfooter/Content/images/whatapp.png)
+
+機票、酒店及自由行訂單查詢![whatsapp](https://static.tripcdn.com/packages/ibt/wingon-common-static/1.1.0/headerfooter/Content/images/whatapp.png)
+
+致電永安旅遊客戶服務熱線
+
+報名及查詢熱線 +852 2928 8882
+
+![whatsapp](https://static.tripcdn.com/packages/ibt/wingon-common-static/1.1.0/headerfooter/Content/images/newWhatsApp.png)
+
+登入即享會員優惠
+
+我希望收到最新的優惠資訊！
+
+[永安郵輪](https://www.wingontravel.com/cruises/) [迪士尼探險號 新加坡](https://www.wingontravel.com/cruises/list-tripline-780?breadcrumb=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%8E%A2%E9%9A%AA%E8%99%9F%20%20%E6%96%B0%E5%8A%A0%E5%9D%A1)《2026年新加坡全新首航》迪士尼遊輪~迪士尼探險號 新加坡5天豪華郵輪套票【稅項全包】
+
+《2026年新加坡全新首航》迪士尼遊輪~迪士尼探險號 新加坡5天豪華郵輪套票【稅項全包】(RASDA05Q)
+
+2026年4月至12月 (星期日出發)
+
+WhatsApp
+
+收藏
+
+分享
+
+迪士尼探險號 \- YouTube
+
+Tap to unmute
+
+[迪士尼探險號](https://www.youtube.com/watch?v=ggoA3rmlFuM) [永安旅遊 Wing On Travel](https://www.youtube.com/channel/UCSiIhrONQDiXOfiwftH3S2Q)
+
+永安旅遊 Wing On Travel26.6K subscribers
+
+[Watch on](https://www.youtube.com/watch?v=ggoA3rmlFuM)
+
+- ![豪華露台房](<Base64-Image-Removed>)
+- ![迪士尼探險號](<Base64-Image-Removed>)
+- ![迪士尼探險號](<Base64-Image-Removed>)
+
+- ![](<Base64-Image-Removed>)
+- ![](<Base64-Image-Removed>)
+- ![](<Base64-Image-Removed>)
+- ![](<Base64-Image-Removed>)
+- ![](<Base64-Image-Removed>)
+- ![](<Base64-Image-Removed>)
+
+套票
+
+迪士尼探險號
+
+了解更多
+
+HKD8,296+
+
+起價說明
+
+起價為【2026年10月11日】出發的【豪華內艙房(Cat. 10D)(Deck 9)】房型,入住【1-4人】第1/2位成人單人價格。價格會因為您選擇的出發日期、房型和入住人数的不同而有所差别，具體的成交價格可能因會員使用優惠券、積分等發生變化，最终以訂單结算價格為準。
+
+立即預訂
+
+- 2026年5月
+- 2026年6月
+- 2026年7月
+- 2026年8月
+- 2026年9月
+- 2026年10月
+- 2026年11月
+- 2026年12月
+- 2027年1月
+
+- 日
+- 一
+- 二
+- 三
+- 四
+- 五
+- 六
+
+- 1
+
+- 2
+
+- 3
+
+- 49,238+
+
+- 5
+
+- 6
+
+- 7
+
+- 8
+
+- 9
+
+- 10
+
+- 118,296+
+
+- 12
+
+- 13
+
+- 14
+
+- 15
+
+- 16
+
+- 17
+
+- 188,414+
+
+- 19
+
+- 20
+
+- 21
+
+- 22
+
+- 23
+
+- 24
+
+- 258,296+
+
+- 26
+
+- 27
+
+- 28
+
+- 29
+
+- 30
+
+- 31
+
+
+日曆價格以港幣為單位
+
+已成團快將成團
+
+- 產品特色
+- 5天行程
+- 費用說明
+- 預訂須知
+- 責任細則
+- 下載行程
+
+產品特色
+
+- 出發日期: 2026年3月15日至2026年12月28日//3晚郵輪住宿並享用船上美食及娛樂設施//所有稅項全包//來回經濟客位機票乙張//去程1晚新加坡四星級或同級酒店連早餐。
+- 迪士尼探險號將於2026年帶您揚帆啟航！解鎖與迪士尼經典角色的奇妙邂逅、熱情卓越的迪士尼服務，以及精彩絕倫的娛樂演出，將夢想變成現實，讓現實美如童話。
+
+5天行程下載行程
+
+Day1
+
+香港✈新加坡—包1晚酒店連早餐
+
+早餐：飛機上
+
+午餐：自理
+
+晚餐：自理
+
+住宿：酒店
+
+1晚新加坡四星級Aloft Singapore或Furama City Centre或Four Points by Sheraton或Momentus Hotel Alexandra或Holiday Inn Atrium或同級酒店連早餐。
+
+Day2
+
+新加坡—郵輪碼頭登船—郵輪啟航(3晚郵輪住宿)
+
+早餐：酒店內
+
+午餐：自理
+
+晚餐：郵輪上
+
+住宿：郵輪上
+
+1700啟航
+
+Day3
+
+海上航行
+
+早餐：郵輪上
+
+午餐：郵輪上
+
+晚餐：郵輪上
+
+住宿：郵輪上
+
+Day4
+
+海上航行
+
+早餐：郵輪上
+
+午餐：郵輪上
+
+晚餐：郵輪上
+
+住宿：郵輪上
+
+Day5
+
+新加坡泊岸
+
+早餐：郵輪上
+
+午餐：自理
+
+晚餐：飛機上
+
+0700泊岸
+
+費用説明
+
+費用包含
+
+3晚郵輪住宿並享用船上美食及娛樂設施//所有稅項全包。
+
+來回經濟客位機票乙張。
+
+1晚新加坡四星級酒店連早餐。
+
+費用不包含
+
+旅遊業監管局印花成本、各國入境簽證費用、永安旅遊保險、岸上觀光節目、額外附加費、給予導遊/領隊/司機/工作人員之旅行團服務費、船上服務生小費及個人開支。
+
+因交通阻延、罷工、颱風或其他突發情況而非本公司所能控制而引致之額外費用。
+
+預訂須知
+
+- 此產品尚在待確認狀態，我們最快於預訂後5個工作天回覆是否成功。
+
+- 自2023年1月31日起，香港特區政府不承認英國國民(海外)護照(簡稱BNO)為有效旅行證件。出入境如有任何問題，責任旅客自負，已繳費用不得退還。為減低風險，本公司強烈建議所有參團者必須提供有效特區護照或其他旅遊證件辦理報名手續。
+- 如因滙率浮動/燃油/稅項/Non Commissionable Fare(NCF)/交通票/酒店等加價導致成本上升，本公司保證為客人承擔上調之費用，故有關差價任何調整，包括上升或下調，本公司將不會追收或退回有關款項。
+- 所有豪華級別艙房為QUEEN SIZE BED 雙人床，不可轉為TWIN BED 兩張單人床，敬請留意。
+- 迪士尼遊輪通知：因年齡限額已滿，2026年3月16日航次14歲以下客人報名截止，敬請留意。
+- 因應供應商要求，報名時必須提供旅遊證件上資料，包括：護照號碼、有效日期、簽發地、國籍、英文姓名、出生日期及地點。(國內線產品需提供回鄉證號碼、有效日期及中文姓名)
+- 價錢以港幣、雙人房每位計算。
+- 訂金每位套票50%，餘款需於艙房確認後3個工作天內付清，否則當自動取消，訂金將不會退還。
+- 套票一經確認，不接受任何更改及退款。
+- 價目表資料僅供參考，價格及優惠均視乎機位、艙房及酒店房間之供應而作出調整，實際價錢以正式確定訂位後之價格為準。本公司保留一切於訂位確認前更改價格的權利。
+- 客人必須持有有效之入境簽證，護照有效期有6個月以上，以進入最後一個國家計算及有足夠空白頁。本公司對客人因個人證件所產生之任何問題概不負責。
+- 因應個別郵輪公司及船隻航行路線，嬰兒必須在郵輪啟航首日，至少年滿6-12個月才能參加，需視乎航線而定，詳情請向本公司職員查詢。(如有任何更改，以郵輪公佈為準)
+- 因應個別郵輪公司及船隻航行路線，孕婦懷孕 24 週或以上(按回程日期計算)不接受登船，孕婦懷孕 20- 23 週，在登船時須出示醫生證明信；部份郵輪公司及指定航次之最高懷孕週數有所不同，詳情請向本公司職員查詢。(如有任何更改，以郵輪公司公佈為準)
+- 套票須於出發前一天，到報名分行或透過電子郵件取回。
+- 停留人客須自行安排交通工具前往機場。
+- 請攜帶一個小旅行袋，因為在上岸前的一個晚上，服務員會先收取行李。
+- 凡持外國護照者(如沒有香港身份證)，必須帶同原居地的機票出發，否則航空公司可能拒絕其登機返港。
+- 凡18歲以下人士參加迪士尼遊輪，必須與21歲以上成人同行並入住同一艙房，否則不能單獨登船。
+- 凡18歲以下人士參加迪士尼遊輪而非與父母同行，出發時必須帶同出世紙副本、附有父母簽名的授權書(格式須按船公司之規定)、父母之身份證副本登船，否則郵輪公司有權拒絕客人登船。
+- 郵輪上餐廳座位及艙房住宿乃根據迪士尼遊輪實際供應而定，以郵輪公司最後安排為準，客人不得異議。
+- 航程路線、停泊碼頭位置、接駁船服務及泊岸啟航時間將以郵輪公司安排為準，迪士尼遊輪保留最終決定權，本公司恕不另行通知。
+- 永安旅遊及迪士尼遊輪保留權利隨時更改以上之條款及細則。若有任何異議，永安旅遊及迪士尼遊輪保留一切最終決定權。
+- 其他細則及條款均以迪士尼遊輪行程書英文版為準。
+- 建議郵輪旅客出發前購買永安旅遊代辦之郵輪樂旅遊保險計劃。
+- 以上行程價格及其相關費用(例如船上服務生小費及旅遊業監管局印花成本等)可在永安旅遊網站查看或向分行職員查詢。
+- 行程表所列載的航班資料、交通、行程、住宿及膳食等安排，將可能因應不同出發日期而有所變動，詳情請參閱收據備註，恕不另行通知。如此等變動於報名後發生並影響旅行團所安排之觀光行程，則本公司會作個別通知。
+- 郵輪公司或本公司有權因應當日郵輪泊岸時間及當地交通情況而增減所有岸上觀光行程之項目，並不會因此而作出補償，客人不得異議。
+- 如因天氣惡劣、風浪大或各種未能預知或迫不得已的情況下而未能泊岸，船公司或本公司不會作出任何補償，客人不得異議。
+- 客人可於永安網站查閱或於報名時向分行索取「旅客須知」，以便於出發前作好適當準備。
+- 確保消費者權益，請詳閱「旅行團報名及責任細則」，客人可向分行職員索取或參閱收據或報名表背頁，並可於永安旅遊網站(www.wingontravel.com)下載最新版本。
+- 持牌旅行代理商如因『迫不得已理由取消外遊行程』，處理退款時可徵收退票費，及本公司訂列收取之每位手續費為港幣$1000；有關退票費，交通服務供應商或會因應個別出發日期之航班、加班機、包機或包船而徵收較高之退票費甚或不設退票，確實金額以交通服務供應商之最終回覆為準。
+- 旅遊單項服務附加條款 : 如果你日後將會或之前曾經從本公司購買一項外遊服務或安排，而該項服務或安排與現在計劃購買的外遊服務或安排關乎同一次旅程，請你屆時或現在通知我們，以便我們將那些服務及／或安排合併為外遊服務組合並繳付徵費，從而使你獲得旅遊業賠償基金的保障。
+- 簽證須知：
+‧持香港特區護照人士免簽證。
+- 小童定義：2至12歲以下。
+- 第3/4位乘客價格，是以其他兩位成年人乘客共用艙房內各項設備為基準計算。
+- 以上房間只限2人房，如需3/4人房，須視乎客人報名後，船公司房間供應情況方可作實。
+- 單人報名之客人須繳付單人房附加費。
+- 如報名郵輪3人房，新加坡岸上酒店會安排雙人房加床。如報名4人房，新加坡岸上酒店會安排2間雙人房。
+- 嬰兒團費於新加坡岸上酒店不佔床。
+- 客人另須付船上服務生小費，非禮賓房級別每人每晚美金$16；禮賓房級別每人每晚美金$27.25，大小同價，費用將自動加入閣下船上戶口。(如有更改，以郵輪公司公佈為準，本公司恕不另行通知)。
+
+瀏覽記錄
+
+我們的產品
+
+- [旅行團](https://www.wingontravel.com/tours/ "旅行團")
+- [酒店](https://www.wingontravel.com/hotel/ "酒店推薦")
+- [郵輪](https://www.wingontravel.com/cruises/ "郵輪")
+- [高鐵火車票](https://www.wingontravel.com/train/ "高鐵火車票")
+- [港玩港食](https://www.wingontravel.com/local/ "港玩港食")
+
+- [機票](https://www.wingontravel.com/flight/ "特價機票")
+- [自由行](https://www.wingontravel.com/package/ "自由行套票")
+- [船票](https://www.wingontravel.com/ferry/ "船票")
+- [當地體驗](https://www.wingontravel.com/things-to-do/ "當地體驗")
+- [獨立包團](https://www.wingontravel.com/custom-travel/ "獨立包團")
+
+關於我們
+
+- [公司背景](https://www.wingontravel.com/corporate/company-background/over-view "公司背景")
+- [最新動向](https://www.wingontravel.com/corporate/latest-trends "最新動向")
+- [新聞發佈](https://www.wingontravel.com/corporate/news-release "新聞發佈")
+- [分行位置](https://www.wingontravel.com/information/store "分行位置")
+- [人才招聘及發展](https://www.wingontravel.com/corporate/talent-recruitment/policy-goal "人才招聘及發展")
+- [私隱政策](https://www.wingontravel.com/information/content/privacy-policy "私隱政策")
+
+旅遊資訊
+
+- [旅遊達人教路](https://www.wingontravel.com/travel/ "旅遊達人教路")
+- [旅遊好去處](https://www.wingontravel.com/travel/feature/ "旅遊好去處")
+
+旅遊服務
+
+- [旅客須知](https://www.wingontravel.com/corporate/travel-info "旅客須知")
+- [旅遊保險](https://www.wingontravel.com/corporate/travel-insurance "旅遊保險")
+- [旅遊禮券](https://www.wingontravel.com/corporate/travel-coupon "旅遊禮券")
+- [旅遊短片](https://www.youtube.com/user/wingontravel "旅遊短片")
+- [電子印花](https://www.wingontravel.com/corporate/elevy "電子印花")
+
+- [航班資料](https://www.hongkongairport.com/tc/flights/arrivals/passenger.page "航班資料")
+- [航空公司資料](https://www.hongkongairport.com/tc/flights/airlines-information/airlines.page "機場及航空公司")
+- [惡劣天氣通知](https://www.wingontravel.com/promotion/activity/bad-weather-arrangement "惡劣天氣通知")
+- [簽證及入境須知](https://www.wingontravel.com/corporate/visa-info "簽證及入境須知")
+
+- [旅行團報名及責任細則](https://www.wingontravel.com/information/content/tour-terms "旅行團報名及責任細則")
+
+更多服務與支援
+
+- [會員登入](https://www.wingontravel.com/members/login "會員登入")
+- [會員登記](https://www.wingontravel.com/members/register "會員登記")
+- [登出](https://members.wingontravel.com/Logout "登出")
+- [我的永安](https://members.wingontravel.com/Home/Index "我的永安")
+- [會籍簡介](https://www.wingontravel.com/information/content/membership-rivilegesw "會籍簡介")
+- [會員有賞](https://www.wingontravel.com/information/content/member-rewardsw "會員有賞")
+- [精選優惠](https://www.wingontravel.com/promotion/coupon "精選優惠")
+
+- [會員活動](https://www.wingontravel.com/corporate/member-activity "會員活動")
+- [顧客意見](https://www.wingontravel.com/corporate/customer-feedback "顧客意見")
+- [服務查詢](https://www.wingontravel.com/corporate/service-inquiry "服務查詢")
+- [分銷夥伴合作平台](https://www.wingontravel.com/affiliate/ "分銷夥伴合作平台")
+
+永安旅遊APP
+
+[![永安旅遊APP](https://static.tripcdn.com/packages/ibt/wingon-common-static/1.1.0/headerfooter/Content/images/user/footer_right_qr_code.png)](https://www.wingontravel.com/Banners/Popup/2002.html)
+
+- 關注我們
+- [![](https://image.wingon-travel.com/images/21g1m12000rp2excvF507.png)](https://www.facebook.com/p/%E6%B0%B8%E5%AE%89%E6%97%85%E9%81%8A-Wing-On-Travel-100077325426512/ "Facebook")
+- [![](https://image.wingon-travel.com/images/21g1z12000rp2gmm7E5E9.png)](https://www.youtube.com/@wingontravel "YouTube")
+- [![](https://image.wingon-travel.com/images/21g5312000rp2ihtqD6C9.png)](https://www.instagram.com/wingontravelhk/ "Instagram")
+- [![](https://image.wingon-travel.com/images/21g6712000rp2fvdz87A6.png)](https://xhslink.com/m/9HPX2lsNVC6 "小紅書")
+- ![](https://image.wingon-travel.com/images/21g6g12000rp2giudCF6F.png)
+- [![](https://image.wingon-travel.com/images/21g3612000pf1tusi6925.png)](https://www.facebook.com/groups/wingontravelhappyshare/ "團友分享群")
+
+本網頁所顯示之價格因應產品種類及出發日期而有所不同，不包括任何稅項、燃油附加費、行政費、簽証費、服務費(旅行團適用)及其他應繳費用
+
+© 1999 - 2026 香港永安旅遊有限公司 Hong Kong Wing On Travel Service Limited. All Rights Reserved. 牌照號碼: 350074
+
+[站點地圖](https://www.wingontravel.com/sitemap "站點地圖")  \| [私隱政策](https://www.wingontravel.com/information/content/privacy-policy "私隱政策")
+
+![手機APP預定](https://static.tripcdn.com/packages/ibt/wingon-common-static/1.1.0/headerfooter/Content/images/footer_phone_icon.png)
+
+### 手機APP預訂，隨身隨心！
+
+會員用永安旅遊APP可隨時隨地查詢訂單訊息，方便快捷！
+
+下載永安旅遊APP
+
+[![下載永安旅遊APP](https://static.tripcdn.com/packages/ibt/wingon-common-static/1.1.0/headerfooter/Content/images/user/footer_pop_qr_code.png)](https://www.wingontravel.com/Banners/Popup/2002.html)
+
+電腦直接下載

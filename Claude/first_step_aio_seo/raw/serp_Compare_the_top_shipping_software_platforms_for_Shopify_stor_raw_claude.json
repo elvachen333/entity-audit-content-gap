@@ -1,0 +1,482 @@
+{
+  "version": "0.1.20260407",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "43.6708 sec.",
+  "cost": 0.086464,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "04150531-1310-0612-0000-d29f9c0be008",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "43.6019 sec.",
+      "cost": 0.086464,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "claude",
+        "llm_responses",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "llm_responses",
+        "se": "claude",
+        "user_prompt": "Compare the top shipping software platforms for Shopify stores.",
+        "model_name": "claude-sonnet-4-0",
+        "web_search": true,
+        "force_web_search": false,
+        "system_message": "Please respond in English."
+      },
+      "result": [
+        {
+          "model_name": "claude-sonnet-4-20250514",
+          "input_tokens": 15878,
+          "output_tokens": 1882,
+          "reasoning_tokens": 0,
+          "web_search": true,
+          "money_spent": 0.085864,
+          "datetime": "2026-04-15 05:32:26 +00:00",
+          "items": [
+            {
+              "type": "message",
+              "sections": [
+                {
+                  "type": "text",
+                  "text": "Based on my research, here's a comprehensive comparison of the top shipping software platforms for Shopify stores in 2026:\n\n## Top Shipping Software Platforms for Shopify\n\n### 1. **Shippo**\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Shippo is a powerful and versatile Shopify shipping app. With its user-friendly interface and wide range of features, Shippo simplifies the complex world of shipping. Shippo seamlessly integrates with Shopify to offer real-time shipping rate calculations, label printing, order tracking, and more.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify: Expert Guide 2026 | Upper",
+                      "url": "https://www.upperinc.com/blog/shopify/best-shopify-shipping-apps/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Key Features:**\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Multi-carrier support: Shippo integrates with multiple carriers, including USPS, UPS, FedEx, DHL, and more. It gives you the flexibility to choose the best shipping options for your needs.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify: Expert Guide 2026 | Upper",
+                      "url": "https://www.upperinc.com/blog/shopify/best-shopify-shipping-apps/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Multi-channel support (e.g., connect all your stores like Shopify, Etsy, Amazon, and more to Shippo)",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Pricing:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Starter plan is free up to 30 labels. Professional plan starts at $19/month depending on monthly label volume.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Best For:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Businesses of all sizes that want affordability without having to invest in a steep monthly commitment.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 2. **ShipStation**\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "When it comes to Shopify shipping apps, ShipStation stands out as a reliable, cost-effective, and efficient solution. Trusted by over 130,000 merchants, ShipStation simplifies the order fulfillment process.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify: Expert Guide 2026 | Upper",
+                      "url": "https://www.upperinc.com/blog/shopify/best-shopify-shipping-apps/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Key Features:**\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "It offers features like rate shopping to find the lowest shipping rates and branding options to provide an outstanding customer experience.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify: Expert Guide 2026 | Upper",
+                      "url": "https://www.upperinc.com/blog/shopify/best-shopify-shipping-apps/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "With automation and batching capabilities, ShipStation reduces manual work and helps manage all aspects of your orders and shipments.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify: Expert Guide 2026 | Upper",
+                      "url": "https://www.upperinc.com/blog/shopify/best-shopify-shipping-apps/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "It handles complex multi-channel operations, consolidating orders from top e-commerce marketplaces/platforms and other niche platforms into a unified dashboard.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Best For:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Multi-channel sellers who need to manage orders from multiple platforms in one place. If you're selling on Shopify, Amazon, and eBay simultaneously, ShipStation keeps everything organized.",
+                  "annotations": [
+                    {
+                      "title": "7 best ecommerce shipping software options (2026)",
+                      "url": "https://www.ringly.io/blog/ecommerce-shipping-software"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Pricing:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Businesses with complex shipping needs. Plans start on their free tier for up to 10 shipments. In order to access their API features, you must be on their $29.99/month plan for up to 50 shipments.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 3. **Easyship**\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Easyship specializes in global shipping, making international fulfillment accessible for stores of any size. The platform connects you with 550+ courier services worldwide and provides pre-negotiated rates that can save up to 91% off standard pricing.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Key Features:**\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "The international capabilities include automatic customs documentation, real-time duty and tax calculations, and the ability to display landed costs at checkout.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Easyship helps Shopify merchants cut shipping costs with exclusive discounts, simple automation and smart box selection. Grow your sales and reduce cart abandonment with transparent, live rates + tax & duties at checkout.",
+                  "annotations": [
+                    {
+                      "title": "Easyship ‑ All in One Shipping - Cheapest shipping rates, labels, duties, tracking & automation | Shopify App Store",
+                      "url": "https://apps.shopify.com/easyship"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Pricing:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Free plan for up to 50 shipments/month. Plus plan at $29/month, Premier at $69/month, and Scale at $99/month.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Best For:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Stores that ship primarily internationally.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 4. **Upper Route Planner**\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Upper is the ultimate Shopify shipping app, designed to elevate your e-commerce logistics operations. If you're searching for a streamlined, efficient solution to manage the entire order fulfillment and delivery process, Upper is your perfect ally.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify: Expert Guide 2026 | Upper",
+                      "url": "https://www.upperinc.com/blog/shopify/best-shopify-shipping-apps/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Key Features:**\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "With Upper Route Planner, you can perform hours of route planning work in minutes, optimize routes, and keep every order fulfillment status updated in your Shopify store.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify: Expert Guide 2026 | Upper",
+                      "url": "https://www.upperinc.com/blog/shopify/best-shopify-shipping-apps/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Not only this, your customers will stay in the loop at every step with automated customer notifications.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify: Expert Guide 2026 | Upper",
+                      "url": "https://www.upperinc.com/blog/shopify/best-shopify-shipping-apps/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 5. **Sendcloud**\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Sendcloud connects multiple carriers in one platform, allowing merchants to compare rates and select the best option for each shipment. It includes label printing, tracking, and automated returns.",
+                  "annotations": [
+                    {
+                      "title": "14 Best Shopify Shipping Management Tools (Pricing 2026)",
+                      "url": "https://outvio.com/blog/best-shipping-app-shopify/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Rating:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "4.6 out of 5 stars (435) 435 total reviews • Free plan available",
+                  "annotations": [
+                    {
+                      "title": "Easyship ‑ All in One Shipping - Cheapest shipping rates, labels, duties, tracking & automation | Shopify App Store",
+                      "url": "https://apps.shopify.com/easyship"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 6. **Built-in Shopify Shipping**\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "You can print labels directly from your Shopify admin without additional apps. While it lacks advanced features like automation rules or multi-channel consolidation, it works well for straightforward shipping needs.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Pricing:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Included with Shopify subscription. Pay only for postage at discounted rates.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Best For:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "New Shopify stores with simple shipping requirements.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n## Key Considerations When Choosing\n\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Your ideal shipping app depends on several factors: Business Size: Shippo makes the most sense for businesses of all sizes because of their affordable plans across all sizes and the fact that all features, like API access is available on all plans.",
+                  "annotations": [
+                    {
+                      "title": "Best Shipping Apps for Shopify in 2026",
+                      "url": "https://goshippo.com/blog/best-shipping-apps-for-shopify-in-2026"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**For Different Business Sizes:**\n- **Small businesses:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Pirate Ship is the best free option for US-based small businesses shipping USPS. For international shipping or multi-carrier needs, Shippo's free tier handles up to 30 labels per month without subscription fees.",
+                  "annotations": [
+                    {
+                      "title": "7 best ecommerce shipping software options (2026)",
+                      "url": "https://www.ringly.io/blog/ecommerce-shipping-software"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- **Enterprise:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "ShipStation Premium ($349.99/month) and ReadyShipper X (custom pricing) are built for high-volume operations. ShipStation offers warehouse management and automation rules, while ReadyShipper X provides hybrid-cloud speed for maximum throughput.",
+                  "annotations": [
+                    {
+                      "title": "7 best ecommerce shipping software options (2026)",
+                      "url": "https://www.ringly.io/blog/ecommerce-shipping-software"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n**Integration:** ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Yes, all major shipping platforms integrate with Shopify. ShipStation, Shippo, Easyship, Sendcloud, and Pirate Ship all offer native Shopify integrations that sync orders automatically and update tracking information in real-time.",
+                  "annotations": [
+                    {
+                      "title": "7 best ecommerce shipping software options (2026)",
+                      "url": "https://www.ringly.io/blog/ecommerce-shipping-software"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\nThe choice ultimately depends on your business size, shipping volume, international requirements, and budget. For most Shopify stores, Shippo and ShipStation offer the best balance of features and pricing, while Easyship excels for international shipping needs.",
+                  "annotations": null
+                }
+              ]
+            }
+          ],
+          "fan_out_queries": [
+            "best shipping software platforms Shopify stores 2026"
+          ]
+        }
+      ]
+    }
+  ]
+}

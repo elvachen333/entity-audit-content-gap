@@ -1,0 +1,1507 @@
+{
+  "file": "cited_post12-ways-save-money-disney-cruise_utm_source=openai.txt",
+  "word_count": 2684,
+  "entity_count": 247,
+  "entities": [
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.161179,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.094324,
+      "mentions": 6
+    },
+    {
+      "name": "Disney Magic",
+      "type": "PERSON",
+      "salience": 0.094324,
+      "mentions": 1
+    },
+    {
+      "name": "or",
+      "type": "OTHER",
+      "salience": 0.044995,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.043979,
+      "mentions": 1
+    },
+    {
+      "name": "Book early",
+      "type": "OTHER",
+      "salience": 0.031762,
+      "mentions": 1
+    },
+    {
+      "name": "Comments",
+      "type": "OTHER",
+      "salience": 0.026208,
+      "mentions": 1
+    },
+    {
+      "name": "including high-end entertainment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023176,
+      "mentions": 1
+    },
+    {
+      "name": "family",
+      "type": "OTHER",
+      "salience": 0.021533,
+      "mentions": 1
+    },
+    {
+      "name": "However",
+      "type": "OTHER",
+      "salience": 0.020723,
+      "mentions": 1
+    },
+    {
+      "name": "The Disney Premier Visa card earns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018821,
+      "mentions": 1
+    },
+    {
+      "name": "Sometimes",
+      "type": "OTHER",
+      "salience": 0.017817,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017723,
+      "mentions": 1
+    },
+    {
+      "name": "character meet-and-greet opportunities",
+      "type": "OTHER",
+      "salience": 0.015632,
+      "mentions": 1
+    },
+    {
+      "name": "July 2025 starts at",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01269,
+      "mentions": 1
+    },
+    {
+      "name": "Even so",
+      "type": "OTHER",
+      "salience": 0.011956,
+      "mentions": 1
+    },
+    {
+      "name": "Carnival",
+      "type": "OTHER",
+      "salience": 0.011211,
+      "mentions": 2
+    },
+    {
+      "name": "MSC",
+      "type": "OTHER",
+      "salience": 0.011211,
+      "mentions": 1
+    },
+    {
+      "name": "try these 16",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010477,
+      "mentions": 1
+    },
+    {
+      "name": "however",
+      "type": "OTHER",
+      "salience": 0.00979,
+      "mentions": 1
+    },
+    {
+      "name": "balcony",
+      "type": "OTHER",
+      "salience": 0.00879,
+      "mentions": 1
+    },
+    {
+      "name": "Of course",
+      "type": "OTHER",
+      "salience": 0.008655,
+      "mentions": 1
+    },
+    {
+      "name": "dining rooms",
+      "type": "OTHER",
+      "salience": 0.008433,
+      "mentions": 1
+    },
+    {
+      "name": "Of course",
+      "type": "OTHER",
+      "salience": 0.008423,
+      "mentions": 1
+    },
+    {
+      "name": "Dream",
+      "type": "OTHER",
+      "salience": 0.008305,
+      "mentions": 1
+    },
+    {
+      "name": "with over 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00801,
+      "mentions": 1
+    },
+    {
+      "name": "inside",
+      "type": "OTHER",
+      "salience": 0.007543,
+      "mentions": 1
+    },
+    {
+      "name": "Royal Caribbean",
+      "type": "PERSON",
+      "salience": 0.007122,
+      "mentions": 1
+    },
+    {
+      "name": "and Wish.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006525,
+      "mentions": 1
+    },
+    {
+      "name": "Wonder",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006525,
+      "mentions": 1
+    },
+    {
+      "name": "love it",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006042,
+      "mentions": 1
+    },
+    {
+      "name": "Disney",
+      "type": "ORGANIZATION",
+      "salience": 0.005715,
+      "mentions": 1
+    },
+    {
+      "name": "June 9 starts at",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005315,
+      "mentions": 1
+    },
+    {
+      "name": "i.e.",
+      "type": "OTHER",
+      "salience": 0.004915,
+      "mentions": 1
+    },
+    {
+      "name": "Special Offers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004651,
+      "mentions": 1
+    },
+    {
+      "name": "Fantasy",
+      "type": "OTHER",
+      "salience": 0.004644,
+      "mentions": 1
+    },
+    {
+      "name": "entertainment",
+      "type": "OTHER",
+      "salience": 0.004271,
+      "mentions": 1
+    },
+    {
+      "name": "Costco",
+      "type": "ORGANIZATION",
+      "salience": 0.003876,
+      "mentions": 1
+    },
+    {
+      "name": "Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003595,
+      "mentions": 1
+    },
+    {
+      "name": "air travel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003459,
+      "mentions": 1
+    },
+    {
+      "name": "youth clubs",
+      "type": "OTHER",
+      "salience": 0.003355,
+      "mentions": 1
+    },
+    {
+      "name": "Norwegian",
+      "type": "OTHER",
+      "salience": 0.003128,
+      "mentions": 1
+    },
+    {
+      "name": "and MSC",
+      "type": "OTHER",
+      "salience": 0.003128,
+      "mentions": 1
+    },
+    {
+      "name": "i.e.",
+      "type": "OTHER",
+      "salience": 0.003128,
+      "mentions": 1
+    },
+    {
+      "name": "four-",
+      "type": "OTHER",
+      "salience": 0.002746,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Treasure",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002555,
+      "mentions": 1
+    },
+    {
+      "name": "it isn't cheap",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002503,
+      "mentions": 1
+    },
+    {
+      "name": "Instead",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002491,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002425,
+      "mentions": 1
+    },
+    {
+      "name": "as 10,000 AMEX points are equivalent to",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002223,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00219,
+      "mentions": 1
+    },
+    {
+      "name": "are included.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002126,
+      "mentions": 1
+    },
+    {
+      "name": "family",
+      "type": "OTHER",
+      "salience": 0.002101,
+      "mentions": 1
+    },
+    {
+      "name": "However",
+      "type": "OTHER",
+      "salience": 0.002043,
+      "mentions": 1
+    },
+    {
+      "name": "Sometimes",
+      "type": "OTHER",
+      "salience": 0.002017,
+      "mentions": 1
+    },
+    {
+      "name": "you'll save around",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001913,
+      "mentions": 1
+    },
+    {
+      "name": "however",
+      "type": "OTHER",
+      "salience": 0.001901,
+      "mentions": 1
+    },
+    {
+      "name": "If",
+      "type": "PERSON",
+      "salience": 0.001864,
+      "mentions": 1
+    },
+    {
+      "name": "odds are that you will",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00186,
+      "mentions": 1
+    },
+    {
+      "name": "May 2025",
+      "type": "PERSON",
+      "salience": 0.001726,
+      "mentions": 1
+    },
+    {
+      "name": "starts at",
+      "type": "PERSON",
+      "salience": 0.001678,
+      "mentions": 1
+    },
+    {
+      "name": "visit thrift stores",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001532,
+      "mentions": 1
+    },
+    {
+      "name": "Additionally",
+      "type": "OTHER",
+      "salience": 0.001451,
+      "mentions": 1
+    },
+    {
+      "name": "Disney characters",
+      "type": "OTHER",
+      "salience": 0.001415,
+      "mentions": 1
+    },
+    {
+      "name": "no",
+      "type": "OTHER",
+      "salience": 0.001411,
+      "mentions": 1
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "salience": 0.001394,
+      "mentions": 1
+    },
+    {
+      "name": "TravelAge West",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001307,
+      "mentions": 1
+    },
+    {
+      "name": "rest",
+      "type": "OTHER",
+      "salience": 0.001306,
+      "mentions": 1
+    },
+    {
+      "name": "especially after Halloween",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00127,
+      "mentions": 1
+    },
+    {
+      "name": "home",
+      "type": "OTHER",
+      "salience": 0.001172,
+      "mentions": 1
+    },
+    {
+      "name": "Instead",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001138,
+      "mentions": 1
+    },
+    {
+      "name": "have 200,000 American Express points.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001109,
+      "mentions": 1
+    },
+    {
+      "name": "April 25",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001073,
+      "mentions": 1
+    },
+    {
+      "name": "not checked",
+      "type": "OTHER",
+      "salience": 0.001002,
+      "mentions": 1
+    },
+    {
+      "name": "They do",
+      "type": "OTHER",
+      "salience": 0.000983,
+      "mentions": 1
+    },
+    {
+      "name": "Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000944,
+      "mentions": 1
+    },
+    {
+      "name": "December 2024",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000938,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000937,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000906,
+      "mentions": 1
+    },
+    {
+      "name": "Read more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000878,
+      "mentions": 1
+    },
+    {
+      "name": "Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000854,
+      "mentions": 1
+    },
+    {
+      "name": "This story is a nightmare of incompetence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000854,
+      "mentions": 1
+    },
+    {
+      "name": "however",
+      "type": "OTHER",
+      "salience": 0.000816,
+      "mentions": 1
+    },
+    {
+      "name": "however",
+      "type": "OTHER",
+      "salience": 0.000796,
+      "mentions": 1
+    },
+    {
+      "name": "Magic",
+      "type": "OTHER",
+      "salience": 0.000782,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line 23 November 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00075,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line 20 November 2025",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000746,
+      "mentions": 1
+    },
+    {
+      "name": "souvenirs",
+      "type": "OTHER",
+      "salience": 0.000724,
+      "mentions": 1
+    },
+    {
+      "name": "Better yet",
+      "type": "OTHER",
+      "salience": 0.0007,
+      "mentions": 1
+    },
+    {
+      "name": "no larger than 750 ml",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000697,
+      "mentions": 1
+    },
+    {
+      "name": "no larger than 12 ounces",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000697,
+      "mentions": 1
+    },
+    {
+      "name": "Ariel",
+      "type": "OTHER",
+      "salience": 0.000687,
+      "mentions": 1
+    },
+    {
+      "name": "she has",
+      "type": "OTHER",
+      "salience": 0.000681,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line 12 March 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000677,
+      "mentions": 1
+    },
+    {
+      "name": "Typically",
+      "type": "OTHER",
+      "salience": 0.000677,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line 26 February 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000673,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line 25 February 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000669,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line 20 January 2026",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000665,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "ORGANIZATION",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "Pixar",
+      "type": "ORGANIZATION",
+      "salience": 0.000627,
+      "mentions": 1
+    },
+    {
+      "name": "more than 15 years.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000588,
+      "mentions": 1
+    },
+    {
+      "name": "Once home",
+      "type": "OTHER",
+      "salience": 0.000526,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Cruise Line Guests 21",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00039,
+      "mentions": 1
+    },
+    {
+      "name": "Erica Silverstein",
+      "type": "OTHER",
+      "salience": 0.000384,
+      "mentions": 1
+    },
+    {
+      "name": "Porthole",
+      "type": "OTHER",
+      "salience": 0.000382,
+      "mentions": 1
+    },
+    {
+      "name": "within 24",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000295,
+      "mentions": 1
+    },
+    {
+      "name": "bags or luggage.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000283,
+      "mentions": 1
+    },
+    {
+      "name": "or 6 beers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "maximum of 2 bottles of unopened wine or champagne",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000277,
+      "mentions": 1
+    },
+    {
+      "name": "and USA Today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000272,
+      "mentions": 1
+    },
+    {
+      "name": "RELATED ARTICLES",
+      "type": "OTHER",
+      "salience": 0.00027,
+      "mentions": 1
+    },
+    {
+      "name": "Loading Comments",
+      "type": "OTHER",
+      "salience": 0.000259,
+      "mentions": 1
+    },
+    {
+      "name": "20 January 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "December 2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "January 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "May 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "June 9",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 25",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12 March 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26 February 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25 February 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31 May 2024",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23 November 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20 November 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$6,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3,009",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5,834",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,800",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3,600",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4,614",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$8,856",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,912",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$400",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,200",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$60",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$150",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,009",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,009",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,834",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,834",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,800",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,800",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,600",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,600",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "July 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,614",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,614",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,856",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8,856",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,912",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,912",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "750",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "150",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "ORGANIZATION": 12,
+    "PERSON": 5,
+    "OTHER": 51,
+    "CONSUMER_GOOD": 50,
+    "DATE": 15,
+    "NUMBER": 102,
+    "PRICE": 18
+  },
+  "type_salience": {
+    "ORGANIZATION": 0.310353,
+    "PERSON": 0.10671400000000002,
+    "OTHER": 0.32818200000000003,
+    "CONSUMER_GOOD": 0.16899099999999997,
+    "DATE": 0.0,
+    "NUMBER": 0.0,
+    "PRICE": 0.0
+  }
+}

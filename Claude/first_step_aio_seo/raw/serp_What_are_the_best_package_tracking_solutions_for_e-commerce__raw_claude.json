@@ -1,0 +1,419 @@
+{
+  "version": "0.1.20260407",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "31.0272 sec.",
+  "cost": 0.079318,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "04150531-1310-0612-0000-cb1c5862c6b6",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "30.9708 sec.",
+      "cost": 0.079318,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "claude",
+        "llm_responses",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "llm_responses",
+        "se": "claude",
+        "user_prompt": "What are the best package tracking solutions for e-commerce businesses?",
+        "model_name": "claude-sonnet-4-0",
+        "web_search": true,
+        "force_web_search": false,
+        "system_message": "Please respond in English."
+      },
+      "result": [
+        {
+          "model_name": "claude-sonnet-4-20250514",
+          "input_tokens": 16601,
+          "output_tokens": 1261,
+          "reasoning_tokens": 0,
+          "web_search": true,
+          "money_spent": 0.078718,
+          "datetime": "2026-04-15 05:32:13 +00:00",
+          "items": [
+            {
+              "type": "message",
+              "sections": [
+                {
+                  "type": "text",
+                  "text": "Based on my research, here are the best package tracking solutions for e-commerce businesses in 2024-2026:\n\n## Top Package Tracking Solutions\n\n### 1. Route\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Route is the leading order tracking solution in 2024, renowned for its user-friendly interface and comprehensive features.",
+                  "annotations": [
+                    {
+                      "title": "6 Best Order Tracking Solutions in 2024 - SmartSites",
+                      "url": "https://www.smartsites.com/blog/6-best-order-tracking-solutions-in-2024/"
+                    },
+                    {
+                      "title": "6 Best Order Tracking Solutions in 2024 - SmartSites",
+                      "url": "https://www.smartsites.com/blog/6-best-order-tracking-solutions-in-2024/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Key features include:\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Real-time tracking with live tracking of packages and real-time notifications sent to customers",
+                  "annotations": [
+                    {
+                      "title": "6 Best Order Tracking Solutions in 2024 - SmartSites",
+                      "url": "https://www.smartsites.com/blog/6-best-order-tracking-solutions-in-2024/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Visual tracking with an interactive map view that allows customers to visualize their package's journey",
+                  "annotations": [
+                    {
+                      "title": "6 Best Order Tracking Solutions in 2024 - SmartSites",
+                      "url": "https://www.smartsites.com/blog/6-best-order-tracking-solutions-in-2024/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Package protection where customers can opt for Route's package protection to ensure lost or damaged items are easily replaced",
+                  "annotations": [
+                    {
+                      "title": "6 Best Order Tracking Solutions in 2024 - SmartSites",
+                      "url": "https://www.smartsites.com/blog/6-best-order-tracking-solutions-in-2024/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 2. AfterShip/TrackingMore\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "TrackingMore offers package tracking software that helps you track your packages across 1,346 carriers and 89 airlines.",
+                  "annotations": [
+                    {
+                      "title": "Best Package Tracking Software in 2026: Top 10 for E ...",
+                      "url": "https://www.lateshipment.com/blog/package-tracking-software/"
+                    },
+                    {
+                      "title": "Best Package Tracking Software in 2026: Top 10 for E ...",
+                      "url": "https://www.lateshipment.com/blog/package-tracking-software/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Features include:\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Generates branded tracking pages, supports multi-carrier tracking, integrates with a list of languages and carriers on a global scale including USPS, FedEx, UPS, and DHL, and offers automated, real-time shipment notifications",
+                  "annotations": [
+                    {
+                      "title": "15 Best Shipment Tracking Software Tools Compared for 2024 | Sendcloud",
+                      "url": "https://www.sendcloud.com/top-shipment-tracking-software-tools/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 3. Narvar\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Narvar's package tracking solution helps you foster trust with your customers by facilitating a smooth post-purchase journey.",
+                  "annotations": [
+                    {
+                      "title": "Best Package Tracking Software in 2026: Top 10 for E ...",
+                      "url": "https://www.lateshipment.com/blog/package-tracking-software/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Key benefits:\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Allows you to customize your tracking pages depending on the location or for your brand to personalize your customer experience",
+                  "annotations": [
+                    {
+                      "title": "Best Package Tracking Software in 2026: Top 10 for E ...",
+                      "url": "https://www.lateshipment.com/blog/package-tracking-software/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Helps you identify and address delivery issues even before your customers experience them",
+                  "annotations": [
+                    {
+                      "title": "Best Package Tracking Software in 2026: Top 10 for E ...",
+                      "url": "https://www.lateshipment.com/blog/package-tracking-software/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Helps you keep your customers informed across communication platforms (SMS, email, and WhatsApp)",
+                  "annotations": [
+                    {
+                      "title": "Best Package Tracking Software in 2026: Top 10 for E ...",
+                      "url": "https://www.lateshipment.com/blog/package-tracking-software/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 4. Shippo\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Shippo is the best multi-carrier shipping software for e-commerce businesses.",
+                  "annotations": [
+                    {
+                      "title": "Best Multi-Carrier Shipping Software for Businesses | Shippo",
+                      "url": "https://goshippo.com/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Features include:\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Connect your stores, get the best rates from 40+ global carriers, and quickly print labels",
+                  "annotations": [
+                    {
+                      "title": "Best Multi-Carrier Shipping Software for Businesses | Shippo",
+                      "url": "https://goshippo.com/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "They have their own shipment tracking API that can be used to retrieve shipment status from multiple carriers, streamlining the shipment tracking process",
+                  "annotations": [
+                    {
+                      "title": "Top 10 Best Shipment Tracking Software for eCommerce | Journal",
+                      "url": "https://vocal.media/journal/top-10-best-shipment-tracking-software-for-e-commerce"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 5. FarEye\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "FarEye is a leading shipment tracking software that provides real-time visibility across the entire delivery process, integrating seamlessly with multiple carriers and offering automated tracking updates",
+                  "annotations": [
+                    {
+                      "title": "16 Top Shipment Tracking Software Tools of 2024 | FarEye",
+                      "url": "https://fareye.com/shipment-tracking-software"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Excels in proactive exception management, alerting stakeholders to potential delays",
+                  "annotations": [
+                    {
+                      "title": "16 Top Shipment Tracking Software Tools of 2024 | FarEye",
+                      "url": "https://fareye.com/shipment-tracking-software"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n- ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Robust analytics tools offer insights into key metrics like on-time delivery and transit times",
+                  "annotations": [
+                    {
+                      "title": "16 Top Shipment Tracking Software Tools of 2024 | FarEye",
+                      "url": "https://fareye.com/shipment-tracking-software"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n### 6. SendCloud\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "SendCloud is a powerful shipment tracking platform designed for the e-commerce, 3PL, and retail sectors that helps boost logistics efficiency and improve customer satisfaction by offering real-time updates through Europe's largest dataset of shipping events",
+                  "annotations": [
+                    {
+                      "title": "16 Top Shipment Tracking Software Tools of 2024 | FarEye",
+                      "url": "https://fareye.com/shipment-tracking-software"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n## Key Features to Look For\n\nWhen selecting a package tracking solution, consider these essential features:\n\n1. **Multi-carrier support** - ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Real-time tracking of the location and status of shipments as they move through the supply chain",
+                  "annotations": [
+                    {
+                      "title": "Top 10 Shipment Tracking Software for Ecommerce in 2024",
+                      "url": "https://ecommerce.aftership.com/insight/best-shipment-tracking-software-for-2024/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n2. **Customer communication** - ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Ability to send customized tracking notifications through multiple channels with actionable buttons or links to resolve issues",
+                  "annotations": [
+                    {
+                      "title": "Top 10 Best Shipment Tracking Software for eCommerce | Journal",
+                      "url": "https://vocal.media/journal/top-10-best-shipment-tracking-software-for-e-commerce"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n3. **Branded tracking pages** - ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Branded tracking pages where businesses can add marketing materials to recommend related products or push offers",
+                  "annotations": [
+                    {
+                      "title": "Top 10 Best Shipment Tracking Software for eCommerce | Journal",
+                      "url": "https://vocal.media/journal/top-10-best-shipment-tracking-software-for-e-commerce"
+                    },
+                    {
+                      "title": "Top 10 Best Shipment Tracking Software for eCommerce | Journal",
+                      "url": "https://vocal.media/journal/top-10-best-shipment-tracking-software-for-e-commerce"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n4. **Exception management** - ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Smart incident alerts that keep you updated on delivery exceptions and facilitate proactive issue resolution",
+                  "annotations": [
+                    {
+                      "title": "Best Package Tracking Software in 2026: Top 10 for E ...",
+                      "url": "https://www.lateshipment.com/blog/package-tracking-software/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n## Why Package Tracking Matters\n\n",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "Considering 29% of consumers say they won't order an item if they can't track it, package tracking software is no longer a luxury, but very much a necessity.",
+                  "annotations": [
+                    {
+                      "title": "Best Package Tracking Software in 2026: Top 10 for E ...",
+                      "url": "https://www.lateshipment.com/blog/package-tracking-software/"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Additionally, ",
+                  "annotations": null
+                },
+                {
+                  "type": "text",
+                  "text": "up to 25% of customers might not reorder from a business if they do not have visibility into their parcel's journey.",
+                  "annotations": [
+                    {
+                      "title": "Top 15 Shipment Tracking Software Tools of 2024",
+                      "url": "https://www.hulkapps.com/blogs/ecommerce-hub/top-15-shipment-tracking-software-tools-of-2024"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n\nThe best solution for your business will depend on your specific needs, budget, carrier relationships, and integration requirements with your existing e-commerce platform.",
+                  "annotations": null
+                }
+              ]
+            }
+          ],
+          "fan_out_queries": [
+            "best package tracking solutions ecommerce 2024"
+          ]
+        }
+      ]
+    }
+  ]
+}

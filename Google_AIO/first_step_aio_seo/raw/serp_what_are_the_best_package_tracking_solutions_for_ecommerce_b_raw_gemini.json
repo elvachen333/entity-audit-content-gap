@@ -1,0 +1,91 @@
+{
+  "version": "0.1.20260407",
+  "status_code": 20000,
+  "status_message": "Ok.",
+  "time": "6.4014 sec.",
+  "cost": 0.0708639,
+  "tasks_count": 1,
+  "tasks_error": 0,
+  "tasks": [
+    {
+      "id": "04141210-1310-0612-0000-98cf342e1c43",
+      "status_code": 20000,
+      "status_message": "Ok.",
+      "time": "6.3361 sec.",
+      "cost": 0.0708639,
+      "result_count": 1,
+      "path": [
+        "v3",
+        "ai_optimization",
+        "gemini",
+        "llm_responses",
+        "live"
+      ],
+      "data": {
+        "api": "ai_optimization",
+        "function": "llm_responses",
+        "se": "gemini",
+        "user_prompt": "what are the best package tracking solutions for ecommerce business",
+        "model_name": "gemini-2.0-flash",
+        "web_search": true,
+        "system_message": "Please respond in English."
+      },
+      "result": [
+        {
+          "model_name": "gemini-2.0-flash",
+          "input_tokens": 15,
+          "output_tokens": 656,
+          "reasoning_tokens": 0,
+          "web_search": true,
+          "money_spent": 0.0702639,
+          "datetime": "2026-04-14 12:10:11 +00:00",
+          "items": [
+            {
+              "type": "message",
+              "sections": [
+                {
+                  "type": "text",
+                  "text": "For e-commerce businesses, several package tracking solutions can streamline operations, enhance customer experience, and build trust. Here's a rundown of some of the best options:\n\n**Top Recommended Solutions:**\n\n*   **AfterShip:** This is a real-time package tracking platform that supports over 1,100 carriers. It provides automated updates, notifications, and analytics, making it ideal for e-commerce businesses that want to keep customers informed. AfterShip also offers branded tracking pages, which create a consistent customer experience.\n*   **ShipStation:** A comprehensive shipping software, ShipStation streamlines label creation, order fulfillment, and multi-carrier package tracking. It supports multiple sales channels and offers strong automation capabilities. With over 400 integrations, including popular e-commerce platforms like Shopify and WooCommerce, ShipStation is a scalable solution suitable for small to enterprise-level businesses.\n*   **Shippo:** Shippo is an API-driven, multi-carrier shipping solution that offers discounted rates, label generation, and integrated tracking updates. It supports over 85 carriers and provides real-time tracking, branded tracking pages, and automated email/SMS notifications. Shippo is a versatile option for businesses looking for a lightweight, API-driven solution without high upfront costs.\n*   **Easyship:** Designed for international e-commerce, Easyship allows merchants to compare over 550 courier services, access discounted rates, and automatically calculate duties and taxes. It provides automation tools like batch label printing, shipping rules, and branded tracking pages. Easyship is ideal for brands with cross-border ambitions that need built-in tax and duty calculations.\n\n**Other Notable Solutions:**\n\n*   **EasyPost:** This unified shipping API provides access to rates, label printing, and real-time tracking data from over 100 carriers.\n*   **Route:** A post-purchase logistics platform, Route offers proactive package tracking, customer notifications, and theft protection.\n*   **Sendcloud:** Primarily a shipping and returns platform for European e-commerce businesses, Sendcloud offers branded tracking pages and multi-language support.\n*   **Ordoro:** This solution is a scalable option that integrates sales channels and carriers into a customizable dashboard for easy order management, with a focus on dropshipping management.\n*   **Pirate Ship:** Pirate Ship is a free option for U.S.-based small businesses that primarily ship via USPS.\n*   **17Track:** A free global parcel-tracking solution that supports multiple carriers.\n\n**Key Features to Look For:**\n\nWhen choosing a package tracking solution, consider these essential features:\n\n*   **Real-time order tracking:** Provides live updates on shipment status.\n*   **Branded tracking pages:** Keeps the customer experience consistent with your brand.\n*   **Multi-Carrier Support:** Integration with multiple carriers, marketplaces, and logistics providers.\n*   **Analytics and Reporting:** Monitors delivery performance and identifies bottlenecks.\n*   **Automation and Notifications:** Reduces manual effort and automatically alerts customers of shipment status.\n\nBy selecting the right package tracking solution, e-commerce businesses can improve their shipping processes, reduce costs, and enhance customer satisfaction.\n",
+                  "annotations": [
+                    {
+                      "title": "wifitalents.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRG12r15zm8HM_ZcYtRi4fr-rnFUvwMTvKbZc_TYMpuAsXJXM3IoEhE3j8TX6WjT_AodQEvHBElIE_EMDocj6Y_Svln3dXeSc9SENeciVvbLJjKHX62PcOTCsCv9i5bhm-BjTjS0x9B8OarsUaz-Gm"
+                    },
+                    {
+                      "title": "microapp.io",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3S8UR9P3WkUkxDnGNq7G6Ee2O7AN68B4aablPrv5hrNtDc4eFGtwsEDf2GAwfTQg6PIMkX7G6oJ5YW3x117MzqrpaLXN-7V6ZQmOlIdrLq15qjawnzhu8aiMU2955zcaYWFfCfXRFtgviiVcO-iA="
+                    },
+                    {
+                      "title": "ringly.io",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcKkYHhYLRP0pn0nrcczsFBzuHKv-XfiCzkrFZhWaIKXZ8zQOgWpIkVg0915591-JQBqNdAf6Zs5WXPGPOsXKqpixEAc1dKyP4hh3OawlvZEG2-3G_MwE8dE_m98tjuMis1xfpwnstn7D4CNtuY7lY"
+                    },
+                    {
+                      "title": "olimpwarehousing.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5_tu0FRt4MYZDGglD2g4MHjoqKV3JdexKyqqPjpliQRJWxIAkjXhjCmq3kjCJkZXQ1JKpUClWN9Kk6KK23K_mByrXJ9pbQgddWmVdbMCXgwDWHAz0qfQ_ya0mH-sha_hWyuIW8hCD2Nm0T-Lr9O5nMDOSYIJbaAMX"
+                    },
+                    {
+                      "title": "lateshipment.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhTnGnOTZIgvlXu-SVp_nsIw6ueXKjlSgtFgsFeHY8DDNvvypdnWum-46sG78gsFQSpSSBVao7ofw3HPOmwmAI6Y3HJUhI1HLEpgHz6OtyoREeFzIkf4zPX1XGWpFEFHvHTyHQqwNGyaGUvdHWi3_3w0lL8CAe"
+                    },
+                    {
+                      "title": "sendcloud.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlNOM1S91S4NpY1UEyuvkheZ4LHObRQPvIcxFMSkI6Hfpx3uTAt1jiNQEVfUktSUKhDvMFC3_T0_BGdhX-64vEsUj75UsuC0XTgy0sWI26npxdi7-OHupLYzTEf3Hpqv8M8VDYQpibUHF2DEG-e6p0eA=="
+                    },
+                    {
+                      "title": "extend.com",
+                      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4rFFjJiDiGRvVUabSej_Xc3zU1l53oqNWWs_3dhpm7Csn_Do3-KZu49U4aqhxcI4Xs51F4VGF6WKUxzTuVvapHcjbr5RoM90Sb-4owsCydsaia2Hj3xkTfbRC5knEg1Y_f5Jj0xNwpxuApjt5rI_V7Ghd4OzCAQ=="
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "fan_out_queries": [
+            "best ecommerce package tracking solutions",
+            "ecommerce package tracking solutions comparison"
+          ]
+        }
+      ]
+    }
+  ]
+}

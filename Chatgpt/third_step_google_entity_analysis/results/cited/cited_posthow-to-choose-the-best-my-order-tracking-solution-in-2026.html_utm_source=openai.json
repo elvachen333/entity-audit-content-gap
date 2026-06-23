@@ -1,0 +1,3795 @@
+{
+  "file": "cited_posthow-to-choose-the-best-my-order-tracking-solution-in-2026.html_utm_source=openai.txt",
+  "word_count": 2030,
+  "entity_count": 628,
+  "entities": [
+    {
+      "name": "Accessories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013507,
+      "mentions": 9
+    },
+    {
+      "name": "Shoes",
+      "type": "OTHER",
+      "salience": 0.013354,
+      "mentions": 3
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01194,
+      "mentions": 1
+    },
+    {
+      "name": "Office Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011424,
+      "mentions": 3
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010865,
+      "mentions": 1
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "salience": 0.01075,
+      "mentions": 1
+    },
+    {
+      "name": "Search",
+      "type": "OTHER",
+      "salience": 0.010324,
+      "mentions": 1
+    },
+    {
+      "name": "Sports & Entertainment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009758,
+      "mentions": 1
+    },
+    {
+      "name": "Consumer Electronics",
+      "type": "OTHER",
+      "salience": 0.009383,
+      "mentions": 3
+    },
+    {
+      "name": "Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008937,
+      "mentions": 1
+    },
+    {
+      "name": "Sportswear",
+      "type": "OTHER",
+      "salience": 0.00862,
+      "mentions": 3
+    },
+    {
+      "name": "Deliver to",
+      "type": "OTHER",
+      "salience": 0.00856,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008504,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008434,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008365,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008298,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008233,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008169,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008107,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008046,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007987,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007929,
+      "mentions": 1
+    },
+    {
+      "name": "Accessories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007911,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007872,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007817,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007763,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00771,
+      "mentions": 1
+    },
+    {
+      "name": "Home Appliances",
+      "type": "OTHER",
+      "salience": 0.007693,
+      "mentions": 3
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007658,
+      "mentions": 1
+    },
+    {
+      "name": "Electrical Equipment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007616,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007607,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007557,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007509,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007461,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007414,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007368,
+      "mentions": 1
+    },
+    {
+      "name": "Apparel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007345,
+      "mentions": 3
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007323,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007279,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007236,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007193,
+      "mentions": 1
+    },
+    {
+      "name": "Electronic Components",
+      "type": "OTHER",
+      "salience": 0.007193,
+      "mentions": 3
+    },
+    {
+      "name": "View all",
+      "type": "OTHER",
+      "salience": 0.00717,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007152,
+      "mentions": 1
+    },
+    {
+      "name": "All categories",
+      "type": "OTHER",
+      "salience": 0.007124,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007111,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007071,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007031,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006992,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006954,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006917,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00688,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006844,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006808,
+      "mentions": 1
+    },
+    {
+      "name": "Browse featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006773,
+      "mentions": 1
+    },
+    {
+      "name": "Building Machinery",
+      "type": "OTHER",
+      "salience": 0.006735,
+      "mentions": 1
+    },
+    {
+      "name": "Electric Motorcycles",
+      "type": "PERSON",
+      "salience": 0.006475,
+      "mentions": 1
+    },
+    {
+      "name": "Machinery",
+      "type": "OTHER",
+      "salience": 0.006381,
+      "mentions": 1
+    },
+    {
+      "name": "Construction",
+      "type": "PERSON",
+      "salience": 0.00624,
+      "mentions": 6
+    },
+    {
+      "name": "Electric Cars",
+      "type": "PERSON",
+      "salience": 0.00612,
+      "mentions": 1
+    },
+    {
+      "name": "Electric Scooters",
+      "type": "PERSON",
+      "salience": 0.006029,
+      "mentions": 1
+    },
+    {
+      "name": "Outdoor Apparel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006006,
+      "mentions": 1
+    },
+    {
+      "name": "Lights",
+      "type": "PERSON",
+      "salience": 0.005963,
+      "mentions": 1
+    },
+    {
+      "name": "Home Care",
+      "type": "PERSON",
+      "salience": 0.005932,
+      "mentions": 1
+    },
+    {
+      "name": "Equipment",
+      "type": "OTHER",
+      "salience": 0.005735,
+      "mentions": 1
+    },
+    {
+      "name": "Tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005647,
+      "mentions": 2
+    },
+    {
+      "name": "View all",
+      "type": "OTHER",
+      "salience": 0.005597,
+      "mentions": 1
+    },
+    {
+      "name": "Lighting",
+      "type": "OTHER",
+      "salience": 0.005559,
+      "mentions": 1
+    },
+    {
+      "name": "Tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005405,
+      "mentions": 1
+    },
+    {
+      "name": "Service",
+      "type": "OTHER",
+      "salience": 0.005335,
+      "mentions": 2
+    },
+    {
+      "name": "Gifts",
+      "type": "OTHER",
+      "salience": 0.005121,
+      "mentions": 3
+    },
+    {
+      "name": "Material Handling",
+      "type": "OTHER",
+      "salience": 0.004944,
+      "mentions": 3
+    },
+    {
+      "name": "Categories",
+      "type": "PERSON",
+      "salience": 0.004907,
+      "mentions": 1
+    },
+    {
+      "name": "Packaging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004816,
+      "mentions": 3
+    },
+    {
+      "name": "Watches",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004702,
+      "mentions": 1
+    },
+    {
+      "name": "Home Theater Systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004609,
+      "mentions": 1
+    },
+    {
+      "name": "Jewelry",
+      "type": "ORGANIZATION",
+      "salience": 0.004359,
+      "mentions": 3
+    },
+    {
+      "name": "Transportation",
+      "type": "OTHER",
+      "salience": 0.004306,
+      "mentions": 2
+    },
+    {
+      "name": "GB",
+      "type": "ORGANIZATION",
+      "salience": 0.004306,
+      "mentions": 1
+    },
+    {
+      "name": "Vehicle Parts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004302,
+      "mentions": 1
+    },
+    {
+      "name": "Industrial Machinery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004287,
+      "mentions": 1
+    },
+    {
+      "name": "Commercial Equipment",
+      "type": "OTHER",
+      "salience": 0.004216,
+      "mentions": 1
+    },
+    {
+      "name": "Safety",
+      "type": "OTHER",
+      "salience": 0.004092,
+      "mentions": 3
+    },
+    {
+      "name": "Kids",
+      "type": "OTHER",
+      "salience": 0.004068,
+      "mentions": 2
+    },
+    {
+      "name": "Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00392,
+      "mentions": 1
+    },
+    {
+      "name": "English-USD",
+      "type": "OTHER",
+      "salience": 0.003884,
+      "mentions": 1
+    },
+    {
+      "name": "Printing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00388,
+      "mentions": 1
+    },
+    {
+      "name": "Vehicles",
+      "type": "OTHER",
+      "salience": 0.00387,
+      "mentions": 2
+    },
+    {
+      "name": "Toys",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003793,
+      "mentions": 1
+    },
+    {
+      "name": "School",
+      "type": "OTHER",
+      "salience": 0.003771,
+      "mentions": 3
+    },
+    {
+      "name": "Beauty",
+      "type": "OTHER",
+      "salience": 0.003739,
+      "mentions": 3
+    },
+    {
+      "name": "Garden",
+      "type": "OTHER",
+      "salience": 0.003681,
+      "mentions": 1
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "salience": 0.003673,
+      "mentions": 1
+    },
+    {
+      "name": "Eyewear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003647,
+      "mentions": 3
+    },
+    {
+      "name": "Bags",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003562,
+      "mentions": 3
+    },
+    {
+      "name": "Luggage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003562,
+      "mentions": 3
+    },
+    {
+      "name": "Personal Care",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003408,
+      "mentions": 1
+    },
+    {
+      "name": "Accessories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003401,
+      "mentions": 1
+    },
+    {
+      "name": "Raw Materials",
+      "type": "OTHER",
+      "salience": 0.003351,
+      "mentions": 2
+    },
+    {
+      "name": "Electrical Equipment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003341,
+      "mentions": 1
+    },
+    {
+      "name": "Health & Medical",
+      "type": "OTHER",
+      "salience": 0.003339,
+      "mentions": 1
+    },
+    {
+      "name": "Automotive Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003331,
+      "mentions": 1
+    },
+    {
+      "name": "Sign in",
+      "type": "OTHER",
+      "salience": 0.003324,
+      "mentions": 1
+    },
+    {
+      "name": "Cases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00332,
+      "mentions": 1
+    },
+    {
+      "name": "Fabrication Services",
+      "type": "OTHER",
+      "salience": 0.003318,
+      "mentions": 1
+    },
+    {
+      "name": "Parents",
+      "type": "OTHER",
+      "salience": 0.003232,
+      "mentions": 1
+    },
+    {
+      "name": "Pet Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003213,
+      "mentions": 1
+    },
+    {
+      "name": "Create account",
+      "type": "OTHER",
+      "salience": 0.003125,
+      "mentions": 1
+    },
+    {
+      "name": "Sports & Entertainment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003104,
+      "mentions": 1
+    },
+    {
+      "name": "Crafts",
+      "type": "OTHER",
+      "salience": 0.003052,
+      "mentions": 1
+    },
+    {
+      "name": "Hardware",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003025,
+      "mentions": 1
+    },
+    {
+      "name": "Computer Accessories",
+      "type": "OTHER",
+      "salience": 0.002974,
+      "mentions": 1
+    },
+    {
+      "name": "Real Estate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002953,
+      "mentions": 3
+    },
+    {
+      "name": "Furniture",
+      "type": "OTHER",
+      "salience": 0.002908,
+      "mentions": 3
+    },
+    {
+      "name": "Handbags",
+      "type": "OTHER",
+      "salience": 0.002853,
+      "mentions": 1
+    },
+    {
+      "name": "Building Machinery",
+      "type": "OTHER",
+      "salience": 0.002756,
+      "mentions": 1
+    },
+    {
+      "name": "Renewable Energy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00268,
+      "mentions": 3
+    },
+    {
+      "name": "Machinery",
+      "type": "OTHER",
+      "salience": 0.002587,
+      "mentions": 1
+    },
+    {
+      "name": "Equipment",
+      "type": "OTHER",
+      "salience": 0.002562,
+      "mentions": 1
+    },
+    {
+      "name": "Testing Instrument",
+      "type": "OTHER",
+      "salience": 0.002556,
+      "mentions": 1
+    },
+    {
+      "name": "Power Transmission",
+      "type": "OTHER",
+      "salience": 0.002528,
+      "mentions": 2
+    },
+    {
+      "name": "Lights",
+      "type": "PERSON",
+      "salience": 0.002505,
+      "mentions": 1
+    },
+    {
+      "name": "Tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002445,
+      "mentions": 1
+    },
+    {
+      "name": "Security",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002438,
+      "mentions": 1
+    },
+    {
+      "name": "Solar Panels",
+      "type": "PERSON",
+      "salience": 0.002402,
+      "mentions": 1
+    },
+    {
+      "name": "Categories",
+      "type": "PERSON",
+      "salience": 0.002354,
+      "mentions": 1
+    },
+    {
+      "name": "Motorcycle",
+      "type": "LOCATION",
+      "salience": 0.00234,
+      "mentions": 1
+    },
+    {
+      "name": "Lighting",
+      "type": "OTHER",
+      "salience": 0.002336,
+      "mentions": 1
+    },
+    {
+      "name": "Tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002307,
+      "mentions": 1
+    },
+    {
+      "name": "Home Care",
+      "type": "PERSON",
+      "salience": 0.002242,
+      "mentions": 1
+    },
+    {
+      "name": "Outdoor Apparel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002093,
+      "mentions": 1
+    },
+    {
+      "name": "Agriculture",
+      "type": "OTHER",
+      "salience": 0.001945,
+      "mentions": 2
+    },
+    {
+      "name": "Food",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001945,
+      "mentions": 1
+    },
+    {
+      "name": "Vehicle Parts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001849,
+      "mentions": 1
+    },
+    {
+      "name": "Evening Dresses",
+      "type": "PERSON",
+      "salience": 0.001836,
+      "mentions": 1
+    },
+    {
+      "name": "Beverage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001813,
+      "mentions": 1
+    },
+    {
+      "name": "Football Sets",
+      "type": "PERSON",
+      "salience": 0.001777,
+      "mentions": 1
+    },
+    {
+      "name": "Industrial Machinery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00172,
+      "mentions": 1
+    },
+    {
+      "name": "Wedding Dresses",
+      "type": "PERSON",
+      "salience": 0.001716,
+      "mentions": 1
+    },
+    {
+      "name": "Commercial Equipment",
+      "type": "OTHER",
+      "salience": 0.001709,
+      "mentions": 1
+    },
+    {
+      "name": "Watches",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001699,
+      "mentions": 1
+    },
+    {
+      "name": "Drones",
+      "type": "OTHER",
+      "salience": 0.00153,
+      "mentions": 1
+    },
+    {
+      "name": "Fabrication Services",
+      "type": "OTHER",
+      "salience": 0.001528,
+      "mentions": 1
+    },
+    {
+      "name": "Animal Hat",
+      "type": "OTHER",
+      "salience": 0.001527,
+      "mentions": 1
+    },
+    {
+      "name": "Laptops",
+      "type": "OTHER",
+      "salience": 0.001509,
+      "mentions": 1
+    },
+    {
+      "name": "Industries covered",
+      "type": "OTHER",
+      "salience": 0.001494,
+      "mentions": 1
+    },
+    {
+      "name": "Printing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001446,
+      "mentions": 1
+    },
+    {
+      "name": "Automotive Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001422,
+      "mentions": 1
+    },
+    {
+      "name": "Running Jacket",
+      "type": "PERSON",
+      "salience": 0.001419,
+      "mentions": 1
+    },
+    {
+      "name": "Teleprompter",
+      "type": "OTHER",
+      "salience": 0.001384,
+      "mentions": 1
+    },
+    {
+      "name": "Kids",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00136,
+      "mentions": 1
+    },
+    {
+      "name": "Sneakers",
+      "type": "OTHER",
+      "salience": 0.001316,
+      "mentions": 1
+    },
+    {
+      "name": "Hardware",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001309,
+      "mentions": 1
+    },
+    {
+      "name": "Verified manufacturers",
+      "type": "OTHER",
+      "salience": 0.001307,
+      "mentions": 1
+    },
+    {
+      "name": "Verified manufacturers",
+      "type": "OTHER",
+      "salience": 0.001297,
+      "mentions": 1
+    },
+    {
+      "name": "Personal Care",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001288,
+      "mentions": 1
+    },
+    {
+      "name": "Health & Medical",
+      "type": "OTHER",
+      "salience": 0.001279,
+      "mentions": 1
+    },
+    {
+      "name": "Factory-direct samples",
+      "type": "OTHER",
+      "salience": 0.001272,
+      "mentions": 1
+    },
+    {
+      "name": "Toys",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001268,
+      "mentions": 1
+    },
+    {
+      "name": "Pet Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001261,
+      "mentions": 1
+    },
+    {
+      "name": "Garden",
+      "type": "OTHER",
+      "salience": 0.001257,
+      "mentions": 1
+    },
+    {
+      "name": "Alibaba.com",
+      "type": "OTHER",
+      "salience": 0.001243,
+      "mentions": 1
+    },
+    {
+      "name": "Cases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001219,
+      "mentions": 1
+    },
+    {
+      "name": "Alibaba.com Business Edge Credit Card",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001212,
+      "mentions": 1
+    },
+    {
+      "name": "Crafts",
+      "type": "OTHER",
+      "salience": 0.001184,
+      "mentions": 1
+    },
+    {
+      "name": "Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001154,
+      "mentions": 1
+    },
+    {
+      "name": "Testing Instrument",
+      "type": "OTHER",
+      "salience": 0.001142,
+      "mentions": 1
+    },
+    {
+      "name": "Used Cars",
+      "type": "PERSON",
+      "salience": 0.001139,
+      "mentions": 1
+    },
+    {
+      "name": "Power Transmission",
+      "type": "OTHER",
+      "salience": 0.001135,
+      "mentions": 1
+    },
+    {
+      "name": "Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001126,
+      "mentions": 1
+    },
+    {
+      "name": "Church Hats",
+      "type": "PERSON",
+      "salience": 0.001097,
+      "mentions": 1
+    },
+    {
+      "name": "Snap Button",
+      "type": "PERSON",
+      "salience": 0.001091,
+      "mentions": 1
+    },
+    {
+      "name": "Training Suit",
+      "type": "OTHER",
+      "salience": 0.001084,
+      "mentions": 1
+    },
+    {
+      "name": "Parents",
+      "type": "OTHER",
+      "salience": 0.00108,
+      "mentions": 1
+    },
+    {
+      "name": "Dance Dress",
+      "type": "PERSON",
+      "salience": 0.001078,
+      "mentions": 1
+    },
+    {
+      "name": "Security",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001076,
+      "mentions": 1
+    },
+    {
+      "name": "suppliers",
+      "type": "OTHER",
+      "salience": 0.001074,
+      "mentions": 1
+    },
+    {
+      "name": "Basketball Wear",
+      "type": "PERSON",
+      "salience": 0.001072,
+      "mentions": 1
+    },
+    {
+      "name": "Smart factory search",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001069,
+      "mentions": 1
+    },
+    {
+      "name": "Rhinestones",
+      "type": "OTHER",
+      "salience": 0.00106,
+      "mentions": 1
+    },
+    {
+      "name": "Ear Cover",
+      "type": "PERSON",
+      "salience": 0.001048,
+      "mentions": 1
+    },
+    {
+      "name": "Laptops",
+      "type": "OTHER",
+      "salience": 0.001047,
+      "mentions": 1
+    },
+    {
+      "name": "Tactical Clothes",
+      "type": "PERSON",
+      "salience": 0.001043,
+      "mentions": 1
+    },
+    {
+      "name": "Fur Scarves",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001037,
+      "mentions": 1
+    },
+    {
+      "name": "US$23.90-35.60MOQ",
+      "type": "OTHER",
+      "salience": 0.001035,
+      "mentions": 1
+    },
+    {
+      "name": "Zipper Sliders",
+      "type": "PERSON",
+      "salience": 0.001032,
+      "mentions": 1
+    },
+    {
+      "name": "Casual Shoes",
+      "type": "PERSON",
+      "salience": 0.001023,
+      "mentions": 1
+    },
+    {
+      "name": "Tf Card",
+      "type": "PERSON",
+      "salience": 0.001006,
+      "mentions": 1
+    },
+    {
+      "name": "Photography Equipment",
+      "type": "PERSON",
+      "salience": 0.000996,
+      "mentions": 1
+    },
+    {
+      "name": "Karaoke System",
+      "type": "PERSON",
+      "salience": 0.000991,
+      "mentions": 1
+    },
+    {
+      "name": "Sound Cards",
+      "type": "PERSON",
+      "salience": 0.000986,
+      "mentions": 1
+    },
+    {
+      "name": "Electronics",
+      "type": "OTHER",
+      "salience": 0.000968,
+      "mentions": 1
+    },
+    {
+      "name": "Electrical Equipment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00096,
+      "mentions": 1
+    },
+    {
+      "name": "Alibaba.com Reads",
+      "type": "OTHER",
+      "salience": 0.00095,
+      "mentions": 1
+    },
+    {
+      "name": "Home",
+      "type": "OTHER",
+      "salience": 0.000927,
+      "mentions": 1
+    },
+    {
+      "name": "logistics services",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000895,
+      "mentions": 1
+    },
+    {
+      "name": "Food",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000887,
+      "mentions": 1
+    },
+    {
+      "name": "inspection services",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000854,
+      "mentions": 1
+    },
+    {
+      "name": "Top manufacturer rankings",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000848,
+      "mentions": 1
+    },
+    {
+      "name": "Sample center",
+      "type": "OTHER",
+      "salience": 0.00084,
+      "mentions": 1
+    },
+    {
+      "name": "Fast customization",
+      "type": "OTHER",
+      "salience": 0.000838,
+      "mentions": 1
+    },
+    {
+      "name": "Beverage",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000827,
+      "mentions": 1
+    },
+    {
+      "name": "Tv Broadcasting Equipment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000819,
+      "mentions": 1
+    },
+    {
+      "name": "Cord Organizer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000808,
+      "mentions": 1
+    },
+    {
+      "name": "Voice Coil",
+      "type": "PERSON",
+      "salience": 0.000805,
+      "mentions": 1
+    },
+    {
+      "name": "Vr Devices",
+      "type": "PERSON",
+      "salience": 0.000801,
+      "mentions": 1
+    },
+    {
+      "name": "Web Camera",
+      "type": "OTHER",
+      "salience": 0.000798,
+      "mentions": 1
+    },
+    {
+      "name": "Partner stores",
+      "type": "OTHER",
+      "salience": 0.000782,
+      "mentions": 1
+    },
+    {
+      "name": "Partner Program",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000764,
+      "mentions": 1
+    },
+    {
+      "name": "Sports & Entertainment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000759,
+      "mentions": 1
+    },
+    {
+      "name": "Equipment",
+      "type": "OTHER",
+      "salience": 0.000737,
+      "mentions": 1
+    },
+    {
+      "name": "Building Machinery",
+      "type": "OTHER",
+      "salience": 0.000733,
+      "mentions": 1
+    },
+    {
+      "name": "Machinery",
+      "type": "OTHER",
+      "salience": 0.000702,
+      "mentions": 1
+    },
+    {
+      "name": "Lights",
+      "type": "PERSON",
+      "salience": 0.000701,
+      "mentions": 1
+    },
+    {
+      "name": "Tax exemption",
+      "type": "OTHER",
+      "salience": 0.000682,
+      "mentions": 1
+    },
+    {
+      "name": "Tax‐exempt purchases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000677,
+      "mentions": 1
+    },
+    {
+      "name": "Manufacturer",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000673,
+      "mentions": 1
+    },
+    {
+      "name": "Reflective 2",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000673,
+      "mentions": 1
+    },
+    {
+      "name": "Lighting",
+      "type": "OTHER",
+      "salience": 0.000654,
+      "mentions": 1
+    },
+    {
+      "name": "Tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000652,
+      "mentions": 1
+    },
+    {
+      "name": "Safe",
+      "type": "OTHER",
+      "salience": 0.000629,
+      "mentions": 1
+    },
+    {
+      "name": "Textile Raw Material",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000625,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping",
+      "type": "OTHER",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "5K",
+      "type": "OTHER",
+      "salience": 0.000622,
+      "mentions": 1
+    },
+    {
+      "name": "Partnerships",
+      "type": "OTHER",
+      "salience": 0.000618,
+      "mentions": 1
+    },
+    {
+      "name": "Dedicated services",
+      "type": "OTHER",
+      "salience": 0.000617,
+      "mentions": 1
+    },
+    {
+      "name": "Other featured selections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00061,
+      "mentions": 1
+    },
+    {
+      "name": "Dropshipping center",
+      "type": "OTHER",
+      "salience": 0.000609,
+      "mentions": 1
+    },
+    {
+      "name": "Outdoor Apparel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000532,
+      "mentions": 1
+    },
+    {
+      "name": "Vehicle Parts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00053,
+      "mentions": 1
+    },
+    {
+      "name": "Vehicle Accessories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000526,
+      "mentions": 1
+    },
+    {
+      "name": "Production monitoring",
+      "type": "OTHER",
+      "salience": 0.000526,
+      "mentions": 1
+    },
+    {
+      "name": "communicate with suppliers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000516,
+      "mentions": 1
+    },
+    {
+      "name": "Careers",
+      "type": "OTHER",
+      "salience": 0.000513,
+      "mentions": 1
+    },
+    {
+      "name": "Manufacturer's Best-selling",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000502,
+      "mentions": 1
+    },
+    {
+      "name": "Safest",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000502,
+      "mentions": 1
+    },
+    {
+      "name": "Order protections",
+      "type": "OTHER",
+      "salience": 0.000485,
+      "mentions": 1
+    },
+    {
+      "name": "App",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000483,
+      "mentions": 1
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000482,
+      "mentions": 1
+    },
+    {
+      "name": "easy payments",
+      "type": "OTHER",
+      "salience": 0.000481,
+      "mentions": 1
+    },
+    {
+      "name": "Safe and easy payments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000473,
+      "mentions": 1
+    },
+    {
+      "name": "Watches",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000472,
+      "mentions": 1
+    },
+    {
+      "name": "DSLR Camera",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000468,
+      "mentions": 1
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "salience": 0.000468,
+      "mentions": 1
+    },
+    {
+      "name": "Seller Central",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000466,
+      "mentions": 1
+    },
+    {
+      "name": "Commercial Equipment",
+      "type": "OTHER",
+      "salience": 0.000464,
+      "mentions": 1
+    },
+    {
+      "name": "Industrial Machinery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00046,
+      "mentions": 1
+    },
+    {
+      "name": "Order protections",
+      "type": "OTHER",
+      "salience": 0.000457,
+      "mentions": 1
+    },
+    {
+      "name": "Fabric",
+      "type": "OTHER",
+      "salience": 0.000452,
+      "mentions": 1
+    },
+    {
+      "name": "Fabrication Services",
+      "type": "OTHER",
+      "salience": 0.000448,
+      "mentions": 1
+    },
+    {
+      "name": "extension",
+      "type": "OTHER",
+      "salience": 0.000417,
+      "mentions": 1
+    },
+    {
+      "name": "Product monitoring services",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000416,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.000404,
+      "mentions": 1
+    },
+    {
+      "name": "Printing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000403,
+      "mentions": 1
+    },
+    {
+      "name": "Policies and rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "Product Listing Policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "Accio Work",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000396,
+      "mentions": 1
+    },
+    {
+      "name": "Easy enrollment",
+      "type": "OTHER",
+      "salience": 0.00039,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.000388,
+      "mentions": 1
+    },
+    {
+      "name": "Trade services",
+      "type": "OTHER",
+      "salience": 0.000383,
+      "mentions": 1
+    },
+    {
+      "name": "Factory Price 13",
+      "type": "OTHER",
+      "salience": 0.00038,
+      "mentions": 1
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000379,
+      "mentions": 1
+    },
+    {
+      "name": "Report IPR infringement",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000377,
+      "mentions": 1
+    },
+    {
+      "name": "Report abuse",
+      "type": "OTHER",
+      "salience": 0.000377,
+      "mentions": 1
+    },
+    {
+      "name": "Integrate Alibaba.com with Wix",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000375,
+      "mentions": 1
+    },
+    {
+      "name": "Hardware",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000371,
+      "mentions": 1
+    },
+    {
+      "name": "Chrome",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000371,
+      "mentions": 2
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.00037,
+      "mentions": 1
+    },
+    {
+      "name": "Get support",
+      "type": "OTHER",
+      "salience": 0.000364,
+      "mentions": 1
+    },
+    {
+      "name": "Refunds",
+      "type": "OTHER",
+      "salience": 0.000363,
+      "mentions": 1
+    },
+    {
+      "name": "Payments and protections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000362,
+      "mentions": 1
+    },
+    {
+      "name": "Kids",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000361,
+      "mentions": 1
+    },
+    {
+      "name": "Materials\\",
+      "type": "OTHER",
+      "salience": 0.000356,
+      "mentions": 1
+    },
+    {
+      "name": "Medical devices",
+      "type": "OTHER",
+      "salience": 0.000342,
+      "mentions": 1
+    },
+    {
+      "name": "1.3K",
+      "type": "OTHER",
+      "salience": 0.000336,
+      "mentions": 1
+    },
+    {
+      "name": "Personal Care",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000331,
+      "mentions": 1
+    },
+    {
+      "name": "Pet Supplies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000331,
+      "mentions": 1
+    },
+    {
+      "name": "Security",
+      "type": "OTHER",
+      "salience": 0.00033,
+      "mentions": 1
+    },
+    {
+      "name": "Health Care",
+      "type": "OTHER",
+      "salience": 0.000329,
+      "mentions": 1
+    },
+    {
+      "name": "Testing Instrument",
+      "type": "OTHER",
+      "salience": 0.000328,
+      "mentions": 1
+    },
+    {
+      "name": "Online Trade Show",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000323,
+      "mentions": 1
+    },
+    {
+      "name": "Toys",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00032,
+      "mentions": 1
+    },
+    {
+      "name": "Money-back policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000318,
+      "mentions": 1
+    },
+    {
+      "name": "Garden",
+      "type": "OTHER",
+      "salience": 0.000317,
+      "mentions": 1
+    },
+    {
+      "name": "Crafts",
+      "type": "OTHER",
+      "salience": 0.000316,
+      "mentions": 1
+    },
+    {
+      "name": "After-sales protections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "Cases",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000313,
+      "mentions": 1
+    },
+    {
+      "name": "Download Accio Work",
+      "type": "OTHER",
+      "salience": 0.000312,
+      "mentions": 1
+    },
+    {
+      "name": "Eligible taxes are automatically removed at checkout",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000309,
+      "mentions": 1
+    },
+    {
+      "name": "Streamlined",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000309,
+      "mentions": 1
+    },
+    {
+      "name": "Buyer Central",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000308,
+      "mentions": 1
+    },
+    {
+      "name": "What is Alibaba.com",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000307,
+      "mentions": 1
+    },
+    {
+      "name": "Report abuse",
+      "type": "OTHER",
+      "salience": 0.000303,
+      "mentions": 1
+    },
+    {
+      "name": "Help Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000302,
+      "mentions": 1
+    },
+    {
+      "name": "Start selling",
+      "type": "OTHER",
+      "salience": 0.000298,
+      "mentions": 1
+    },
+    {
+      "name": "Find products",
+      "type": "OTHER",
+      "salience": 0.000296,
+      "mentions": 1
+    },
+    {
+      "name": "anywhere",
+      "type": "OTHER",
+      "salience": 0.000296,
+      "mentions": 1
+    },
+    {
+      "name": "Discover Alibaba Lens",
+      "type": "OTHER",
+      "salience": 0.000296,
+      "mentions": 1
+    },
+    {
+      "name": "Intellectual Property Protection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000289,
+      "mentions": 1
+    },
+    {
+      "name": "Integrity Compliance",
+      "type": "OTHER",
+      "salience": 0.000288,
+      "mentions": 1
+    },
+    {
+      "name": "Telecommunications",
+      "type": "OTHER",
+      "salience": 0.000266,
+      "mentions": 1
+    },
+    {
+      "name": "Household Cleaning",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000263,
+      "mentions": 1
+    },
+    {
+      "name": "Metals",
+      "type": "OTHER",
+      "salience": 0.000258,
+      "mentions": 1
+    },
+    {
+      "name": "Long-distance",
+      "type": "OTHER",
+      "salience": 0.000255,
+      "mentions": 1
+    },
+    {
+      "name": "1.3K",
+      "type": "OTHER",
+      "salience": 0.000254,
+      "mentions": 1
+    },
+    {
+      "name": "Keychain",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000254,
+      "mentions": 1
+    },
+    {
+      "name": "Scale 1",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000246,
+      "mentions": 1
+    },
+    {
+      "name": "1.1K",
+      "type": "OTHER",
+      "salience": 0.000245,
+      "mentions": 1
+    },
+    {
+      "name": "Casio\\",
+      "type": "OTHER",
+      "salience": 0.000242,
+      "mentions": 1
+    },
+    {
+      "name": "Scientific",
+      "type": "PERSON",
+      "salience": 0.000242,
+      "mentions": 1
+    },
+    {
+      "name": "Help Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000242,
+      "mentions": 1
+    },
+    {
+      "name": "Body Only",
+      "type": "PERSON",
+      "salience": 0.000241,
+      "mentions": 1
+    },
+    {
+      "name": "Money-back policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00024,
+      "mentions": 1
+    },
+    {
+      "name": "After-sales protections",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000239,
+      "mentions": 1
+    },
+    {
+      "name": "Taobao Global",
+      "type": "OTHER",
+      "salience": 0.000232,
+      "mentions": 1
+    },
+    {
+      "name": "Trendyol",
+      "type": "OTHER",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "Boost",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000226,
+      "mentions": 1
+    },
+    {
+      "name": "Why Alibaba.com",
+      "type": "OTHER",
+      "salience": 0.000222,
+      "mentions": 1
+    },
+    {
+      "name": "CoCreate Pitch",
+      "type": "OTHER",
+      "salience": 0.000221,
+      "mentions": 1
+    },
+    {
+      "name": "Air Transport China to Luanda Angola Air Freight Shipping Agent Freight Forwarder Logistics Guangzhou Shenzhen Shanghai",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000214,
+      "mentions": 1
+    },
+    {
+      "name": "FREE shipping",
+      "type": "OTHER",
+      "salience": 0.000213,
+      "mentions": 1
+    },
+    {
+      "name": "Sigenergy SigenStor All One Home Energy Storage Solar Inverter Lithium Battery 15kWh LiFePO4 Hybrid Grid Stackable Split",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "Mother",
+      "type": "OTHER",
+      "salience": 0.000207,
+      "mentions": 1
+    },
+    {
+      "name": "Warranty 1000 Watt Solar Panels 720 Watt 1000w Paneles",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000187,
+      "mentions": 1
+    },
+    {
+      "name": "Rubber",
+      "type": "OTHER",
+      "salience": 0.000187,
+      "mentions": 1
+    },
+    {
+      "name": "Mind 001",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "Speed up K Tip Board",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "1.2K",
+      "type": "OTHER",
+      "salience": 0.000175,
+      "mentions": 1
+    },
+    {
+      "name": "Plastics",
+      "type": "OTHER",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "Alloys",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000174,
+      "mentions": 1
+    },
+    {
+      "name": "On-time shipping",
+      "type": "OTHER",
+      "salience": 0.000173,
+      "mentions": 1
+    },
+    {
+      "name": "Quotation",
+      "type": "OTHER",
+      "salience": 0.000172,
+      "mentions": 1
+    },
+    {
+      "name": "Membership program",
+      "type": "OTHER",
+      "salience": 0.000172,
+      "mentions": 1
+    },
+    {
+      "name": "About Alibaba.com",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "Corporate responsibility",
+      "type": "OTHER",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "News center",
+      "type": "OTHER",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "Stay Connected",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "AliExpress",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "Tmall Taobao World",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000168,
+      "mentions": 1
+    },
+    {
+      "name": "Alipay",
+      "type": "OTHER",
+      "salience": 0.000168,
+      "mentions": 1
+    },
+    {
+      "name": "Lazada",
+      "type": "OTHER",
+      "salience": 0.000168,
+      "mentions": 1
+    },
+    {
+      "name": "TAO",
+      "type": "ORGANIZATION",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "Europages",
+      "type": "OTHER",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "Legal Notice",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000167,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000166,
+      "mentions": 1
+    },
+    {
+      "name": "Terms of Use",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000166,
+      "mentions": 1
+    },
+    {
+      "name": "杭州",
+      "type": "LOCATION",
+      "salience": 0.000165,
+      "mentions": 1
+    },
+    {
+      "name": "阿里巴巴海外信息技術有限公司",
+      "type": "ORGANIZATION",
+      "salience": 0.000165,
+      "mentions": 1
+    },
+    {
+      "name": "浙公網",
+      "type": "PERSON",
+      "salience": 0.000165,
+      "mentions": 1
+    },
+    {
+      "name": "浙ICP備2024067534號",
+      "type": "OTHER",
+      "salience": 0.000165,
+      "mentions": 1
+    },
+    {
+      "name": "Hair 26",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000155,
+      "mentions": 1
+    },
+    {
+      "name": "USB Star Projector Night Light",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000155,
+      "mentions": 1
+    },
+    {
+      "name": "Atmosphere",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000155,
+      "mentions": 1
+    },
+    {
+      "name": "Adjustable",
+      "type": "OTHER",
+      "salience": 0.000155,
+      "mentions": 1
+    },
+    {
+      "name": "Sterilization",
+      "type": "OTHER",
+      "salience": 0.000154,
+      "mentions": 1
+    },
+    {
+      "name": "版權",
+      "type": "OTHER",
+      "salience": 0.000154,
+      "mentions": 1
+    },
+    {
+      "name": "29.1K",
+      "type": "OTHER",
+      "salience": 0.000154,
+      "mentions": 1
+    },
+    {
+      "name": "增值電信業務經營許可證",
+      "type": "OTHER",
+      "salience": 0.000154,
+      "mentions": 1
+    },
+    {
+      "name": "Most Popular",
+      "type": "PERSON",
+      "salience": 0.000153,
+      "mentions": 1
+    },
+    {
+      "name": "Original Wholesale",
+      "type": "PERSON",
+      "salience": 0.000153,
+      "mentions": 1
+    },
+    {
+      "name": "Drive 2.5",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000153,
+      "mentions": 1
+    },
+    {
+      "name": "FREE shipping",
+      "type": "OTHER",
+      "salience": 0.00015,
+      "mentions": 1
+    },
+    {
+      "name": "Summer Sizes 40-45",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000147,
+      "mentions": 1
+    },
+    {
+      "name": "iPhone 17",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000108,
+      "mentions": 1
+    },
+    {
+      "name": "Engineering",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "Flying",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "LED Butterfly Drone Remote Control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "4.7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "-3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1688",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1999",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$25",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$12",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$259",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$3.70",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$12.58",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$5.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$4.49",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$2.50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$0.25",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$18",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$9.90",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$1.94",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$13.90",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$1,080",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$23.90",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$106",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$0.99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$17",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$2.20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$2",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$8.50",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$384",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$28",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$23",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$2",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$0.07",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$2.78",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$2,388",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$40",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$19.90",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$8",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$1.60",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$40",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$152",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "US$0.01",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "34K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "78",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7/24",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "240",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "259",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "289",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1.3K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.70",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "350",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12.58",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14.50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "180",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.49",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.49",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2.50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "230",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29.1K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9.90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1.94",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "240",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "480",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "960",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13.90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "75",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "320",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,080",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,080",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,180",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,180",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "270",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23.90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35.60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "110",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1.5m",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "106",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "152.50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1.99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1.1K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "790",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "45",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "110",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2.20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2.50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1.3K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14/42",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "510",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "82",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8.50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9.50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "384",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "180",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "230",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "34",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6.45",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "320",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "720",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2.78",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "630",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,388",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,388",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "180",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "162",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "770",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "19.90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "180",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "45",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "200",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1.60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12.30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "130",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "001",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "40",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "160",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "152",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "260",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0.06",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1.2K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1688",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1999",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20241358",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "33010002000366",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024067534",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 201,
+    "OTHER": 179,
+    "PERSON": 41,
+    "ORGANIZATION": 6,
+    "LOCATION": 2,
+    "NUMBER": 220,
+    "DATE": 5,
+    "PRICE": 36
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.5227929999999994,
+    "OTHER": 0.28514800000000023,
+    "PERSON": 0.07478,
+    "ORGANIZATION": 0.008997,
+    "LOCATION": 0.0025050000000000003,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

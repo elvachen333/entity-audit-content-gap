@@ -1,0 +1,1187 @@
+{
+  "file": "non_cited_posttop-10-product-returns-management-software-ecommerce-aparajita-ray.txt",
+  "word_count": 2037,
+  "entity_count": 194,
+  "entities": [
+    {
+      "name": "Return Magic",
+      "type": "PERSON",
+      "salience": 0.086848,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce",
+      "type": "OTHER",
+      "salience": 0.054422,
+      "mentions": 3
+    },
+    {
+      "name": "Join LinkedIn",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.052734,
+      "mentions": 1
+    },
+    {
+      "name": "businesses.",
+      "type": "OTHER",
+      "salience": 0.052121,
+      "mentions": 3
+    },
+    {
+      "name": "Agree",
+      "type": "OTHER",
+      "salience": 0.044134,
+      "mentions": 1
+    },
+    {
+      "name": "And by streamlining the returns process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.039082,
+      "mentions": 1
+    },
+    {
+      "name": "With its powerful and intuitive return management software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029941,
+      "mentions": 1
+    },
+    {
+      "name": "With intuitive workflows and advanced reporting tools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.029161,
+      "mentions": 1
+    },
+    {
+      "name": "It streamlines the entire process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.024849,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021815,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.020548,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020316,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.02031,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.019857,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnLogic",
+      "type": "OTHER",
+      "salience": 0.019234,
+      "mentions": 1
+    },
+    {
+      "name": "With Loop",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018002,
+      "mentions": 1
+    },
+    {
+      "name": "Returnly",
+      "type": "OTHER",
+      "salience": 0.016965,
+      "mentions": 1
+    },
+    {
+      "name": "return shipping labels",
+      "type": "OTHER",
+      "salience": 0.016539,
+      "mentions": 1
+    },
+    {
+      "name": "From processing refunds and exchanges to managing exceptions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014287,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy Policy",
+      "type": "PERSON",
+      "salience": 0.013318,
+      "mentions": 1
+    },
+    {
+      "name": "As more and more consumers are shopping online",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013286,
+      "mentions": 1
+    },
+    {
+      "name": "from customer communication to return shipping labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01223,
+      "mentions": 1
+    },
+    {
+      "name": "ClickPost",
+      "type": "OTHER",
+      "salience": 0.011665,
+      "mentions": 1
+    },
+    {
+      "name": "Skip to main content",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009668,
+      "mentions": 1
+    },
+    {
+      "name": "HappyReturns",
+      "type": "OTHER",
+      "salience": 0.009593,
+      "mentions": 1
+    },
+    {
+      "name": "The software integrates with a business's existing platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009406,
+      "mentions": 1
+    },
+    {
+      "name": "HappyReturns",
+      "type": "OTHER",
+      "salience": 0.008559,
+      "mentions": 1
+    },
+    {
+      "name": "Loop",
+      "type": "OTHER",
+      "salience": 0.00746,
+      "mentions": 1
+    },
+    {
+      "name": "and How to Succeed",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007401,
+      "mentions": 1
+    },
+    {
+      "name": "The software make it easy to track and manage returned items",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00731,
+      "mentions": 1
+    },
+    {
+      "name": "Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007027,
+      "mentions": 2
+    },
+    {
+      "name": "businesses can save time and improve customer satisfaction.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006275,
+      "mentions": 1
+    },
+    {
+      "name": "Overall",
+      "type": "OTHER",
+      "salience": 0.00625,
+      "mentions": 1
+    },
+    {
+      "name": "With its user-friendly interface",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005195,
+      "mentions": 1
+    },
+    {
+      "name": "Business Strategy",
+      "type": "OTHER",
+      "salience": 0.004483,
+      "mentions": 1
+    },
+    {
+      "name": "Soft Skills",
+      "type": "OTHER",
+      "salience": 0.004446,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Experience",
+      "type": "OTHER",
+      "salience": 0.004339,
+      "mentions": 1
+    },
+    {
+      "name": "With Unicommerce",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004145,
+      "mentions": 1
+    },
+    {
+      "name": "With its robust functionality and intuitive design",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004014,
+      "mentions": 1
+    },
+    {
+      "name": "The Return Headache",
+      "type": "ORGANIZATION",
+      "salience": 0.003897,
+      "mentions": 1
+    },
+    {
+      "name": "With Orderhive",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003874,
+      "mentions": 1
+    },
+    {
+      "name": "to make it as easy and hassle-free as possible.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00382,
+      "mentions": 1
+    },
+    {
+      "name": "Perhaps most importantly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003738,
+      "mentions": 1
+    },
+    {
+      "name": "More articles by Aparajita Ray",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003662,
+      "mentions": 1
+    },
+    {
+      "name": "Comment",
+      "type": "OTHER",
+      "salience": 0.003272,
+      "mentions": 1
+    },
+    {
+      "name": "play",
+      "type": "OTHER",
+      "salience": 0.003118,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Policy Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003012,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Policy Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002987,
+      "mentions": 1
+    },
+    {
+      "name": "Productivity",
+      "type": "OTHER",
+      "salience": 0.002814,
+      "mentions": 1
+    },
+    {
+      "name": "and more.",
+      "type": "OTHER",
+      "salience": 0.002695,
+      "mentions": 1
+    },
+    {
+      "name": "and powerful toolset",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002602,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10 Warehouse Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00254,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Business with Cutting-Edge IT Retail Solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002526,
+      "mentions": 1
+    },
+    {
+      "name": "Top 10 Warehouse Management System",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002518,
+      "mentions": 1
+    },
+    {
+      "name": "ShippyPro",
+      "type": "OTHER",
+      "salience": 0.002266,
+      "mentions": 1
+    },
+    {
+      "name": "Commercey",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002022,
+      "mentions": 1
+    },
+    {
+      "name": "Mercuri",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002009,
+      "mentions": 1
+    },
+    {
+      "name": "LinkedIn",
+      "type": "OTHER",
+      "salience": 0.001878,
+      "mentions": 1
+    },
+    {
+      "name": "Communication",
+      "type": "OTHER",
+      "salience": 0.001823,
+      "mentions": 1
+    },
+    {
+      "name": "Optoro",
+      "type": "OTHER",
+      "salience": 0.001815,
+      "mentions": 1
+    },
+    {
+      "name": "Emotional Intelligence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001788,
+      "mentions": 1
+    },
+    {
+      "name": "intuitive navigation",
+      "type": "OTHER",
+      "salience": 0.001787,
+      "mentions": 1
+    },
+    {
+      "name": "Unicommerce",
+      "type": "OTHER",
+      "salience": 0.001748,
+      "mentions": 1
+    },
+    {
+      "name": "Unicommerce",
+      "type": "OTHER",
+      "salience": 0.001711,
+      "mentions": 1
+    },
+    {
+      "name": "WMS",
+      "type": "OTHER",
+      "salience": 0.001624,
+      "mentions": 1
+    },
+    {
+      "name": "WMS",
+      "type": "OTHER",
+      "salience": 0.001609,
+      "mentions": 1
+    },
+    {
+      "name": "WMS",
+      "type": "OTHER",
+      "salience": 0.001602,
+      "mentions": 1
+    },
+    {
+      "name": "Overall",
+      "type": "OTHER",
+      "salience": 0.00153,
+      "mentions": 1
+    },
+    {
+      "name": "USPS Vs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001525,
+      "mentions": 1
+    },
+    {
+      "name": "UPS Vs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001519,
+      "mentions": 1
+    },
+    {
+      "name": "USPS Vs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001502,
+      "mentions": 1
+    },
+    {
+      "name": "UPS Vs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001496,
+      "mentions": 1
+    },
+    {
+      "name": "USPS Vs.",
+      "type": "OTHER",
+      "salience": 0.001485,
+      "mentions": 1
+    },
+    {
+      "name": "UPS Vs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001479,
+      "mentions": 1
+    },
+    {
+      "name": "Success",
+      "type": "ORGANIZATION",
+      "salience": 0.001462,
+      "mentions": 1
+    },
+    {
+      "name": "While returns can be frustrating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001452,
+      "mentions": 1
+    },
+    {
+      "name": "Show more",
+      "type": "OTHER",
+      "salience": 0.001448,
+      "mentions": 1
+    },
+    {
+      "name": "Show less",
+      "type": "OTHER",
+      "salience": 0.001443,
+      "mentions": 1
+    },
+    {
+      "name": "Apart from returns management softwares",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00141,
+      "mentions": 1
+    },
+    {
+      "name": "Orderhive",
+      "type": "PERSON",
+      "salience": 0.001372,
+      "mentions": 1
+    },
+    {
+      "name": "Retail",
+      "type": "OTHER",
+      "salience": 0.00137,
+      "mentions": 1
+    },
+    {
+      "name": "Merchandising",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00137,
+      "mentions": 1
+    },
+    {
+      "name": "Workplace Trends",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001336,
+      "mentions": 1
+    },
+    {
+      "name": "Show more",
+      "type": "OTHER",
+      "salience": 0.001285,
+      "mentions": 1
+    },
+    {
+      "name": "Show less",
+      "type": "OTHER",
+      "salience": 0.001282,
+      "mentions": 1
+    },
+    {
+      "name": "Leadership",
+      "type": "OTHER",
+      "salience": 0.001213,
+      "mentions": 1
+    },
+    {
+      "name": "User Experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001205,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.001202,
+      "mentions": 2
+    },
+    {
+      "name": "real-time data reporting",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0012,
+      "mentions": 1
+    },
+    {
+      "name": "Jan 20",
+      "type": "OTHER",
+      "salience": 0.001198,
+      "mentions": 1
+    },
+    {
+      "name": "What's more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00117,
+      "mentions": 1
+    },
+    {
+      "name": "Designed with a user-friendly interface",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00117,
+      "mentions": 1
+    },
+    {
+      "name": "Jan",
+      "type": "PERSON",
+      "salience": 0.001162,
+      "mentions": 1
+    },
+    {
+      "name": "While returns can be costly and time-consuming",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001128,
+      "mentions": 1
+    },
+    {
+      "name": "issue refunds",
+      "type": "OTHER",
+      "salience": 0.001121,
+      "mentions": 1
+    },
+    {
+      "name": "Recommended by LinkedIn",
+      "type": "OTHER",
+      "salience": 0.001029,
+      "mentions": 1
+    },
+    {
+      "name": "Wordpress apps",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001019,
+      "mentions": 1
+    },
+    {
+      "name": "Magento Returns Apps",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001019,
+      "mentions": 1
+    },
+    {
+      "name": "Technology",
+      "type": "OTHER",
+      "salience": 0.001018,
+      "mentions": 1
+    },
+    {
+      "name": "ZenBasket",
+      "type": "OTHER",
+      "salience": 0.001009,
+      "mentions": 1
+    },
+    {
+      "name": "Real Estate",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001,
+      "mentions": 1
+    },
+    {
+      "name": "Nitin Rachabathuni",
+      "type": "PERSON",
+      "salience": 0.00099,
+      "mentions": 1
+    },
+    {
+      "name": "Supply Chain Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000985,
+      "mentions": 1
+    },
+    {
+      "name": "Pradeepa Somasundaram",
+      "type": "PERSON",
+      "salience": 0.000972,
+      "mentions": 1
+    },
+    {
+      "name": "Facebook",
+      "type": "OTHER",
+      "salience": 0.000964,
+      "mentions": 1
+    },
+    {
+      "name": "Share",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000955,
+      "mentions": 1
+    },
+    {
+      "name": "Design",
+      "type": "PERSON",
+      "salience": 0.000939,
+      "mentions": 1
+    },
+    {
+      "name": "Innovation",
+      "type": "OTHER",
+      "salience": 0.000936,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 28",
+      "type": "OTHER",
+      "salience": 0.000929,
+      "mentions": 1
+    },
+    {
+      "name": "Software Warehouses are an essential part of businesses all around",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000921,
+      "mentions": 1
+    },
+    {
+      "name": "with its advanced analytics capabilities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000846,
+      "mentions": 1
+    },
+    {
+      "name": "Career",
+      "type": "OTHER",
+      "salience": 0.000824,
+      "mentions": 1
+    },
+    {
+      "name": "Finance",
+      "type": "OTHER",
+      "salience": 0.000819,
+      "mentions": 1
+    },
+    {
+      "name": "Project Management",
+      "type": "OTHER",
+      "salience": 0.000814,
+      "mentions": 1
+    },
+    {
+      "name": "Consulting",
+      "type": "OTHER",
+      "salience": 0.000778,
+      "mentions": 1
+    },
+    {
+      "name": "Artificial Intelligence",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000772,
+      "mentions": 1
+    },
+    {
+      "name": "Event Planning",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000742,
+      "mentions": 1
+    },
+    {
+      "name": "including Shopify and Bigcommerce.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000668,
+      "mentions": 1
+    },
+    {
+      "name": "E-commerce Integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000651,
+      "mentions": 1
+    },
+    {
+      "name": "Conclusion",
+      "type": "OTHER",
+      "salience": 0.000637,
+      "mentions": 1
+    },
+    {
+      "name": "Dheeraj Chowdary Peddi",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000609,
+      "mentions": 1
+    },
+    {
+      "name": "Kristina Harrington",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000605,
+      "mentions": 1
+    },
+    {
+      "name": "Joseph Alt EMBA",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000603,
+      "mentions": 1
+    },
+    {
+      "name": "Explore content categories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000598,
+      "mentions": 1
+    },
+    {
+      "name": "Education",
+      "type": "OTHER",
+      "salience": 0.000586,
+      "mentions": 1
+    },
+    {
+      "name": "Recruitment",
+      "type": "OTHER",
+      "salience": 0.000578,
+      "mentions": 1
+    },
+    {
+      "name": "Marketing",
+      "type": "OTHER",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "Science",
+      "type": "OTHER",
+      "salience": 0.000568,
+      "mentions": 1
+    },
+    {
+      "name": "Future Of Work",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000564,
+      "mentions": 1
+    },
+    {
+      "name": "Writing",
+      "type": "OTHER",
+      "salience": 0.000561,
+      "mentions": 1
+    },
+    {
+      "name": "Economics",
+      "type": "OTHER",
+      "salience": 0.00056,
+      "mentions": 1
+    },
+    {
+      "name": "Employee Experience",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000557,
+      "mentions": 1
+    },
+    {
+      "name": "Fundraising",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000554,
+      "mentions": 1
+    },
+    {
+      "name": "Networking",
+      "type": "OTHER",
+      "salience": 0.000552,
+      "mentions": 1
+    },
+    {
+      "name": "Corporate Social Responsibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000551,
+      "mentions": 1
+    },
+    {
+      "name": "Negotiation",
+      "type": "OTHER",
+      "salience": 0.000549,
+      "mentions": 1
+    },
+    {
+      "name": "Engineering",
+      "type": "OTHER",
+      "salience": 0.000546,
+      "mentions": 1
+    },
+    {
+      "name": "Hospitality",
+      "type": "OTHER",
+      "salience": 0.000545,
+      "mentions": 1
+    },
+    {
+      "name": "Change Management",
+      "type": "OTHER",
+      "salience": 0.000542,
+      "mentions": 1
+    },
+    {
+      "name": "Organizational Culture",
+      "type": "OTHER",
+      "salience": 0.000541,
+      "mentions": 1
+    },
+    {
+      "name": "HR",
+      "type": "OTHER",
+      "salience": 0.000539,
+      "mentions": 1
+    },
+    {
+      "name": "Training",
+      "type": "OTHER",
+      "salience": 0.000535,
+      "mentions": 1
+    },
+    {
+      "name": "Tourism",
+      "type": "OTHER",
+      "salience": 0.000508,
+      "mentions": 1
+    },
+    {
+      "name": "Development",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000499,
+      "mentions": 1
+    },
+    {
+      "name": "Jamtech Technologies Pvt.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000374,
+      "mentions": 1
+    },
+    {
+      "name": "Ltd.",
+      "type": "OTHER",
+      "salience": 0.000373,
+      "mentions": 1
+    },
+    {
+      "name": "Infomatrix Inc.",
+      "type": "OTHER",
+      "salience": 0.000371,
+      "mentions": 1
+    },
+    {
+      "name": "Blair McCracken",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00037,
+      "mentions": 1
+    },
+    {
+      "name": "karthik satish",
+      "type": "OTHER",
+      "salience": 0.000369,
+      "mentions": 1
+    },
+    {
+      "name": "Amitav Bhattacharjee",
+      "type": "PERSON",
+      "salience": 0.000366,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Jan 20, 2022",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 28, 2022",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "28",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "27",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "360",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2022",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Jan 27, 2022",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "PERSON": 8,
+    "OTHER": 74,
+    "CONSUMER_GOOD": 70,
+    "ORGANIZATION": 4,
+    "NUMBER": 41,
+    "DATE": 3
+  },
+  "type_salience": {
+    "PERSON": 0.10596699999999999,
+    "OTHER": 0.38321500000000014,
+    "CONSUMER_GOOD": 0.4076660000000002,
+    "ORGANIZATION": 0.006561,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

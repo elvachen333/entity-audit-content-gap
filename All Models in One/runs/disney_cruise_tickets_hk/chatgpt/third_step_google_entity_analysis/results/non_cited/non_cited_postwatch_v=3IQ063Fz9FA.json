@@ -1,0 +1,575 @@
+{
+  "file": "non_cited_postwatch_v=3IQ063Fz9FA.txt",
+  "word_count": 86,
+  "entity_count": 91,
+  "entities": [
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.124262,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.082694,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.068196,
+      "mentions": 1
+    },
+    {
+      "name": "优点",
+      "type": "OTHER",
+      "salience": 0.047403,
+      "mentions": 1
+    },
+    {
+      "name": "优缺点大公开",
+      "type": "OTHER",
+      "salience": 0.045343,
+      "mentions": 1
+    },
+    {
+      "name": "钱",
+      "type": "OTHER",
+      "salience": 0.038171,
+      "mentions": 1
+    },
+    {
+      "name": "Uploaded by : 绝代双Q",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.02443,
+      "mentions": 1
+    },
+    {
+      "name": "Uploaded at",
+      "type": "PERSON",
+      "salience": 0.022774,
+      "mentions": 1
+    },
+    {
+      "name": "2024-05-22T04:00:26-07:00",
+      "type": "OTHER",
+      "salience": 0.022774,
+      "mentions": 2
+    },
+    {
+      "name": "Published at",
+      "type": "OTHER",
+      "salience": 0.021407,
+      "mentions": 1
+    },
+    {
+      "name": "美国",
+      "type": "LOCATION",
+      "salience": 0.020753,
+      "mentions": 1
+    },
+    {
+      "name": "Disney Wonder ep.3",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.020753,
+      "mentions": 1
+    },
+    {
+      "name": "https://bit.ly/2J306WC",
+      "type": "OTHER",
+      "salience": 0.020747,
+      "mentions": 1
+    },
+    {
+      "name": "Visibility",
+      "type": "PERSON",
+      "salience": 0.018857,
+      "mentions": 1
+    },
+    {
+      "name": "绝代双Q",
+      "type": "WORK_OF_ART",
+      "salience": 0.015203,
+      "mentions": 1
+    },
+    {
+      "name": "Length",
+      "type": "PERSON",
+      "salience": 0.014416,
+      "mentions": 1
+    },
+    {
+      "name": "https://www.youtube.com/channel/UC",
+      "type": "OTHER",
+      "salience": 0.014145,
+      "mentions": 5
+    },
+    {
+      "name": "https://www.epidemicsound.com/music",
+      "type": "OTHER",
+      "salience": 0.010387,
+      "mentions": 1
+    },
+    {
+      "name": "Instagram",
+      "type": "OTHER",
+      "salience": 0.009508,
+      "mentions": 6
+    },
+    {
+      "name": "Canon EOS R6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00887,
+      "mentions": 1
+    },
+    {
+      "name": "fatlin0617/",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008256,
+      "mentions": 1
+    },
+    {
+      "name": "fatlin0617",
+      "type": "PERSON",
+      "salience": 0.008256,
+      "mentions": 1
+    },
+    {
+      "name": "DJI MIC 剪接软体:Final Cut Pro",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006637,
+      "mentions": 1
+    },
+    {
+      "name": "Gropro 10",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006312,
+      "mentions": 1
+    },
+    {
+      "name": "Canon RF 15-35 f2.8 L IS USM",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006312,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.006225,
+      "mentions": 1
+    },
+    {
+      "name": "miniqliu",
+      "type": "OTHER",
+      "salience": 0.005875,
+      "mentions": 1
+    },
+    {
+      "name": "FB",
+      "type": "OTHER",
+      "salience": 0.005875,
+      "mentions": 1
+    },
+    {
+      "name": "--------------------",
+      "type": "PERSON",
+      "salience": 0.005628,
+      "mentions": 1
+    },
+    {
+      "name": "1HCw/join",
+      "type": "OTHER",
+      "salience": 0.005477,
+      "mentions": 1
+    },
+    {
+      "name": "生活频道",
+      "type": "ORGANIZATION",
+      "salience": 0.005315,
+      "mentions": 1
+    },
+    {
+      "name": "oooliuooo",
+      "type": "OTHER",
+      "salience": 0.005315,
+      "mentions": 1
+    },
+    {
+      "name": "Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005312,
+      "mentions": 1
+    },
+    {
+      "name": "麦克风",
+      "type": "OTHER",
+      "salience": 0.005312,
+      "mentions": 1
+    },
+    {
+      "name": "镜头",
+      "type": "OTHER",
+      "salience": 0.005312,
+      "mentions": 1
+    },
+    {
+      "name": "Views",
+      "type": "OTHER",
+      "salience": 0.005036,
+      "mentions": 1
+    },
+    {
+      "name": "粉丝专页",
+      "type": "OTHER",
+      "salience": 0.004945,
+      "mentions": 1
+    },
+    {
+      "name": "Likes",
+      "type": "OTHER",
+      "salience": 0.00481,
+      "mentions": 1
+    },
+    {
+      "name": "摄影器材",
+      "type": "OTHER",
+      "salience": 0.004806,
+      "mentions": 1
+    },
+    {
+      "name": "会员",
+      "type": "PERSON",
+      "salience": 0.004786,
+      "mentions": 1
+    },
+    {
+      "name": "Category",
+      "type": "OTHER",
+      "salience": 0.004612,
+      "mentions": 1
+    },
+    {
+      "name": "People",
+      "type": "OTHER",
+      "salience": 0.004612,
+      "mentions": 1
+    },
+    {
+      "name": "主频道",
+      "type": "PERSON",
+      "salience": 0.004473,
+      "mentions": 1
+    },
+    {
+      "name": "Description",
+      "type": "OTHER",
+      "salience": 0.004436,
+      "mentions": 1
+    },
+    {
+      "name": "#DisneyWonder",
+      "type": "PERSON",
+      "salience": 0.004135,
+      "mentions": 1
+    },
+    {
+      "name": "#豪华",
+      "type": "PERSON",
+      "salience": 0.004135,
+      "mentions": 1
+    },
+    {
+      "name": "Blogs",
+      "type": "OTHER",
+      "salience": 0.003881,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡",
+      "type": "LOCATION",
+      "salience": 0.003737,
+      "mentions": 2
+    },
+    {
+      "name": "邓紫棋",
+      "type": "PERSON",
+      "salience": 0.003614,
+      "mentions": 1
+    },
+    {
+      "name": "台北大巨蛋",
+      "type": "PERSON",
+      "salience": 0.003592,
+      "mentions": 1
+    },
+    {
+      "name": "音乐",
+      "type": "OTHER",
+      "salience": 0.003477,
+      "mentions": 1
+    },
+    {
+      "name": "Epidemicsound",
+      "type": "OTHER",
+      "salience": 0.00294,
+      "mentions": 1
+    },
+    {
+      "name": "/genres/acoustic/",
+      "type": "OTHER",
+      "salience": 0.00294,
+      "mentions": 1
+    },
+    {
+      "name": "qqfamily0617@gmail.com",
+      "type": "PERSON",
+      "salience": 0.002862,
+      "mentions": 1
+    },
+    {
+      "name": "Endscreen",
+      "type": "OTHER",
+      "salience": 0.00279,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡香格里拉圣淘沙度假村",
+      "type": "LOCATION",
+      "salience": 0.002666,
+      "mentions": 1
+    },
+    {
+      "name": "刘家",
+      "type": "LOCATION",
+      "salience": 0.002659,
+      "mentions": 1
+    },
+    {
+      "name": "台北大巨蛋演唱会",
+      "type": "EVENT",
+      "salience": 0.002556,
+      "mentions": 1
+    },
+    {
+      "name": "版权音乐网站",
+      "type": "OTHER",
+      "salience": 0.002475,
+      "mentions": 1
+    },
+    {
+      "name": "饭店",
+      "type": "LOCATION",
+      "salience": 0.002266,
+      "mentions": 1
+    },
+    {
+      "name": "兄弟",
+      "type": "PERSON",
+      "salience": 0.002238,
+      "mentions": 1
+    },
+    {
+      "name": "鸡皮疙瘩",
+      "type": "OTHER",
+      "salience": 0.002196,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024-05-22T04:00:26-07:00",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "43",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "79807",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "752",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "15",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "35",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2024-05-22T04:00:26-07:00",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 42,
+    "ORGANIZATION": 2,
+    "CONSUMER_GOOD": 8,
+    "PERSON": 13,
+    "LOCATION": 6,
+    "WORK_OF_ART": 1,
+    "EVENT": 1,
+    "NUMBER": 27,
+    "DATE": 2
+  },
+  "type_salience": {
+    "OTHER": 0.5156900000000001,
+    "ORGANIZATION": 0.088009,
+    "CONSUMER_GOOD": 0.086882,
+    "PERSON": 0.09976600000000001,
+    "LOCATION": 0.032081,
+    "WORK_OF_ART": 0.015203,
+    "EVENT": 0.002556,
+    "NUMBER": 0.0,
+    "DATE": 0.0
+  }
+}

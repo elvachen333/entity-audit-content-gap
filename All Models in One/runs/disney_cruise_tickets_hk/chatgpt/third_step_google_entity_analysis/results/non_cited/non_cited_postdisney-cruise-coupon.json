@@ -1,0 +1,3191 @@
+{
+  "file": "non_cited_postdisney-cruise-coupon.txt",
+  "word_count": 457,
+  "entity_count": 527,
+  "entities": [
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.069409,
+      "mentions": 2
+    },
+    {
+      "name": "新加坡迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.054308,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.045722,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.038049,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.037743,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡",
+      "type": "LOCATION",
+      "salience": 0.031366,
+      "mentions": 13
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.025676,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.021364,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.019701,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.019543,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.019505,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.018398,
+      "mentions": 4
+    },
+    {
+      "name": "优惠活动",
+      "type": "OTHER",
+      "salience": 0.017914,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.015421,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.014964,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.014009,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.012757,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.012357,
+      "mentions": 1
+    },
+    {
+      "name": "景点",
+      "type": "LOCATION",
+      "salience": 0.012171,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.011991,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.011655,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.011411,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼邮轮探险号",
+      "type": "OTHER",
+      "salience": 0.011125,
+      "mentions": 1
+    },
+    {
+      "name": "优惠&折扣码",
+      "type": "OTHER",
+      "salience": 0.010509,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.010097,
+      "mentions": 1
+    },
+    {
+      "name": "官网",
+      "type": "OTHER",
+      "salience": 0.00952,
+      "mentions": 1
+    },
+    {
+      "name": "优惠活动",
+      "type": "OTHER",
+      "salience": 0.009271,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.008441,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.0084,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.008188,
+      "mentions": 1
+    },
+    {
+      "name": "评价",
+      "type": "OTHER",
+      "salience": 0.007637,
+      "mentions": 1
+    },
+    {
+      "name": "本文",
+      "type": "OTHER",
+      "salience": 0.007479,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.00641,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.006185,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.005902,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.005213,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮价格",
+      "type": "OTHER",
+      "salience": 0.004926,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.003722,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.003618,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.003413,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.003097,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.003057,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.00305,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.00305,
+      "mentions": 1
+    },
+    {
+      "name": "价格差异",
+      "type": "OTHER",
+      "salience": 0.002975,
+      "mentions": 1
+    },
+    {
+      "name": "销售管道",
+      "type": "OTHER",
+      "salience": 0.002975,
+      "mentions": 1
+    },
+    {
+      "name": "航程资讯",
+      "type": "OTHER",
+      "salience": 0.002975,
+      "mentions": 1
+    },
+    {
+      "name": "KKday",
+      "type": "PERSON",
+      "salience": 0.002961,
+      "mentions": 6
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.002805,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.002762,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.002741,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.00273,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.002681,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.00245,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.002413,
+      "mentions": 1
+    },
+    {
+      "name": "索引",
+      "type": "OTHER",
+      "salience": 0.002404,
+      "mentions": 1
+    },
+    {
+      "name": "Klook/KKday/",
+      "type": "OTHER",
+      "salience": 0.002318,
+      "mentions": 5
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.002298,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.002271,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.002171,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.002095,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮价格",
+      "type": "OTHER",
+      "salience": 0.002046,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.001997,
+      "mentions": 1
+    },
+    {
+      "name": "官网",
+      "type": "OTHER",
+      "salience": 0.001997,
+      "mentions": 1
+    },
+    {
+      "name": "官网",
+      "type": "OTHER",
+      "salience": 0.001997,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.001988,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.001969,
+      "mentions": 1
+    },
+    {
+      "name": "船票价格",
+      "type": "OTHER",
+      "salience": 0.001908,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.001867,
+      "mentions": 1
+    },
+    {
+      "name": "价格",
+      "type": "OTHER",
+      "salience": 0.001867,
+      "mentions": 1
+    },
+    {
+      "name": "官网",
+      "type": "OTHER",
+      "salience": 0.001867,
+      "mentions": 1
+    },
+    {
+      "name": "官网",
+      "type": "OTHER",
+      "salience": 0.001867,
+      "mentions": 1
+    },
+    {
+      "name": "官网",
+      "type": "OTHER",
+      "salience": 0.001867,
+      "mentions": 1
+    },
+    {
+      "name": "母港",
+      "type": "LOCATION",
+      "salience": 0.001804,
+      "mentions": 2
+    },
+    {
+      "name": "邮轮 简介",
+      "type": "OTHER",
+      "salience": 0.001783,
+      "mentions": 1
+    },
+    {
+      "name": "旅行社",
+      "type": "ORGANIZATION",
+      "salience": 0.001751,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001645,
+      "mentions": 1
+    },
+    {
+      "name": "探险号",
+      "type": "OTHER",
+      "salience": 0.001628,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001614,
+      "mentions": 1
+    },
+    {
+      "name": "日本",
+      "type": "LOCATION",
+      "salience": 0.001604,
+      "mentions": 2
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001586,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001579,
+      "mentions": 1
+    },
+    {
+      "name": "船票",
+      "type": "OTHER",
+      "salience": 0.001569,
+      "mentions": 1
+    },
+    {
+      "name": "亚洲",
+      "type": "LOCATION",
+      "salience": 0.001564,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001559,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.001556,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001517,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001509,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001485,
+      "mentions": 1
+    },
+    {
+      "name": "玉山卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001483,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001463,
+      "mentions": 1
+    },
+    {
+      "name": "华南卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001459,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001451,
+      "mentions": 1
+    },
+    {
+      "name": "世界",
+      "type": "LOCATION",
+      "salience": 0.00145,
+      "mentions": 1
+    },
+    {
+      "name": "信用卡",
+      "type": "OTHER",
+      "salience": 0.001446,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001442,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001441,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001425,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.00142,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001417,
+      "mentions": 1
+    },
+    {
+      "name": "玉山卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001415,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001408,
+      "mentions": 1
+    },
+    {
+      "name": "中信卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001403,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001401,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "EVENT",
+      "salience": 0.001397,
+      "mentions": 1
+    },
+    {
+      "name": "彰银卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001394,
+      "mentions": 1
+    },
+    {
+      "name": "全站商品",
+      "type": "OTHER",
+      "salience": 0.001392,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001382,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001363,
+      "mentions": 1
+    },
+    {
+      "name": "台新卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001362,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "EVENT",
+      "salience": 0.00136,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼邮轮",
+      "type": "OTHER",
+      "salience": 0.00136,
+      "mentions": 1
+    },
+    {
+      "name": "华南卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001355,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001346,
+      "mentions": 1
+    },
+    {
+      "name": "VISA卡",
+      "type": "OTHER",
+      "salience": 0.001343,
+      "mentions": 1
+    },
+    {
+      "name": "海外商品",
+      "type": "OTHER",
+      "salience": 0.001329,
+      "mentions": 1
+    },
+    {
+      "name": "联邦卡",
+      "type": "OTHER",
+      "salience": 0.001319,
+      "mentions": 1
+    },
+    {
+      "name": "VISA卡",
+      "type": "OTHER",
+      "salience": 0.001314,
+      "mentions": 1
+    },
+    {
+      "name": "旅行社",
+      "type": "ORGANIZATION",
+      "salience": 0.001286,
+      "mentions": 1
+    },
+    {
+      "name": "台湾",
+      "type": "LOCATION",
+      "salience": 0.001267,
+      "mentions": 2
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.001261,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "OTHER",
+      "salience": 0.001239,
+      "mentions": 1
+    },
+    {
+      "name": "LinePay卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001211,
+      "mentions": 1
+    },
+    {
+      "name": "VISA 卡",
+      "type": "OTHER",
+      "salience": 0.001209,
+      "mentions": 1
+    },
+    {
+      "name": "KKday",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001201,
+      "mentions": 1
+    },
+    {
+      "name": "专营世界邮轮",
+      "type": "OTHER",
+      "salience": 0.001194,
+      "mentions": 1
+    },
+    {
+      "name": "促销活动",
+      "type": "OTHER",
+      "salience": 0.001193,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.001189,
+      "mentions": 1
+    },
+    {
+      "name": "卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00116,
+      "mentions": 1
+    },
+    {
+      "name": "星展卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001156,
+      "mentions": 1
+    },
+    {
+      "name": "站",
+      "type": "LOCATION",
+      "salience": 0.001153,
+      "mentions": 1
+    },
+    {
+      "name": "亚洲航行",
+      "type": "OTHER",
+      "salience": 0.001147,
+      "mentions": 1
+    },
+    {
+      "name": "VISA卡",
+      "type": "OTHER",
+      "salience": 0.001133,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "OTHER",
+      "salience": 0.001133,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.00113,
+      "mentions": 1
+    },
+    {
+      "name": "站",
+      "type": "LOCATION",
+      "salience": 0.001128,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮",
+      "type": "OTHER",
+      "salience": 0.001124,
+      "mentions": 1
+    },
+    {
+      "name": "方案",
+      "type": "OTHER",
+      "salience": 0.00109,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼邮轮优惠方案",
+      "type": "OTHER",
+      "salience": 0.00109,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.001087,
+      "mentions": 1
+    },
+    {
+      "name": "CUBE 卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001063,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "EVENT",
+      "salience": 0.001062,
+      "mentions": 1
+    },
+    {
+      "name": "酒店",
+      "type": "LOCATION",
+      "salience": 0.00106,
+      "mentions": 1
+    },
+    {
+      "name": "方面",
+      "type": "OTHER",
+      "salience": 0.001022,
+      "mentions": 1
+    },
+    {
+      "name": "探险号",
+      "type": "OTHER",
+      "salience": 0.001022,
+      "mentions": 1
+    },
+    {
+      "name": "KKday",
+      "type": "OTHER",
+      "salience": 0.001002,
+      "mentions": 1
+    },
+    {
+      "name": "KLOOK 优惠 & 折扣码",
+      "type": "OTHER",
+      "salience": 0.001001,
+      "mentions": 1
+    },
+    {
+      "name": "美元",
+      "type": "OTHER",
+      "salience": 0.000995,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.000989,
+      "mentions": 1
+    },
+    {
+      "name": "下船",
+      "type": "OTHER",
+      "salience": 0.000965,
+      "mentions": 1
+    },
+    {
+      "name": "公海",
+      "type": "OTHER",
+      "salience": 0.000965,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.00094,
+      "mentions": 1
+    },
+    {
+      "name": "行程",
+      "type": "OTHER",
+      "salience": 0.000936,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000932,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.000923,
+      "mentions": 1
+    },
+    {
+      "name": "迪士尼",
+      "type": "ORGANIZATION",
+      "salience": 0.00092,
+      "mentions": 1
+    },
+    {
+      "name": "体积",
+      "type": "OTHER",
+      "salience": 0.00091,
+      "mentions": 1
+    },
+    {
+      "name": "船票",
+      "type": "OTHER",
+      "salience": 0.000864,
+      "mentions": 1
+    },
+    {
+      "name": "下面",
+      "type": "OTHER",
+      "salience": 0.000838,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.000832,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.00083,
+      "mentions": 1
+    },
+    {
+      "name": "OBC",
+      "type": "OTHER",
+      "salience": 0.000821,
+      "mentions": 1
+    },
+    {
+      "name": "活动连结",
+      "type": "OTHER",
+      "salience": 0.000819,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.000809,
+      "mentions": 1
+    },
+    {
+      "name": "活动连结",
+      "type": "OTHER",
+      "salience": 0.000798,
+      "mentions": 1
+    },
+    {
+      "name": "艾菲尔铁塔优惠",
+      "type": "OTHER",
+      "salience": 0.000769,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.000753,
+      "mentions": 1
+    },
+    {
+      "name": "KKDAY 优惠 & 折扣码",
+      "type": "OTHER",
+      "salience": 0.000749,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.000741,
+      "mentions": 1
+    },
+    {
+      "name": "优惠期限",
+      "type": "OTHER",
+      "salience": 0.000732,
+      "mentions": 1
+    },
+    {
+      "name": "优惠期限",
+      "type": "OTHER",
+      "salience": 0.000714,
+      "mentions": 1
+    },
+    {
+      "name": "Note",
+      "type": "OTHER",
+      "salience": 0.000708,
+      "mentions": 1
+    },
+    {
+      "name": "出发期限",
+      "type": "OTHER",
+      "salience": 0.000705,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000699,
+      "mentions": 1
+    },
+    {
+      "name": "小编",
+      "type": "PERSON",
+      "salience": 0.000675,
+      "mentions": 1
+    },
+    {
+      "name": "通票优惠",
+      "type": "OTHER",
+      "salience": 0.000655,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.000645,
+      "mentions": 1
+    },
+    {
+      "name": "优惠",
+      "type": "OTHER",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "优惠活动分析",
+      "type": "OTHER",
+      "salience": 0.000639,
+      "mentions": 1
+    },
+    {
+      "name": "适用优惠",
+      "type": "OTHER",
+      "salience": 0.000637,
+      "mentions": 1
+    },
+    {
+      "name": "VISA268900302",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000628,
+      "mentions": 1
+    },
+    {
+      "name": "赠品",
+      "type": "OTHER",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "旅游平台",
+      "type": "OTHER",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "活动连结",
+      "type": "OTHER",
+      "salience": 0.000623,
+      "mentions": 1
+    },
+    {
+      "name": "折扣码",
+      "type": "OTHER",
+      "salience": 0.000616,
+      "mentions": 1
+    },
+    {
+      "name": "需求",
+      "type": "OTHER",
+      "salience": 0.000609,
+      "mentions": 1
+    },
+    {
+      "name": "计价",
+      "type": "OTHER",
+      "salience": 0.000596,
+      "mentions": 1
+    },
+    {
+      "name": "可乐",
+      "type": "OTHER",
+      "salience": 0.000596,
+      "mentions": 1
+    },
+    {
+      "name": "东南",
+      "type": "LOCATION",
+      "salience": 0.000596,
+      "mentions": 1
+    },
+    {
+      "name": "问题",
+      "type": "OTHER",
+      "salience": 0.000596,
+      "mentions": 1
+    },
+    {
+      "name": "雄狮",
+      "type": "OTHER",
+      "salience": 0.000596,
+      "mentions": 1
+    },
+    {
+      "name": "酒店",
+      "type": "LOCATION",
+      "salience": 0.000577,
+      "mentions": 1
+    },
+    {
+      "name": "酒店",
+      "type": "LOCATION",
+      "salience": 0.000567,
+      "mentions": 1
+    },
+    {
+      "name": "酒店",
+      "type": "LOCATION",
+      "salience": 0.000567,
+      "mentions": 1
+    },
+    {
+      "name": "优惠期限",
+      "type": "OTHER",
+      "salience": 0.000561,
+      "mentions": 1
+    },
+    {
+      "name": "出发期限",
+      "type": "OTHER",
+      "salience": 0.000561,
+      "mentions": 1
+    },
+    {
+      "name": "OBC",
+      "type": "ORGANIZATION",
+      "salience": 0.000544,
+      "mentions": 1
+    },
+    {
+      "name": "CTBCLP2610",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000538,
+      "mentions": 1
+    },
+    {
+      "name": "OBC",
+      "type": "OTHER",
+      "salience": 0.000536,
+      "mentions": 1
+    },
+    {
+      "name": "OBC",
+      "type": "OTHER",
+      "salience": 0.000536,
+      "mentions": 1
+    },
+    {
+      "name": "AFTEE",
+      "type": "OTHER",
+      "salience": 0.000515,
+      "mentions": 1
+    },
+    {
+      "name": "AFTEE2630003",
+      "type": "OTHER",
+      "salience": 0.00051,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡迪士尼邮轮 航程",
+      "type": "OTHER",
+      "salience": 0.000508,
+      "mentions": 1
+    },
+    {
+      "name": "酒店",
+      "type": "LOCATION",
+      "salience": 0.000507,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮旅行",
+      "type": "OTHER",
+      "salience": 0.000496,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮旅行",
+      "type": "OTHER",
+      "salience": 0.000491,
+      "mentions": 1
+    },
+    {
+      "name": "中信",
+      "type": "LOCATION",
+      "salience": 0.000491,
+      "mentions": 1
+    },
+    {
+      "name": "CTBC2696",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000479,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000476,
+      "mentions": 1
+    },
+    {
+      "name": "中信LinePay卡",
+      "type": "LOCATION",
+      "salience": 0.000476,
+      "mentions": 1
+    },
+    {
+      "name": "CTBCLP264",
+      "type": "OTHER",
+      "salience": 0.000473,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000471,
+      "mentions": 1
+    },
+    {
+      "name": "活动",
+      "type": "EVENT",
+      "salience": 0.000463,
+      "mentions": 1
+    },
+    {
+      "name": "AFTEE",
+      "type": "OTHER",
+      "salience": 0.000444,
+      "mentions": 1
+    },
+    {
+      "name": "AFTEE269503",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000441,
+      "mentions": 1
+    },
+    {
+      "name": "CTBCCI269503",
+      "type": "PERSON",
+      "salience": 0.000436,
+      "mentions": 1
+    },
+    {
+      "name": "船上活动",
+      "type": "OTHER",
+      "salience": 0.000433,
+      "mentions": 1
+    },
+    {
+      "name": "内容物",
+      "type": "OTHER",
+      "salience": 0.000432,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000422,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000415,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000413,
+      "mentions": 1
+    },
+    {
+      "name": "航程",
+      "type": "OTHER",
+      "salience": 0.000411,
+      "mentions": 1
+    },
+    {
+      "name": "航线",
+      "type": "OTHER",
+      "salience": 0.000411,
+      "mentions": 1
+    },
+    {
+      "name": "旅行社",
+      "type": "ORGANIZATION",
+      "salience": 0.000408,
+      "mentions": 1
+    },
+    {
+      "name": "USD300",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000393,
+      "mentions": 1
+    },
+    {
+      "name": "方面",
+      "type": "OTHER",
+      "salience": 0.000361,
+      "mentions": 1
+    },
+    {
+      "name": "优惠方案",
+      "type": "OTHER",
+      "salience": 0.000355,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.000353,
+      "mentions": 1
+    },
+    {
+      "name": "中华邮政",
+      "type": "ORGANIZATION",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "国泰卡",
+      "type": "OTHER",
+      "salience": 0.000347,
+      "mentions": 1
+    },
+    {
+      "name": "POST264000302",
+      "type": "OTHER",
+      "salience": 0.000344,
+      "mentions": 1
+    },
+    {
+      "name": "星展卡",
+      "type": "OTHER",
+      "salience": 0.000341,
+      "mentions": 1
+    },
+    {
+      "name": "DBS2645003",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000338,
+      "mentions": 1
+    },
+    {
+      "name": "FCB268503",
+      "type": "OTHER",
+      "salience": 0.000336,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮消费金",
+      "type": "ORGANIZATION",
+      "salience": 0.000334,
+      "mentions": 1
+    },
+    {
+      "name": "联邦卡",
+      "type": "ORGANIZATION",
+      "salience": 0.000333,
+      "mentions": 1
+    },
+    {
+      "name": "船上消费金",
+      "type": "OTHER",
+      "salience": 0.000331,
+      "mentions": 1
+    },
+    {
+      "name": "方面",
+      "type": "OTHER",
+      "salience": 0.000331,
+      "mentions": 1
+    },
+    {
+      "name": "Village Hotel Bugis",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000331,
+      "mentions": 1
+    },
+    {
+      "name": "价值",
+      "type": "OTHER",
+      "salience": 0.00033,
+      "mentions": 1
+    },
+    {
+      "name": "UBOTTM2625003",
+      "type": "OTHER",
+      "salience": 0.000329,
+      "mentions": 1
+    },
+    {
+      "name": "ESUN333260304",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000327,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.000327,
+      "mentions": 1
+    },
+    {
+      "name": "彰银卡",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000326,
+      "mentions": 1
+    },
+    {
+      "name": "CHB26903",
+      "type": "PERSON",
+      "salience": 0.000323,
+      "mentions": 1
+    },
+    {
+      "name": "HUWNAN2640003",
+      "type": "OTHER",
+      "salience": 0.000322,
+      "mentions": 1
+    },
+    {
+      "name": "折扣",
+      "type": "OTHER",
+      "salience": 0.000315,
+      "mentions": 1
+    },
+    {
+      "name": "折扣",
+      "type": "OTHER",
+      "salience": 0.000314,
+      "mentions": 1
+    },
+    {
+      "name": "ESUN269503",
+      "type": "PERSON",
+      "salience": 0.000312,
+      "mentions": 1
+    },
+    {
+      "name": "USD20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000309,
+      "mentions": 1
+    },
+    {
+      "name": "CHB269503",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000308,
+      "mentions": 1
+    },
+    {
+      "name": "DBS269503",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000303,
+      "mentions": 1
+    },
+    {
+      "name": "中华邮政",
+      "type": "ORGANIZATION",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "HUWNAN269503",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "FCB269503",
+      "type": "OTHER",
+      "salience": 0.000295,
+      "mentions": 1
+    },
+    {
+      "name": "价值",
+      "type": "OTHER",
+      "salience": 0.000295,
+      "mentions": 1
+    },
+    {
+      "name": "UBOT269503",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000291,
+      "mentions": 1
+    },
+    {
+      "name": "EXCUZ1000",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000288,
+      "mentions": 1
+    },
+    {
+      "name": "EXCUZ3000",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "专属礼盒",
+      "type": "OTHER",
+      "salience": 0.000284,
+      "mentions": 1
+    },
+    {
+      "name": "国泰",
+      "type": "LOCATION",
+      "salience": 0.000281,
+      "mentions": 1
+    },
+    {
+      "name": "交通",
+      "type": "OTHER",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "评价",
+      "type": "OTHER",
+      "salience": 0.000278,
+      "mentions": 1
+    },
+    {
+      "name": "折扣码",
+      "type": "OTHER",
+      "salience": 0.000275,
+      "mentions": 1
+    },
+    {
+      "name": "活动连结",
+      "type": "OTHER",
+      "salience": 0.000271,
+      "mentions": 1
+    },
+    {
+      "name": "社团连结",
+      "type": "OTHER",
+      "salience": 0.00027,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.000258,
+      "mentions": 1
+    },
+    {
+      "name": "专营 邮轮船票代订服务",
+      "type": "OTHER",
+      "salience": 0.000256,
+      "mentions": 1
+    },
+    {
+      "name": "家",
+      "type": "LOCATION",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "优惠码",
+      "type": "OTHER",
+      "salience": 0.000252,
+      "mentions": 1
+    },
+    {
+      "name": "礼盒",
+      "type": "OTHER",
+      "salience": 0.000249,
+      "mentions": 1
+    },
+    {
+      "name": "最低额",
+      "type": "OTHER",
+      "salience": 0.000245,
+      "mentions": 1
+    },
+    {
+      "name": "CUBALL269503",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000244,
+      "mentions": 1
+    },
+    {
+      "name": "出发期限",
+      "type": "OTHER",
+      "salience": 0.000244,
+      "mentions": 1
+    },
+    {
+      "name": "优惠期限",
+      "type": "OTHER",
+      "salience": 0.000244,
+      "mentions": 1
+    },
+    {
+      "name": "官网",
+      "type": "OTHER",
+      "salience": 0.00024,
+      "mentions": 1
+    },
+    {
+      "name": "Vibe Hotel Singapore Orchard",
+      "type": "LOCATION",
+      "salience": 0.000235,
+      "mentions": 1
+    },
+    {
+      "name": "Village Hotel Changi",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000235,
+      "mentions": 1
+    },
+    {
+      "name": "人",
+      "type": "PERSON",
+      "salience": 0.000234,
+      "mentions": 1
+    },
+    {
+      "name": "OBC",
+      "type": "ORGANIZATION",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "新光三越",
+      "type": "ORGANIZATION",
+      "salience": 0.000227,
+      "mentions": 1
+    },
+    {
+      "name": "VSKB269303",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000226,
+      "mentions": 1
+    },
+    {
+      "name": "FUBON2696",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "富邦",
+      "type": "LOCATION",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "SINO2696",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000217,
+      "mentions": 1
+    },
+    {
+      "name": "永丰卡",
+      "type": "PERSON",
+      "salience": 0.000217,
+      "mentions": 1
+    },
+    {
+      "name": "TSB2696",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000214,
+      "mentions": 1
+    },
+    {
+      "name": "酒店",
+      "type": "LOCATION",
+      "salience": 0.000205,
+      "mentions": 1
+    },
+    {
+      "name": "中信华航无限卡",
+      "type": "ORGANIZATION",
+      "salience": 0.000203,
+      "mentions": 1
+    },
+    {
+      "name": "金额",
+      "type": "OTHER",
+      "salience": 0.000203,
+      "mentions": 1
+    },
+    {
+      "name": "全站体验",
+      "type": "OTHER",
+      "salience": 0.000199,
+      "mentions": 1
+    },
+    {
+      "name": "步步旅行社",
+      "type": "ORGANIZATION",
+      "salience": 0.000199,
+      "mentions": 1
+    },
+    {
+      "name": "消费",
+      "type": "OTHER",
+      "salience": 0.000197,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮达人",
+      "type": "PERSON",
+      "salience": 0.000197,
+      "mentions": 1
+    },
+    {
+      "name": "舱门小装饰",
+      "type": "OTHER",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "笔记本",
+      "type": "OTHER",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "房卡套",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "数量",
+      "type": "OTHER",
+      "salience": 0.000191,
+      "mentions": 1
+    },
+    {
+      "name": "电子礼券",
+      "type": "OTHER",
+      "salience": 0.000187,
+      "mentions": 1
+    },
+    {
+      "name": "订单总价",
+      "type": "OTHER",
+      "salience": 0.000179,
+      "mentions": 1
+    },
+    {
+      "name": "权益",
+      "type": "OTHER",
+      "salience": 0.000168,
+      "mentions": 1
+    },
+    {
+      "name": "USD300",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000164,
+      "mentions": 1
+    },
+    {
+      "name": "特色景点",
+      "type": "LOCATION",
+      "salience": 0.000154,
+      "mentions": 1
+    },
+    {
+      "name": "景点",
+      "type": "LOCATION",
+      "salience": 0.000154,
+      "mentions": 1
+    },
+    {
+      "name": "中储存",
+      "type": "OTHER",
+      "salience": 0.000143,
+      "mentions": 1
+    },
+    {
+      "name": "中",
+      "type": "LOCATION",
+      "salience": 0.00013,
+      "mentions": 1
+    },
+    {
+      "name": "门票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000126,
+      "mentions": 1
+    },
+    {
+      "name": "门票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000124,
+      "mentions": 1
+    },
+    {
+      "name": "sources: disney cruise",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000122,
+      "mentions": 1
+    },
+    {
+      "name": "sources:",
+      "type": "ORGANIZATION",
+      "salience": 0.000121,
+      "mentions": 1
+    },
+    {
+      "name": "服务",
+      "type": "OTHER",
+      "salience": 0.00012,
+      "mentions": 1
+    },
+    {
+      "name": "门票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00012,
+      "mentions": 1
+    },
+    {
+      "name": "万豪",
+      "type": "LOCATION",
+      "salience": 0.00012,
+      "mentions": 2
+    },
+    {
+      "name": "万豪集团",
+      "type": "ORGANIZATION",
+      "salience": 0.00012,
+      "mentions": 1
+    },
+    {
+      "name": "新加坡通票",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "Singapore Pass",
+      "type": "PERSON",
+      "salience": 0.000119,
+      "mentions": 1
+    },
+    {
+      "name": "艾菲尔铁塔",
+      "type": "PERSON",
+      "salience": 0.000118,
+      "mentions": 1
+    },
+    {
+      "name": "九族文化村",
+      "type": "LOCATION",
+      "salience": 0.000117,
+      "mentions": 2
+    },
+    {
+      "name": "Your Comment",
+      "type": "OTHER",
+      "salience": 0.000114,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 0.000113,
+      "mentions": 1
+    },
+    {
+      "name": "社团",
+      "type": "ORGANIZATION",
+      "salience": 0.000107,
+      "mentions": 1
+    },
+    {
+      "name": "活动说明",
+      "type": "OTHER",
+      "salience": 0.000106,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮公司",
+      "type": "ORGANIZATION",
+      "salience": 0.000104,
+      "mentions": 1
+    },
+    {
+      "name": "简介",
+      "type": "OTHER",
+      "salience": 0.000103,
+      "mentions": 1
+    },
+    {
+      "name": "公告",
+      "type": "OTHER",
+      "salience": 0.000103,
+      "mentions": 1
+    },
+    {
+      "name": "海上",
+      "type": "LOCATION",
+      "salience": 0.000102,
+      "mentions": 1
+    },
+    {
+      "name": "景点地图",
+      "type": "OTHER",
+      "salience": 0.000101,
+      "mentions": 1
+    },
+    {
+      "name": "邮轮特色",
+      "type": "OTHER",
+      "salience": 0.000101,
+      "mentions": 1
+    },
+    {
+      "name": "交通",
+      "type": "OTHER",
+      "salience": 9.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Comments",
+      "type": "OTHER",
+      "salience": 9.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "电子邮件地址",
+      "type": "OTHER",
+      "salience": 9.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "梦幻海上乐园",
+      "type": "LOCATION",
+      "salience": 8.6e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Previous Article",
+      "type": "OTHER",
+      "salience": 8.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "巴黎",
+      "type": "LOCATION",
+      "salience": 8.4e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Next Article",
+      "type": "OTHER",
+      "salience": 8.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "日月潭",
+      "type": "LOCATION",
+      "salience": 8.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Required fields are marked",
+      "type": "CONSUMER_GOOD",
+      "salience": 8.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Name",
+      "type": "OTHER",
+      "salience": 8.1e-05,
+      "mentions": 1
+    },
+    {
+      "name": "文",
+      "type": "OTHER",
+      "salience": 7.8e-05,
+      "mentions": 1
+    },
+    {
+      "name": "社群",
+      "type": "OTHER",
+      "salience": 7.5e-05,
+      "mentions": 1
+    },
+    {
+      "name": "延伸阅读",
+      "type": "OTHER",
+      "salience": 7.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "大小朋友",
+      "type": "PERSON",
+      "salience": 7.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "船型",
+      "type": "OTHER",
+      "salience": 7.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "列表",
+      "type": "OTHER",
+      "salience": 7.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "费用",
+      "type": "OTHER",
+      "salience": 7.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "房型",
+      "type": "OTHER",
+      "salience": 7.2e-05,
+      "mentions": 1
+    },
+    {
+      "name": "缆车",
+      "type": "OTHER",
+      "salience": 7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "ago",
+      "type": "OTHER",
+      "salience": 6.9e-05,
+      "mentions": 1
+    },
+    {
+      "name": "Website",
+      "type": "OTHER",
+      "salience": 6.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "浏览器",
+      "type": "CONSUMER_GOOD",
+      "salience": 6.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "名称",
+      "type": "OTHER",
+      "salience": 6.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "网站",
+      "type": "OTHER",
+      "salience": 6.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "网址",
+      "type": "OTHER",
+      "salience": 6.7e-05,
+      "mentions": 1
+    },
+    {
+      "name": "人气地标",
+      "type": "OTHER",
+      "salience": 3.3e-05,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2028",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026 年4 月30 日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026 年12 月31 日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027 年1 月9 日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026/03/31",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027 年9 月30 日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026/04/30",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026/04/30",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026/04/07",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027 年9 月30 日",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025 年",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026 年",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027/9/2",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027/01/09",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "USD20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "USD300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "USD20",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "USD300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$150",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$400",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$250",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$150",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$2,500",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$400",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$450",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$4,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$333",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$5,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$400",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$30,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$1,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$50,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$3,000",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "USD300",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026/3/10",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2028",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2029",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "96",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "89",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "150",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "85",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "85",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "250",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "150",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "03",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027/8/30",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "450",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "300",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "333",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "400",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "93",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "95",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "96",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "96",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "96",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "96",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "98",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "04",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "07",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026/4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026/9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026/10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2027",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "01",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "09",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "三",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "一",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "四",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "二",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "ORGANIZATION": 35,
+    "OTHER": 227,
+    "LOCATION": 48,
+    "PERSON": 27,
+    "CONSUMER_GOOD": 43,
+    "EVENT": 4,
+    "NUMBER": 132,
+    "DATE": 16,
+    "PRICE": 25
+  },
+  "type_salience": {
+    "ORGANIZATION": 0.23437299999999997,
+    "OTHER": 0.5673590000000005,
+    "LOCATION": 0.06056899999999999,
+    "PERSON": 0.029158999999999997,
+    "CONSUMER_GOOD": 0.02401800000000001,
+    "EVENT": 0.004282,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

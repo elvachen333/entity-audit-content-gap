@@ -1,0 +1,587 @@
+{
+  "file": "non_cited_postecommerce-returns-management-software.txt",
+  "word_count": 835,
+  "entity_count": 94,
+  "entities": [
+    {
+      "name": "Customer service",
+      "type": "OTHER",
+      "salience": 0.110021,
+      "mentions": 1
+    },
+    {
+      "name": "The Growing Challenge of eCommerce Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.103897,
+      "mentions": 1
+    },
+    {
+      "name": "and so are returns.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.103867,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce Support Central",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.098429,
+      "mentions": 1
+    },
+    {
+      "name": "The Growing Challenge of eCommerce Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.049048,
+      "mentions": 1
+    },
+    {
+      "name": "Contents",
+      "type": "OTHER",
+      "salience": 0.044175,
+      "mentions": 1
+    },
+    {
+      "name": "With the right returns management strategies",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.041745,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Automation",
+      "type": "OTHER",
+      "salience": 0.030462,
+      "mentions": 1
+    },
+    {
+      "name": "Return Merchandise Authorization",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.028978,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features of Effective Returns Management Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026517,
+      "mentions": 1
+    },
+    {
+      "name": "Turn Returns into Opportunities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021992,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Automation Through Integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018927,
+      "mentions": 1
+    },
+    {
+      "name": "even brand-building",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.017372,
+      "mentions": 1
+    },
+    {
+      "name": "experience.",
+      "type": "OTHER",
+      "salience": 0.017372,
+      "mentions": 1
+    },
+    {
+      "name": "the key features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.016661,
+      "mentions": 1
+    },
+    {
+      "name": "The best platforms incorporate automation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014582,
+      "mentions": 1
+    },
+    {
+      "name": "Returnly",
+      "type": "OTHER",
+      "salience": 0.012535,
+      "mentions": 1
+    },
+    {
+      "name": "Last updated: January 26",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011524,
+      "mentions": 1
+    },
+    {
+      "name": "A branded",
+      "type": "OTHER",
+      "salience": 0.011494,
+      "mentions": 1
+    },
+    {
+      "name": "Published:April 29",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01107,
+      "mentions": 1
+    },
+    {
+      "name": "inventory management",
+      "type": "OTHER",
+      "salience": 0.010048,
+      "mentions": 1
+    },
+    {
+      "name": "retailers can turn returns into a seamless",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009986,
+      "mentions": 1
+    },
+    {
+      "name": "And other Shopify returns app solutions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007816,
+      "mentions": 1
+    },
+    {
+      "name": "right",
+      "type": "OTHER",
+      "salience": 0.007585,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.007433,
+      "mentions": 1
+    },
+    {
+      "name": "management",
+      "type": "OTHER",
+      "salience": 0.007062,
+      "mentions": 1
+    },
+    {
+      "name": "Frustrated customers",
+      "type": "OTHER",
+      "salience": 0.006968,
+      "mentions": 1
+    },
+    {
+      "name": "Negative reviews",
+      "type": "OTHER",
+      "salience": 0.006833,
+      "mentions": 1
+    },
+    {
+      "name": "Higher operational costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006705,
+      "mentions": 1
+    },
+    {
+      "name": "Decreased customer retention",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006584,
+      "mentions": 1
+    },
+    {
+      "name": "Depressing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006471,
+      "mentions": 1
+    },
+    {
+      "name": "support requests",
+      "type": "OTHER",
+      "salience": 0.005755,
+      "mentions": 1
+    },
+    {
+      "name": "and customer-centric tools.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005572,
+      "mentions": 1
+    },
+    {
+      "name": "damage control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005436,
+      "mentions": 1
+    },
+    {
+      "name": "Automating the returns approval process",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005277,
+      "mentions": 1
+    },
+    {
+      "name": "or route return-related tickets",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005212,
+      "mentions": 1
+    },
+    {
+      "name": "Refund Processing and Status Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004273,
+      "mentions": 1
+    },
+    {
+      "name": "How do I return this",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004241,
+      "mentions": 1
+    },
+    {
+      "name": "Where's my refund",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004198,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features of Effective Returns Management Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004151,
+      "mentions": 1
+    },
+    {
+      "name": "Exchange Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003836,
+      "mentions": 1
+    },
+    {
+      "name": "data",
+      "type": "OTHER",
+      "salience": 0.003757,
+      "mentions": 1
+    },
+    {
+      "name": "communication.",
+      "type": "OTHER",
+      "salience": 0.003479,
+      "mentions": 3
+    },
+    {
+      "name": "Fast",
+      "type": "OTHER",
+      "salience": 0.003063,
+      "mentions": 1
+    },
+    {
+      "name": "label generation",
+      "type": "OTHER",
+      "salience": 0.003032,
+      "mentions": 1
+    },
+    {
+      "name": "RMA Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002922,
+      "mentions": 1
+    },
+    {
+      "name": "marketplaces",
+      "type": "OTHER",
+      "salience": 0.002913,
+      "mentions": 1
+    },
+    {
+      "name": "Self-Service Returns Portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002657,
+      "mentions": 1
+    },
+    {
+      "name": "self-service",
+      "type": "OTHER",
+      "salience": 0.002629,
+      "mentions": 1
+    },
+    {
+      "name": "Here's how",
+      "type": "PERSON",
+      "salience": 0.002495,
+      "mentions": 1
+    },
+    {
+      "name": "Author",
+      "type": "OTHER",
+      "salience": 0.002493,
+      "mentions": 1
+    },
+    {
+      "name": "Where's my refund",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002437,
+      "mentions": 1
+    },
+    {
+      "name": "prioritize",
+      "type": "OTHER",
+      "salience": 0.002166,
+      "mentions": 1
+    },
+    {
+      "name": "personalized responses",
+      "type": "OTHER",
+      "salience": 0.002109,
+      "mentions": 1
+    },
+    {
+      "name": "more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002002,
+      "mentions": 1
+    },
+    {
+      "name": "Ann O'Sullivan",
+      "type": "OTHER",
+      "salience": 0.001971,
+      "mentions": 1
+    },
+    {
+      "name": "Ann is a customer support whisperer who can navigate Amazon",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001961,
+      "mentions": 1
+    },
+    {
+      "name": "like",
+      "type": "OTHER",
+      "salience": 0.001936,
+      "mentions": 1
+    },
+    {
+      "name": "and social channels.",
+      "type": "OTHER",
+      "salience": 0.001936,
+      "mentions": 1
+    },
+    {
+      "name": "across email",
+      "type": "OTHER",
+      "salience": 0.001936,
+      "mentions": 1
+    },
+    {
+      "name": "Encouraging",
+      "type": "OTHER",
+      "salience": 0.001826,
+      "mentions": 1
+    },
+    {
+      "name": "transparent",
+      "type": "OTHER",
+      "salience": 0.00176,
+      "mentions": 1
+    },
+    {
+      "name": "minimizing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001744,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00157,
+      "mentions": 1
+    },
+    {
+      "name": "Turn Returns into Opportunities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001552,
+      "mentions": 1
+    },
+    {
+      "name": "with no credit card and no obligation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00144,
+      "mentions": 1
+    },
+    {
+      "name": "eBay",
+      "type": "ORGANIZATION",
+      "salience": 0.001418,
+      "mentions": 1
+    },
+    {
+      "name": "Unified Ticket Management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001411,
+      "mentions": 1
+    },
+    {
+      "name": "chat",
+      "type": "OTHER",
+      "salience": 0.0014,
+      "mentions": 1
+    },
+    {
+      "name": "Can I exchange?''.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0014,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00127,
+      "mentions": 1
+    },
+    {
+      "name": "Instead",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00122,
+      "mentions": 1
+    },
+    {
+      "name": "loyalty",
+      "type": "OTHER",
+      "salience": 0.00122,
+      "mentions": 1
+    },
+    {
+      "name": "more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001213,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns Center",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000908,
+      "mentions": 1
+    },
+    {
+      "name": "April 29, 2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "January 26, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "26",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "360",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "OTHER": 32,
+    "CONSUMER_GOOD": 43,
+    "PERSON": 1,
+    "ORGANIZATION": 1,
+    "DATE": 2,
+    "NUMBER": 17
+  },
+  "type_salience": {
+    "OTHER": 0.31736899999999996,
+    "CONSUMER_GOOD": 0.6700740000000001,
+    "PERSON": 0.002495,
+    "ORGANIZATION": 0.001418,
+    "DATE": 0.0,
+    "NUMBER": 0.0
+  }
+}

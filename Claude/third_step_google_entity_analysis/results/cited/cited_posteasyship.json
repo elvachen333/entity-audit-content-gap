@@ -1,0 +1,2157 @@
+{
+  "file": "cited_posteasyship.txt",
+  "word_count": 1173,
+  "entity_count": 355,
+  "entities": [
+    {
+      "name": "All in One Shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.049321,
+      "mentions": 1
+    },
+    {
+      "name": "Apps by category",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.035745,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "PERSON",
+      "salience": 0.032999,
+      "mentions": 1
+    },
+    {
+      "name": "Store design",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.030726,
+      "mentions": 1
+    },
+    {
+      "name": "Store management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.026903,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.023958,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship1.05K subscribers",
+      "type": "OTHER",
+      "salience": 0.023597,
+      "mentions": 1
+    },
+    {
+      "name": "Orders and shipping",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.023484,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.022022,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship1.05K subscribers",
+      "type": "OTHER",
+      "salience": 0.021745,
+      "mentions": 1
+    },
+    {
+      "name": "App stories",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.021012,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.020508,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship1.05K subscribers",
+      "type": "OTHER",
+      "salience": 0.020287,
+      "mentions": 1
+    },
+    {
+      "name": "Sales channels",
+      "type": "OTHER",
+      "salience": 0.018757,
+      "mentions": 1
+    },
+    {
+      "name": "More stories",
+      "type": "OTHER",
+      "salience": 0.017048,
+      "mentions": 1
+    },
+    {
+      "name": "Rating4.1",
+      "type": "OTHER",
+      "salience": 0.012883,
+      "mentions": 1
+    },
+    {
+      "name": "Marketing and conversion",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012567,
+      "mentions": 1
+    },
+    {
+      "name": "Finding products",
+      "type": "OTHER",
+      "salience": 0.012358,
+      "mentions": 1
+    },
+    {
+      "name": "Featured images gallery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011926,
+      "mentions": 1
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "salience": 0.010835,
+      "mentions": 1
+    },
+    {
+      "name": "tracking",
+      "type": "OTHER",
+      "salience": 0.009887,
+      "mentions": 1
+    },
+    {
+      "name": "labels",
+      "type": "OTHER",
+      "salience": 0.009887,
+      "mentions": 2
+    },
+    {
+      "name": "Meet Easyship",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008812,
+      "mentions": 1
+    },
+    {
+      "name": "Meet Easyship",
+      "type": "OTHER",
+      "salience": 0.008526,
+      "mentions": 1
+    },
+    {
+      "name": "Show rates",
+      "type": "OTHER",
+      "salience": 0.008338,
+      "mentions": 1
+    },
+    {
+      "name": "Meet Easyship",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008032,
+      "mentions": 1
+    },
+    {
+      "name": "tracking and returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007873,
+      "mentions": 1
+    },
+    {
+      "name": "Selling products",
+      "type": "OTHER",
+      "salience": 0.007824,
+      "mentions": 1
+    },
+    {
+      "name": "Meet Easyship",
+      "type": "OTHER",
+      "salience": 0.007816,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping",
+      "type": "OTHER",
+      "salience": 0.007814,
+      "mentions": 5
+    },
+    {
+      "name": "Log in",
+      "type": "OTHER",
+      "salience": 0.007632,
+      "mentions": 2
+    },
+    {
+      "name": "duties at checkout",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007589,
+      "mentions": 1
+    },
+    {
+      "name": "tracking",
+      "type": "OTHER",
+      "salience": 0.007492,
+      "mentions": 1
+    },
+    {
+      "name": "Meet Easyship",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007435,
+      "mentions": 1
+    },
+    {
+      "name": "Manage orders",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007295,
+      "mentions": 1
+    },
+    {
+      "name": "Meet Easyship",
+      "type": "OTHER",
+      "salience": 0.007265,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping insurance",
+      "type": "OTHER",
+      "salience": 0.007206,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.007175,
+      "mentions": 2
+    },
+    {
+      "name": "Shipping rules",
+      "type": "OTHER",
+      "salience": 0.007168,
+      "mentions": 1
+    },
+    {
+      "name": "hundreds more",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.007112,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping rates",
+      "type": "OTHER",
+      "salience": 0.006987,
+      "mentions": 1
+    },
+    {
+      "name": "insurance with 24/7 support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006942,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping analytics",
+      "type": "OTHER",
+      "salience": 0.006756,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping rates",
+      "type": "OTHER",
+      "salience": 0.006725,
+      "mentions": 1
+    },
+    {
+      "name": "duties at checkout.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006213,
+      "mentions": 1
+    },
+    {
+      "name": "duties",
+      "type": "OTHER",
+      "salience": 0.00609,
+      "mentions": 1
+    },
+    {
+      "name": "Developer Easyship",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006067,
+      "mentions": 1
+    },
+    {
+      "name": "Install",
+      "type": "OTHER",
+      "salience": 0.005949,
+      "mentions": 1
+    },
+    {
+      "name": "Carriers: Compare",
+      "type": "PERSON",
+      "salience": 0.005901,
+      "mentions": 1
+    },
+    {
+      "name": "Checkout: Add calculated rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005763,
+      "mentions": 1
+    },
+    {
+      "name": "returns.",
+      "type": "OTHER",
+      "salience": 0.005678,
+      "mentions": 1
+    },
+    {
+      "name": "YouTube",
+      "type": "OTHER",
+      "salience": 0.005634,
+      "mentions": 1
+    },
+    {
+      "name": "live rates",
+      "type": "OTHER",
+      "salience": 0.005583,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Automation Rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005362,
+      "mentions": 1
+    },
+    {
+      "name": "Discounted shipping rates",
+      "type": "OTHER",
+      "salience": 0.005264,
+      "mentions": 1
+    },
+    {
+      "name": "Automation",
+      "type": "OTHER",
+      "salience": 0.005261,
+      "mentions": 1
+    },
+    {
+      "name": "tax",
+      "type": "OTHER",
+      "salience": 0.005212,
+      "mentions": 2
+    },
+    {
+      "name": "Shipping API",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005143,
+      "mentions": 1
+    },
+    {
+      "name": "YouTube",
+      "type": "OTHER",
+      "salience": 0.005135,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-Box Shipments",
+      "type": "OTHER",
+      "salience": 0.005128,
+      "mentions": 1
+    },
+    {
+      "name": "YouTube",
+      "type": "OTHER",
+      "salience": 0.004753,
+      "mentions": 1
+    },
+    {
+      "name": "shipping rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004651,
+      "mentions": 1
+    },
+    {
+      "name": "returns",
+      "type": "OTHER",
+      "salience": 0.004615,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping API",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004175,
+      "mentions": 1
+    },
+    {
+      "name": "DHL",
+      "type": "ORGANIZATION",
+      "salience": 0.004086,
+      "mentions": 1
+    },
+    {
+      "name": "Close",
+      "type": "OTHER",
+      "salience": 0.003822,
+      "mentions": 1
+    },
+    {
+      "name": "simple automation and smart box selection.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003602,
+      "mentions": 1
+    },
+    {
+      "name": "Instantly compare the cheapest rates",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003537,
+      "mentions": 1
+    },
+    {
+      "name": "Rate calculation",
+      "type": "OTHER",
+      "salience": 0.003453,
+      "mentions": 1
+    },
+    {
+      "name": "Fulfill faster with one-click batch label printing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003363,
+      "mentions": 1
+    },
+    {
+      "name": "View demo store",
+      "type": "OTHER",
+      "salience": 0.003354,
+      "mentions": 1
+    },
+    {
+      "name": "Fulfillment: Generate labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003337,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "OTHER",
+      "salience": 0.002911,
+      "mentions": 1
+    },
+    {
+      "name": "free shipping credits.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002882,
+      "mentions": 1
+    },
+    {
+      "name": "fastest delivery times",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002811,
+      "mentions": 1
+    },
+    {
+      "name": "Easyship",
+      "type": "PERSON",
+      "salience": 0.002777,
+      "mentions": 1
+    },
+    {
+      "name": "free shipping credits.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00274,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.002716,
+      "mentions": 2
+    },
+    {
+      "name": "USPS",
+      "type": "ORGANIZATION",
+      "salience": 0.002716,
+      "mentions": 2
+    },
+    {
+      "name": "Canada",
+      "type": "LOCATION",
+      "salience": 0.002694,
+      "mentions": 1
+    },
+    {
+      "name": "Australia",
+      "type": "LOCATION",
+      "salience": 0.002694,
+      "mentions": 1
+    },
+    {
+      "name": "Previous",
+      "type": "OTHER",
+      "salience": 0.002583,
+      "mentions": 1
+    },
+    {
+      "name": "Labels and packaging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002579,
+      "mentions": 1
+    },
+    {
+      "name": "Label creation",
+      "type": "OTHER",
+      "salience": 0.002563,
+      "mentions": 1
+    },
+    {
+      "name": "Next",
+      "type": "ORGANIZATION",
+      "salience": 0.002556,
+      "mentions": 1
+    },
+    {
+      "name": "Label customization",
+      "type": "OTHER",
+      "salience": 0.002548,
+      "mentions": 1
+    },
+    {
+      "name": "Customs documents",
+      "type": "OTHER",
+      "salience": 0.00249,
+      "mentions": 1
+    },
+    {
+      "name": "free shipping credits.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002225,
+      "mentions": 1
+    },
+    {
+      "name": "Show features",
+      "type": "OTHER",
+      "salience": 0.002224,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-language",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002199,
+      "mentions": 1
+    },
+    {
+      "name": "Managing shipments",
+      "type": "OTHER",
+      "salience": 0.002166,
+      "mentions": 1
+    },
+    {
+      "name": "Customization",
+      "type": "OTHER",
+      "salience": 0.002138,
+      "mentions": 1
+    },
+    {
+      "name": "Custom notifications",
+      "type": "OTHER",
+      "salience": 0.00213,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking pages",
+      "type": "OTHER",
+      "salience": 0.002121,
+      "mentions": 1
+    },
+    {
+      "name": "Custom rules",
+      "type": "OTHER",
+      "salience": 0.00208,
+      "mentions": 1
+    },
+    {
+      "name": "Order sync",
+      "type": "OTHER",
+      "salience": 0.002031,
+      "mentions": 1
+    },
+    {
+      "name": "all in one dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002015,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-zone",
+      "type": "OTHER",
+      "salience": 0.001998,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-origin",
+      "type": "OTHER",
+      "salience": 0.001989,
+      "mentions": 1
+    },
+    {
+      "name": "Order sync",
+      "type": "OTHER",
+      "salience": 0.001981,
+      "mentions": 1
+    },
+    {
+      "name": "UK",
+      "type": "LOCATION",
+      "salience": 0.001948,
+      "mentions": 2
+    },
+    {
+      "name": "Order updates",
+      "type": "OTHER",
+      "salience": 0.001944,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-currency",
+      "type": "OTHER",
+      "salience": 0.001935,
+      "mentions": 1
+    },
+    {
+      "name": "Show features",
+      "type": "OTHER",
+      "salience": 0.001917,
+      "mentions": 1
+    },
+    {
+      "name": "DDP",
+      "type": "OTHER",
+      "salience": 0.001895,
+      "mentions": 1
+    },
+    {
+      "name": "Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001885,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier selection",
+      "type": "OTHER",
+      "salience": 0.00183,
+      "mentions": 1
+    },
+    {
+      "name": "EU",
+      "type": "OTHER",
+      "salience": 0.001816,
+      "mentions": 1
+    },
+    {
+      "name": "Asia",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001816,
+      "mentions": 1
+    },
+    {
+      "name": "Customization",
+      "type": "OTHER",
+      "salience": 0.001808,
+      "mentions": 1
+    },
+    {
+      "name": "Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001784,
+      "mentions": 1
+    },
+    {
+      "name": "Show more",
+      "type": "OTHER",
+      "salience": 0.00178,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier-based",
+      "type": "OTHER",
+      "salience": 0.001714,
+      "mentions": 1
+    },
+    {
+      "name": "Order Sync",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001714,
+      "mentions": 1
+    },
+    {
+      "name": "Store URL",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00171,
+      "mentions": 1
+    },
+    {
+      "name": "Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001708,
+      "mentions": 1
+    },
+    {
+      "name": "Email Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001665,
+      "mentions": 1
+    },
+    {
+      "name": "Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001626,
+      "mentions": 1
+    },
+    {
+      "name": "Phone Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001589,
+      "mentions": 1
+    },
+    {
+      "name": "Return labels",
+      "type": "OTHER",
+      "salience": 0.001525,
+      "mentions": 1
+    },
+    {
+      "name": "App support provided by Easyship.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00148,
+      "mentions": 1
+    },
+    {
+      "name": "DHL Express",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001445,
+      "mentions": 2
+    },
+    {
+      "name": "Email notifications",
+      "type": "OTHER",
+      "salience": 0.001412,
+      "mentions": 1
+    },
+    {
+      "name": "Customer Success Manager",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0014,
+      "mentions": 1
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001385,
+      "mentions": 1
+    },
+    {
+      "name": "Support",
+      "type": "OTHER",
+      "salience": 0.001374,
+      "mentions": 1
+    },
+    {
+      "name": "Product-based",
+      "type": "OTHER",
+      "salience": 0.00135,
+      "mentions": 1
+    },
+    {
+      "name": "Duties At Checkout",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001344,
+      "mentions": 1
+    },
+    {
+      "name": "More apps like this",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001344,
+      "mentions": 1
+    },
+    {
+      "name": "Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001318,
+      "mentions": 1
+    },
+    {
+      "name": "Helpful",
+      "type": "OTHER",
+      "salience": 0.001307,
+      "mentions": 1
+    },
+    {
+      "name": "month",
+      "type": "OTHER",
+      "salience": 0.001306,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-Location Global Account",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001304,
+      "mentions": 1
+    },
+    {
+      "name": "Phone Support",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001291,
+      "mentions": 1
+    },
+    {
+      "name": "duties at checkout to boost sales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001281,
+      "mentions": 1
+    },
+    {
+      "name": "Auto Sync",
+      "type": "OTHER",
+      "salience": 0.001264,
+      "mentions": 1
+    },
+    {
+      "name": "Up To",
+      "type": "PERSON",
+      "salience": 0.001244,
+      "mentions": 1
+    },
+    {
+      "name": "month",
+      "type": "OTHER",
+      "salience": 0.001241,
+      "mentions": 1
+    },
+    {
+      "name": "Live Tax",
+      "type": "OTHER",
+      "salience": 0.001208,
+      "mentions": 1
+    },
+    {
+      "name": "month",
+      "type": "OTHER",
+      "salience": 0.001185,
+      "mentions": 1
+    },
+    {
+      "name": "Email Support",
+      "type": "OTHER",
+      "salience": 0.001163,
+      "mentions": 1
+    },
+    {
+      "name": "Hide features",
+      "type": "OTHER",
+      "salience": 0.001156,
+      "mentions": 1
+    },
+    {
+      "name": "Up To",
+      "type": "PERSON",
+      "salience": 0.001128,
+      "mentions": 1
+    },
+    {
+      "name": "Packing slips",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001115,
+      "mentions": 1
+    },
+    {
+      "name": "Their",
+      "type": "OTHER",
+      "salience": 0.001106,
+      "mentions": 1
+    },
+    {
+      "name": "Overall",
+      "type": "OTHER",
+      "salience": 0.001101,
+      "mentions": 1
+    },
+    {
+      "name": "Packaging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001097,
+      "mentions": 1
+    },
+    {
+      "name": "Up To",
+      "type": "PERSON",
+      "salience": 0.001074,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery date",
+      "type": "OTHER",
+      "salience": 0.001068,
+      "mentions": 1
+    },
+    {
+      "name": "Reviews",
+      "type": "PERSON",
+      "salience": 0.001066,
+      "mentions": 1
+    },
+    {
+      "name": "Returns Management",
+      "type": "OTHER",
+      "salience": 0.001059,
+      "mentions": 1
+    },
+    {
+      "name": "Duty Calculation",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001012,
+      "mentions": 1
+    },
+    {
+      "name": "Hide features",
+      "type": "OTHER",
+      "salience": 0.000998,
+      "mentions": 1
+    },
+    {
+      "name": "German",
+      "type": "PERSON",
+      "salience": 0.000988,
+      "mentions": 2
+    },
+    {
+      "name": "French",
+      "type": "OTHER",
+      "salience": 0.000988,
+      "mentions": 1
+    },
+    {
+      "name": "Works with",
+      "type": "OTHER",
+      "salience": 0.000981,
+      "mentions": 1
+    },
+    {
+      "name": "Australia Post",
+      "type": "OTHER",
+      "salience": 0.000974,
+      "mentions": 1
+    },
+    {
+      "name": "Canada Post",
+      "type": "ORGANIZATION",
+      "salience": 0.000967,
+      "mentions": 1
+    },
+    {
+      "name": "Premier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000951,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.000948,
+      "mentions": 1
+    },
+    {
+      "name": "Delivery date",
+      "type": "OTHER",
+      "salience": 0.000941,
+      "mentions": 1
+    },
+    {
+      "name": "Hide rates",
+      "type": "OTHER",
+      "salience": 0.000937,
+      "mentions": 1
+    },
+    {
+      "name": "integrates seamlessly with Shopify",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000937,
+      "mentions": 1
+    },
+    {
+      "name": "Categories",
+      "type": "OTHER",
+      "salience": 0.000936,
+      "mentions": 1
+    },
+    {
+      "name": "Premier Tier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00092,
+      "mentions": 1
+    },
+    {
+      "name": "All reviews",
+      "type": "OTHER",
+      "salience": 0.000914,
+      "mentions": 1
+    },
+    {
+      "name": "Up To",
+      "type": "PERSON",
+      "salience": 0.000871,
+      "mentions": 1
+    },
+    {
+      "name": "Pick lists",
+      "type": "OTHER",
+      "salience": 0.000862,
+      "mentions": 1
+    },
+    {
+      "name": "Global 3PL Fulfillment Network",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00086,
+      "mentions": 1
+    },
+    {
+      "name": "app",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000843,
+      "mentions": 1
+    },
+    {
+      "name": "Batch Label Print",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000808,
+      "mentions": 1
+    },
+    {
+      "name": "Show more",
+      "type": "OTHER",
+      "salience": 0.00079,
+      "mentions": 1
+    },
+    {
+      "name": "or",
+      "type": "PERSON",
+      "salience": 0.000776,
+      "mentions": 1
+    },
+    {
+      "name": "Show more",
+      "type": "OTHER",
+      "salience": 0.000774,
+      "mentions": 1
+    },
+    {
+      "name": "Show more",
+      "type": "OTHER",
+      "salience": 0.000762,
+      "mentions": 1
+    },
+    {
+      "name": "Not helpful",
+      "type": "OTHER",
+      "salience": 0.000749,
+      "mentions": 1
+    },
+    {
+      "name": "or",
+      "type": "PERSON",
+      "salience": 0.000737,
+      "mentions": 1
+    },
+    {
+      "name": "We",
+      "type": "OTHER",
+      "salience": 0.000736,
+      "mentions": 1
+    },
+    {
+      "name": "Overall rating",
+      "type": "OTHER",
+      "salience": 0.00073,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more",
+      "type": "OTHER",
+      "salience": 0.000728,
+      "mentions": 1
+    },
+    {
+      "name": "Languages",
+      "type": "OTHER",
+      "salience": 0.00072,
+      "mentions": 2
+    },
+    {
+      "name": "and Spanish",
+      "type": "OTHER",
+      "salience": 0.000714,
+      "mentions": 1
+    },
+    {
+      "name": "AOV",
+      "type": "OTHER",
+      "salience": 0.000686,
+      "mentions": 1
+    },
+    {
+      "name": "Pickup Management",
+      "type": "OTHER",
+      "salience": 0.000675,
+      "mentions": 1
+    },
+    {
+      "name": "Smart Box Selection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00067,
+      "mentions": 1
+    },
+    {
+      "name": "English",
+      "type": "OTHER",
+      "salience": 0.000666,
+      "mentions": 1
+    },
+    {
+      "name": "Developer",
+      "type": "OTHER",
+      "salience": 0.000653,
+      "mentions": 1
+    },
+    {
+      "name": "Bulk printing",
+      "type": "OTHER",
+      "salience": 0.000648,
+      "mentions": 1
+    },
+    {
+      "name": "Address validation",
+      "type": "OTHER",
+      "salience": 0.000644,
+      "mentions": 1
+    },
+    {
+      "name": "Branded Tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "Barcode scanning",
+      "type": "OTHER",
+      "salience": 0.000627,
+      "mentions": 1
+    },
+    {
+      "name": "Developer login",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "Plus",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000621,
+      "mentions": 1
+    },
+    {
+      "name": "Scale",
+      "type": "OTHER",
+      "salience": 0.000603,
+      "mentions": 1
+    },
+    {
+      "name": "or",
+      "type": "PERSON",
+      "salience": 0.000598,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time tracking",
+      "type": "OTHER",
+      "salience": 0.000592,
+      "mentions": 1
+    },
+    {
+      "name": "Flat fee",
+      "type": "OTHER",
+      "salience": 0.000568,
+      "mentions": 1
+    },
+    {
+      "name": "Dimension-based",
+      "type": "OTHER",
+      "salience": 0.000563,
+      "mentions": 1
+    },
+    {
+      "name": "Quantity-based",
+      "type": "OTHER",
+      "salience": 0.000559,
+      "mentions": 1
+    },
+    {
+      "name": "Weight-based",
+      "type": "OTHER",
+      "salience": 0.000556,
+      "mentions": 1
+    },
+    {
+      "name": "ZIP/post code",
+      "type": "OTHER",
+      "salience": 0.000554,
+      "mentions": 1
+    },
+    {
+      "name": "Feedback submitted",
+      "type": "OTHER",
+      "salience": 0.000541,
+      "mentions": 1
+    },
+    {
+      "name": "especially",
+      "type": "OTHER",
+      "salience": 0.000539,
+      "mentions": 1
+    },
+    {
+      "name": "Sendcloud",
+      "type": "OTHER",
+      "salience": 0.000512,
+      "mentions": 1
+    },
+    {
+      "name": "Shipping Platform",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000512,
+      "mentions": 1
+    },
+    {
+      "name": "Frenet",
+      "type": "OTHER",
+      "salience": 0.000505,
+      "mentions": 1
+    },
+    {
+      "name": "Scale Tier",
+      "type": "PERSON",
+      "salience": 0.000497,
+      "mentions": 1
+    },
+    {
+      "name": "Add-On",
+      "type": "OTHER",
+      "salience": 0.000495,
+      "mentions": 1
+    },
+    {
+      "name": "Add-On",
+      "type": "OTHER",
+      "salience": 0.000494,
+      "mentions": 1
+    },
+    {
+      "name": "Close",
+      "type": "OTHER",
+      "salience": 0.000493,
+      "mentions": 1
+    },
+    {
+      "name": "Learn about app compatibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000492,
+      "mentions": 1
+    },
+    {
+      "name": "not Premier.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000487,
+      "mentions": 1
+    },
+    {
+      "name": "Import Tax",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000486,
+      "mentions": 1
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "salience": 0.000475,
+      "mentions": 2
+    },
+    {
+      "name": "From",
+      "type": "PERSON",
+      "salience": 0.000473,
+      "mentions": 1
+    },
+    {
+      "name": "Display Live Rates At Checkout",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000466,
+      "mentions": 1
+    },
+    {
+      "name": "Over",
+      "type": "OTHER",
+      "salience": 0.000458,
+      "mentions": 1
+    },
+    {
+      "name": "DDP/DDU",
+      "type": "OTHER",
+      "salience": 0.000444,
+      "mentions": 1
+    },
+    {
+      "name": "Merge",
+      "type": "OTHER",
+      "salience": 0.000441,
+      "mentions": 1
+    },
+    {
+      "name": "Split",
+      "type": "OTHER",
+      "salience": 0.000441,
+      "mentions": 1
+    },
+    {
+      "name": "Resources",
+      "type": "OTHER",
+      "salience": 0.000378,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy policy",
+      "type": "OTHER",
+      "salience": 0.000377,
+      "mentions": 1
+    },
+    {
+      "name": "Tutorial",
+      "type": "OTHER",
+      "salience": 0.000376,
+      "mentions": 1
+    },
+    {
+      "name": "Newark",
+      "type": "OTHER",
+      "salience": 0.000373,
+      "mentions": 1
+    },
+    {
+      "name": "Launched",
+      "type": "OTHER",
+      "salience": 0.000372,
+      "mentions": 1
+    },
+    {
+      "name": "September 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000372,
+      "mentions": 1
+    },
+    {
+      "name": "Official",
+      "type": "LOCATION",
+      "salience": 0.000368,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise Plans available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000365,
+      "mentions": 1
+    },
+    {
+      "name": "Correios and carriers with shipping discounts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000363,
+      "mentions": 1
+    },
+    {
+      "name": "Sign up",
+      "type": "OTHER",
+      "salience": 0.00036,
+      "mentions": 1
+    },
+    {
+      "name": "Recurring and usage-based charges are billed every 30 days.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000354,
+      "mentions": 1
+    },
+    {
+      "name": "FAQ",
+      "type": "OTHER",
+      "salience": 0.000351,
+      "mentions": 1
+    },
+    {
+      "name": "Website",
+      "type": "OTHER",
+      "salience": 0.000348,
+      "mentions": 1
+    },
+    {
+      "name": "Write a review",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000337,
+      "mentions": 1
+    },
+    {
+      "name": "It's shown when an app has 100+ reviews and at least a 4.0",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000334,
+      "mentions": 1
+    },
+    {
+      "name": "April 2",
+      "type": "LOCATION",
+      "salience": 0.000326,
+      "mentions": 1
+    },
+    {
+      "name": "NATIX Store",
+      "type": "OTHER",
+      "salience": 0.000237,
+      "mentions": 1
+    },
+    {
+      "name": "82.80/month without my knowledge.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000234,
+      "mentions": 1
+    },
+    {
+      "name": "around 20",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000233,
+      "mentions": 1
+    },
+    {
+      "name": "VintageFolk",
+      "type": "OTHER",
+      "salience": 0.000232,
+      "mentions": 1
+    },
+    {
+      "name": "February 6",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000231,
+      "mentions": 1
+    },
+    {
+      "name": "Cs",
+      "type": "OTHER",
+      "salience": 0.000218,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 2, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "February 6, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "September 6, 2017",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$29",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$276",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$69",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$660",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$948",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$99",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$199",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "£82.80",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "342",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "550",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "50",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "29",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "276",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "69",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "660",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2,500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2025",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "948",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "99",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "199",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10,000",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "91",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "24/7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "342",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "72",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "245",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "57",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.0",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "82.80",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "20",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2017",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "436",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "436",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3.2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "16",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "63",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "63",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "April 1, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 82,
+    "PERSON": 15,
+    "OTHER": 145,
+    "ORGANIZATION": 8,
+    "LOCATION": 8,
+    "NUMBER": 95,
+    "DATE": 5,
+    "PRICE": 12
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.38775100000000007,
+    "PERSON": 0.051129,
+    "OTHER": 0.506657,
+    "ORGANIZATION": 0.013989,
+    "LOCATION": 0.008505,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

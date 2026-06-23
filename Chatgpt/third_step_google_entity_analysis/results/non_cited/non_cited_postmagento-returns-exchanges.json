@@ -1,0 +1,1395 @@
+{
+  "file": "non_cited_postmagento-returns-exchanges.txt",
+  "word_count": 1558,
+  "entity_count": 228,
+  "entities": [
+    {
+      "name": "Magento returns and exchanges: A review of the best software integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.06826,
+      "mentions": 1
+    },
+    {
+      "name": "Contact us",
+      "type": "OTHER",
+      "salience": 0.040417,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.036929,
+      "mentions": 1
+    },
+    {
+      "name": "Best For",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.034439,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio",
+      "type": "OTHER",
+      "salience": 0.032379,
+      "mentions": 1
+    },
+    {
+      "name": "Sign up",
+      "type": "OTHER",
+      "salience": 0.03202,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "PERSON",
+      "salience": 0.031323,
+      "mentions": 1
+    },
+    {
+      "name": "label-free returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.031323,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "PERSON",
+      "salience": 0.031323,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "OTHER",
+      "salience": 0.031323,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGO",
+      "type": "OTHER",
+      "salience": 0.031323,
+      "mentions": 1
+    },
+    {
+      "name": "With",
+      "type": "PERSON",
+      "salience": 0.024501,
+      "mentions": 1
+    },
+    {
+      "name": "smart rules",
+      "type": "OTHER",
+      "salience": 0.015432,
+      "mentions": 1
+    },
+    {
+      "name": "ReturnGO",
+      "type": "OTHER",
+      "salience": 0.015371,
+      "mentions": 1
+    },
+    {
+      "name": "Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01398,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "OTHER",
+      "salience": 0.01398,
+      "mentions": 8
+    },
+    {
+      "name": "recover more revenue",
+      "type": "OTHER",
+      "salience": 0.013225,
+      "mentions": 1
+    },
+    {
+      "name": "avoiding costly custom development",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.013003,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.01299,
+      "mentions": 1
+    },
+    {
+      "name": "branded portals",
+      "type": "OTHER",
+      "salience": 0.012575,
+      "mentions": 1
+    },
+    {
+      "name": "Magento returns and exchanges: A review of the best software integrations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.012246,
+      "mentions": 1
+    },
+    {
+      "name": "compatibility",
+      "type": "OTHER",
+      "salience": 0.012062,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.011908,
+      "mentions": 1
+    },
+    {
+      "name": "optimizing",
+      "type": "OTHER",
+      "salience": 0.011542,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.011092,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.011092,
+      "mentions": 1
+    },
+    {
+      "name": "Sofia Gomez",
+      "type": "OTHER",
+      "salience": 0.010115,
+      "mentions": 1
+    },
+    {
+      "name": "Jan 13",
+      "type": "OTHER",
+      "salience": 0.00942,
+      "mentions": 1
+    },
+    {
+      "name": "AI",
+      "type": "OTHER",
+      "salience": 0.009199,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.008886,
+      "mentions": 1
+    },
+    {
+      "name": "Table of contents",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008856,
+      "mentions": 1
+    },
+    {
+      "name": "Custom",
+      "type": "OTHER",
+      "salience": 0.008201,
+      "mentions": 1
+    },
+    {
+      "name": "Automating exchanges and revenue recovery",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006933,
+      "mentions": 1
+    },
+    {
+      "name": "Scroll down",
+      "type": "OTHER",
+      "salience": 0.006623,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio",
+      "type": "OTHER",
+      "salience": 0.006561,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio",
+      "type": "OTHER",
+      "salience": 0.006346,
+      "mentions": 1
+    },
+    {
+      "name": "With deep Magento integration and smart return rules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006214,
+      "mentions": 1
+    },
+    {
+      "name": "The",
+      "type": "ORGANIZATION",
+      "salience": 0.006181,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable",
+      "type": "OTHER",
+      "salience": 0.006104,
+      "mentions": 1
+    },
+    {
+      "name": "cut manual tasks",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006038,
+      "mentions": 1
+    },
+    {
+      "name": "Magentoreturnsintorevenue",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005983,
+      "mentions": 1
+    },
+    {
+      "name": "Magentoreturnsintorevenue",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005954,
+      "mentions": 1
+    },
+    {
+      "name": "Integrates 100+ carriers",
+      "type": "OTHER",
+      "salience": 0.005918,
+      "mentions": 1
+    },
+    {
+      "name": "customer behavior",
+      "type": "OTHER",
+      "salience": 0.005692,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable return portal",
+      "type": "OTHER",
+      "salience": 0.005528,
+      "mentions": 1
+    },
+    {
+      "name": "more customers",
+      "type": "OTHER",
+      "salience": 0.005523,
+      "mentions": 1
+    },
+    {
+      "name": "Customizable return policies",
+      "type": "OTHER",
+      "salience": 0.005317,
+      "mentions": 1
+    },
+    {
+      "name": "Automatic price adjustments",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.005001,
+      "mentions": 1
+    },
+    {
+      "name": "Return analytics and custom return portals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004609,
+      "mentions": 1
+    },
+    {
+      "name": "Magento stores",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004295,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004278,
+      "mentions": 1
+    },
+    {
+      "name": "Key features:",
+      "type": "OTHER",
+      "salience": 0.004196,
+      "mentions": 1
+    },
+    {
+      "name": "Branded portals and automated workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004195,
+      "mentions": 1
+    },
+    {
+      "name": "Even small changes",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004087,
+      "mentions": 1
+    },
+    {
+      "name": "implementation",
+      "type": "OTHER",
+      "salience": 0.004026,
+      "mentions": 1
+    },
+    {
+      "name": "testing it",
+      "type": "OTHER",
+      "salience": 0.004026,
+      "mentions": 1
+    },
+    {
+      "name": "it",
+      "type": "LOCATION",
+      "salience": 0.003699,
+      "mentions": 1
+    },
+    {
+      "name": "provides real-time return tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003607,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00358,
+      "mentions": 1
+    },
+    {
+      "name": "Branded return portal with self-service options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003566,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.003528,
+      "mentions": 1
+    },
+    {
+      "name": "automation",
+      "type": "OTHER",
+      "salience": 0.003434,
+      "mentions": 1
+    },
+    {
+      "name": "Automated return workflows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003336,
+      "mentions": 1
+    },
+    {
+      "name": "Contact sales",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003333,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003299,
+      "mentions": 1
+    },
+    {
+      "name": "Integration with major logistics carriers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003283,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.003259,
+      "mentions": 1
+    },
+    {
+      "name": "Instant refunds processed at dropoff locations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003188,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio'sRMAsolutioncomparetotraditionalMagentoreturnsextensions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003185,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003094,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.003061,
+      "mentions": 1
+    },
+    {
+      "name": "recommendations",
+      "type": "OTHER",
+      "salience": 0.003022,
+      "mentions": 1
+    },
+    {
+      "name": "Shopify",
+      "type": "OTHER",
+      "salience": 0.002913,
+      "mentions": 1
+    },
+    {
+      "name": "In 12 months",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002911,
+      "mentions": 1
+    },
+    {
+      "name": "ZigZag Global",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002881,
+      "mentions": 1
+    },
+    {
+      "name": "No delays",
+      "type": "OTHER",
+      "salience": 0.002828,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time estimated refund timelines",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002826,
+      "mentions": 1
+    },
+    {
+      "name": "merchants",
+      "type": "OTHER",
+      "salience": 0.002806,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time return tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00273,
+      "mentions": 1
+    },
+    {
+      "name": "Smart product suggestions during returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002685,
+      "mentions": 1
+    },
+    {
+      "name": "Starts at $155/month",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002588,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time tracking and notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002584,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002475,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.002452,
+      "mentions": 1
+    },
+    {
+      "name": "WeSupply",
+      "type": "OTHER",
+      "salience": 0.00241,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002355,
+      "mentions": 1
+    },
+    {
+      "name": "Key features",
+      "type": "OTHER",
+      "salience": 0.002335,
+      "mentions": 1
+    },
+    {
+      "name": "Happy Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002272,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Rating",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002243,
+      "mentions": 1
+    },
+    {
+      "name": "Turnyour",
+      "type": "PERSON",
+      "salience": 0.002226,
+      "mentions": 1
+    },
+    {
+      "name": "Key Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002226,
+      "mentions": 1
+    },
+    {
+      "name": "Turnyour",
+      "type": "PERSON",
+      "salience": 0.002215,
+      "mentions": 1
+    },
+    {
+      "name": "like being unused and returned within 30 days",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002169,
+      "mentions": 1
+    },
+    {
+      "name": "no support tickets.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002161,
+      "mentions": 1
+    },
+    {
+      "name": "Automate returns and approvals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002114,
+      "mentions": 1
+    },
+    {
+      "name": "AI product recommendations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002013,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001997,
+      "mentions": 1
+    },
+    {
+      "name": "Branded return portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001996,
+      "mentions": 1
+    },
+    {
+      "name": "Outvio",
+      "type": "OTHER",
+      "salience": 0.001984,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001983,
+      "mentions": 1
+    },
+    {
+      "name": "eCommerce platforms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001969,
+      "mentions": 1
+    },
+    {
+      "name": "Starts at $60/month",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00196,
+      "mentions": 1
+    },
+    {
+      "name": "Instant exchange approvals",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001947,
+      "mentions": 1
+    },
+    {
+      "name": "Starts at $23/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001915,
+      "mentions": 1
+    },
+    {
+      "name": "Encouraging store credit and product exchanges",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001915,
+      "mentions": 1
+    },
+    {
+      "name": "Starts at $155/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001915,
+      "mentions": 1
+    },
+    {
+      "name": "Cross-border returns and localized return hubs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001915,
+      "mentions": 1
+    },
+    {
+      "name": "U.S. merchants needing box-free",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001915,
+      "mentions": 1
+    },
+    {
+      "name": "Starts at $60/mo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001915,
+      "mentions": 1
+    },
+    {
+      "name": "Real-time return tracking and customer notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001915,
+      "mentions": 1
+    },
+    {
+      "name": "no extra plugins",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001882,
+      "mentions": 1
+    },
+    {
+      "name": "costs",
+      "type": "OTHER",
+      "salience": 0.001867,
+      "mentions": 1
+    },
+    {
+      "name": "Starts at $23/month",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001864,
+      "mentions": 1
+    },
+    {
+      "name": "Contact sales",
+      "type": "OTHER",
+      "salience": 0.001825,
+      "mentions": 1
+    },
+    {
+      "name": "replacements",
+      "type": "OTHER",
+      "salience": 0.00179,
+      "mentions": 1
+    },
+    {
+      "name": "Loop Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001758,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip Returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001718,
+      "mentions": 1
+    },
+    {
+      "name": "AfterShip provides detailed tracking and analytics",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00171,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-platform",
+      "type": "OTHER",
+      "salience": 0.001674,
+      "mentions": 1
+    },
+    {
+      "name": "ZigZag Global",
+      "type": "OTHER",
+      "salience": 0.001636,
+      "mentions": 1
+    },
+    {
+      "name": "ZigZag Global streamlines cross-border returns",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001627,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-currency",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001584,
+      "mentions": 1
+    },
+    {
+      "name": "qualifies",
+      "type": "OTHER",
+      "salience": 0.001441,
+      "mentions": 1
+    },
+    {
+      "name": "Everything happens inside your Magento store",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001438,
+      "mentions": 1
+    },
+    {
+      "name": "Prepaid return labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001403,
+      "mentions": 1
+    },
+    {
+      "name": "2026 review",
+      "type": "OTHER",
+      "salience": 0.001368,
+      "mentions": 1
+    },
+    {
+      "name": "WeSupply",
+      "type": "OTHER",
+      "salience": 0.001307,
+      "mentions": 1
+    },
+    {
+      "name": "Self-service return tracking",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001276,
+      "mentions": 1
+    },
+    {
+      "name": "Built-in fraud detection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001193,
+      "mentions": 1
+    },
+    {
+      "name": "no complexity",
+      "type": "OTHER",
+      "salience": 0.001172,
+      "mentions": 1
+    },
+    {
+      "name": "communications",
+      "type": "OTHER",
+      "salience": 0.001033,
+      "mentions": 1
+    },
+    {
+      "name": "size 42",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001021,
+      "mentions": 1
+    },
+    {
+      "name": "give store credit",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000958,
+      "mentions": 1
+    },
+    {
+      "name": "no messy setups.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000956,
+      "mentions": 1
+    },
+    {
+      "name": "WhatlimitationsdoesMagentohavewhenmanagingreturnsandexchangesnatively",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000932,
+      "mentions": 1
+    },
+    {
+      "name": "around",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000925,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 13",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000909,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 7",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000903,
+      "mentions": 1
+    },
+    {
+      "name": "no development",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000896,
+      "mentions": 1
+    },
+    {
+      "name": "Seamless Magento integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00073,
+      "mentions": 1
+    },
+    {
+      "name": "Ramón Montalbán",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000684,
+      "mentions": 1
+    },
+    {
+      "name": "Book a demo today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000681,
+      "mentions": 1
+    },
+    {
+      "name": "Share article",
+      "type": "OTHER",
+      "salience": 0.000677,
+      "mentions": 1
+    },
+    {
+      "name": "IsthereaMagentoreturnsextensionthatalsoincludesfraudpreventiontools",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00067,
+      "mentions": 1
+    },
+    {
+      "name": "Related articles",
+      "type": "OTHER",
+      "salience": 0.000662,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 22",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000648,
+      "mentions": 1
+    },
+    {
+      "name": "FAQ",
+      "type": "OTHER",
+      "salience": 0.00063,
+      "mentions": 1
+    },
+    {
+      "name": "green",
+      "type": "OTHER",
+      "salience": 0.000568,
+      "mentions": 1
+    },
+    {
+      "name": "Promote store credit over refunds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000424,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 7, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Mar 22, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "€197K",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$155",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$60",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$23",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$147",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$155",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$60",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$23",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$147",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$100",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$130",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "$30",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "€197K",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "€197,253",
+      "type": "PRICE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "197K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "92",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "155",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Jan 13, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "147",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "155",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "60",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "23",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "147",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "42",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "100",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "130",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "30",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "197K",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "197,253",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "197,253",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "8",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "13",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "5",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "22",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "Apr 13, 2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 84,
+    "OTHER": 65,
+    "PERSON": 5,
+    "ORGANIZATION": 1,
+    "LOCATION": 1,
+    "NUMBER": 60,
+    "DATE": 5,
+    "PRICE": 14
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.4152819999999999,
+    "OTHER": 0.4601859999999999,
+    "PERSON": 0.09158799999999999,
+    "ORGANIZATION": 0.006181,
+    "LOCATION": 0.003699,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PRICE": 0.0
+  }
+}

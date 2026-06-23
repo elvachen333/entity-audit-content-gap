@@ -1,0 +1,2431 @@
+{
+  "file": "cited_postbest-package-tracking-software_utm_source=openai.txt",
+  "word_count": 3376,
+  "entity_count": 401,
+  "entities": [
+    {
+      "name": "Mailroom Management Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.056457,
+      "mentions": 1
+    },
+    {
+      "name": "notifies recipients automatically",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.040793,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications Fire Automatically",
+      "type": "OTHER",
+      "salience": 0.029617,
+      "mentions": 1
+    },
+    {
+      "name": "Mailroom Management Software",
+      "type": "OTHER",
+      "salience": 0.026849,
+      "mentions": 1
+    },
+    {
+      "name": "Mailroom Tracking Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.022719,
+      "mentions": 1
+    },
+    {
+      "name": "Complete Chain of Custody",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.018239,
+      "mentions": 1
+    },
+    {
+      "name": "Automatically",
+      "type": "ORGANIZATION",
+      "salience": 0.015731,
+      "mentions": 1
+    },
+    {
+      "name": "WhatsApp",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.01533,
+      "mentions": 8
+    },
+    {
+      "name": "TekTrack captures a digital signature and proof-of-delivery photo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014707,
+      "mentions": 1
+    },
+    {
+      "name": "signature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.014265,
+      "mentions": 1
+    },
+    {
+      "name": "delivery time",
+      "type": "OTHER",
+      "salience": 0.014265,
+      "mentions": 1
+    },
+    {
+      "name": "arrival time",
+      "type": "OTHER",
+      "salience": 0.014265,
+      "mentions": 1
+    },
+    {
+      "name": "Notify",
+      "type": "OTHER",
+      "salience": 0.013612,
+      "mentions": 1
+    },
+    {
+      "name": "Notification",
+      "type": "OTHER",
+      "salience": 0.01327,
+      "mentions": 1
+    },
+    {
+      "name": "Log Any Package Quickly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010552,
+      "mentions": 1
+    },
+    {
+      "name": "Deliver or Pick Up",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.010018,
+      "mentions": 1
+    },
+    {
+      "name": "carrier",
+      "type": "OTHER",
+      "salience": 0.009939,
+      "mentions": 1
+    },
+    {
+      "name": "reception desk",
+      "type": "OTHER",
+      "salience": 0.009815,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack notifies the recipient by email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009801,
+      "mentions": 1
+    },
+    {
+      "name": "searchable record",
+      "type": "OTHER",
+      "salience": 0.009367,
+      "mentions": 1
+    },
+    {
+      "name": "storage location",
+      "type": "OTHER",
+      "salience": 0.009367,
+      "mentions": 1
+    },
+    {
+      "name": "No more clipboard logs.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009252,
+      "mentions": 1
+    },
+    {
+      "name": "No more spreadsheet entries.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.009085,
+      "mentions": 1
+    },
+    {
+      "name": "No more staff calling or emailing recipients one by one.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008928,
+      "mentions": 1
+    },
+    {
+      "name": "notification history",
+      "type": "OTHER",
+      "salience": 0.008787,
+      "mentions": 1
+    },
+    {
+      "name": "completing",
+      "type": "OTHER",
+      "salience": 0.008691,
+      "mentions": 1
+    },
+    {
+      "name": "Complete timestamped chain of custody closed",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008506,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Recipient Notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.008484,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Reminders",
+      "type": "OTHER",
+      "salience": 0.00797,
+      "mentions": 1
+    },
+    {
+      "name": "automatically.",
+      "type": "OTHER",
+      "salience": 0.007932,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.007898,
+      "mentions": 1
+    },
+    {
+      "name": "searchable",
+      "type": "OTHER",
+      "salience": 0.007158,
+      "mentions": 1
+    },
+    {
+      "name": "reception desk",
+      "type": "OTHER",
+      "salience": 0.007051,
+      "mentions": 1
+    },
+    {
+      "name": "Captures digital signatures and proof-of-delivery photos at the time of delivery or pickup",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006808,
+      "mentions": 1
+    },
+    {
+      "name": "log packages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006752,
+      "mentions": 1
+    },
+    {
+      "name": "Sends notifications via email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006441,
+      "mentions": 1
+    },
+    {
+      "name": "Configurable",
+      "type": "OTHER",
+      "salience": 0.006439,
+      "mentions": 1
+    },
+    {
+      "name": "Scan with barcode scanner",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00643,
+      "mentions": 1
+    },
+    {
+      "name": "Packages Today",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006371,
+      "mentions": 1
+    },
+    {
+      "name": "what it costs",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006353,
+      "mentions": 1
+    },
+    {
+      "name": "Supports cloud and on-premise deployment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.0061,
+      "mentions": 1
+    },
+    {
+      "name": "and who receives it",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.006068,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.005565,
+      "mentions": 1
+    },
+    {
+      "name": "Log It",
+      "type": "OTHER",
+      "salience": 0.00556,
+      "mentions": 1
+    },
+    {
+      "name": "How It Works",
+      "type": "OTHER",
+      "salience": 0.005513,
+      "mentions": 1
+    },
+    {
+      "name": "searchable record.",
+      "type": "OTHER",
+      "salience": 0.005203,
+      "mentions": 1
+    },
+    {
+      "name": "phone",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004622,
+      "mentions": 5
+    },
+    {
+      "name": "See TekTrack Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004565,
+      "mentions": 1
+    },
+    {
+      "name": "Package Tracking Software",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004538,
+      "mentions": 1
+    },
+    {
+      "name": "Email",
+      "type": "OTHER",
+      "salience": 0.004495,
+      "mentions": 2
+    },
+    {
+      "name": "HTTP web service post",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004488,
+      "mentions": 1
+    },
+    {
+      "name": "Easily",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004382,
+      "mentions": 1
+    },
+    {
+      "name": "where is my package",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004376,
+      "mentions": 1
+    },
+    {
+      "name": "and virtually any carrier.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004348,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack supports Windows",
+      "type": "OTHER",
+      "salience": 0.004259,
+      "mentions": 1
+    },
+    {
+      "name": "Mailroom A",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004207,
+      "mentions": 1
+    },
+    {
+      "name": "Mailroom A",
+      "type": "OTHER",
+      "salience": 0.004195,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack's live dashboard gives mailroom managers",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004044,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack®",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.004022,
+      "mentions": 1
+    },
+    {
+      "name": "and who was notified.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003928,
+      "mentions": 1
+    },
+    {
+      "name": "Recipients can look up their own package status",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003922,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003909,
+      "mentions": 1
+    },
+    {
+      "name": "Trusted Since 1998",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003888,
+      "mentions": 1
+    },
+    {
+      "name": "Searchable Package History",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003861,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.003714,
+      "mentions": 1
+    },
+    {
+      "name": "Single platform across all mailrooms",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003667,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.003623,
+      "mentions": 1
+    },
+    {
+      "name": "auto-identifies recipient",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003556,
+      "mentions": 1
+    },
+    {
+      "name": "Print package labels at intake with recipient",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003549,
+      "mentions": 1
+    },
+    {
+      "name": "when it sends",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003486,
+      "mentions": 1
+    },
+    {
+      "name": "notifications",
+      "type": "OTHER",
+      "salience": 0.003437,
+      "mentions": 1
+    },
+    {
+      "name": "Automated email notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003437,
+      "mentions": 1
+    },
+    {
+      "name": "SMS notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003437,
+      "mentions": 1
+    },
+    {
+      "name": "under 4 seconds",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003422,
+      "mentions": 1
+    },
+    {
+      "name": "Digital signature captured at delivery or pickup",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003386,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack closes that gap completely.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00335,
+      "mentions": 1
+    },
+    {
+      "name": "Recipient",
+      "type": "PERSON",
+      "salience": 0.003148,
+      "mentions": 1
+    },
+    {
+      "name": "Notified",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.003042,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.003028,
+      "mentions": 1
+    },
+    {
+      "name": "Quickly processes packages using SmartScanTM label-reading technology",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002956,
+      "mentions": 1
+    },
+    {
+      "name": "notification history",
+      "type": "OTHER",
+      "salience": 0.00294,
+      "mentions": 1
+    },
+    {
+      "name": "Digital Signature Capture",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002938,
+      "mentions": 1
+    },
+    {
+      "name": "notifications",
+      "type": "OTHER",
+      "salience": 0.002924,
+      "mentions": 1
+    },
+    {
+      "name": "log packages",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002849,
+      "mentions": 1
+    },
+    {
+      "name": "SmartScanTM Label Technology",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002796,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack Difference",
+      "type": "OTHER",
+      "salience": 0.002741,
+      "mentions": 1
+    },
+    {
+      "name": "user friendly.",
+      "type": "OTHER",
+      "salience": 0.002722,
+      "mentions": 1
+    },
+    {
+      "name": "Custom Reports",
+      "type": "OTHER",
+      "salience": 0.00268,
+      "mentions": 1
+    },
+    {
+      "name": "✓POST package data to any URL automatically",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002635,
+      "mentions": 1
+    },
+    {
+      "name": "syncs automatically",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00263,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack provides the audit trail",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002577,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack's detailed",
+      "type": "OTHER",
+      "salience": 0.002555,
+      "mentions": 1
+    },
+    {
+      "name": "Reads labels from FedEx",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002498,
+      "mentions": 1
+    },
+    {
+      "name": "HTTP web service posts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002442,
+      "mentions": 1
+    },
+    {
+      "name": "Delivered",
+      "type": "OTHER",
+      "salience": 0.002433,
+      "mentions": 1
+    },
+    {
+      "name": "not hours",
+      "type": "OTHER",
+      "salience": 0.002397,
+      "mentions": 1
+    },
+    {
+      "name": "recipients",
+      "type": "OTHER",
+      "salience": 0.002386,
+      "mentions": 1
+    },
+    {
+      "name": "Recipients access package status and history without contacting the mailroom",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00238,
+      "mentions": 1
+    },
+    {
+      "name": "Typical Competitors",
+      "type": "PERSON",
+      "salience": 0.002377,
+      "mentions": 1
+    },
+    {
+      "name": "customizable",
+      "type": "OTHER",
+      "salience": 0.002377,
+      "mentions": 1
+    },
+    {
+      "name": "Custom fields",
+      "type": "OTHER",
+      "salience": 0.002372,
+      "mentions": 1
+    },
+    {
+      "name": "locker systems",
+      "type": "OTHER",
+      "salience": 0.002216,
+      "mentions": 1
+    },
+    {
+      "name": "Automated Recipient Notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002212,
+      "mentions": 1
+    },
+    {
+      "name": "notifies residents immediately",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002166,
+      "mentions": 1
+    },
+    {
+      "name": "Staff can scan labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002091,
+      "mentions": 1
+    },
+    {
+      "name": "About TekTrack®",
+      "type": "OTHER",
+      "salience": 0.002058,
+      "mentions": 1
+    },
+    {
+      "name": "Complete notification history: who was contacted",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.002016,
+      "mentions": 1
+    },
+    {
+      "name": "workflows",
+      "type": "OTHER",
+      "salience": 0.001971,
+      "mentions": 1
+    },
+    {
+      "name": "Directory",
+      "type": "OTHER",
+      "salience": 0.001923,
+      "mentions": 1
+    },
+    {
+      "name": "delivery time",
+      "type": "OTHER",
+      "salience": 0.001899,
+      "mentions": 1
+    },
+    {
+      "name": "WhatsApp notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001836,
+      "mentions": 1
+    },
+    {
+      "name": "not days.",
+      "type": "OTHER",
+      "salience": 0.00178,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack supports email",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001755,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack integrates with Active Directory",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001707,
+      "mentions": 1
+    },
+    {
+      "name": "at delivery",
+      "type": "OTHER",
+      "salience": 0.001695,
+      "mentions": 1
+    },
+    {
+      "name": "configurable",
+      "type": "OTHER",
+      "salience": 0.001695,
+      "mentions": 1
+    },
+    {
+      "name": "configurable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001695,
+      "mentions": 1
+    },
+    {
+      "name": "Core Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001655,
+      "mentions": 1
+    },
+    {
+      "name": "signature",
+      "type": "OTHER",
+      "salience": 0.00163,
+      "mentions": 1
+    },
+    {
+      "name": "delivery time",
+      "type": "OTHER",
+      "salience": 0.00163,
+      "mentions": 1
+    },
+    {
+      "name": "Label Printing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001623,
+      "mentions": 2
+    },
+    {
+      "name": "and at what time",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001617,
+      "mentions": 1
+    },
+    {
+      "name": "Company",
+      "type": "OTHER",
+      "salience": 0.001602,
+      "mentions": 1
+    },
+    {
+      "name": "any label",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001551,
+      "mentions": 1
+    },
+    {
+      "name": "Notifications",
+      "type": "OTHER",
+      "salience": 0.001494,
+      "mentions": 1
+    },
+    {
+      "name": "Complex multi-mailroom operations",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001489,
+      "mentions": 1
+    },
+    {
+      "name": "confirmation.",
+      "type": "OTHER",
+      "salience": 0.00147,
+      "mentions": 1
+    },
+    {
+      "name": "tracking number",
+      "type": "OTHER",
+      "salience": 0.001457,
+      "mentions": 3
+    },
+    {
+      "name": "System Integrations",
+      "type": "OTHER",
+      "salience": 0.001446,
+      "mentions": 1
+    },
+    {
+      "name": "Arrived",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001437,
+      "mentions": 1
+    },
+    {
+      "name": "Proof-of-delivery photography",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001403,
+      "mentions": 1
+    },
+    {
+      "name": "arrival time",
+      "type": "OTHER",
+      "salience": 0.001388,
+      "mentions": 1
+    },
+    {
+      "name": "pricing",
+      "type": "OTHER",
+      "salience": 0.001358,
+      "mentions": 1
+    },
+    {
+      "name": "Always-on only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001328,
+      "mentions": 1
+    },
+    {
+      "name": "Custom notification channel integration",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001328,
+      "mentions": 1
+    },
+    {
+      "name": "SmartScanTM-any carrier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001328,
+      "mentions": 1
+    },
+    {
+      "name": "delivery location",
+      "type": "OTHER",
+      "salience": 0.0013,
+      "mentions": 1
+    },
+    {
+      "name": "including proof-of-receipt signatures",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001273,
+      "mentions": 1
+    },
+    {
+      "name": "UPS",
+      "type": "ORGANIZATION",
+      "salience": 0.001269,
+      "mentions": 2
+    },
+    {
+      "name": "USPS",
+      "type": "ORGANIZATION",
+      "salience": 0.001269,
+      "mentions": 2
+    },
+    {
+      "name": "Amazon",
+      "type": "OTHER",
+      "salience": 0.001269,
+      "mentions": 1
+    },
+    {
+      "name": "its location",
+      "type": "OTHER",
+      "salience": 0.001258,
+      "mentions": 1
+    },
+    {
+      "name": "Not available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001251,
+      "mentions": 1
+    },
+    {
+      "name": "Rarely available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001251,
+      "mentions": 1
+    },
+    {
+      "name": "Not available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001251,
+      "mentions": 1
+    },
+    {
+      "name": "searchable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001251,
+      "mentions": 1
+    },
+    {
+      "name": "Not available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001251,
+      "mentions": 1
+    },
+    {
+      "name": "saved searches",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001249,
+      "mentions": 1
+    },
+    {
+      "name": "Both options available",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001249,
+      "mentions": 1
+    },
+    {
+      "name": "location",
+      "type": "OTHER",
+      "salience": 0.001249,
+      "mentions": 1
+    },
+    {
+      "name": "Pricing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001242,
+      "mentions": 1
+    },
+    {
+      "name": "Reception",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001238,
+      "mentions": 1
+    },
+    {
+      "name": "Time savings",
+      "type": "OTHER",
+      "salience": 0.001237,
+      "mentions": 1
+    },
+    {
+      "name": "Each notification template is independently configurable: what it says",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001234,
+      "mentions": 1
+    },
+    {
+      "name": "signature capture",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001221,
+      "mentions": 1
+    },
+    {
+      "name": "Powerful & Easy",
+      "type": "OTHER",
+      "salience": 0.001207,
+      "mentions": 1
+    },
+    {
+      "name": "capture signatures",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001201,
+      "mentions": 1
+    },
+    {
+      "name": "Proof-of-delivery",
+      "type": "OTHER",
+      "salience": 0.001194,
+      "mentions": 1
+    },
+    {
+      "name": "detailed record",
+      "type": "OTHER",
+      "salience": 0.001193,
+      "mentions": 1
+    },
+    {
+      "name": "vendor inquiries",
+      "type": "OTHER",
+      "salience": 0.001183,
+      "mentions": 1
+    },
+    {
+      "name": "Carrier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001175,
+      "mentions": 1
+    },
+    {
+      "name": "Complete arrival-to-delivery history",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001174,
+      "mentions": 1
+    },
+    {
+      "name": "Digital signature capture",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001174,
+      "mentions": 1
+    },
+    {
+      "name": "Configurable",
+      "type": "OTHER",
+      "salience": 0.001173,
+      "mentions": 1
+    },
+    {
+      "name": "and report builder",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001171,
+      "mentions": 1
+    },
+    {
+      "name": "and tracking data",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001171,
+      "mentions": 1
+    },
+    {
+      "name": "arrival time",
+      "type": "OTHER",
+      "salience": 0.001142,
+      "mentions": 1
+    },
+    {
+      "name": "carrier",
+      "type": "OTHER",
+      "salience": 0.001136,
+      "mentions": 1
+    },
+    {
+      "name": "Location",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001108,
+      "mentions": 1
+    },
+    {
+      "name": "Did my package arrive",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001104,
+      "mentions": 1
+    },
+    {
+      "name": "✓Fully supported",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001095,
+      "mentions": 1
+    },
+    {
+      "name": "✓Fully supported",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001095,
+      "mentions": 1
+    },
+    {
+      "name": "package logging",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001095,
+      "mentions": 1
+    },
+    {
+      "name": "Multi-mailroom management",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001093,
+      "mentions": 1
+    },
+    {
+      "name": "location",
+      "type": "OTHER",
+      "salience": 0.00107,
+      "mentions": 1
+    },
+    {
+      "name": "all stored and searchable",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00107,
+      "mentions": 1
+    },
+    {
+      "name": "through which channel",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001062,
+      "mentions": 1
+    },
+    {
+      "name": "customizable",
+      "type": "OTHER",
+      "salience": 0.001035,
+      "mentions": 1
+    },
+    {
+      "name": "location",
+      "type": "OTHER",
+      "salience": 0.001026,
+      "mentions": 1
+    },
+    {
+      "name": "Either way",
+      "type": "OTHER",
+      "salience": 0.001024,
+      "mentions": 1
+    },
+    {
+      "name": "Connects with Active Directory",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001011,
+      "mentions": 1
+    },
+    {
+      "name": "and proof-of-delivery photo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.001004,
+      "mentions": 1
+    },
+    {
+      "name": "no server maintenance",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000977,
+      "mentions": 1
+    },
+    {
+      "name": "Log Time",
+      "type": "OTHER",
+      "salience": 0.000975,
+      "mentions": 1
+    },
+    {
+      "name": "Status",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000969,
+      "mentions": 1
+    },
+    {
+      "name": "Chain of Custody",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000961,
+      "mentions": 1
+    },
+    {
+      "name": "Fully customizable message templates: content",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000958,
+      "mentions": 1
+    },
+    {
+      "name": "facility managers",
+      "type": "OTHER",
+      "salience": 0.000937,
+      "mentions": 1
+    },
+    {
+      "name": "carrier",
+      "type": "OTHER",
+      "salience": 0.000934,
+      "mentions": 1
+    },
+    {
+      "name": "getting packages to recipients faster",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000934,
+      "mentions": 1
+    },
+    {
+      "name": "✓Photos taken during processing",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000932,
+      "mentions": 1
+    },
+    {
+      "name": "separate template",
+      "type": "OTHER",
+      "salience": 0.000932,
+      "mentions": 1
+    },
+    {
+      "name": "Requires connectivity",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000931,
+      "mentions": 1
+    },
+    {
+      "name": "✓Works with or without a network connection",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000931,
+      "mentions": 1
+    },
+    {
+      "name": "Cloud",
+      "type": "OTHER",
+      "salience": 0.000931,
+      "mentions": 1
+    },
+    {
+      "name": "and facilities",
+      "type": "OTHER",
+      "salience": 0.000931,
+      "mentions": 1
+    },
+    {
+      "name": "campuses",
+      "type": "OTHER",
+      "salience": 0.000931,
+      "mentions": 2
+    },
+    {
+      "name": "DHL",
+      "type": "ORGANIZATION",
+      "salience": 0.000917,
+      "mentions": 1
+    },
+    {
+      "name": "All confirmed",
+      "type": "OTHER",
+      "salience": 0.000912,
+      "mentions": 1
+    },
+    {
+      "name": "email",
+      "type": "OTHER",
+      "salience": 0.000909,
+      "mentions": 1
+    },
+    {
+      "name": "and when it sends.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000905,
+      "mentions": 1
+    },
+    {
+      "name": "Awaiting Pickup",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000895,
+      "mentions": 1
+    },
+    {
+      "name": "Staff can scan labels",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000882,
+      "mentions": 1
+    },
+    {
+      "name": "storage location",
+      "type": "OTHER",
+      "salience": 0.00088,
+      "mentions": 1
+    },
+    {
+      "name": "and subject line are all yours to control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000868,
+      "mentions": 1
+    },
+    {
+      "name": "Automated unclaimed package reminders",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000849,
+      "mentions": 1
+    },
+    {
+      "name": "Feature",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000849,
+      "mentions": 1
+    },
+    {
+      "name": "Contact",
+      "type": "OTHER",
+      "salience": 0.000842,
+      "mentions": 1
+    },
+    {
+      "name": "signature pads",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000835,
+      "mentions": 1
+    },
+    {
+      "name": "integration requirements",
+      "type": "OTHER",
+      "salience": 0.000832,
+      "mentions": 1
+    },
+    {
+      "name": "and the recipient's digital signature and proof-of-delivery photo.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000826,
+      "mentions": 1
+    },
+    {
+      "name": "It also integrates with ERP systems",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000807,
+      "mentions": 1
+    },
+    {
+      "name": "searchable",
+      "type": "OTHER",
+      "salience": 0.000795,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.000786,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.000774,
+      "mentions": 1
+    },
+    {
+      "name": "Standard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "Some products only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "Some products only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "Standard",
+      "type": "OTHER",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "Some products only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "Hold until the day",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "HTTP web service post on package arrival",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "Some products only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "Standard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000763,
+      "mentions": 1
+    },
+    {
+      "name": "Some products only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000761,
+      "mentions": 1
+    },
+    {
+      "name": "reports",
+      "type": "OTHER",
+      "salience": 0.000761,
+      "mentions": 1
+    },
+    {
+      "name": "Some products only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000761,
+      "mentions": 1
+    },
+    {
+      "name": "✓Unlimited custom fields",
+      "type": "OTHER",
+      "salience": 0.000761,
+      "mentions": 1
+    },
+    {
+      "name": "Volume by carrier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000757,
+      "mentions": 1
+    },
+    {
+      "name": "Reminded",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000749,
+      "mentions": 1
+    },
+    {
+      "name": "no internet required.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000732,
+      "mentions": 1
+    },
+    {
+      "name": "and property management platforms.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000731,
+      "mentions": 1
+    },
+    {
+      "name": "handwriting",
+      "type": "OTHER",
+      "salience": 0.000728,
+      "mentions": 1
+    },
+    {
+      "name": "see Microsoft's Active Directory overview",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000725,
+      "mentions": 1
+    },
+    {
+      "name": "day",
+      "type": "OTHER",
+      "salience": 0.000698,
+      "mentions": 1
+    },
+    {
+      "name": "Accounting Dept.",
+      "type": "OTHER",
+      "salience": 0.000675,
+      "mentions": 1
+    },
+    {
+      "name": "Barcode scanning",
+      "type": "OTHER",
+      "salience": 0.000674,
+      "mentions": 1
+    },
+    {
+      "name": "Configurable notification send windows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000674,
+      "mentions": 1
+    },
+    {
+      "name": "embeddable",
+      "type": "OTHER",
+      "salience": 0.000674,
+      "mentions": 1
+    },
+    {
+      "name": "Works online or offline",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000673,
+      "mentions": 1
+    },
+    {
+      "name": "Cloud only for most",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000673,
+      "mentions": 1
+    },
+    {
+      "name": "Who Uses TekTrack",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00067,
+      "mentions": 1
+    },
+    {
+      "name": "Accountability",
+      "type": "OTHER",
+      "salience": 0.000669,
+      "mentions": 2
+    },
+    {
+      "name": "Dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000669,
+      "mentions": 1
+    },
+    {
+      "name": "its status",
+      "type": "OTHER",
+      "salience": 0.000666,
+      "mentions": 1
+    },
+    {
+      "name": "Volume trends by carrier",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000662,
+      "mentions": 1
+    },
+    {
+      "name": "Entries get skipped",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000654,
+      "mentions": 1
+    },
+    {
+      "name": "busiest delivery days",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000654,
+      "mentions": 1
+    },
+    {
+      "name": "Self-Service Recipient Portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000646,
+      "mentions": 1
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "Reduces inbound inquiries significantly",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00064,
+      "mentions": 1
+    },
+    {
+      "name": "HTTP web service post",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000634,
+      "mentions": 1
+    },
+    {
+      "name": "Schedule Demo",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000632,
+      "mentions": 1
+    },
+    {
+      "name": "HTTP web service post",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000624,
+      "mentions": 1
+    },
+    {
+      "name": "fields",
+      "type": "OTHER",
+      "salience": 0.000622,
+      "mentions": 1
+    },
+    {
+      "name": "no cellular",
+      "type": "OTHER",
+      "salience": 0.000606,
+      "mentions": 1
+    },
+    {
+      "name": "Healthcare Facilities",
+      "type": "PERSON",
+      "salience": 0.0006,
+      "mentions": 1
+    },
+    {
+      "name": "Overdue",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000595,
+      "mentions": 1
+    },
+    {
+      "name": "Real-Time Mailroom Visibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000592,
+      "mentions": 1
+    },
+    {
+      "name": "On-premise customers benefit from full data control",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00059,
+      "mentions": 1
+    },
+    {
+      "name": "simple process.",
+      "type": "OTHER",
+      "salience": 0.000589,
+      "mentions": 1
+    },
+    {
+      "name": "its status",
+      "type": "OTHER",
+      "salience": 0.000586,
+      "mentions": 1
+    },
+    {
+      "name": "Self-service recipient portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000583,
+      "mentions": 1
+    },
+    {
+      "name": "on-premise deployment",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000582,
+      "mentions": 1
+    },
+    {
+      "name": "This app",
+      "type": "OTHER",
+      "salience": 0.000573,
+      "mentions": 1
+    },
+    {
+      "name": "Mailroom Dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000566,
+      "mentions": 1
+    },
+    {
+      "name": "Highly recommend",
+      "type": "OTHER",
+      "salience": 0.000548,
+      "mentions": 1
+    },
+    {
+      "name": "unclaimed packages by department.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000547,
+      "mentions": 1
+    },
+    {
+      "name": "Features",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000543,
+      "mentions": 1
+    },
+    {
+      "name": "High package volume",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000536,
+      "mentions": 1
+    },
+    {
+      "name": "desktop",
+      "type": "OTHER",
+      "salience": 0.000518,
+      "mentions": 1
+    },
+    {
+      "name": "Get Quote",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000516,
+      "mentions": 1
+    },
+    {
+      "name": "Loading Dock",
+      "type": "OTHER",
+      "salience": 0.000513,
+      "mentions": 2
+    },
+    {
+      "name": "Disputes happen.",
+      "type": "OTHER",
+      "salience": 0.000508,
+      "mentions": 1
+    },
+    {
+      "name": "capture signatures",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000507,
+      "mentions": 1
+    },
+    {
+      "name": "buildings",
+      "type": "OTHER",
+      "salience": 0.000502,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Review",
+      "type": "OTHER",
+      "salience": 0.000501,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Review",
+      "type": "OTHER",
+      "salience": 0.000497,
+      "mentions": 1
+    },
+    {
+      "name": "Chain-of-custody audit trail",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000488,
+      "mentions": 1
+    },
+    {
+      "name": "sends recipient notifications",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000486,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Review",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000446,
+      "mentions": 1
+    },
+    {
+      "name": "G2 Review",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000435,
+      "mentions": 1
+    },
+    {
+      "name": "Lab 4",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000429,
+      "mentions": 1
+    },
+    {
+      "name": "Apartment Communities",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000427,
+      "mentions": 1
+    },
+    {
+      "name": "ERP systems",
+      "type": "OTHER",
+      "salience": 0.00042,
+      "mentions": 1
+    },
+    {
+      "name": "SMS",
+      "type": "OTHER",
+      "salience": 0.000413,
+      "mentions": 1
+    },
+    {
+      "name": "healthcare",
+      "type": "OTHER",
+      "salience": 0.000411,
+      "mentions": 1
+    },
+    {
+      "name": "government",
+      "type": "OTHER",
+      "salience": 0.000411,
+      "mentions": 2
+    },
+    {
+      "name": "and Android.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00041,
+      "mentions": 1
+    },
+    {
+      "name": "iOS",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00041,
+      "mentions": 2
+    },
+    {
+      "name": "AM",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000402,
+      "mentions": 1
+    },
+    {
+      "name": "AM",
+      "type": "OTHER",
+      "salience": 0.000401,
+      "mentions": 1
+    },
+    {
+      "name": "AM",
+      "type": "OTHER",
+      "salience": 0.0004,
+      "mentions": 1
+    },
+    {
+      "name": "Self-Service Recipient Portal",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000399,
+      "mentions": 1
+    },
+    {
+      "name": "LDAP",
+      "type": "OTHER",
+      "salience": 0.000392,
+      "mentions": 1
+    },
+    {
+      "name": "nothing else",
+      "type": "OTHER",
+      "salience": 0.000388,
+      "mentions": 1
+    },
+    {
+      "name": "Basic logging only",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000387,
+      "mentions": 1
+    },
+    {
+      "name": "✓Unlimited",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000387,
+      "mentions": 1
+    },
+    {
+      "name": "Plugin architecture",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000387,
+      "mentions": 1
+    },
+    {
+      "name": "Configurable threshold",
+      "type": "OTHER",
+      "salience": 0.000387,
+      "mentions": 1
+    },
+    {
+      "name": "Reduces",
+      "type": "OTHER",
+      "salience": 0.000387,
+      "mentions": 1
+    },
+    {
+      "name": "Unlimited notification",
+      "type": "OTHER",
+      "salience": 0.000386,
+      "mentions": 1
+    },
+    {
+      "name": "Extremely intuitive and easy to use.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000382,
+      "mentions": 1
+    },
+    {
+      "name": "Universities",
+      "type": "OTHER",
+      "salience": 0.000378,
+      "mentions": 1
+    },
+    {
+      "name": "Residential",
+      "type": "OTHER",
+      "salience": 0.000369,
+      "mentions": 1
+    },
+    {
+      "name": "FedEx",
+      "type": "ORGANIZATION",
+      "salience": 0.000343,
+      "mentions": 1
+    },
+    {
+      "name": "Yesterday",
+      "type": "OTHER",
+      "salience": 0.000342,
+      "mentions": 1
+    },
+    {
+      "name": "Amazon",
+      "type": "PERSON",
+      "salience": 0.000341,
+      "mentions": 1
+    },
+    {
+      "name": "spreadsheets",
+      "type": "OTHER",
+      "salience": 0.000338,
+      "mentions": 1
+    },
+    {
+      "name": "HTTP web service posts",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000333,
+      "mentions": 1
+    },
+    {
+      "name": "Corporate Offices",
+      "type": "OTHER",
+      "salience": 0.000319,
+      "mentions": 1
+    },
+    {
+      "name": "Common Questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000301,
+      "mentions": 1
+    },
+    {
+      "name": "Hardware Flexibility",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000299,
+      "mentions": 1
+    },
+    {
+      "name": "laptop",
+      "type": "OTHER",
+      "salience": 0.000298,
+      "mentions": 1
+    },
+    {
+      "name": "Windows",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000297,
+      "mentions": 1
+    },
+    {
+      "name": "Analytics",
+      "type": "OTHER",
+      "salience": 0.000294,
+      "mentions": 1
+    },
+    {
+      "name": "and property management platforms.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000286,
+      "mentions": 1
+    },
+    {
+      "name": "Enterprise",
+      "type": "OTHER",
+      "salience": 0.000285,
+      "mentions": 1
+    },
+    {
+      "name": "Why TekTrack",
+      "type": "OTHER",
+      "salience": 0.000282,
+      "mentions": 1
+    },
+    {
+      "name": "Limited",
+      "type": "PERSON",
+      "salience": 0.00028,
+      "mentions": 1
+    },
+    {
+      "name": "and access from anywhere.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00027,
+      "mentions": 1
+    },
+    {
+      "name": "Pending",
+      "type": "OTHER",
+      "salience": 0.000268,
+      "mentions": 1
+    },
+    {
+      "name": "employees-notifications",
+      "type": "OTHER",
+      "salience": 0.000267,
+      "mentions": 1
+    },
+    {
+      "name": "Editions",
+      "type": "OTHER",
+      "salience": 0.000266,
+      "mentions": 1
+    },
+    {
+      "name": "Start Trial",
+      "type": "OTHER",
+      "salience": 0.000262,
+      "mentions": 1
+    },
+    {
+      "name": "hybrid work schedules",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000253,
+      "mentions": 1
+    },
+    {
+      "name": "dependability",
+      "type": "OTHER",
+      "salience": 0.000251,
+      "mentions": 1
+    },
+    {
+      "name": "dashboard",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000249,
+      "mentions": 1
+    },
+    {
+      "name": "↓ vs 4 min manual",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000249,
+      "mentions": 1
+    },
+    {
+      "name": "Sarah Johnson",
+      "type": "PERSON",
+      "salience": 0.000248,
+      "mentions": 1
+    },
+    {
+      "name": "Michael Torres",
+      "type": "PERSON",
+      "salience": 0.000247,
+      "mentions": 1
+    },
+    {
+      "name": "Delivered 2:18 PM",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000247,
+      "mentions": 1
+    },
+    {
+      "name": "Learn more about chain of custody",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000236,
+      "mentions": 1
+    },
+    {
+      "name": "layout",
+      "type": "OTHER",
+      "salience": 0.000229,
+      "mentions": 1
+    },
+    {
+      "name": "remote buildings",
+      "type": "OTHER",
+      "salience": 0.00021,
+      "mentions": 1
+    },
+    {
+      "name": "infrastructure.",
+      "type": "OTHER",
+      "salience": 0.000195,
+      "mentions": 1
+    },
+    {
+      "name": "Explore all notification options",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "Industry Benefits",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000192,
+      "mentions": 1
+    },
+    {
+      "name": "White Paper",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000191,
+      "mentions": 1
+    },
+    {
+      "name": "Resources",
+      "type": "OTHER",
+      "salience": 0.00019,
+      "mentions": 1
+    },
+    {
+      "name": "Careers",
+      "type": "OTHER",
+      "salience": 0.000188,
+      "mentions": 1
+    },
+    {
+      "name": "Privacy",
+      "type": "OTHER",
+      "salience": 0.000187,
+      "mentions": 1
+    },
+    {
+      "name": "Tremendously",
+      "type": "PERSON",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "Higher Education",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "Verified G2 Review",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000182,
+      "mentions": 1
+    },
+    {
+      "name": "Wonderful Application",
+      "type": "PERSON",
+      "salience": 0.000181,
+      "mentions": 1
+    },
+    {
+      "name": "Hospitals",
+      "type": "OTHER",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "pharmaceuticals",
+      "type": "OTHER",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "Medical supplies",
+      "type": "OTHER",
+      "salience": 0.00018,
+      "mentions": 1
+    },
+    {
+      "name": "Public Sector",
+      "type": "PERSON",
+      "salience": 0.000179,
+      "mentions": 1
+    },
+    {
+      "name": "FAQ",
+      "type": "OTHER",
+      "salience": 0.000178,
+      "mentions": 1
+    },
+    {
+      "name": "Blog",
+      "type": "OTHER",
+      "salience": 0.000177,
+      "mentions": 1
+    },
+    {
+      "name": "rotating residents",
+      "type": "OTHER",
+      "salience": 0.000177,
+      "mentions": 1
+    },
+    {
+      "name": "Fortune 500",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000176,
+      "mentions": 1
+    },
+    {
+      "name": "TekTrack can use it.",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "Dedicated scanners",
+      "type": "OTHER",
+      "salience": 0.00017,
+      "mentions": 1
+    },
+    {
+      "name": "architecture.",
+      "type": "OTHER",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "the data fields that appear",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000169,
+      "mentions": 1
+    },
+    {
+      "name": "locker systems",
+      "type": "OTHER",
+      "salience": 0.000164,
+      "mentions": 1
+    },
+    {
+      "name": "LDAP",
+      "type": "OTHER",
+      "salience": 0.000153,
+      "mentions": 1
+    },
+    {
+      "name": "Frequently Asked Questions",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.000125,
+      "mentions": 1
+    },
+    {
+      "name": "mobile devices",
+      "type": "OTHER",
+      "salience": 0.000123,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "90",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1998",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "DATE",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "877",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "536",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0123",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "877",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "536",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "0123",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1998",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "25",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "(877) 536-0123",
+      "type": "PHONE_NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "1",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "3",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "48",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "12",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "31",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "6",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "17",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "9",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "14",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "10",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "32",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "11",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "05",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "18",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "500",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "2026",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "4.4",
+      "type": "NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    },
+    {
+      "name": "(877) 536-0123",
+      "type": "PHONE_NUMBER",
+      "salience": 0.0,
+      "mentions": 1
+    }
+  ],
+  "type_counts": {
+    "CONSUMER_GOOD": 207,
+    "OTHER": 160,
+    "ORGANIZATION": 7,
+    "PERSON": 10,
+    "NUMBER": 35,
+    "DATE": 2,
+    "PHONE_NUMBER": 2
+  },
+  "type_salience": {
+    "CONSUMER_GOOD": 0.5473580000000002,
+    "OTHER": 0.37605700000000014,
+    "ORGANIZATION": 0.019528999999999998,
+    "PERSON": 0.007783,
+    "NUMBER": 0.0,
+    "DATE": 0.0,
+    "PHONE_NUMBER": 0.0
+  }
+}
